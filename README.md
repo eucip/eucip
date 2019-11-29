@@ -6,7 +6,7 @@ sidebar: none
 
 > Tulekul
 
-# Oppematerjalid
+# Õppematerjalid
 
 ## Juhtimine
 
@@ -16,7 +16,7 @@ sidebar: none
 
 ### A3 [IKT väärtuse hindamine](./oppematerjalid/a_juhtimine_03_IKT_vaartuse_hindamine)
 
-> A4 jne tulekul
+> A4, A5... jne tulekul
 
 ## Arendus
 
@@ -27,3 +27,9 @@ sidebar: none
 ### B3 [Programmeerimine](./oppematerjalid/b_arendus_03_programmeerimine.md)
 
 ### B4 [Kasutajaliides ja veebidisain](./oppematerjalid/b_arendus_04_kasutajaliides_ja_veebidisain.md)
+
+## Haldus
+
+### C1 [Arvutite komponendid ja arhitektuur](./oppematerjalid/c_haldus_01_arvutite_komponendid_ja_arhitektuur.md)
+
+> C2, C4... jne tulekul
