@@ -33,5 +33,6 @@ sidebar: none
 ## Haldus
 
 ### C1 [Arvutite komponendid ja arhitektuur](./oppematerjalid/c_haldus_01_arvutite_komponendid_ja_arhitektuur.md)
+### C2 [Operatsioonisüsteemid](./oppematerjalid/c_haldus_02_operatsioonisysteemid.md)
 
-> C2, C4... jne tulekul
+> C3, C4... jne tulekul
