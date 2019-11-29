@@ -4,7 +4,9 @@ module.exports = {
     extendMarkdown: md => {
       md.set({ breaks: true });
     },
-    includeLevel: [2, 3, 4]
+    includeLevel: [2, 3, 4],
+    editLinks: true,
+    editLinkText: "Muuda Githubis"
   },
   themeConfig: {
     sidebarDepth: 3,
