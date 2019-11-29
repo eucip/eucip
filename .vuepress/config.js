@@ -9,7 +9,7 @@ module.exports = {
   themeConfig: {
     sidebarDepth: 3,
     lastUpdated: "Viimati uuendatud",
-    repo: "kristjanjansen/eucip",
+    repo: "eucip/eucip",
     repoLabel: "Paranda ja täienda Githubis",
     sidebar: "auto",
     nav: [
