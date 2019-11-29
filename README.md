@@ -14,7 +14,9 @@ sidebar: none
 
 ### A2 [IKT juhtimine](./oppematerjalid/a_juhtimine_02_IKT_juhtimine.md)
 
-### A3 [IKT väärtuse hindamine](./oppematerjalid/a_juhtimine_03_IKT_vaartuse_hindamine)
+### A3 [IKT väärtuse hindamine](./oppematerjalid/a_juhtimine_03_IKT_vaartuse_hindamine.md)
+
+### A4 [Ülemaailmne majandusvõrgustik](./oppematerjalid/a_juhtimine_04_ylemaailmne_majandusvorgustik.md)
 
 > A4, A5... jne tulekul
 
