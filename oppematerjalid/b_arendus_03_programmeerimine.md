@@ -280,7 +280,7 @@ Esimese põlvkonna programmeerimiskeelteks nimetatakse masinkoodi keeli. Masinko
 
 Teise põlvkonna programmeerimiskeeled on assembler-keeled. Kui masinkoodis programmeerimisel toimus kogu programmeerimine kahendkoodis ja selle lugemine ning silumine oli tänu sellele väga keeruline, siis assembler-keeles programmeerimisel on käsud inimesele sobivamal kujul. Kogu programmeerimine on üsna sarnane masinkoodis programmeerimisele, sest käsud on samad, mis masinkoodis (ainult teisel kujul, sõnadena). Assembler-keeles kirjutatud programm näeb välja tavaliselt midagi sarnast:
 
-```asm
+```asm6502
 MOV AL,19
 ADD AL, 4
 OUT 2

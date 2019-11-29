@@ -21,10 +21,10 @@ Tänapäeva ettevõtted on jõudnud ettevõtluskapitalismist, kus eesotsas olid 
 
 Loomulikult tuleb silmas pidada kõikvõimalike efektiivsusnäitajaid, kui lisaks kasumi maksimeerimisele võib teatud situatsioonis ettevõttele osutuda olulisemaks maksimeerida hoopis:
 
-- .müügikäivet
-- .müügitulu
-- .kliendibaasi
-- .töötajate arvu jne.
+- müügikäivet
+- müügitulu
+- kliendibaasi
+- töötajate arvu jne.
 
 Tulu mittetaotlevad organisatsioonid kasutavad oma kasumi põhikirjajärgsete eesmärkide realiseerimiseks ja omanikele dividende ei maksa. Tulu mittetaotlevate firmade hulka kuuluvad mittetulunduslikud sihtasutused (näit. EITSA), kirikud ja mitmesugused heategevusliku suunitlusega ettevõtted.
 
@@ -34,35 +34,35 @@ Käesolevas peatükis vaadeldakse tulutaotlevaid organisatsioone. Seega lähtude
 
 Teisest küljest kannab ettevõtte ka sisemisi väärtusi, mis võivad tugineda:
 
-- .ettevõtte ajaloole
-- .immateriaalsele varale (leiutised, kaubamärk jne.)
-- .loodud ärisidemetele
-- .omandile
-- .infotehnoloogiliste lahenduste tasemele
-- .töötajate kõrgele kvalifikatsioonile jne.
+- ettevõtte ajaloole
+- immateriaalsele varale (leiutised, kaubamärk jne.)
+- loodud ärisidemetele
+- omandile
+- infotehnoloogiliste lahenduste tasemele
+- töötajate kõrgele kvalifikatsioonile jne.
 
 Kõik need faktorid koos kujundavad välja organisatsioonikäitumise, mis omakorda on antud temaatika raamest väljuv uurimisvaldkond. Lisaks eelräägitud ettevõtete jaotamise võimalusele juriidiliste erinevuste ja omandisuhete alusel saab ettevõtteid jaotada ka tegevusvaldkondade, valitseva tootmisfaktori, toodangu iseloomu ja suuruse järgi.
 
 Tegevusvaldkondade järgi jaotamisel lähtutakse valdavalt tootmisharulisest printsiibist ja põhiliste ettevõtetena võiks välja tuua:
 
-- .tööstusettevõtted
-- .kaubandusettevõtted
-- .transpordi- ja sideettevõtted
-- .pangandusettevõtted
-- .kindlustusettevõtted
-- .muud teenindusettevõtted.
+- tööstusettevõtted
+- kaubandusettevõtted
+- transpordi- ja sideettevõtted
+- pangandusettevõtted
+- kindlustusettevõtted
+- muud teenindusettevõtted.
 
 Valitseva tootmisfaktori järgi saaksime ettevõtteid jagada:
 
-- .tööjõumahukad ettevõtted
-- .fondimahukad
-- .materjalimahukad
-- .teadusmahukad jne.
+- tööjõumahukad ettevõtted
+- fondimahukad
+- materjalimahukad
+- teadusmahukad jne.
 
 Toodangu iseloomu järgi või ettevõtteid jaotada:
 
-- .teenused osutavad ettevõtted (kaubandus, transport, side, pangandus, kindlustus jne.)
-- .toodangut andvad ettevõtted, mida võib omakorda jaotada hankivaks ja töötlevaks tööstuseks. Töötlevat tööstus jaotatakse omakorda tarbekaupu ja tootmisvahendeid tootvaks ettevõtluseks.
+- teenused osutavad ettevõtted (kaubandus, transport, side, pangandus, kindlustus jne.)
+- toodangut andvad ettevõtted, mida võib omakorda jaotada hankivaks ja töötlevaks tööstuseks. Töötlevat tööstus jaotatakse omakorda tarbekaupu ja tootmisvahendeid tootvaks ettevõtluseks.
 
 Tänapäevases globaliseeruvas maailmas toimub kahesugune areng, ühelt poolt nõuab suurte multinatsionaalsete kontsernide tekkimine ka tasemel infosüsteemide olemasolu. Teisest küljest, tänu infosüsteemide arengule, saab võimalikuks suurte ülemaailmsete kontsernide areng. Võib ainult ette kujutada, kuidas omal ajal Ida-India kompanii sarnased ettevõtted tegutsesid kui korraldused ja aruandlus tütar- ja emafirma vahel liikus laevadega ja operatiivinfoliikumine kestis kuid.
 
@@ -76,12 +76,12 @@ Ettevõtete töö tulemuslikkus on samuti seotud nende suurusega, kuna suuremate
 
 Tänapäeval on ettevõtte äärmiselt huvitatud paindlikkuse suurendamisest, õiguste ja vastutuse delegeerimisest madalamatele hierarhianivoodele ja selle realiseerimiseks väljatöötatud juhtimisstruktuure saame jaotada alljärgnevalt:
 
-- .liinisüsteem
-- .funktsionaalne juhtimissüsteem
-- .staabisüsteem,
-- .ristfunktsioonidega liinisüsteem e. mitmeliinisüsteem
-- .toote- või projektijärgne liinijuhtimissüsteem
-- .maatriksorganisatsioon.
+- liinisüsteem
+- funktsionaalne juhtimissüsteem
+- staabisüsteem,
+- ristfunktsioonidega liinisüsteem e. mitmeliinisüsteem
+- toote- või projektijärgne liinijuhtimissüsteem
+- maatriksorganisatsioon.
 
 ### 1.1.4 Info liikumine organisatsioonis
 
@@ -104,45 +104,50 @@ Kui üritada hinnata IT erinevad arengustaadiume, siis võiks neid klassifitseer
 1. **Arvutite loomine.** Üksikute arvutite katseeksemplarid 1940-1950 aastad, analoogarvutid, radarsüsteemide väljatöötamine.
 2. **Arvutite kasutusvaldkonna laienemine, esimeste arvutuskeskuste tekkimine.** Iseloomulik aastatele 1960-1975, teadusasutuste kõrval alustati arvutite kasutamist tootmises, üldine eufooria, tekkisid väga kõrged ootused seoses infotehnoloogiaga.
 3. **Lokaalne arvutikasutus**. Iseloomulik 1975-1980-ndatele aastatele, kus ettevõtete juurde tekkisid arvutuskeskused, Tootmise automatiseerimisel kasutati arvutite abi kas konkreetsete protsesside suunamisel ja optimeerimisel (energiasüsteemid, transpordiülesanded) või tööpinkide, konveierite jm. juhtimiseks Raamatupidamises kasutati infotehnoloogiat põhiliselt andmetöötluseks.
-4. **„Automatiseeritud&quot; töökohad**. 1980-ndatel aastatel hakkasid tekkima personaalselt kasutatavad arvutid. Tõsi küll, arvutuskeskused ja IT osakonnad jätkasid igati oma tegevust ja mahukamad arvutustööd tehti ikka seal, tekkisid uued võimalused esialgu tekstitöötluses, aga ka projekteerimise ja konstrueerimise valdkondades.
+4. **„Automatiseeritud" töökohad**. 1980-ndatel aastatel hakkasid tekkima personaalselt kasutatavad arvutid. Tõsi küll, arvutuskeskused ja IT osakonnad jätkasid igati oma tegevust ja mahukamad arvutustööd tehti ikka seal, tekkisid uued võimalused esialgu tekstitöötluses, aga ka projekteerimise ja konstrueerimise valdkondades.
 5. **Ettevõttesisene integreerimine**. 1990-ndatel aastatel hakati laialdaselt kasutama personaalarvuteid ja arvestataval tasemel olevate operatsioonisüsteemide olemasolu koos suhteliselt töökindlate sidekanalitega võimaldasid alustada mitmekihilise arvutisüsteemi mudeli kasutuselevõtmist.
-6. **Globaliseerumine**. Interneti ja digitaalse sidetehnika kiire areng on olnud aluseks uute loogiliste seostevõrgustike realiseerumiseni. Arvutustehnika on muutunud lokaalsest tööriistast globaalses süsteemis tegutsemise hädavajalikuks elemendiks. Tänu uutele võimalusele räägime nn. „uuest majandusest&quot;, kus on oma kindla koha leidnud uued ärimudelid (IT firma, kodus töötamine, e-äri, „pilvetehnoloogia&quot; jne.).
+6. **Globaliseerumine**. Interneti ja digitaalse sidetehnika kiire areng on olnud aluseks uute loogiliste seostevõrgustike realiseerumiseni. Arvutustehnika on muutunud lokaalsest tööriistast globaalses süsteemis tegutsemise hädavajalikuks elemendiks. Tänu uutele võimalusele räägime nn. „uuest majandusest", kus on oma kindla koha leidnud uued ärimudelid (IT firma, kodus töötamine, e-äri, „pilvetehnoloogia" jne.).
 
-Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral nende „visiitkaartideks&quot;. Suured multinatsionaalsed kontsernid eelistavad konservatiivsemaid integreeritud juhtimissüsteeme, mis nõuavad jäigemat, kuid samas ka süsteemset lähenemist. Väiksemad firmad, mis juba oma olemuselt on dünaamilisemad, rõhutavad pigem mitmekesisust ja kasutavad üldotstabelist tehnoloogiat. Selline lähenemine võimaldab saavutada suuremat paindlikkust ja kohanemisvõimet välis- ja/või sisetingimuste muutumisel, ehkki see võib tuua kaasa mõningaid probleeme kui kasutada neid pelgalt juhtimissüsteemidena.
+Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral nende „visiitkaartideks". Suured multinatsionaalsed kontsernid eelistavad konservatiivsemaid integreeritud juhtimissüsteeme, mis nõuavad jäigemat, kuid samas ka süsteemset lähenemist. Väiksemad firmad, mis juba oma olemuselt on dünaamilisemad, rõhutavad pigem mitmekesisust ja kasutavad üldotstabelist tehnoloogiat. Selline lähenemine võimaldab saavutada suuremat paindlikkust ja kohanemisvõimet välis- ja/või sisetingimuste muutumisel, ehkki see võib tuua kaasa mõningaid probleeme kui kasutada neid pelgalt juhtimissüsteemidena.
 
 ### 1.1.6 Kordamisküsimused
 
+::: tip Kordamisküsimused
+
 1. Kas tulu mittetaotleval ettevõttel võib tekkida kasum?
-1. ei tohi
-1. jah, kuid kasumit ei jaotada omanikele, vaid kasutatakse põhikirjajärgse tegevuse arendamiseks X
-1. tulu mittetaotlevaid ettevõtteid ei ole olemas
-1. jah ja tänu maksusoodustustele on see ülihea võimalus omanikele hiigelkasumite teenimiseks
 
-1. Millisel allpool toodud juhtumitel on lähtutud ettevõtete liigitamisel lähtudes tootmisharuliset pritsiibist?
+- ei tohi
+- jah, kuid kasumit ei jaotada omanikele, vaid kasutatakse põhikirjajärgse tegevuse arendamiseks X
+- tulu mittetaotlevaid ettevõtteid ei ole olemas
+- jah ja tänu maksusoodustustele on see ülihea võimalus omanikele hiigelkasumite teenimiseks
 
-1. Kindlustusettevõtte X
-1. tööjõumahuks ettevõte
-1. teadusmahukas ettevõte
-1. tulu mittetaotlev ettevõte
+2. Millisel allpool toodud juhtumitel on lähtutud ettevõtete liigitamisel lähtudes tootmisharuliset pritsiibist?
 
-1. 3.Kas tänu oma suurusele ei pea suurettevõte tähelepanu pöörama struktuurilisele ülesehitusele (hierarhiale)?
+- Kindlustusettevõtte X
+- tööjõumahuks ettevõte
+- teadusmahukas ettevõte
+- tulu mittetaotlev ettevõte
 
-1. a.jah
-1. ei X
+3. Kas tänu oma suurusele ei pea suurettevõte tähelepanu pöörama struktuurilisele ülesehitusele (hierarhiale)?
 
-1. &quot;Pilvetehnoloogia&quot; üks mõistest IT oleks:
+- jah
+- ei X
 
-1. a.mingi tehnoloogia on väljatöötatud narkootiliste ainete mõju all
-1. mingi teenus on niivõrd eluvõõras, et asuks lausa kuskil pilvedes
-1. infrastruktuuri kasutamise teenus X
-1. lennundus- ja lennujuhtimisega seonduv tarkvara arendus
+4. "Pilvetehnoloogia" üks mõistest IT oleks:
 
-1. Tootmise efektiivsusnäitajad on kõige kõrgemad:
+- mingi tehnoloogia on väljatöötatud narkootiliste ainete mõju all
+- mingi teenus on niivõrd eluvõõras, et asuks lausa kuskil pilvedes
+- infrastruktuuri kasutamise teenus X
+- lennundus- ja lennujuhtimisega seonduv tarkvara arendus
 
-1. individuaaltootmises
-1. seeriatootmises
-1. masstootmises X
-1. teeninduses
+5. Tootmise efektiivsusnäitajad on kõige kõrgemad:
+
+- individuaaltootmises
+- seeriatootmises
+- masstootmises X
+- teeninduses
+
+:::
 
 ## 1.2 Infotehnoloogia mõju organisatsioonide infotöötlusele
 
@@ -152,14 +157,14 @@ Selle alateema materjale läbi töötades õpid tundma, kuidas infotehnoloogia m
 
 Infomatsioon on igasuguse majandustegevuse aluseks ning infosüsteemid on olnud ühel või teisel moel kasutusel juba ammu enne arvutustehnika kasutuselevõtmist. Arvutustehnika ilmumine on andnud võimaluse oluliselt suurema infohulga kasutamiseks, selle kiireks töötlemiseks, mitmesuguste analüüsi- ja prognoosimudelite laialdase kasutamiseks, kuna tulemused saadakse suhteliselt kiiresti ja seetõttu saab neid operatiivse otsustusprotsessi käigus kasutada. Peale operatiivse juhtimistegevuse kasutatakse infosüsteemi ka strateegiliste plaanide väljatöötamisel, raamatupidamise aruannete koostamisel, laoseisude kontrollimisel, logistikaülesannete lahendamisel (transpordiülesanded) jne..
 
-Ülaltoodu põhjal saab järeldada, et informatsiooni töötlemiseks olgu seda siis kas arvuti abil või ilma selleta on vaja eriomaste oskustega töötajaid, kes on võimelised olemasoleva informatsiooni baasil jõudma uute teadmisteni. Arvutustehnika kasutusele võtmine on tekitanud vajaduse väga erineva ettevalmistusega nn. „patsiga poiste&quot; järele, kuna hooldada on vaja nii arvutit ennast e. riistvara, kui ka infotöötlemiseks vajalikke programme e. tarkvara. Ettevõtte tasandil on tihtipeale suuremaks probleemiks tarkvaraga seonduvad küsimused ja reeglina sõltuvalt sellest, kas tarkvara on valmis kujul sisseostetud, arendajalt tellitud või ise välja töötatud.
+Ülaltoodu põhjal saab järeldada, et informatsiooni töötlemiseks olgu seda siis kas arvuti abil või ilma selleta on vaja eriomaste oskustega töötajaid, kes on võimelised olemasoleva informatsiooni baasil jõudma uute teadmisteni. Arvutustehnika kasutusele võtmine on tekitanud vajaduse väga erineva ettevalmistusega nn. „patsiga poiste" järele, kuna hooldada on vaja nii arvutit ennast e. riistvara, kui ka infotöötlemiseks vajalikke programme e. tarkvara. Ettevõtte tasandil on tihtipeale suuremaks probleemiks tarkvaraga seonduvad küsimused ja reeglina sõltuvalt sellest, kas tarkvara on valmis kujul sisseostetud, arendajalt tellitud või ise välja töötatud.
 
-Igasugune lähteinformatsioon kujutab endast andmete kogu, mis asjatundmatule pilgule ei pruugi midagi tähendada. Teadmata lähteinformatsiooni esitamise põhimõtteid ja omamata nende lugemiseks ja töötlemiseks sobivat tarkvara võib informatsioon olla täiesti kasutu. Selleks, et mingist numbrite ja/või tähtede näiliselt kaootilisest kogumist midagi mõistlikku välja lugeda tuleb neid töödelda spetsiaalse tarkvara abil, mis ongi infosüsteemide oluliseks osaks. Reeglina tarkvara ja kõikvõimalikud funktsionaalsed seosed, mis andmete kõrval on infosüsteemi põhiliseks osaks oleksid lõpptarbija jaoks suhteliselt väheolulised ja seetõttu võib neid vaadelda süsteemiteooriast tuntud mõiste „musta kastina&quot;. Lõpptarbija jaoks on kõige tähtsam lõpptulemus, tõsi küll, mida see tulemus näitab ja kuidas lähteinformatsiooni muutmine seda mõjutab on vaja teada.
+Igasugune lähteinformatsioon kujutab endast andmete kogu, mis asjatundmatule pilgule ei pruugi midagi tähendada. Teadmata lähteinformatsiooni esitamise põhimõtteid ja omamata nende lugemiseks ja töötlemiseks sobivat tarkvara võib informatsioon olla täiesti kasutu. Selleks, et mingist numbrite ja/või tähtede näiliselt kaootilisest kogumist midagi mõistlikku välja lugeda tuleb neid töödelda spetsiaalse tarkvara abil, mis ongi infosüsteemide oluliseks osaks. Reeglina tarkvara ja kõikvõimalikud funktsionaalsed seosed, mis andmete kõrval on infosüsteemi põhiliseks osaks oleksid lõpptarbija jaoks suhteliselt väheolulised ja seetõttu võib neid vaadelda süsteemiteooriast tuntud mõiste "musta kastina". Lõpptarbija jaoks on kõige tähtsam lõpptulemus, tõsi küll, mida see tulemus näitab ja kuidas lähteinformatsiooni muutmine seda mõjutab on vaja teada.
 
 Infosüsteem võib toimida, sõltuvalt tarbija vajadustest:
 
-- .reaalajas, kus sisendinformatsiooni muutused peegelduvad koheselt ka analüüsi tulemuses
-- .mittereaalajas, kus sisendinfo jaa analüüsi tulemuste vahel on mingisugune ajaline nihe.
+- reaalajas, kus sisendinformatsiooni muutused peegelduvad koheselt ka analüüsi tulemuses
+- mittereaalajas, kus sisendinfo jaa analüüsi tulemuste vahel on mingisugune ajaline nihe.
 
 Reaalajas toimub sisendinfo analüüs koos samaaegse tulemuste esitamisega valdkondades, kus tuleb koheselt reageerida sisendinfo muutustele. Tüüpilisteks näideteks on elektrienergia tootmine, kus pole võimalik hilisem reageerimine muutustele, kuna igasugune hilinemine võib viia väga suurte elektrienergiaga varustamise häireteni.
 
@@ -169,8 +174,8 @@ Infosüsteemi osaks tuleb lugeda ka protsessijuhtimist, nii on tööstuses infos
 
 Laias laastus võib õigusi olla kahel tasandil:
 
-- .osadel tarbijatel on võimalik sisestada, muuta või kustutada teatud informatsiooni
-- .teine osa tarbijaid saavad infosüsteemi kasutada ainult lugemisrežiimis.
+- osadel tarbijatel on võimalik sisestada, muuta või kustutada teatud informatsiooni
+- teine osa tarbijaid saavad infosüsteemi kasutada ainult lugemisrežiimis.
 
 Loomulikult on ka tarbijate ligipääs erineva tasandi infole erinev, teatud osa informatsioonist, milles sisaldub ettevõtte ärisaladusi, on kättesaadav ainult selleks vastavad volitused saanud isikutele. Teine äärmus ettevõtte infosüsteemi infole ligipääsu osas oleks üldkasutatav info, millele oleks juurdepääs kõigil töötajatel.
 
@@ -208,10 +213,10 @@ Käesolevas osas pöörame tähelepanu kasumit taotlevatele ettevõtetele. Kuigi
 
 Lähtuvalt ettevõtte tegevusvaldkonnast sõltub ettevõtte konkurentsivõime alltoodud faktoritest:
 
-- .turu iseloom, millel konkreetne ettevõtja tegutseb, kas on tegemist monopoli, täieliku konkurentsi turu, monopoolselt konkureeriva turu või oligopoolse turuga
-- .turu jaotumine toodete alusel, kas on tegemist ressursituru (tooraine jne.) tootjatele suunatud kauba turuga (masinad, seadmed, pooltooted) või lõpptarbijale suunatud toodete või teenuste turuga
-- .toodangu või teenuse iseloom, mida pakutakse klientidele
-- .tootmistegevus, kui edukalt on ettevõte korraldanud tootmistegevuse, logistilise külje (varustus, laomajandus, müük, transport) ja kui edukalt suudab ta ettevõtet juhtida, koostada lühi ja pikaajalisi plaane ning reageerida tagasisidena saadud informatsioonile.
+- turu iseloom, millel konkreetne ettevõtja tegutseb, kas on tegemist monopoli, täieliku konkurentsi turu, monopoolselt konkureeriva turu või oligopoolse turuga
+- turu jaotumine toodete alusel, kas on tegemist ressursituru (tooraine jne.) tootjatele suunatud kauba turuga (masinad, seadmed, pooltooted) või lõpptarbijale suunatud toodete või teenuste turuga
+- toodangu või teenuse iseloom, mida pakutakse klientidele
+- tootmistegevus, kui edukalt on ettevõte korraldanud tootmistegevuse, logistilise külje (varustus, laomajandus, müük, transport) ja kui edukalt suudab ta ettevõtet juhtida, koostada lühi ja pikaajalisi plaane ning reageerida tagasisidena saadud informatsioonile.
 
 Tootmistegevust kui protsessi iseloomustab joonisel 1-1 toodud skeem, kus on arvesse võetud ettevõtete valikuvõimalusi nii tooraine hankimiseks kui ka toodangu realiseerimiseks. Nimelt võib ettevõtte välja arendada kas oma müügivõrgud või kasutada vahendajate abi. Siit ka jaotus otseseks ja kaudseks turustustuseks.
 
@@ -223,12 +228,12 @@ Kahtlemata on turg see koht, mis annab hinnangu tootja majandustegevusele näida
 
 Turustusvõimaluste analüüs (joonis 1-2) on iga tootja jaoks äärmiselt oluline, seejuures tuleb silmas pidada:
 
-- .kas turg on küllastunud, kas tootel on palju lähedasi asendajaid jne.
-- .turu maht, tarbijate ostujõud, jne.
-- .tarbijate grupid, milline tarbijate grupp on toote põhikasutaja, kui suurt turuosa suudetakse endale võita
-- .turustusmajanduslikud eesmärgid, mis seonduvad kvaliteedi, hinna, jaotamise ja koos sellega, kas pika järelteenindusaja või garantiiajaga ning suhtlusega (joonis 1-3)
+- kas turg on küllastunud, kas tootel on palju lähedasi asendajaid jne.
+- turu maht, tarbijate ostujõud, jne.
+- tarbijate grupid, milline tarbijate grupp on toote põhikasutaja, kui suurt turuosa suudetakse endale võita
+- turustusmajanduslikud eesmärgid, mis seonduvad kvaliteedi, hinna, jaotamise ja koos sellega, kas pika järelteenindusaja või garantiiajaga ning suhtlusega (joonis 1-3)
 
-- .muud tootemüüki mõjutavad faktorid (maksetingimused, millisel kohal ollakse toote elutsüklis (joonis 1-4), hooajalisuse mõju jne.).
+- muud tootemüüki mõjutavad faktorid (maksetingimused, millisel kohal ollakse toote elutsüklis (joonis 1-4), hooajalisuse mõju jne.).
 
 ![](data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADtAakDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAz7/V9O0sx/wBoX1taGTOzzpVTdjGcZPOMj86qf8Jd4d/6Dmnf+BSf41DqOB4u0zj/AJcrr/0OCtPHoMfSvNxGOdKbglsbqEFFN3uyl/wlnh7/AKDmnf8AgSn+NH/CWeHv+g5p3/gSn+NUtb8UaR4cUNqk08Sbd5dLWWVVBO0FiikLknAzjNX9P1G21S28+283aGKETQPC4I6go4DD8RUf2jO3NyaBy0+z/r5Df+Et8Pf9BzTv/AlP8aP+Et8Pf9BzTv8AwJT/ABq9gegowPQVP9qP+UfLT7P+vkUf+Et8Pf8AQc07/wACU/xo/wCEt8Pf9BzTv/AlP8atlkEgQkbyCQvcgYyf1H50/A9BR/aj/lDlp9v6+4o/8Jb4e/6Dmnf+BKf40f8ACW+Hv+g5p3/gSn+NXsD0FYkvirRIV1B5L4KNOUvdgxPmNR/FjGSD2IyDg4zg4azKb2gHLT7P+vkXf+Es8O/9BzTv/AlP8aP+Es8O/wDQc07/AMCU/wAaujDAEAYPNLj2FL+1Jfyi5afZ/wBfIo/8Jb4e/wCg5p3/AIEp/jR/wlvh7/oOad/4Ep/jTNM1iw1j7V9hldzaztbzh4njKSAAkYYA9CORxzWjgegpvMpR3iPlp9n/AF8ij/wlvh7/AKDmnf8AgSn+NH/CW+Hv+g5p3/gSn+NW0dJBlCGGSMjnkHBH50/A9BS/tR/yhy0+z/r5FH/hLPDv/Qc07/wJT/Gj/hLPDv8A0HNO/wDAlP8AGr2B6Cq17dwafZzXdwWEEKF5CkbOQo6naoJP4Cj+1JfyhyU+z/r5EX/CWeHf+g5p3/gSn+NH/CW+Hv8AoO6d/wCBKf41QTxboMr2iJegteLA8A8l/nE27yz93jO1uvTHOKnXX9KbWP7JFz/p3mNF5Xlt95UWQjOMfdZT17+tV9fqL7ArUv6/4Ysf8Jb4e/6Dmnf+BKf40f8ACW+Hv+g5p3/gSn+NXsD0FGB6Co/tR/yj5afZ/wBfIbZahZ6lC0tldQXMYbaXhkDrnrjIPXkfnV01haBxquvj/p9T/wBJ4a3utepSqc8FLuZVIqMrIWiiitCAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOf1Hnxdpf/AF53X/ocFaZrC12+s9P8T6VNeXMNvGbS5UNLIFGd0Jxk9+D+VS/8JX4fP/Ma0/8A8CU/xrwMcn7d/L8jrUJShFpdP1ZifFGG4uvAF9a2ttdXNxO8KpFbQPKzYkVjwoOBhTyePxIqn46k1Rn0m90xdZMD290kqWSzhtzQnyt0acqd+MFgNp6kV1A8V+H/APoNaf8A+BKf40f8JX4f/wCg1p//AIEp/jWMJuKSt3/EXsp9jh/h7ba1fX1xLrFz4iiW3gtfLiuzPGkkht9k2fMALfPk8HqAR1yeai/4SxjHayz+KLcpYSRyzNBdyoZ1utyglTuOYxtLoc7TwTjFeuf8JX4f/wCg1p//AIEp/jS/8JX4f/6DWn/+BKf41r7eXM5cv9JCVGaVrHnsVhq91qUF3Na69bzTeGGSANcTkx3OWO13XGHwFPz4JOP4hVXT38R3Wna2ksviS2ZrPTzBJNb3bZlRf3wUDDgMwAYphsEkZr0z/hK/D/8A0GtP/wDAlP8AGk/4SrQP+g3p/wD4Ep/jS9vL+X+r3F7GfY43wVZ+IFvLqS+i1eOI2kV3aLqF9NLsleMq0TbiA2CpbBGV3DoawW/4Sz/hFtXP/FR/af7Pgz/x8eb/AGh5jb/Kxzsxj7n7vpXqB8VeHz/zGtP/APAlP8aX/hK/D/8A0GtP/wDAlP8AGn7eXM5cvb8BqjNdDznUX12bxVdz20niZLN9RsREI4roRiBoj55ClcAZ65Hynpg1mWF74uZ9CaSHxQs1tPELhpY7gxvD9pcMCu0bm8soSzliRjAGCa9Y/wCEr8P/APQa0/8A8CU/xo/4Svw//wBBrT//AAJT/GiNdq3u7WD2NS1rHnxXVIZdTube11mFR4oS5k8i2uEMtqUVWIVQDIuVPAB9e4NVPCo8StqOh/2gfEkm4ywXENx9qiEA3zMsrSH5HG1lGG+bhNp4Ir03/hK/D/8A0GtP/wDAlP8AGk/4Svw/n/kNaf8A+BKf40e3drcv9WsHsaj6Hl1pY+JLfwt4fsY5NbsY2e7XUJVguppYrjOY22q6sUIzggmMscsDW/8AEd/ECWNhHpK6098ttJIZLEOI/NXYcOkXVj82AzbRzwxIrs/+Er8P/wDQa0//AMCU/wAaT/hK/D//AEGtP/8AAlP8an20nJNx2bf3gqM+x57qlxrsfjSa6tB4ja1/tDTyiLDcmDyip+0HbjbjpkdAe2aW3n13/hJdfE1vr502ayvYwlxFPMplEmIymF2gFCdoRenBLHp6D/wlfh//AKDWn/8AgSn+NH/CV+H/APoNaf8A+BKf40/bO1uXpb8g9jU7djyTSx4ksodJgjt/EscaS6S3lrFdBI40QpcAjGAuQMr34IBHNbls3iG18c28LjxAbSPVb0uxFxJD9neEeTycow35x12nriu//wCEr8P/APQa0/8A8CU/xpf+Er8P/wDQa0//AMCU/wAacsRJttx3v+IKhNK1jB+HQ1KLTb6DUv7SlMVwFju74zK1wNg+YJN8yehAJXdnbxXa5rH/AOEr8P8A/Qa0/wD8CU/xo/4Svw//ANBrT/8AwJT/ABrnquU5c1hqlNdCfQf+Qt4g/wCv5P8A0nhrdrmvC91BeXuuXFrPHPC96u2SJwynEEQOCOOorpa+hw38KPoZV1adn5fkLRRRW5kFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAN6CsBfEU87Sm30K/njjlkiEivAFYo5RsbpAcZU9QK3iflP0rnfDnOmS8db67z/wCBElceMrToxTia00uVyavYn/t6/wD+hb1L/v5b/wDx2j+3r/8A6FvUv+/lv/8AHa0axdc1SexksLOyjja+1CcwQNMCY48KXZ2AwSAqn5cjJwMjqPPjmFaTsrF3h/L+ZZ/t7UP+hb1L/v5b/wDx2j+3r/8A6FvUv+/lv/8AHaxY/FL6RrE2k+IJYmufKSaGeztpdssbFgcxguUKlTk5IxgkjoLC+K7S417+yYnkjmE6xB3tJWjmzEZCqyYCK2OeSeh4q3jMR0/ILwW8fzNP+3r/AP6FvUv+/tv/APHaT+3dQ/6FvUv+/lv/APHazLrxppUFveSxPcTNaPGjotrL82+Qxgp8n7wZDcpkcVo2GuWGpXU1tazO80Q3MrxPHkZIypYAMAQQSucHg80vruISvb8AvD+X8x39vah/0Leo/wDfy3/+O0f29qH/AELepf8Afy3/APjtaNIehqP7RreQ/c/l/MNOvotS0y2voVYR3ESyqGGGAYAjPvzWWniO4naY2+h308UcskXmK8AVijlGxukBxlT1AqbwngeD9H97KH/0AVX8Oj/iWzH1vbv/ANKJK78ViJUqalHqLkinLS+pN/bt/wD9C3qP/fy3/wDjtJ/b1/8A9C5qP/fy3/8AjtYusa7qNh4mj0uGewzeWrNZQSQsZHmHHLeYBsH3jhc4B5zitG61qDQrSA65eIbhlZnktrSXYFHVyoLlEGRlmOBnqM1x/Xa9k1bXyC8b25fzLX9u3/8A0Lepf9/Lf/47R/bt/wD9C3qX/fy3/wDjtUR4s0ie/fTrK+invw5hVAHMfm7N4RpApVcjP1w2MlSBV0vxhaTaVpU2o+dHdXcFs7mGzmaFZJsBR5gUquWOOW7jNP63iLbfh3C8O35mx/bt8evhvUf+/lv/APHaP7cvv+ha1H/v5bf/AB2qQ8X6IbmG2F45uZjIEg+zy+Z8j7HJXblQG7kAYBOcAkRt410BUQvqDI8kvlRwtbyiWRtu8bY9u5gR0IBDZABJIpfXMR2/ALx7fmaH9uX3/Qtaj/38t/8A47R/bl9/0LWo/wDfy3/+O1jz+NtLW4ghivBGlxDbzQ3UltK6OJZNqpwBhiOmTkZyQQDUup+KIbPxDp2kwFJJJrnybl2STbEPKZwA4XZvwAdpYEA5wc5o+t4jt+HYLx7fmaf9uX24f8U3qX/fy2/+O0kWvTm+tbW40e8tftLmOOSVoSu4Iz4OyRj0Q9qdpusWOrpKbKV38pgrh4njYZGQcOASpHIYcHsTUWpn/id6AP8Ap9f/ANJ5qdPG1XUjCXVroOKjK+nRk15rUlvqT2UGlXd3LHEkrmFowAGLAffdefkbpTf7dvw3/Iual/38t/8A47TIv+Rx1P8A68rX/wBDnrV7Zp4jG1KdVxitENqKtoZv9u3/AP0LWo/9/Lf/AOO0f27f/wDQtaj/AN/Lf/47V2USNC4hZUlKnYzruAPYkAjI9siua0vV9Xu9K0+Se405bsXUseoAQOERIywcLl8gghRuOQcg45qFjqzV9Cbx/l/M2P7cvv8AoWtR/wC/lt/8dpf7cvv+ha1H/v5bf/Haw7vxta7tNuLMlrGW8NtctNbzJMpMDSII4yoZi2FwQDnOACTxqQeJ9Inlso4rot9sRZIGET7CGBKgtjapODhWIJxwKp4zELdfgF49vzJ/7cvv+ha1H/v5b/8Ax2j+3L7/AKFrUf8Av5b/APx2qdv4w0C7lmSDU428lJZHlKsIgsTbZMSEbTtJGQDnBB6EGs6z8d2RGpz34lhtra68iELZ3BlK+UshZ4ym8YBJJ24AxyepFi8S/s/gF49vzN3+3L7/AKFrUf8Av5b/APx2j+3L7/oWtR/7+W//AMdqjceK9MsVu5bm8YxQz+Tsis5mdCIxIchQSy7Tu3gBQCOaddeKbCy1Z7CcXGVt0uPMit5JA25ioUbVOWOOAOT2FL67iP5fwC8N7fmXP7cvv+ha1H/v5bf/AB2j+3L7/oWtR/7+W3/x2rNjeW+o2UV3ayeZDIu5WwRke4PIPseRVnmoePrLR2+4Lx7fmZL+Iprcwm40K+giklSIyM8BVS7hFztkJxlh0BrU1G9h03S7m+mUmK3iaVgoyxCgk49+KyvEX/IMi/6/bT/0ojqx4r58Hav/ANeUv/oBrvwteVWm5S6D5Ytx6XYz+3b7/oWtR/7+W/8A8do/t2//AOha1H/v5b//AB2tEdBS1wPMK3ZBeH8v5mb/AG7f/wDQt6j/AN/Lf/47S/29f/8AQuaj/wB/Lf8A+O1z2s69qNl4nbTE1vQ7BZYY3tI7y2d5JnZimwETLu5A6Lxu6cZN298Y2lk2ppJb3LtYSwxP5dvKwdpNv3SEOSN3QZNa/XK7Satr5Cbhe3L+Zqf29f8A/Qt6l/38t/8A47R/b1//ANC3qX/fy3/+O1Qk8YaLF5oa4uMxukZAs5iSXbYu3CfMN3y5GQDgEgmqmv8AioaejNZzwo8MkiTJdWlxjChctuRTtRdwJkwV6LkZyEsZiG7W/ALw/l/M2v7ev/8AoW9S/wC/lv8A/HaP7ev/APoW9S/7+W//AMdrIm8a2MWrnT/KupHF1HbB4reV0YvHvyGVCCAPQ+5wK1rLW7HUL2eztpWaeDl1aN0BGSMqWADgEEEqSAeKTxuISu1+AXh2/MX+3r//AKFvUv8Av5b/APx2j+3r/wD6FvUv+/lv/wDHax4vGmnJG9xfSxWlmI5pFmYTg4ikKOGDxLtYfL8uc5OACACbC+L9Lu5JLaxnMt5lkjjlhljQyBN6hnKYUMOVP8QyV3YoeMxC6fgF4Xty/maH9u3/AP0Lepf9/Lf/AOO0f29f/wDQt6l/38t//jtYmm+O9Im0K1vdQvY7aZooGlUxSIpeXgeXkfOu7Iyu4DByeDWjbeKdKuXRFluEdpzbbZ7OaErIE8zDB0G35DkE4B7U3i8Qm7rbyBOD+z+Za/t2/wD+hb1L/v5b/wDx2j+3r/8A6FvUv+/lv/8AHaqHxbo4sDemefyQ23H2Sbf03Z2bN23b827GMc5xzWzHKs0ayRsro4DKynIIPQipeOrrf8gvD+X8yh/bt+Tj/hHNSx/10t//AI7T7PW5LnUksZ9Lu7SSSJ5VMzRkMFKg/cdufnXrV/nrWXL/AMjjpn/Xldf+hwVph8dUqVVGWzGowldWOhooor1zmGn7prnvDn/IMl/6/bv/ANKJK6E/dNc94c/5Bkv/AF+3f/pRJXm5n/Dj6m9P4H8v1NesjWdIGqLayxT/AGe+spvPtp9m8I2CpDLkblKsQRkHB4IODVPxldNY6JHeLdXFssF7aNIYOroZ0DKcAkggngcnp0JBxdV8WXsUWlXW1be3vHVl+y3auzwNJGFk2NAzZw3I+VVDY37iuPLpUpOzj3sD8y1f+DLrVXkvLzUbKbU32qs7WTCOBFzt8lVlDxvli28SE5PpgAm0m4t/F2niOea5jNwl3KXtX+QLbSQlmm+4STs+ThuSeR0LXXtUn1G1t7HTkVZZb7zY7u9YndFIAuGCvgEnO0cKDgZxim/8JzdGytrldF8wXFvZToiXYyv2h9mG3KOFbHIznI4HONf3u3+XX/hhd/uI18C3wu9QuTq8DzXKqBI9m7PlJhKhdjL8+OVwNoxgDaBitTw/4VTQr64uVWwJl3APb2CwytubcfMkyS+D0+7x13HBGVP4zvvsN4l5oewrBeALb6gd0kkBw4VtqlVIOQ+Qwwfl4GbMfjG4TUnt5NHkisobkWrXD3QZ8m384MEAORjg5YHlTySQqftrW/yC1zsOtB+6awPDPiCbX4J5ptLubIxldhkjlVZEYZBBkjQkjocAgdic1vnoa5pRcZWe4Jp6oo+E/wDkTtI/68of/QBVfw7/AMgyb/r+u/8A0okqx4T/AORO0j/ryh/9AFV/Dv8AyDJv+v67/wDSiSvXzD+DH+uho95+v+Zna14Wk1vVJLi4u4fsxtfKiiFuwlhkDbllWUSDDBgCMAdOveon8N6zOkMlzrtvJeC3e0nmFgQs0Lbc/J5hAkyCQ33fmPyGus6GuQ8QavLo/irSmE8jfa7SeGKzeQpC8/mQhCxVW2k7iNxyB26nPm0pzk1Bef5fqR5jk8JX0N0ZLXU7WOJb2O6jjeyZyoSAQhCfNGflAOcDnPFVNN8CXelaIdKt9WtxATBMP9Cb/j5idGEn+t+6wjXcvrkhhnFTW3iG9k8ZyaZcKxUQyOILe5SVRIqRkof3S7fvEjdIG5yVAK4p2nizUo205otMT+z5bWzaRJ79nmiaabys7ijGQg46sM4NbL22lnvbt8hafcaFh4Qvra/S6u9YjuUYXYmiFp5eftDKzCMhztAKDG7eeTz0xHp/giXS/sJtLjSrc2lyJj9n0oRCYCJ4xv2yDL4kYlunAwo5yy68bahAsiR6CsssUV5K5+2BY8W8gVgDs3EkEEfKBkgZ6kTy+JZptPujcaY6y297bRNFBeEEJK0bK7OAuMBvmQbgcYyQc0v31vJ+nf8A4Ina+pX/AOEL1JLG2t4tZtQ0dvDBI7aexD+VL5iEDzRt64OSc9eKtXvhK8u9QLJrCw6e979seAWoMu4x7GVZC2ApGeqEjJwRxisnji4XzprnRZILdFu/L/fiSR3glEZUoinAORggk5BGCME7/h/Vp9Z0z7Vc2E1jMsjRtFKki5x0ZfMRGKkY5Kjv6VMnVirv9Oo+pW8M+G4/DltLCi6eC+0Zs7FbYMFGAXwTuc5OTkD0Uc5s6n/yHPD/AP1+v/6TzVrVk6n/AMhzw/8A9fr/APpPNRRm5V4uW90XTSV0uz/IdF/yOOp/9eVr/wChz1q1lRf8jjqf/Xla/wDoc9atGN/jyCe69F+QnesePQkh1LUr2CeSN71BwOkT7QpdfchUz/uD1NbNcn4w1UaJLouoTXc8NrHdus8aZ2Sg28pG8AEkBlB9B1I4GMKabfKupL79ihpngfUdNvYbldXs2ZLpLp/9AkzI4haIlmackkhskkk7hnvip9M8DCxvNOuppdOupraONHmfTVMv7snaYnZyY8ggH72cZG0nNNuPEOpQ+K9JsLxFt/tJRZYba8WZUYiUjIMG7adoGWZMkfKDtYmreeLdTsoTc2mlAxRf2hNcQXV+d5ED/wALBHxnJIUEAZABwK6/3ze+/oToy5J4KvZ4jDNrEIQm9JMVmVYG4fzAQTIR8rDuDkccdag1DwNquqpffbNfgk+2sDNAtgywECLy87PNyW6EbmKggHbkZq9c+Kr+HU/sEGjLNM979kif7UFj5g85WclcrwCMANjB5PANaLxhPfaHfzz6NJEy6WL6KCG8xJIhDAguAvlkFTggk4IPB+WovWtf/If6mfH4WvPEGlX0JvDBbzXChvtVjKi3Ci1ihLGFnRhhlYruLDIBweDWtqPg6XUlgWW7s5AlpDDJHPY+bHI8TFlYoZPunLAqcnphgRmkj8Y3Cak9vJo7xWUNyLV7h7oM5Jt/ODBADkY4OWB5U8kkLoeGfEE/iCCeabTLiyMZXZ5kcqrIjDIIMkaEkdDgEDsTmnOVVe92t2+QtNEaWlWC6XpsNkiwqIlIxbwCGMEkk7UHCrk8DJPqSck36OtFckm5O7KStoZHiL/kGQ/9f1p/6UR1P4s/5E7WP+vKX/0A1B4i/wCQZD/1/Wn/AKUR1P4s/wCRO1j/AK8pf/QDXr5f/Bl/XQtbw9f8i+Puj6UtIPuj6UteOyDm73RdYm1yfULPUtOiSWCOERXOnPMVCEsDuEygncxPT09MlLrw3dzpqSrqUY+2NBKrPa7iksWz5mw4DKdg+UBcZPPp0tFaKrJB1ucjY+B7S1i1GGZbEpeRvGZLaxWCc7m3EvJuJcg42kbcY53HBE934auZRbNbap5UwtXtbqSa38z7QjkF2wGUK+4Eg8gbj8pFWfF7TxeDtZlt7ma2ljspZElhba6lUJ4Pbp16+mDzXP634wvE8OnVLJES1Mjrbyx3eyWcIj7wY3gdgwZeFCt90liqg52j7SetxfqareFbiK/Wa0v4YoY7iCeOKS2LlTHF5RBYOMgr04GDzz0qXQvC8OhajdXEa2OJSwRobJYpmDNuPmygkyY4A4X33HBGb/wkF81+kVjZtmTUoreR7u74ljNuJNyqFYJkfwgDJGTgk06bxtd2unSXU2jo5ihvHeOC73HdbSbGALIoKkfNngjptNNqrt39OwJJ7Db3wPf3n2mJNcjhtpFvVjjFluYfamLPvYv8wBPG0IeBknnNh/CupTagtzNq1qV+2xXbIlkyk7IvLKgmU4yOc449DSReLtRGp/ZLvREiUXQti0d2HYs8XmoFG0AnHDZIAOMFhkinZeNLkQWiRaFMsC21nLLJPf72VZ5DHgEhmkZSP4sZw3I43O1Vq3+XUG+pP/wht/8AYIIH1i3aa2S2ht3+wkIsUMiyAMvm5ZmKKC24DA4UcmrV54WvLnW2vItWS3tnvEvWiW1DSGRYRFt3sxXYVHI2Z64YVNoXiWTWtSvLf+zLmG2jyYbl45QkoDFSMtGq54yArOCD1HSujrOdSpB6/p1GupxB8AFrIQyTaXL5dwZYreXTTJaICpUgQNKdpOc5VlGf4eTnsLW3FrawwJjbEioMALwBjoAAPoABViis5VZS3YkkgrKl/wCRx0z/AK8rr/0OCtWsqX/kcdM/68rr/wBDgrbBfx4lw3fo/wAjoaKKK+jOYZ/Dn2rnfDnGmSjP/L9d/wDpRJXRkZGCKwm8K6WXkdftsfmO0jLHfzou5mLMQquAMkk8DvXJi6DrRSXQ1pyiouMr6kmpaZaatai3uxI0QkSUCOZ4juUhlOUIPBAP4CsiTwRoEqlGgughYttS/uFAy27AAcAKGGQvRTkgAmtX/hFtM/v6j/4M7j/4uj/hFtM/v6j/AODO4/8Ai64Y4GtHaS+9l3pd393/AAStbeG9MtJ4poY5xJFNJOrG6lY75Pv5y3KnAO0/LnnGapr4F8Oqdws5t4CKjm8nLRqjB1RG35RAwB2rhcgccVq/8Irpf/PTUf8AwZ3H/wAco/4RXS/+emo/+DO4/wDjlNYKstpfiwvS7v7v+CZz+DNDk3b4rlt3nZzf3H/Lb/Wfx9//ANWKcnhLRopFlWK5LLOlx899OwMipsBIL4Py/KQeCOuav/8ACLaZ/f1H/wAGdx/8co/4RbTP7+o/+DO4/wDjlH1Kt/N+LC9Lu/u/4ImmaRZaRE0dnHIqtj/WTvKQB0VS5JVRzhRgDJwOa0CwweRVD/hFtM/v6j/4M7j/AOOUf8Itpn9/Uf8AwZ3H/wAcqXl9Ru7kgvS7v7v+CL4Tw3g7R/ayh/8AQBVfw6cabMP+n67/APSiSti1t7axsoLOBRHDCgjjXJO1QMAZPPQVmHwvpRkkkBvY97tIyxX86LuZizEKrgDJJPA7124nDyrQUYvYFUi3K99WaWR6isjU/D+m6zMs9/DLI6xPAALiRAEbBYYVgM5VTnqCoIPAqf8A4RbTP7+o/wDgzuP/AI5R/wAItpn9/Uf/AAZ3H/xyuKOXVYu6kgvT7v7v+CUbfwnpFrfJexJdi4TdtZr+dgNy7WOC5GSMZOMkgE880i+D9EW3itxBceXFCIU/0ybIQPvXnfklW5Vuq9iKv/8ACK6X/wA9NR/8Gdx/8co/4RXS/wDnpqP/AIM7j/45VfUq3834sL0u7+7/AIJlL4H8Por7LSZTIsqSMt7OGk83HmF2D5YttXJOTwOeKsf8Ilo5guYTFclLlonl/wBOn3MYgAhzvyMYHQ84Gc1d/wCEV0v/AJ6ah/4M7j/45R/wiul/89NQ/wDBncf/AByj6jW/n/Fhel3f3f8ABKC+EdEGM287j9/8sl3M6nzjmTILkHJ556HkYNadjp9tp1v5FuJSpYszSzPK7H1Z3JZuAByTwAOgFR/8Irpf/PTUf/Bncf8Axyj/AIRXS/8AnpqP/gzuP/jlJ4Cs1ZyX3sL0u7+7/gl8EZxxWTqYH9uaAQePtj/+k81Tjwtpn9/Uf/Bncf8Axylt/DmmQXUNyou3lhYtH517NKFJUqTtZyM4Yjp3qqWAnCcZNrRjU6ava+z6f8EgjwPGOp5PBsrX/wBDnrVyOxFVLzQtPvrs3couFnKLGWhu5YsqCSAQjAHBZuvrUf8Awi2m/wDPTUf/AAZ3H/xyqr4GdSo5prUHODte+3Y0Mj1FZ2oaRY6s1ubyN5Ps7mSMLM6DJUqchSAw2sRg5GCfWl/4RbTP7+o/+DO4/wDjlH/CLaZ/f1H/AMGdx/8AHKyWXVI7NCvT7v7v+CZsPgzRIJraWOK732zI0W7ULhgCmdpIL4YgEjnPy/L04qRvCejOhR4JmVnmdg13MdxlGJActyrf3emecZq9/wAIrpf/AD01H/wZ3H/xyj/hFdL/AOemo/8AgzuP/jlU8FWf2vxYJ0l1f3f8EzIvBehRTi4S3uPtIlEpuDfTmVmClAWcvubCswAJIAJx1p8Pg/RbeB4Y4LkRyWv2Jgb2Zv3OSduS/HJPI55xnFaH/CK6X/z01H/wZ3H/AMco/wCEV0v/AJ6aj/4M7j/45Q8FWf2vxYXpd393/BKKeEdGikWVYross6XHz307AyKmwEgvg/L8pB4I65q7pmkWWkRNHZpIqtj/AFkzykAdFUuSVUc4UYAycDml/wCEW0v/AJ6ah/4M7j/45R/wi2l/89NR/wDBncf/AByk8DWe8l97F+68/u/4JoZHqKMj1FZ//CLaZ/f1H/wZ3H/xyj/hFtM/v6j/AODO4/8AjlT/AGbPuh81Pu/u/wCCQeIjnTYR631p/wClEdWPFmF8Hax/15TD/wAcNMHhfShJHIxvZPLdZFWW/nddysGUlWcg4IB5HatO7tre/sp7OdRJDMhjkXJGVIwRkc9DXfhsO6MHFvcHUinG17JiAjA5FGR6is//AIRbTP7+o/8AgzuP/jlH/CLaZ/f1H/wZ3H/xyuD+zZ90Pmp9393/AATQyPUUZHqKz/8AhFtM/v6j/wCDO4/+OUf8Itpn9/Uf/Bncf/HKP7Nqd0Lmp9393/BJb+xttTsJ7G8QvbzoY5FWRkLKeoypBGfY1kS+C9Dn8wPBdfvDlwuoXC5O3aej/wAQ+9/e4LZNaX/CLaZ/f1H/AMGdx/8AHKP+EW0z+/qP/gzuP/jlWsBWjtJfiF6fd/d/wSjF4T0eAZjjus+ZFKGN9OWDxrsUgl8j5eD6jrmorrwT4fvZ5ZrmzkkeYSgg3Uu1PN/1mxd2Iy2TkqBnJz1rT/4RbTP7+o/+DO4/+OUf8Itpn9/Uf/Bncf8Axyj6lWvfm/EL0+7+7/glH/hEdHM4nMd4ZRMk+46hcH94i7Fb7/8Ad49+9RJ4I0FITEsN4EKRx4/tC4+7G5dBnzOzEkfWtP8A4RbS/wDnpqP/AIM7j/45R/wi2l/89NR/8Gdx/wDHKPqNb+f8WL915/d/wRtno9jp91LcWkbpJMSTumd1XJ3NsViVTJ5IUDJwTnFaWR6is/8A4RbTP7+o/wDgzuP/AI5R/wAItpn9/Uf/AAZ3H/xypeXVXvJDvS7v7v8AgmhkeooyPUVn/wDCLaZ/f1H/AMGdx/8AHKP+EW0z+/qP/gzuP/jlL+zZ90HNT7v7v+CXsjqTWW+P+Ex0zB4Fldf+hwVMPC2m95NR/wDBncf/ABypbPQLCxvBdwrctOEKBp7qWXCkgkAOxAyVXp6VvQwM6dRTbWgKcI3avc2KKKK9Q5wooooA46DR9M1LXtdkvdOtbiRbtFDywq5A8iI4yR05P51cHhTw/wD9AXT/APwGT/CnaZ/yHPEH/X6n/pPDWrXzeIk/bS9Wdk6klbXovyMn/hFPD/8A0BdP/wDAZP8ACj/hFPD/AP0BdP8A/AZP8K16Kw533J9rPuZH/CKeH/8AoC6f/wCAyf4Uf8Ip4f8A+gLp/wD4DJ/hWvRRzvuHtZ9zI/4RTw//ANAXT/8AwGT/AAo/4RTw/wD9AXT/APwGT/CteijnfcPaz7mR/wAIp4f/AOgLp/8A4DJ/hR/winh//oC6f/4DJ/hWvRRzvuP2s+5iS+GfDkMLyyaNp4RFLMfsqnAHJ7Vh21x4HurtLWPRgsrMiDztEmiUFvu5ZogFz2yRmu3xXM2Lrd+Jtft2hvY0kiiQSmCaFWwGVtkuAMjIwVOe46VpB6NsTq1O5f8A+EU8P/8AQF0//wABk/wo/wCEU8P/APQF0/8A8Bk/wrz77VrbWNvHjxTE6Wunx3cyQzn96kwEwAYFjlMkugw23ljnB1pBf6XrosrWLxBOqamskR33EyC2a2AYtJI2xgJMnYzEg9BWrpSX2g9rUva51B8M+HFkVDo+m72ztU26ZOOuOKf/AMIp4fx/yBdP/wDAZP8ACuG0iHUBq9lPcrrlwtslxHFPi7QSSFUIzHKMpnDffLx5xgj7oraXJq0s1tbXUviaKza9V5FEV6T5LWzBlaV138SKBldgy2QoyMP2T112F7afc7y48OeHbeMSNolkV3KuEsg5ySAOFUnHPJ6AcngVL/winh//AKAun/8AgMn+FcDaz6zBYxDzvExdraylmaS2uWZpFnw64KfL8mNwUAsBk5ySbviM65/b14ljLqht5WTznS3u9tvENoO1UIWXPP8AqmSQZOQ2Mheyle1+/wCFg9tPudj/AMIp4fzxoun/APgMn+FH/CK+H85/sXT/APwGT/CsW8i1dfANtEl7eS3AMazXJtZhMYd/LeUkglztxkBg+M5+bIrMvbfxAbTQY11TUVCREi4TT52eaQONgkRZRsyn/PYleu7BqVBt25uthOtUte513/CKeH/+gLp//gMn+FRT+HPDdtBJPPpOmRQxqXeR4EVVUDJJJHAArj7t9XV9SjjuNeKm/gfzoILkMEM43oEZWGBHk7ojtIUZVc/NB52qWfmi2Hie4Vxfw7ZPtQKxhwYdrMjYOC2HwzkcAkgAUqMmr3/qw/bTT3Oxj0bwlLaSXcVho8ltFu8yVIo2VNv3skDAxg59KbDpHha50231G30iymtLhEaJ47HcWV8bTtC5A5GcjgcnABrldBfUptTsYdQn8RfZIBell8i8jR8SI8JZnBkbK7gAzn7u3HJBqaTJqtv4ZtUuotet7+COzES2tvdiNrdXjDIyYKq4IcNgBioGPlJqvY+fb8Ww9tPudtc6N4Vs7m1t7jTNNjmupDHChtly7BSxAGOwBOasT+G/DdvDJNNo+mRxRqXd2t0AUDkknHSuV1cahJ4phkFvrM17DqQ+zLGkv2UW5gYBif8AVcMxJLHf1AyMCtXwUuoW+nXkmo3d/cfdcrcWU8TRvt+dVEru784Py/Jk/L3AzlBqHNcHWndK5bh0jwtdabb6jb6RZTWdwiNE8djuLK+Np2hcgcjORwOTgA1e/wCEU8P/APQF0/8A8Bk/wrz7SZNVt/DNtHdRa9b38EdkIltLe7EbW6vGGRkwVVwQ4bADFQMfKTViKXXYPNltp/EVxdyrqKD7RBKFAEoaEqrII1bZuKnAznb0AUXKi1ez7h7afc6PyfBBvxYrZ6Ubr7SbQRLbKT5oTzCvC9l5PYdDzxVm/wBH8KaZHE95pmmwrNMlvHm1U75HbaqgBepJ/r0Fczpy+VrY+zWWutZvrEMsc97b3Dtj7MUbJlHmBQ2OW+X5hg9cZ9zca01xqaLbaw3nT20sUdza3dwkckd4GY527cbMNiMBcDALY3U/ZXkl6B7afc9C/wCEU8P4x/Yun/8AgMn+FH/CKeH8/wDIF0//AMBk/wAK5Ay34i0uSJNdF2kzLd2rpebXmJUMVlO5RGOdu8GMg8FDlhnzJqbRTMbvxW8xTUukd0gYrJm24RQBxyNuM/dOR8tT7J73BVZvqdjLpvg2C4lgltdEjlhVnkjdYgyKqhmJHYBWBOegIPerFtoHha9iMtrpmlTxhiheKGNgGBwRkDqDXE3Ooa42s3Fytr4gMc1nLHJCiXSgsY42VlOwxxdHA2Kzg5ydzBRJoh1We+tLe7m8RtDAl6VQRXUKuRIjw7nlBY5XcAHcj5dpHJBp0mlq+lwVab2Z3H/CKeH/APoC6f8A+Ayf4VHP4b8PQQSSvolkVjBYhLMOxAGeFVSSfYDJrh7CXWToN7EZfEEP/Ews5IyILuSURMUEq7pULsBtckgKM84AYApK2qW8N3HaT+J90keowozRXMjIqkGDbvU8nkBzljnG7gYn2Mk2r/1a4KtN21O8Xwt4fZQRothgjPNqo/pS/wDCKeHx/wAwXT//AAGT/CuNhl1Y6w10k/iGR21FFhjmt51hWJ7QZyuwLtEvGW+6VzkEsW3PA0epR2d0dQvL24LMjbbq1mhMUm351XzpHZhnByvyc/L3AmVNxTd+34h7aemu5r/8Ip4f/wCgLp//AIDJ/hR/winh/wD6Aun/APgMn+Fa9FYc77j9rPuZH/CKeH/+gLp//gMn+FH/AAinh/8A6Aun/wDgMn+Fa9FHO+4e1n3Mj/hFPD//AEBdP/8AAZP8KP8AhFPD/wD0BdP/APAZP8K16KOd9w9rPuZH/CKeH/8AoC6f/wCAyf4Uf8Ip4f8A+gLp/wD4DJ/hWvRRzvuHtZ9zI/4RTw//ANAXT/8AwGT/AAo/4RTw/wD9AXT/APwGT/CteijnfcPaz7mN4XtYLO91y3tYI4IUvV2xxIFUZgiJwBx1NdLWFoP/ACFvEH/X8n/pPDW7X0mG/hR9DOu7zu/L8haKKK3MQooooA5vTP8AkOa+Sf8Al8T/ANJ4a1iR6iqt34e0W7ne4utKsZ53xukkgVmOBgZJGegAqM+E/DvbRNN/8BU/wryquAc5uXNuzpc4Ste+yL+R6ijI9RVD/hE/Dv8A0A9N/wDAZP8ACl/4RPw7/wBAPTf/AAGT/Co/sx/zC5qfd/d/wS9keooyPUVR/wCET8O/9APTf/AZP8KP+ET8O/8AQD03/wABk/wo/sx/zBzU+7+7/gl7I9RRkeoqj/wifh3/AKAem/8AgMn+FH/CJ+Hf+gHpv/gMn+FH9mP+YOan3f3f8EvZHqKMj1FUf+ET8O/9APTf/AZP8KP+ET8O/wDQD03/AMBk/wAKP7Mf8wc1Pu/u/wCCXsj1FGR6iqP/AAifh3/oB6b/AOAyf4Uf8In4d/6Aem/+Ayf4Uf2Y/wCYOan3f3f8EvZHqKMj1FUf+ET8O/8AQD03/wABk/wo/wCET8O/9APTf/AZP8KP7Mf8wc1Pu/u/4JeyPUUZHqKof8In4d/6Aem/+Ayf4Uv/AAifh3/oB6b/AOAyf4Uf2Y/5g5qfd/d/wS9keooyPUVQ/wCET8O/9APTf/AZP8KP+ET8O/8AQD03/wABk/wo/sx/zBzU+7+7/gl/I9RRkeoqh/wifh3/AKAem/8AgMn+FH/CJ+Hf+gHpv/gMn+FH9mP+YOan3f3f8Ev5HqKMj1FUP+ET8O/9APTf/AZP8KP+ET8O/wDQD03/AMBk/wAKP7Mf8wc1Pu/u/wCCX8j1FGR6iqH/AAifh3/oB6b/AOAyf4Uf8In4d/6Aem/+Ayf4Uf2Y/wCYOan3f3f8Ev5HqKMj1FUP+ET8O/8AQD03/wABk/wo/wCET8O/9APTf/AZP8KP7Mf8wc1Pu/u/4JfyPUUZHqKo/wDCJ+Hf+gHpv/gMn+FJ/wAIn4d/6Aem/wDgMn+FH9mP+YOan3f3f8Ev5HqKMj1FUP8AhE/Dv/QD03/wGT/Cj/hE/Dv/AEA9N/8AAZP8KP7Mf8wc1Pu/u/4JfyPUUZHqKof8In4d/wCgHpv/AIDJ/hR/wifh3/oB6b/4DJ/hR/Zj/mDmp9393/BL+R6ijI9RVD/hE/Dv/QD03/wGT/Cl/wCET8O/9APTf/AZP8KP7Mf8wc1Pu/u/4JeyPUUZHqKof8In4d/6Aem/+Ayf4Uf8In4d/wCgHpv/AIDJ/hR/Zj/mDmp9393/AAS/keooyPUVR/4RPw7/ANAPTf8AwGT/AAo/4RPw7/0A9N/8Bk/wo/sx/wAwc1Pu/u/4JeyPUUZHqKo/8In4d/6Aem/+Ayf4Uf8ACJ+Hf+gHpv8A4DJ/hR/Zj/mDmp9393/BL2R6ijI9RVH/AIRPw7/0A9N/8Bk/wo/4RPw7/wBAPTf/AAGT/Cj+zH/MHNT7v7v+CXsj1FGR6iqP/CJ+Hf8AoB6b/wCAyf4Uf8In4d/6Aem/+Ayf4Uf2Y/5g5qfd/d/wS9keooyPUVR/4RPw7/0A9N/8Bk/wo/4RPw7/ANAPTf8AwGT/AAo/sx/zBzU+7+7/AIJeyPUUZHqKo/8ACJ+Hf+gHpv8A4DJ/hSf8In4d/wCgHpv/AIDJ/hR/Zn94Oan3f9fMZoHOq6+f+n1P/SeGt7pVGy06z02BorK1gt42bcUhjCLnpnAHXgflV016lKnyQUexlVlzSuh1FFFaEBRRRQBx0Gj6ZqWva7Je6daXEi3aKHlhVyB5ERxkjpyfzq4PCnh//oC6f/4DJ/hTtMx/bniD/r9T/wBJ4a1a+bxEn7aXqzsnUmra9F+Rk/8ACKeH/wDoC6f/AOAyf4Uf8Ip4f/6Aun/+Ayf4Vr0VhzvuT7WfcyP+EU8P/wDQF0//AMBk/wAKP+EU8P8A/QF0/wD8Bk/wrXoo533D2s+5kf8ACKeH/wDoC6f/AOAyf4Uf8Ip4f/6Aun/+Ayf4Vr0Uc77h7WfcyP8AhFPD/wD0BdP/APAZP8KP+EU8P/8AQF0//wABk/wrXoo533D2s+5kf8Ip4f8A+gLp/wD4DJ/hR/winh//AKAun/8AgMn+Fa9FHO+4e1n3Mj/hFPD/AP0BdP8A/AZP8KP+EU8P/wDQF0//AMBk/wAK16KOd9w9rPucEz6It6bT/hX90X2GTItbT/Vhtu7b5m7Ge2N3tXS/8Ir4fz/yBdP/APAZP8KqXEFxdeL2WfSZZdOexa2kncxNExYhipUvuIxkfd/TmuKHhnWGsbe3fw1OEgtdPt5jHdwo87QTAsQFkAZNmcb2Bzt+XuOlRU0tbf8AD+ova1NdT0D/AIRXw/8A9AXT/wDwGT/CopvDvhq3aFZdI09TK4jT/Rl+ZiCcdPQGuak8OXWna6ItJ8OQparqi3sU0TxQRRRm2EThQDvDlgTgLg8ZYVXtPCc39n2ltd+HftFnb6ikgt7iO28x4zGys7qrmJsMwOQFY4JK55Y5Fa/N2/rcHVqLqdn/AMIp4f8A+gLp/wD4DJ/hR/winh//AKAun/8AgMn+FcJb+GtVbTmtJ/D00USaZaWcrRy2rSTyQseVRiUePGP9YVOBjHoXfhjULlmmuPDtxNN9msRGYrmMCJ45maTYHnJjbYQOCedwDHOSezV/j/r7wdWp3O6/4RTw/wD9AXT/APwGT/CoovDWhODu8P2UZDFQHt4+QD1GM8Hr6+oFcJfeGtZZII7bw0yRWV9LPZCP7NmFfPWRQu6TbGpUH7o3ZABKgfNZ1TQ7nVfBzafZaQtyn9o6iAirFmEmWYIyrIyoOT97DEDO0ZOQ/ZqyfNv/AF3H7Wpe1zt/+EV8P5/5Amn/APgMn+FUYtJ8My6vcaWNCtBPDEkzs1moQqxYDBI5PynOOlc1a6Bqg1YakdDvYr59QjlF1Ncwu0UbWgjc/wCtOB5nVV6gLgHaAK0HhW+Ennp4SWCWKKxlldp4GkuLmGfe7odx3MyF/ncoxzg9TgVNbOXbt/mL2tS253Mvhjw9FG8jaJYkKCSFtFY8egC5P0FYj/8ACLx+G117/hF0axa1a6bbZRF0UAHaV67jk9MgYOSKyf7A1bZazp4daKSG+uJra3Elu6RxySBsyDepjbGeYnb3DA7aW70LWZNA0+JNEvGvF0W7sZE+0w4jdwoUEGXbyVzkZ4xn0BGCVry/rXzGq0+azeh2Q8LeHmUMNF0/BGf+PZP8KpappPhnSLVLm40G1dGmjhAis1Y7nYKCeOBk8k1z8Wg3kclrfXXhc3eo2160s90qWiy3sMkMiY++BldyKykgHbkbqz28M60NKsYrrwxFdXlvFaCzKXURSzaKXc4JYgpuUKSY1bPQ5CjIqaury007f5i9rUtud9/wivh/P/IF0/8A8Bk/wo/4RTw+P+YLp/8A4DJ/hWL4u0C61jVNPlSO8kihB2/ZHt1MMu5SHLSqSo4+9H849DmqWn+F7yB9fae31Ey3sMscrLLaqtxuclTHtXcWCkjM3TO35hyIUbxvzh7Wpe1zqP8AhFPD/wD0BdP/APAZP8Kq3WheG7OISS6FbMpJGIdOMp4BPREJ6A/jgdSBXBR+ENSLXbT+GLpiRafZWWaCMx+XMxYqgnKxN5ZA/d4XrgLuIq/q3hrU7vwtJpUXh79yL+6NvABbt5EbBjEyKZPLUZbGSCyjOFyQRfs0n8X9feHtql7XO1Twv4fkUMNFsMEZGbVQfyK8U1/DOhLcRxjw9ZsjKxMot4tqEYwDnnJycYBHBzjjPE3OgztY6nPeaFL/AGjeXtsbcXjwzmceXF5ke0zYK5iclCyAgLg8DFgeHrxNM0uLRNNuYWg027tGbzY4FjlLLkEJIQrMyN8ybsZHPGaXs0vtf1a/cFVqaXZ0lnpPhm/ur62i0G1V7KYQyGSzVQWKhsrkcjDDn8qvf8Ip4f8A+gLp/wD4DJ/hWX4Q0yTTrrWGTw+NGsLieOWCDfFkny1V/kiLKoyvrk5PA79Z3rKr7rsn2/Iaq1H1Mj/hFPD/AP0BdP8A/AZP8KP+EU8P/wDQF0//AMBk/wAK16Kz533D2s+5kf8ACKeH/wDoC6f/AOAyf4Uf8Ip4f/6Aun/+Ayf4Vr0Uc77h7WfcyP8AhFPD/wD0BdP/APAZP8KP+EU8P/8AQF0//wABk/wrXoo533D2s+5kf8Ip4f8A+gLp/wD4DJ/hR/winh//AKAun/8AgMn+Fa9FHO+4e1n3Mj/hFPD/AP0BdP8A/AZP8KP+EU8P/wDQF0//AMBk/wAK16KOd9w9rPuZH/CKeH/+gLp//gMn+FH/AAinh/8A6Aun/wDgMn+Fa9FHO+4e1n3MbwvbQWd7rlvawRwQpertjiQKozBETgDjqa6WsLQf+Qt4g/6/k/8ASeGt2vpMN/Cj6GVd3nd+X5C0UUVuZBRRRQBxsOs6Zp2v67He6ha27tdowWWZUJHkRDOCenB/Krn/AAlXh/p/bWn/APgSn+NdHgdcc1zdvrOrXYlktdJsmhSaWJWkvWVm2SMhJAiIGSueprycRhKak5zla77HXFxqL4drLcf/AMJX4f8A+g1p/wD4Ep/jR/wlfh//AKDWn/8AgSn+NP8A7Q8Qf9AfTf8AwYP/APGaP7Q8Qf8AQH03/wAGD/8Axmub2GH/AOfhXKu34oZ/wlfh/wD6DWn/APgSn+NH/CV+H/8AoNaf/wCBKf40/wDtDxB/0B9N/wDBg/8A8Zo/tDxB/wBAfTf/AAYP/wDGaPYYf/n4HKu34oZ/wlfh/wD6DWn/APgSn+NJ/wAJX4f/AOg1p/8A4Ep/jUn9oeIP+gPpv/gwf/4zR/aHiD/oD6b/AODB/wD4zR7DD/8APwOVdvxRGPFXh/8A6DWn/wDgSn+NL/wlXh//AKDWn/8AgSn+NP8A7S8Q/wDQH07/AMGL/wDxmrGjajPqDXiXdpFbzW03lMscpkU5jRwQSqno+Onarp4SjUlaE7slxSV2vxRU/wCEr8P/APQa0/8A8CU/xo/4Svw//wBBrT//AAJT/GuiwPQUYHoK3/stfzfgZ+0h2f3/APAOcPirw+R/yGtP/wDAlP8AGj/hKvD/AE/tvTv/AAJT/Guh2gdAM+1czYa5rWoafb3kOjWAjnjWRQ1+wIDAEZ/ddeayqYGnTtzTtfyLhyzTajt5ol/4Svw//wBBrT//AAJT/Gl/4Svw/wD9BrT/APwJT/GpP7Q8Qf8AQH03/wAGD/8Axmk/tDxB/wBAfTf/AAYP/wDGay9hh/8An4Xyrt+KGf8ACV+H/wDoNaf/AOBKf40n/CV+H/8AoNaf/wCBKf41J/aHiD/oD6b/AODB/wD4zR/aHiD/AKA+m/8Agwf/AOM0eww//PwOVdvxRH/wlfh8/wDMa0//AMCU/wAaP+Eq8P8A/Qa07/wJT/GpP7R8QD/mD6b/AODB/wD4zWhpN6NU0izv/JEZuYY5tmc7dyg4z3xmtaeCpVH7s7ky5Yq7X4ox5vEfhq5gkgn1bTJIZFKPG86MrKRgggnkEUlt4h8L2dtHbWup6XBBEu1Iopo1VB6AA4ArqMD0FGB6Ctv7M/vGftKfZ/f/AMA53/hK/D//AEGtP/8AAlP8aP8AhK/D/wD0GtP/APAlP8a6LA9BRgegpf2Wv5vwD2kOz+//AIBzY8U6AB/yG9P5/wCnlP8AGl/4Svw//wBBrT//AAJT/Glk1fVJNTvbay0y0ljtZFiMk120ZYmNH6CNuPnA69qk/tDxBj/kD6b/AODB/wD4zXPLD0Itxc9UbcistPxRH/wlfh//AKDWn/8AgSn+NH/CV+H/APoNaf8A+BKf40/+0PEH/QH03/wYP/8AGaP7Q8Qf9AfTf/Bg/wD8ZqfYYf8A5+Byrt+KGf8ACV+H/wDoNaf/AOBKf40f8JX4f/6DWn/+BKf40/8AtDxB/wBAfTf/AAYP/wDGaP7Q8Qf9AfTf/Bg//wAZo9hh/wDn4HKu34oZ/wAJX4f/AOg1p/8A4Ep/jSf8JX4f/wCg1p//AIEp/jUn9oeIP+gPpv8A4MH/APjNH9oeIP8AoD6b/wCDB/8A4zR7DD/8/A5V2/FFK+1vwnqVo1rf6hpF1buQWinljdDg5GQTjrUkHiLw1a28cFvqulwwxKESOO4jVUUcAAA4AHpVqz1fUH1aOxvtOt4PNhklR4bky/cZAQQY1x/rB69K3sAjkV0QwMZxvGehnNxi0nH8f+Ac7/wlfh//AKDWn/8AgSn+NH/CV+H/APoNaf8A+BKf410WB6CjA9BVf2Wv5ifaQ7P7/wDgHO/8JX4f/wCg1p//AIEp/jR/wlfh/wD6DWn/APgSn+NdFgegowPQUf2Wv5vwD2kOz+//AIBzZ8VaAR/yGtP/APApP8aB4q8PjrrWn/8AgSn+NdHgY6Cuek1jU31O+trLTLSSO1lWIyS3bRliY0f7ojbj5wOvaoqYCFNc0pWXoXBxm3aO3mhP+Er8P/8AQa0//wACU/xpf+Er8P8A/Qa0/wD8CU/xp/8AaHiD/oD6b/4MH/8AjNH9oeIP+gPpv/gwf/4zWHsMP/z8L5V2/FDP+Er8P/8AQa0//wACU/xo/wCEr8P/APQa0/8A8CU/xp/9oeIP+gPpv/gwf/4zR/aHiD/oD6b/AODB/wD4zR7DD/8APwOVdvxRGfFfh/8A6DWn/wDgSn+NL/wlfh//AKDWn/8AgSn+NPOoeIM/8gfTf/Bg/wD8ZqtqGua3p+n3F5Lo9gY4I2kcJfuSQoJOP3XXij6vh/8An5+AKCbsl+KJv+Er8P8A/Qa0/wD8CU/xo/4Svw//ANBrT/8AwJT/ABrogAQOBRgegrq/sxfzGPtIdn9//AOb8MXUF5d63cW08c8L3q7ZInDKcQRA4I46iujUUoAHTilr0qcOSCj2M6klOV7C0UUVZAUUUUANP3TXPeHP+QZL/wBft3/6USV0J+6a57w5/wAgyX/r9u//AEokrzcz/hx9Ten8D+X6mvXNa9d+ILS5gksbrTIrae4it1Se0klcFjgsSJUHHpj8a6WsbXNMvtSFmLO9t7b7PcLO3nWzTbypyAMOuO/rXj02lJX2B7Mj/t6DSzb2etXUIv22h3t4JfKBZiqFm+YR7jwA7cnIBNPHinRvtc9u14I3gSR3aWN44yqHDlXYBX2ng7Scd8VX1Lw1LqGpTyrfLFZ3iRJeW7Qby/lsSpR9w2E5wchuAMYPNUJfBTzQTWs2p5tUE/2IJbgSW5lOSWYsQ4UngbV46561qlTau3/X3CJNP8bWsv8Aas94skNta3YghC2s/msvlK5LRlA46kn5cAc5I5rqY5EmjWSN1dHAZWU5BB6EVxd14Hu9RnmutS1DTr25knWYRXGlB7VcR+WcxtIWLEYOd4xgYHXPYWsC2tpFAmNsSKgwAvAGOgAA+gAFKqqdvdf9WBXJ6zdB/wCQt4g/6/U/9J4a0qzdB/5C3iD/AK/U/wDSeGunLv43yKXwS/rqjfooor3TnGnofpXO+FP+RS0j/rzh/wDQRXRHofpXO+FP+RS0j/rzh/8AQRXlZptE3p/A/Vfqctc+NZ7Sw1OKbXvD6avb3ZhhtniKsyhscxmfcSc5BBH0Nbh8W6ZYTyW2oatbS3Kzi2EdtbSbjKIg7IFBcse+B03KvLdYH8N6o+ialp7atZ7724aYSiwfCBjkrt87k9MHI+hpG8Mas2rpqDatZFhdpdlFsXALCAwkZ87oQxPt71xXpNa/09PInW4useNLO1sbGbTZEuZLx7dkzFKVWKWQKGYqpCE5O0OVyQfQiurzXCjwRqcWmrZw6/BErxQR3DiwySYXLK0eZMIcYB3bxxnA5Fd0OnXNZVVBK0H1f6DVwPQ/SqPhL/kUNG/68of/AEAVePQ/SqPhL/kUNG/68of/AEAV35XvIqX8N+v+Zt0UUV7BzhRRRQBzml/8hzX/APr9T/0nhqn4j1e70i9011urSCwlkcXJltnlfaqM52FXHJCkAbW5I4PQ3NL/AOQ5r/8A1+p/6Tw1Q1nw7qGrXssw1p4IVjP2WNIMNBKVKFt6srFSGPHBHUMK+dq29vK/dnTU6eiLh8TaWNMTUPNuDDJK0KoLSUzF1JDL5W3zMjaxPy8AE9Kpv420hLtYxJNLDJbR3Ec9vbSzK4diqqNiHLHHTr7cGqdj4OvNNsYEtdTtIbu3vZbqFo7FhCBIpDxtH5uSOSQQwI464OUuPBNyY4Y9P1WOCIQJDMk1szibbIznOyRPlYu2V6EYHTIK5aN9/wCvuM9S8/jrw3Hs3akPmjilOIZD5ayfcL4X5ATx82MEjOMip28TaYYbGddQit4rid4gtzC6O2xXLrtbaYyu3JLDAAxjkGsG18CalaWP2WLWbIKILaBP+Jc3yrDM0q8ed33YP0rRTwxqMaR7NVtfMTU5dQ3GzYghww2Y83tvPOfTilKNJfC/6+4epatfGWhX9tJc2t680KRxyZS2lJdXJClBty+SCMKDggg8jFa1jeW+o2cV1bSeZDKu5WwRke4PIPseRXIDwFO+nwWl1qNjdRwWVvbIs2nFkZoXLKzqZCGUgkFePUEV1WlWC6XpsFkiwKIlIxbwCGMEkk7UHCrk8DJPqSckzUVNJ8j6/gGtyKX/AJHHTP8Aryuv/Q4K6DvXPy/8jjpn/Xldf+hwV0HevZwH8BBW2j/XUWiiiu0xCiiigBtc9pn/ACHPEH/X6n/pPDXQ1z2mf8hzxB/1+p/6Tw15+Y/wfmbUdpen6oz4NcvpvF9zpTGzSOJgRbuGWdofLz5yknDqX+QgD5ccnnAj1bxjbx6Bd3elHzLtLS4uII7qCaJD5JKyBsqMFSPunBPsOas3Hh+7utbtrufUI5LS3uTcxQtbZljfYU2rJu4TnJG3J55wcDLvfA9/efaYk1yOG2kW9WKMWW5h9qYs+9i/zAE8bQh4GSec+ZH2TtcFf8fwNCXxnp3kQtZ+bdSS3QtQqwyjDlN4JwhOwjBDAEEHIJFN0/xZbjRbO51VjFeSWH26ZYLeV4wi4DlSFOcFhxksAQcYpjeGdTa6luhqtoJzdw3UZ+wttUpF5TAjzckEcjkY96gl8HXz6LY2UWrwRzW9lPYSTGzLK8Uu3JVfM+VhsXBJYdeKVqVrX/q3oC8zfg1mwudQexhmdrhRuIMThTwDgORtJAIyAcjIzjNQ+K/+RS1f/rzm/wDQDVPTfDM1hrq6g1/HIohEb7LbypbghQoaZlbY+MHHyAjOAcZBueK/+RS1f/rzm/8AQDWbUVJcrNKV+dXOkX7o+lLSL90fSlr6hHKFFFFABRRRQAUUUUANPTiuWtLbXtPWaCGxsJomuZpkd71kYiSVnGVEZwRux1PSup7Udayq0YVUlMuFTlvpcwPN8R/9AnTf/Bg//wAZo83xH/0CdN/8GD//ABmug5pOa5/qFDsX7Zfy/mc+ZvEQOP7K03j/AKiL/wDxmjz/ABD/ANArTf8AwYv/APGazodH0zUNf12S9061uXW6RQ0sKuQPIiOMkdOT+dXv+EU8Pj/mC6f/AOAyf4V51R0ITceTbzOh8itfy6f8Ef5/iH/oFab/AODF/wD4zR5/iH/oFab/AODF/wD4zTf+EU8P/wDQF0//AMBk/wAKpyaP4Vj1SLTjpenC8ljaZI/si8qCATnGO/TOTg46GoU8O9oP7xXp/wBL/gl7zfERH/IK00f9xF//AIzUuh2t7by6jNfJBHJdXAlCQymRVAjjT7xVefkJ6d6zLTSPCt+9ytrpmmTfZZjby7LZSEkABK5x1GRnHfjqKmg8OeHrm3SVNDsgjqGAksgjAe6soIPsRWtOvTovmjB39RNwaaX5f8E6jI9RRkeorjLfT/CFzqc2mw6Zp5u4gWeI2YU7QQCwyuCuTjI4yCOoOL0nhnw5DG0kmj6ciICzM1ugAA6knFdDzK28fxMvZw7v7v8AgnRhg3cZ+tcppFv4g03SLSyGn6dJ9nhSLf8Ab3G7aoGceVx0p1jonhbUbCC+s9J02W2nQSRSC1UBlPQ8rT28OeHUnjiOh2e91ZgVsgVAGM5YLgHkYBOTzjODWNbFwrNKcNvM0p8kU1e9/L/gljz/ABF/0CtN/wDBi/8A8Zo8/wAQ/wDQK03/AMGL/wDxmm/8Ip4f/wCgLp//AIDJ/hVKz0jwpfPdpbabpsrWkxgn22q4SQKGK5244DDp9OoNYc9D+R/eVen/AEv+CX/P8Q/9ArTf/Bi//wAZo8/xD/0CtN/8GL//ABmsh4PA8dsLkwaK8JliiDRQxyZeTGwfKD97cCPY56c1q/8ACKeH/wDoC6f/AOAyf4UOdFb0394Xp/0v+COMniIgj+ytNH/cRf8A+M1d0S0fTtBsLKZkMtvbpE5Q8EqoBxntxWd/wiugf9AXTv8AwFT/AAqpfaT4U01IpLzTNMhSaZLePNqp3yO21VAC9ST/AF6Ct6OLp0n7kNX5ky5JK17L0/4J1+R6ijI9RXO/8Ip4f/6Aun/+Ayf4Uf8ACKeH/wDoC6f/AOAyf4Vr/af90z9nDu/u/wCCdFkeooyPWuRbR/CiatHph03TPtskLXCwfZlz5akKW6cDLAc9ecdDUE1n4NttT/s6fTtNiutpYK9mFBAUscMV2nCjJweMjOMjNf2i/wCUPZw7/h/wS+LXWbTWNTltbSynhupllVpbto2XESIQQI2HVCevepvO8RcD+ytN/wDBi/8A8ZqlYaH4W1Swgv7LStPltriMSRP9lUblPIOCuasSeGfDkSF5NH01FHVmt0A/lXJOrRlJuUHf1Nuam7f5f8El8/xF/wBArTf/AAYv/wDGaPP8Q/8AQK03/wAGL/8Axmm/8Ip4f/6Aun/+Ayf4Uf8ACK+H/wDoC2H/AIDJ/hWftKH8n4hen/S/4I7z/EP/AECtN/8ABi//AMZo8/xD/wBArTf/AAYv/wDGarweHPD1zbpMmh2QR1DASWQRgPdWUEH2Iqb/AIRTw/8A9AXT/wDwGT/Cn7Sh/I/vC9P+l/wR3n+If+gVpv8A4MX/APjNHn+If+gVpv8A4MX/APjNRHwz4cWRYzo+mh2ztU26ZOOuOKf/AMIp4f8A+gLp/wD4DJ/hS9ph/wCR/eF6f9L/AIIWltqsuuw3t7BZwRw28sQENy0pYu0Z7ouAPLPr1ros1zn/AAinh/8A6Aun/wDgMn+FH/CJ+H/+gNp//gMn+FdVPHwpx5Yx09SJxhNrX8P+CdHkeooyPUVyVhovhXU7dp7PTNNmiWR4i6Wy43KxVgDjnBBGatf8Ip4f/wCgLp//AIDJ/hVvM7bxI9nT7v7v+CdHkeooyPUVzv8Awinh/wD6Aun/APgMn+FH/CKeH/8AoC6f/wCAyf4Uf2n/AHQ9nDu/u/4J0IYHuPzrmvs2tWmranNaWdjcQXU6yqZbto2XESIQQI2HVCevehfDXhxndF0fTSyY3KLdMrn14pw8K+Hz/wAwXT/r9mT/AArOrjYVY8s4fiXTUIX1vfy/4JJ5/iL/AKBWm/8Agxf/AOM0ef4h/wCgVpv/AIMX/wDjNVL/AEPwtplhNe3ml6bDbQIXkke3TCgfhU6eF/D0kauujaeVYAg/Zk6flXNz0N+R/eXen/S/4JJ5/iH/AKBWm/8Agxf/AOM0ef4hHJ0rTf8AwYv/APGaj/4RXQMY/sTT/wDwGT/CsvxJ4c0S38M6pLFpFjHIlrKyOlugKkISCDjg01PDt/A/vHH2cmo/p/wTY8zxHn/kF6b/AODB/wD4zVPVrTxFqWk3Vl/Z2nRi4heLeL5zt3KRnHlc9a6wYKilr1VgaO9jBVrO6SAdBS0UV2GAUUUUAFFFFABRRRQAUUUUAFFFFAHOaX/yHPEH/X6n/pPDWsKydMP/ABPPEH/X6n/pPDWsCPUV81iV++l6s6p7r0X5Aa4TUn1Ce6/4SO1EpgsbtNto2k3AupFUFGCnIJUiRyP3ZHPXjju8j1FGR6isqcuV3IaurHALHdN4mup7T+2oZZ71JwwhmSAWxt0DMVZdhfIwFILhgOAM1j2susCCC4mufFLPb2mnssbW1wAZRMwm3AIC52YLBs5DZ7Lt9WyM9aNw9a2jWtpbt+AnG55td2uuXkOpiB9bivxBefaF82dImYEm2MDZCg8LxGemQ/PWR7y8ur26L23iRNElvFaSVI7lJSDB0RB+/VBIOdqgZI6qWr0bI9RRkeoo9v5f1/W3YdjzDw5Bri3Hh9Hk1Wxggt4US2ls5m81RuEnmMJBGhIw37xd3Tbz8tbnjGe/gvFazuNTjU6bdjFvC7RLJ8hQkqvDnDAZOf7oyeezyPUVUvrO31G0ktblC8UgwwVip65BDAggggEEEEEZFL2vNPma7/iJI83vf7RHgwR2b6413LczsWSS/d4H2ExodyrMy4KgZ2Jn5mz0azYPd33iG5N9bavFpl3NGweCG7tpBObaFQXKbT5eVcEnhWAyRkV31jYQafbCCAylMli00zzOxPcu5LH05PQAdBVzI9RVuutbLcLM8riutTfT0juLLX5ilnp6XLTW9w6i4jmHmYVuWO0ZLoCDjJbOMujbUpLbxTMt7ra3v2WdLNY/tTGRhI+GjRk8oHmNf3W7A5BXJr1LI9RWZp2iWGlSO1oky7+AslzJIsYznCK7ERj2UAcD0FCrp30HbW/ocJerq7R3dpbX2uxWf2tHa5ms7uaQBoAcqEKOV8wHKqdqk4KheK6PxT9vXwdbhFmn1DzrNuLZpDvWaNmZkjyQBtJOD7A9K6vI9RRkeoqHVu07bCSseaytfzWMCSR+I4naKcSNAbosl/8ALjr1h67c/uuuauoNcOup57aomoRzoXMQkNpJa+UN2B/qt2/d/t5x/DXe5HqKMj1FHt/IOU8gR9cTULdRb6xdQwwzpPdG3vEkkjZoWcRbxvjkwjEAOykjCnkKOiga+bXonh/txGjuEaPzRcG3ex8oZDB+PMznIb97u9q73cPUUZHqKcq91sHKeWXc2qQaB4b+yW+twy28COyRQXQGVlTejxRqMnaG/wBYcY4VWLZFi7h1C6t9chlGs3EAnin3ql1EwHnglEQ8khQeYWwQB8qn73peR6ijI9RR7fy/q9w5TyQXOtG6vBG/ieCGaa3YL5F3K6hbnEg3OhUAxtuxGFGABlsEnY0Rr2DW4VEviAwO99Ez3UVw6xxqwaEjzFIJxnDNlm6ZOAB6HkeooyPUUOtdWt/X/AC2p5Ray6x5EFxNc+KGe3tNPZY2t7gAyiZhNuAQFzswWDZyGz2Xbu6HHqK6pqEmrXuqSRtKA9ulrdIsb+d+7KybyGUjr5ShNo+fHfusj1FGR6iiVe/QHG5zOuWAuvFGjSSi/wDJ8m5iLWskyKrMExuMZG3IDYLcZA5ziuO+1a21jbx48UxOlrp8d3MkM5/epMBMAGBY5TJLoMNt5Y5wfV8j1FGfcVMKrikmr/1/wRtHndwl7pusGxtx4jeNdSWSOSN7i4VbZrYBmMkhZGAkydjFjkcKc80NOk1mHTYVlbxJN5thZPfGSK481SJCswjyo2vtK5CYYgbhlvmr1PI9RRkeoqvb6art+ANXPJ4o72y065e2t/EywSx6lDBxdGSSRpEeByoO9Ty48xwp4IJxjMmsT662pRmKTxHEJpLVpkggnzAgaMOpwrxOMFzmMq2eG3jp6pkeooyPUU/rGqbQnG553ozalBrMSQNrsgd7+IfbkuWjRFYNBkyDHTOHbLHOMnAAzVtfELaIqyavqwiknUzyf2beeZA/lnIVRN5rru2nKHy84wCMgerZHqKMj1FL277By6nm13a6hbNqUhm15L6a6sHeW2hlYSR4jEuFUOi4xJkJyMAEkHmujazbvKmmyeIHkdb+FDdR3LqiKwaHG/AJ27trE7mzjd0x6jkeooyPUUe302/q1gseVX9vqTeHpLO8ufEF5ZyW119me1tLqKQzHbsWRdzzFeXA807TznI2mvStOd5NMtGkgkgdoULRSY3IcDg4JGR7E1b3D1FGR6ioqVeZWCwGsfxZ/wAilq//AF5zf+gmtgkeorH8Vkf8Ilq/P/LnN/6Cazgnc1pfxEdIv3R9KWkX7o+lLX1aOQKKKKACiiigAooooAKKKKACiiigAooooA5XVP8AhDTqUv8Aav8AYv23jf8AafK8zoMZ3c9Mfhiqv/Fu9x/5Fz/yDWjpgB1vxAP+n1P/AEnhrV/AZryauN5JuPItGdl+VJXey6nM/wDFuv8AqXf/ACDR/wAW6/6l3/yDXTbR6Cq95ObO0knS1muWQZEMABdz6DJA/MgVH9of3ELn8395g/8AFuv+pd/8g0f8W6/6l3/yDVjTPEbaletbnQtTtVSRoXmm8hkR1GSp8uViOD1xj3re2+wpyxzjvBB7Tzf3nM/8W6/6l3/yDR/xbr/qXf8AyDXTYHoKijnhlmmhRlaSEgSDH3SRkfoaX9of3EHtPN/ec9/xbr/qXf8AyDR/xbr/AKl3/wAg102B6CjaPQUf2j/cQe08395zP/Fuv+pd/wDINH/Fuv8AqXf/ACDXQzFo4ndImkZVJCJjLH0GSBn6kCpFGVBK4JHQ9qP7Q/uIPaeb+85r/i3X/Uu/+QaP+Ldf9S7/AOQa6baPQflVHS9Sg1a1e4gjlVEmkhImjKNuRip4PIGR3o+vvfkQe08395j/APFuv+pd/wDINH/Fuv8AqXf/ACDWtqmpwaRaJc3Ec0iNNHCBDHuILuFBPoATyT/PAplzq8VpqVpYzWlyrXc5ghlCAxsRGZCSQflGFI5wSRwCOapY5vaCD2nm/vMz/i3X/Uu/+QKP+Ldf9S7/AOQK6baPQVDczJbW0s7qxWNC5CIXYgDPCjkn2HNR/aH9xBz+b+85/Hw6/wCpd/8AINGPh1/1Ln/kGti11BL3RodStreWRJ4FnjhwokYFdwXkgA9uTj3q6oyoJXBI6HtVPHtOzgg9pfq/vOa/4t1/1Lv/AJBo/wCLdf8AUu/+Qa1dP1P+0Xnj/s+9tGhxn7VDsDZzjaQSG4APB4yAcHIEup30GlaZc386SPFbxtK6xRlmIAzwB1oeOaduRAp36v7zF/4t1/1Lv/kGjHw6/wCpc/8AINdHCyyxJIowHUMM+9Zia/ZtNfRGC9zZz+RIVtJH3N5YkyoUElcHGcAE8DORkWOb+wgVS+zf3mfj4df9S7/5Box8Ov8AqXf/ACDWtaarb3ep3VhHHOstrHFI5kiKKRJuxtz1+6c+nTqCBaidpFcvbyQkMygOVJIBwGG0ng9R355APFDxzW8EHtPN/ec//wAW6/6l3/yDR/xbr/qXf/INbpuHE3l/YZivmBPMBj24253/AHs7c/L0zntjmrO0egpfX/7iDn8395zP/Fuv+pd/8g0f8W6/6l3/AMg10Ebu8sqmB0VWAVmK4cYByMEnHOOQDkHtg1NtHoKP7Q/uIPaeb+85n/i3X/Uu/wDkGj/i3X/Uu/8AkCugd2E6IIXZWBJkGNq4xwec857A9DnHFVtX1KDRdJutRuY5nhtomldYU3uQPQf5A7kChY9t2UECn5v7zIx8Ov8AqXf/ACDRj4df9S5/5BrpVwyhgBgjNLtX0FH9of3ECqX6v7zmf+Ldf9S7/wCQaP8Ai3X/AFLv/kGuggnguQ5hZXCO0bYHRgcEfnVXVNTg0i0S5uI5pEaaOECGPcQXcKCfQAnkn+eBQse27ciD2nm/vMn/AIt1/wBS7/5Bo/4t1/1Lv/kCtay1OC/vL62iimR7KYQyGSPaGJRWyueoww59jjI5rQ2j0H5UPMLbwQe08395zP8Axbr/AKlz/wAg0f8AFuhz/wAU7/5BrpcD0GKyPFQA8J6vx/y5zf8AoBoWYXfwIqEuaVrv7zph04opB90fSlr2TiCiiigAooooAKKKKACiiigAooooAKKKKAOc0v8A5DniD/r9T/0nhrWHWsnTCP7c8Qf9fqf+k8NawI9RXzOJ/jS9TqnuvRfkLRSZHqKMj1FYEnDS6bqF9peoGbQZ1uI9Xhv7WOZ4CzqsiElCJCFbarDkr97GeTWfpfheW51y1OreGAunf6cRDLLFLFGJJUkj3xBtobhvuh/4Tnj5fSCR6ijIzW6rySsv60Ja/O55db+GtUbTWtJ/D00USaZaWcrRy2rSTyQseVRiUePGP9YVOBjHpPa+FryOyvJpfDkP2/7TY3kckQi3N5TRlkUtIxVwFfq235sByOa9LyMdRRuGOoqvrM73t5jau7nl0/hzVJrSI/8ACOSxvHeXMkFuk0BWOOWTd85Do0T4zhoXJHfcDiq1r4Tv7Sxtni8L3AvobKyHmGaAn7RFLl3yZeW2cBuu35QccV61keooyPUUfWpWsl+f+Ymr3v1PKvFGhX51TX9Sk0Ui3k0+8je4UQssimFTGzEuZWIaPGMBV+XA6sdWHRdTTx3NqTaNMtvLHNDJcW7wqZUZE2EuZPN3ZTGPlVflwOrV2t5YWWoLGl7aW9ysTiWNZow4Vx0YZHBHrVrdR9YfKo+VvkNq55bp3hfUrHTIYE8PTKGsLJL+FriH/S2ikPmRk+YdxKEY3fKVG0kDimf8IrfxafOYPCKIs0Oo2kVsslvvRJpEkh8zLbQqsH4VmxwQOcD1bI9RRkeop/Wp3f8Awf8AMEtbnmV9oWuf2i91DoU0ssv2drhhLbsAUaM4ikLo5A2n5ZFx1Klc4M+taFrtxql7/ZljdQ+dqYuVu3khkXb9kaIna8hO3cQMY4HQV6LkZ60ZHr0pfWJdkJK2x57a+G7h/EOl3yaLeaZDbrH5MED2ix2uC3mK5AZ8NnOIzhsjdt6ixr2jaldeOrHUrfSjJFA8YF3H5OfLKurhmd94A3g7UUAjJJY4A7vI9RRkeoqXXk3ewKNjzaw8LXsXhnUbVNEms3k0cWUkK3EYe8uACPM3K+MdsswJBIIAAyW/h3UF1o6gmh3sN02opIl1LcRO0MRtRG5H704Afqo6gLgHaAPScj1FGR6in9YldvuHKeZweFLwWazr4f8As9zbfY3kgWSI/ariKZXedDuxuKbxucqzbsNjvBeeGdUutLuoLrwqJ7SYX32WySeAtbySvujlZSyorYLDKsxXt9449T3D1H50ZHqKf1mX9XGlY4XQ/D+pQ+LRqt9BdRTlMNIktubfYY1HlZCCZyrDgHCcbgc/KaHi3QNW1iTV7ePQnuIbi4DRSsYH5+zhA6q8gUYYYLMpYA/KMnK+k5HqKMj1FL6xLm5rdLCUbbHAX+g6hqGpQ3Mmju91LaWixXcksf8AoMsbszsfnzuw3BQNnoSASaS28KXBCXSaYkVzHe3cLfa2SVntbhySwbc3I3BsE5PzD+Ku/JGOooJ5o9vIErHAp4dnsfESNaaJdJZQ6pFNE6XEflrELbyiwQyZwpAAG3IH3RWPN4PuZIps+F7mWZ01IeZLPA5fzJN9vuLSktjqM52tzwea9XyPb86Mj1FCxM/6v2HY8zbw7f3erQyX2gX80D6hHc3Aku4mSRTaeU+5fOww34G0jGMgcEgv0jwvqi6joV1e2eoQtZ28Mce2a2K2+zcHV2+aTDDGBGSGyA23Ga9I3d80bu+eKbxEuxPLpY47xXZS3WuRC1sY7q5l0i8i8t+BIN9v8hO5cjk8FlByRkZJqpp+j6pb/DfW9HXSp47iUXSWtsxt0LLLkrgRt5agFzkZGMHrxnsorCyhvJr2K1gju5wFmnWMB3A4AZsZOO2at5HqKlVmoqK/rW5XVPsecrod+0KDUPDQ1Ardebe7ltlbUEZGEbEbwpaMlQQ2BxlSeKqN4T1K3mDvpF3fXEFtYi3mN2jhHinZmCb5BgrGwXdgZ+b+8c+o5HqKMj1FUsTJbIlR0seb2fhBh4sMsnh5ood96/2stE0JkkkR4ZNnmbiw2nkpkHb6Ahtv4e1O206R4NBlt5zHax3FvDNDi7mjmV3nHzgHIB+ZiHbPI4r0rI9RRkeoo+sy08htXMXSYbqPXNckns5YYZp43hlZkIlAiVTgKxIwVPUDtW3SZHqKMj1FYN3GBrH8Wf8AIpav/wBec3/oJrXJHqKyPFZH/CJavz/y5zf+gmiG5pS/iI6Rfuj6UtIv3R9KWvq0cgUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBiT+G9NuLqa5YXaSzMGk8m9mjDEKFB2q4GcKB07U0eFdN/v6j/4M7j/AOOVuYoxWTpQbu0vuNFWqJWTf3mJ/wAIrpv9/Uv/AAZ3H/xyj/hFdN/v6l/4M7j/AOOVt0Uexp/yr7g9tU/mZif8Irpv9/Uv/Bncf/HKP+EV03+/qX/gzuP/AI5W3RR7Gn/KvuD21T+ZmJ/wium/39S/8Gdx/wDHKP8AhFdN/v6l/wCDO4/+OVt0Uexp/wAq+4PbVP5mYn/CK6b/AH9S/wDBncf/AByj/hFdN/v6l/4M7j/45W3RR7Gn/KvuD21T+ZmJ/wAIrpv9/Uv/AAZ3H/xyj/hFdN/v6l/4M7j/AOOVt0Uexp/yr7g9tU/mZif8Irpv9/Uv/Bncf/HKP+EV03+/qX/gzuP/AI5W3RR7Gn/KvuD21T+ZmJ/wium/39S/8Gdx/wDHKP8AhFdN/v6l/wCDO4/+OVt0Uexp/wAq+4PbVP5mYn/CK6b/AH9S/wDBncf/AByj/hFdN/v6l/4M7j/45W3RR7Gn/KvuD21T+ZmJ/wAIrpv9/Uv/AAZ3H/xyj/hFdN/v6l/4M7j/AOOVt0Uexp/yr7g9tU/mZif8Irpv9/Uv/Bncf/HKP+EV03+/qX/gzuP/AI5W3RR7Gn/KvuD21T+ZmJ/wium/39S/8Gdx/wDHKP8AhFdN/v6l/wCDO4/+OVt0Uexp/wAq+4PbVP5mYn/CK6b/AH9S/wDBncf/AByj/hFdN/v6l/4M7j/45W3RR7Gn/KvuD21T+ZmJ/wAIrpv9/Uv/AAZ3H/xyj/hFdN/v6l/4M7j/AOOVt0Uexp/yr7g9tU/mZif8Irpv9/Uv/Bncf/HKP+EV03+/qX/gzuP/AI5W3RR7Gn/KvuD21T+ZmJ/wium/39S/8Gdx/wDHKP8AhFdN/v6l/wCDO4/+OVt0Uexp/wAq+4PbVP5mYn/CK6b/AH9S/wDBncf/AByj/hFdN/v6l/4M7j/45W3RR7Gn/KvuD21T+ZmJ/wAIrpv9/Uv/AAZ3H/xyj/hFdN/v6l/4M7j/AOOVt0Uexp/yr7g9tU/mZif8Irpv9/Uv/Bncf/HKP+EV03+/qX/gzuP/AI5W3RR7Gn/KvuD21T+ZmJ/wium/39S/8Gdx/wDHKim8IaVPG8Uhv3RwVZW1G4IYHggjfyK6CjFP2NP+VfcHt6i1Un94o4GKKKK0MwooooAKKKKACiiigD//2U+DAABEAGQAAAAAAAAACAAAAAAAAAAAAAAAAABIIe4R6APoAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAE8FIAAACyBArwCAAAAAMEAAAACgAAQwAL8C4AAAAEQQMAAAAFwRYAAAAGAQIAAAD/AQAACABKAG8AbwBuAGkAcwAgADEALQAzAAAAAAAQ8AQAAAACAACAUgAH8KmCAAAFBeFHM8JtAQ5a9JHb7+oQK1z/AIWCAAABAAAAw6AAAAAAGACgRh3wfYIAAOFHM8JtAQ5a9JHb7+oQK1z//9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAEyAjgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAqnqmqWmjWDXt68iwK6J+7ieVizuEUBUBYkswGAD1q5XP8AjL/kB23/AGFdN/8AS2GgA/4TLS/+fXXP/BFe/wDxmj/hMtL/AOfXXP8AwRXv/wAZroKKAOf/AOEy0v8A59dc/wDBFe//ABmj/hMtL/59dc/8EV7/APGay/8AhLvEH/CXf8I//wAI5Y+d9lF7u/tQ58nzNnTycb++3OP9qlk8b3tyNYutG0RL7TNIlaG5nkvPJeV0GZBCmxg+0d2ZQTwPWlfS4W1saf8AwmWl/wDPrrn/AIIr3/4zR/wmWl/8+uuf+CK9/wDjNZdn49k8RXUkPhPTYtSSC2juLia6uzbIpkXcka4Ryz4yTwAPXNVdR+I88Xg1PFGmaLHc2CjbcJcXnkyxS+aIjGFCOCQ3U5Ax0zTtrb+v6/rqG5vf8Jlpf/Prrn/givf/AIzR/wAJlpf/AD665/4Ir3/4zWVqPi7xBpmpaXYXGg6Wk2oedtd9XcRp5a7iS3kZwVxzgHORjHJv6l4purGfR9Lj0yOXXtSQuLNrnbFCFXMjPKEPyjoCF5OOB2AJv+Ey0v8A59dc/wDBFe//ABmj/hMtL/59dc/8EV7/APGasRaxdrpV9dX2lS209oSohEgcTsFBHlsOqsx2gkA+oB4DvDeuw+I/DVjrUCGNLqESGPO4o38S57kEEfhR3Aq/8Jlpf/Prrn/givf/AIzR/wAJlpf/AD665/4Ir3/4zWBb/EW9v9Fm1XTtFtLy3RXciPUwWt1VWci4URkxOQuAoDjJwWHBOvo/iy4ufD0+u6xZWdhp8dot2JLe9NwQpUuVcGNCrBdpwM53Ud32HbWxY/4TLS/+fXXP/BFe/wDxmj/hMtL/AOfXXP8AwRXv/wAZrH/4TzULew03VNQ8PrbaXqcix2sgvd0ytJ/qvNQoFQNxkh225Ge9P0zxb4h1HxBqekHw7p6S6aYhcOuqsw/eIXXbmAZA4B9OwNAvM1f+Ey0v/n11z/wRXv8A8Zo/4TLS/wDn11z/AMEV7/8AGapeH/Feqa9o+l6kuj2cMd7cvC6m/ZjGi7huH7r5j8jfLx255OMyf4iajYDV7u+8PwDTNHvRa3s1tftJIgIU+YsZiUMo3rn5gRz1xR1t/XT/ADD+vz/yOg/4TLS/+fXXP/BFe/8Axmj/AITLS/8An11z/wAEV7/8Zqr4h8ZDw9q2hRS2aS6bqsoh+2LMQYWb7pKbMbSSozuHXpUs3ii4fxpP4bsLCGaSCw+1yTTXJjAJJCoAEbOTtyewPQkYo/4P4ah/X36Ev/CZaX/z665/4Ir3/wCM0f8ACZaX/wA+uuf+CK9/+M1Q8K+K9Y8Taf8Abg==)
 
@@ -238,15 +243,15 @@ Joonis 1-2 võimaldab saada ülevaate turu analüüsi erinevatest etappidest nin
 
 Turustamise eesmärgid võivad olla vägagi erinevad alates soovist:
 
-- .suurendada firma toodangu osatähtsust teatud konkreetses geograafilises piirkonnas iga järgneva kvartali jooksul 5%
-- .suurendada järgmisel aastal müügikäivet 7% võrra
-- .suurendada teatud konkreetses turusegmendis toote X tuntuseastet 15 % võrra.
+- suurendada firma toodangu osatähtsust teatud konkreetses geograafilises piirkonnas iga järgneva kvartali jooksul 5%
+- suurendada järgmisel aastal müügikäivet 7% võrra
+- suurendada teatud konkreetses turusegmendis toote X tuntuseastet 15 % võrra.
 
 Need sihtülesanded peavad sisaldama mõõtühikut (näit. käibe suurendamine), arvväärtust (näit. 7%) ja ajalist kriteeriumi (näit. aasta). Sellised eesmärgipüstitused on marketingistrateegia väljatöötamise lähtepunktiks.
 
 ### 1.3.2 Turundusmeetmed
 
-See, kuidas ettevõttel õnnestub oma toodangut või teenuseid turul müüa, ei olene mitte ainult toodangu või teenuste kvaliteedist ja hinnast, mida meil sageli võetakse enesestmõistetava tõena, vaid väga paljudest teguritest, mida kokkuvõtvalt nimetatakse &quot;turundusmeetmeteks&quot;.
+See, kuidas ettevõttel õnnestub oma toodangut või teenuseid turul müüa, ei olene mitte ainult toodangu või teenuste kvaliteedist ja hinnast, mida meil sageli võetakse enesestmõistetava tõena, vaid väga paljudest teguritest, mida kokkuvõtvalt nimetatakse "turundusmeetmeteks".
 
 Turundusmeetmeid grupeeritakse nelja gruppi: tootega seotud meetmed, hinnaga seotud meetmed, jaotamisega seotud meetme ja suhtlemisega seotud meetmed. Joonis 1-3 annab ülevaate neist teguritest.
 
@@ -282,25 +287,25 @@ Tootmisega seonduvad logistika probleemid ulatuvad alates katkematutest tootmisp
 
 **Esile võib tuua neli võimalikku lähenemisviisi logistikale:**
 
-- . **Logistika kui rakenduslik tegevus -** transport, laomajandus, varustus, klienditeenindus, turundus, arvestus ja infovahetus.
-- . **Logistika kui ettevõtte juhtimistegevus** tagab kõikide juhtimisfunktsioonide eduka koostöö ja võimaldab paindlikku tegevust konkurentsitingimustes.
-- .L **gistika kui mõtteviis** võimaldab mitmesuguseid logistilisi protsesse vaadelda komplekselt, omavahelistes põhjus-tagajärg seostes.
-- . **Logistika kui teadusharu** uurib erinevaid meetodeid, kasutades logistiliste protsesside toimimist ja sellega seonduvaid nähtusi.
+- **Logistika kui rakenduslik tegevus -** transport, laomajandus, varustus, klienditeenindus, turundus, arvestus ja infovahetus.
+- **Logistika kui ettevõtte juhtimistegevus** tagab kõikide juhtimisfunktsioonide eduka koostöö ja võimaldab paindlikku tegevust konkurentsitingimustes.
+- L **gistika kui mõtteviis** võimaldab mitmesuguseid logistilisi protsesse vaadelda komplekselt, omavahelistes põhjus-tagajärg seostes.
+- **Logistika kui teadusharu** uurib erinevaid meetodeid, kasutades logistiliste protsesside toimimist ja sellega seonduvaid nähtusi.
 
 Logistika on eelkõige strateegiline juhtimine, mille abil saab parandada ettevõtte strateegilist asendit ja tõsta konkurentsivõimet. Logistika on ettevõtte kõiki tegevusalasid ja astmeid läbiv mõtlemisviis, tegutsemisviis, mis toetab iseseisvaid tegevusüksusi. Kui ettevõttesse rajatakse mingi üksus, kus realiseeritakse logistilised tegevused firmas, siis tuleb seda käsitleda kui logistilist tegevust koordineerivat üksusust.
 
 Firma võib oma logistilist tegevust korraldada alljärgnevalt:
 
-- .Firma loob oma allüksuse, mis korraldab logistilist tegevust.
-- .Firma ostab üksikuid logistilisi teenuseid logistikafirmalt (transport).
-- .Firma ostab logistilist teenust pikaajaliste lepingutena. Sel juhul sünnivad strateegilised alliansid, tarne osapooled (kauba saatja ja saaja) lepivad kokku ühise logistika teenust pakkuva firma kasutamises, nn. kolmanda osapoole kasutamises.
-- .Logistilist teenust pakkuv firma vastutab kogu võrgu organiseerimise, koordineerimise ja integreerimise eest.
+- Firma loob oma allüksuse, mis korraldab logistilist tegevust.
+- Firma ostab üksikuid logistilisi teenuseid logistikafirmalt (transport).
+- Firma ostab logistilist teenust pikaajaliste lepingutena. Sel juhul sünnivad strateegilised alliansid, tarne osapooled (kauba saatja ja saaja) lepivad kokku ühise logistika teenust pakkuva firma kasutamises, nn. kolmanda osapoole kasutamises.
+- Logistilist teenust pakkuv firma vastutab kogu võrgu organiseerimise, koordineerimise ja integreerimise eest.
 
 Selle kõrval võib tootmises planeerimise ja kontrolli käigus kasutada alljärgnevat lähenemist:
 
-- .tootmine lattu
-- .tootmine vastavalt laekunud tellimustele,
-- .projekteerimine vastavalt laekunud tellimustele.
+- tootmine lattu
+- tootmine vastavalt laekunud tellimustele,
+- projekteerimine vastavalt laekunud tellimustele.
 
 Kavandatav infotehnoloogiline tase sõltub eeltoodud protsessidest aga on mõjutatud ka konkurentide käitumisest. Interneti kasutamise kasv tänu äritegevusele laienemisele on reeglina tingitud konkurentsitingimuste muutumisest, mida iseloomustab maailmamajanduse kasv, rõhuasetuse nihe informatsioonile baseeruva postindustriaalse ühiskonna suunas ja uue digitaalse majanduse areng.
 
@@ -308,11 +313,11 @@ Tuleb nõustuda, et eelpool mainitud organisatsiooni sisemised (strateegia, tood
 
 Selliseks viieks analüüsitavaks jõuks on:
 
-- .tarbija (klient)
-- .varustaja
-- .konkurendid
-- .asendustooted
-- .turule sisenemise barjäärid.
+- tarbija (klient)
+- varustaja
+- konkurendid
+- asendustooted
+- turule sisenemise barjäärid.
 
 ### 1.3.5 Kordamisküsimused
 
@@ -418,7 +423,7 @@ Selle alateema materjale läbi töötades õpid tundma äriprotsesside põhimõt
 
 Sõltuvalt töötajate ettevalmistuse tasemest võivad ametijuhendid olla kas konkreetsemad või üldisemad, kuigi tööalaste juhendmaterjalide ettevalmistamisel ei ole mõistlik lähtuda üksikute töötajate võimetest või oskustest, kuna sel juhul tuleb töötaja lahkumisel või isegi tema edutamise korral kogu juhendmaterjal ümber teha lähtudes juba uue töötaja isikuomadustest ja oskustest.
 
-Vahete-vahel kujutatakse äriprotsessi nn. „musta kastina&quot;, millel on sisend ja väljund. Reaalsuses oleks äriprotsessi sisendiks kõik faktorid, mida firma kasutab lõpptulemuse valmistamiseks alustades tööjõust, toorainest, seadmetest jne.. Väljundina saab vaadelda aga klientidele suunatud lõpptoodet või teenust.
+Vahete-vahel kujutatakse äriprotsessi nn. „musta kastina", millel on sisend ja väljund. Reaalsuses oleks äriprotsessi sisendiks kõik faktorid, mida firma kasutab lõpptulemuse valmistamiseks alustades tööjõust, toorainest, seadmetest jne.. Väljundina saab vaadelda aga klientidele suunatud lõpptoodet või teenust.
 
 Äriprotsesse on võimalik kirjeldada ka mõnevõrra täpsemalt, tuues olulisemad äriprotsessi komponendid eraldi välja ja lisades skeemi mõningad tugitegevused. Sel juhul võiks äriprotsessi kirjeldada joonisel 1-6 toodud skeem.
 
@@ -478,7 +483,7 @@ Infosüsteemi kasutamise all mõistetakse erinevate tööülesannete täitmist i
 
 Ettevõtte juhtimistasandid erinevad otsustus- ja vastutusastme järgi. Ettevõtte eesotsas on tippjuhtkond, kes vastutab terve ettevõtte tegevustulemuste eest ja kelle ülesandeks on välja töötada ja realiseerida strateegilisi plaane ja strateegiliste otsuste realiseerimiseks välja töötada taktikalisi plaane. Strateegilised otsused peavad garanteerima, et tehakse õigeid asju ja taktikalised otsused peavad garanteerima, et neid õigeid asju tehakse ka parimal moel. Tippjuhtkond oleks seega vastutav ka valitud strateegia sobivuse ja realiseerimise eest.
 
-Kõige keerulisem valdkond kuulub keskastme juhtide pädevusse, kuna nemad on sisuliselt „kahe tule vahel&quot;. Ühelt poolt esitab tippjuhtkond neile oma korraldused ja teiselt poolt peavad nemad esitama korraldused juba konkreetsetele töötegijatele, kellel võivad tekkida omapoolsed probleemid ja küsimused. Samas on keskastmejuhid tahes-tahtmata tippjuhtkonna käepikendus ja kaasvastutaja, kuna planeerimise käigus on nende poolt tippjuhtkonnale esitatud informatsioon alusel koostatud ettevõtte taktikalised plaanid. Seega vastutavad ka nemad nende plaanide reaalsuse eest. Lisaks igapäevase juhtimistegevusele vastutavad nad alates tööjõu valiku ja värbamise protsessist kuni töötajate sisulise juhtimiseni välja.
+Kõige keerulisem valdkond kuulub keskastme juhtide pädevusse, kuna nemad on sisuliselt „kahe tule vahel". Ühelt poolt esitab tippjuhtkond neile oma korraldused ja teiselt poolt peavad nemad esitama korraldused juba konkreetsetele töötegijatele, kellel võivad tekkida omapoolsed probleemid ja küsimused. Samas on keskastmejuhid tahes-tahtmata tippjuhtkonna käepikendus ja kaasvastutaja, kuna planeerimise käigus on nende poolt tippjuhtkonnale esitatud informatsioon alusel koostatud ettevõtte taktikalised plaanid. Seega vastutavad ka nemad nende plaanide reaalsuse eest. Lisaks igapäevase juhtimistegevusele vastutavad nad alates tööjõu valiku ja värbamise protsessist kuni töötajate sisulise juhtimiseni välja.
 
 Ettevõtte ja juhtkonna jaoks määrab infotehnoloogiliste lahenduste väärtuse selle loomiseks tehtud investeeringute maht (riistvara jne.) ja infosüsteemi enda (tarkvara) loomiseks tehtud kulutustest, kusjuures kuludes ei arvestata lahenduste kaasaegsust ja vajalikkust. **Ühest küljest** on neid aspekte lihtsalt keeruline kulutuste kaudu kirjeldada. **Teisest küljest** oleks aga vajalik hinnata infosüsteemi kasutamisest tekkivat lisaväärtusväärtust, kuna infosüsteemid võimaldavad kiiremini reageerida muudatustele ärikeskkonnas. Samuti võimaldab infosüsteem väga kiiresti mahukate majandusanalüüside läbiviimist. Siit ka võimalus saada kvaliteetset lähteinformatsiooni nii operatiivtegevuse korraldamisel kui ka strateegiliste otsuste tegemisel. Kuigi tippjuhtkond ja keskastme juhtide tegevusvaldkonnad on üldistatuse astme järgi mõnevõrra vastandlikud tuleb infosüsteemide väljatöötamisel arvestada mõlemate vajadustega.
 
@@ -490,27 +495,27 @@ Keskastme juhtkond vajab infosüsteemi, mis võimaldab talle ühelt poolt vahetu
 
 Seega juhtimisinfo süsteem kujutab endast andmete kogumit, mida saab esitada väga erineval moel. Enamlevinud nendest on kas aruandluse kujul tekstina või graafiliselt diagrammide, graafikute, tabelite jne. kujul. Mõningaid lähteandmeid võib vaadelda töötlemata kujul, et oleks võimalik koheselt anda hinnanguid mingitele majandustegevuse protsessidele, trendidele või muudatustele. Keerulisemate probleemide korral on vaja läbi viia mõnevõrra sügavam analüüs ja selleks kasutatakse analüütilisi mudeleid, mis võimaldavad ka jõuda majandusprobleemide sisuliste lahendusteni.
 
-Mõningane mitmetähenduslikkus valitseb ka nende süsteemide määratluste ja nimetuste osas, kuid kui infosüsteemi nimes kasutatakse väljendit „juhtimise&quot;, „strateegilise juhtimise&quot; või „ettevõtte juhtimise&quot; infosüsteem, siis on suure tõenäosusega tegemist just juhtimise infosüsteemidega, ükskõik, milliste akronüümidega neid siis ka ei tähistata.
+Mõningane mitmetähenduslikkus valitseb ka nende süsteemide määratluste ja nimetuste osas, kuid kui infosüsteemi nimes kasutatakse väljendit „juhtimise", „strateegilise juhtimise" või „ettevõtte juhtimise" infosüsteem, siis on suure tõenäosusega tegemist just juhtimise infosüsteemidega, ükskõik, milliste akronüümidega neid siis ka ei tähistata.
 
 ### 1.6.3 Infosüsteemide loomine
 
 Üldjuhul on ettevõtete juhtimise infosüsteemid ülesehitatud sarnasest loogikast lähtudes, kuna nende süsteemidega on tegeldud juba pikemat aega ja tüüplahendused on üldteada. Seega, tuginevad juhtimise infosüsteemid valdavalt firma kvantitatiivsetele näitajatele, mida saab vahetult, aruandluste alusel kasutada või siis kasutatakse üldtuntud efektiivsusnäitajate arvutusvalemeid (EBITDA, ROE, ROA jne.), hindamaks firma majanduslikku olukorda. Kindlasti pole üksikute arvnäitajate alusel saadav tulemus absoluutne tõde, kuid nende eeliseks on lihtsus ja kompaktne esitus. Probleemide olemasolul saadakse suhteliselt kiiresti nende olemasolust signaal, mis omakorda suunab täpsemate analüüsi meetodite kasutamise juurde.
 
-Kui vaadelda üldisemalt juhtimise infosüsteemi kujunemist, siis võib esile tuua mõningad olulised lähenemised põhiindikaatorite leidmiseks. Tihtipeale peetakse kõige olulisemaks kindlaks määrata tegurid, mis oma olemuselt võimaldavad kindlaks teha probleemide olemasolu ettevõttes. Neid nimetatakse ka olulisteks edukuse faktoriteks. Mõistlik oleks need sümptomid oma ettevõtte jaoks kindlaks määrata ning neid pidevalt jälgida. Kõrgematel juhtimistasanditel on tegemist juba mõnevõrra üldisema ja töödeldud informatsiooniga, mida võib liigitada muudatusi iseloomustavateks näitajateks võtmeindikaatorid. Mainitud näitajad on tavaliselt seotud operatiivkontrolliga, kuid oma olemuselt võib neid lugeda samuti kuuluvateks olulise edukuse faktorite hulka, mille muutuste korral on õhus tunda kas „kärsalõhna&quot; või viitavad näitajate muutused hoopis positiivsete ilmingute saabumisel. Ettevõtete jaoks on loomulikult tähtsam õigeaegselt saada informatsiooni võimalike probleemide ilmnemise kohta. Kõige üldisem infosüsteemi osa tagaks automaatne andmete kogumise ja töötlemise, mis toetub paljuski eelpool mainitud lähenemistele ja arvutab välja vajalikud üldised majandusnäitajad.
+Kui vaadelda üldisemalt juhtimise infosüsteemi kujunemist, siis võib esile tuua mõningad olulised lähenemised põhiindikaatorite leidmiseks. Tihtipeale peetakse kõige olulisemaks kindlaks määrata tegurid, mis oma olemuselt võimaldavad kindlaks teha probleemide olemasolu ettevõttes. Neid nimetatakse ka olulisteks edukuse faktoriteks. Mõistlik oleks need sümptomid oma ettevõtte jaoks kindlaks määrata ning neid pidevalt jälgida. Kõrgematel juhtimistasanditel on tegemist juba mõnevõrra üldisema ja töödeldud informatsiooniga, mida võib liigitada muudatusi iseloomustavateks näitajateks võtmeindikaatorid. Mainitud näitajad on tavaliselt seotud operatiivkontrolliga, kuid oma olemuselt võib neid lugeda samuti kuuluvateks olulise edukuse faktorite hulka, mille muutuste korral on õhus tunda kas „kärsalõhna" või viitavad näitajate muutused hoopis positiivsete ilmingute saabumisel. Ettevõtete jaoks on loomulikult tähtsam õigeaegselt saada informatsiooni võimalike probleemide ilmnemise kohta. Kõige üldisem infosüsteemi osa tagaks automaatne andmete kogumise ja töötlemise, mis toetub paljuski eelpool mainitud lähenemistele ja arvutab välja vajalikud üldised majandusnäitajad.
 
 Vastavalt ettevõtte majandustegevuse iseloomule on võimalik koostada just konkreetse firma vajadusi ja probleeme kajastava mitmetahulise analüüsi mudeli. Selles mudelis ei vaadelda üksikuid ettevõtte majandustegevuse tahke, vaid töötatakse välja kompleksne majandusanalüüsi mudel. Kindlasti on mudelis alamsüsteem, mille abil leitakse ettevõtte finantsnäitajad, kuhu kuuluvad maksuametile esitatavad aruanded, nagu bilanss, kasumiaruanne, rahavood ja mitmesugused lisad. Mainitud aruanded huvitavad praktiliselt kõiki osapooli(omanikud, kreeditorid jne). Oluline koht kuulub ka tarbijate ja hankijate rahulolu analüüsile. Ettevõtte arengu seisukohalt on väga tähtis teada oma klientide aga ka hankijate meelsust, nende rahulolu ja lojaalsust, ühtlasi oleks see tagasiside firma tegevusele. Väga olulised on ka mitmesugused firma efektiivsusnäitajad ning võrdlused konkurentide tulemustega. Ja last but not _least_ tuleks arvutada või saada eksperthinnangute baasil innovaatilisust iseloomustavad näitajad, mis annavad hinnangu ettevõtte õppimis- ja kohanemisvõimele, teadmiste juhtimisele, üldisele arengule ja väärtuse loomisele.
 
 Tavaliselt on selliste infosüsteemide lahutamatuks koostisosaks andmeait, kuhu on paigutatud vajalikud andmed soovitavate majandusanalüüside läbiviimiseks. Samuti kasutatakse sageli ka mitmemõõtmelisi majandusanalüüsi meetodeid. Eestis on üks selle valdkonna rajajaid akadeemik U. Mereste, kes on aastaid tegelenud ettevõtte maatriksanalüüsiga. Peale maatriksanalüüsi kasutatakse ka ruumilisi mudeleid, mis on oma olemuselt juba mõnevõrra keerulisemad.
 
-Lisaks tavalistele juhtimise infosüsteemidele kasutatakse tihtipeale ka eraldiseisvaid nn. objektorienteeritud infosüsteeme ja üheks selliseks on mitmetes firmades „Teadmusjuhtimise&quot; infosüsteem.
+Lisaks tavalistele juhtimise infosüsteemidele kasutatakse tihtipeale ka eraldiseisvaid nn. objektorienteeritud infosüsteeme ja üheks selliseks on mitmetes firmades „Teadmusjuhtimise" infosüsteem.
 
 Teadmusjuhtimine (knowledge management) muutus juhtimisalaseks terminiks 90ndate aastate alguses. Esialgu suhtuti sellesse küüniliselt ning väideti, et selles pole midagi uut.
 
 Küünilisus kadus kiiresti, selle asemele tulid mitmed täiendavad küsimused:
 
-- .kuidas me kasutame oma teadmisi konkurentsieelise saavutamiseks?
-- .kuidas me mõõdame organisatsiooni intellektuaalset kapitali?
-- .kas meie teadmised eristavad meid konkurentidest?
+- kuidas me kasutame oma teadmisi konkurentsieelise saavutamiseks?
+- kuidas me mõõdame organisatsiooni intellektuaalset kapitali?
+- kas meie teadmised eristavad meid konkurentidest?
 
 Enne teadmusjuhtimise defineerimist vaatleme teadmistega seonduvaid protsesse ja mõisteid.
 
@@ -528,31 +533,31 @@ Enne teadmusjuhtimise defineerimist vaatleme teadmistega seonduvaid protsesse ja
 
 Tänane maailm esitab ettevõtetele mitmeid väljakutseid, seda eriti organisatsiooni strateegia vallas:
 
-- .kiired muutused ärikeskkonnas – globaliseerumine ning dereguleerimine
-- .äriprotsesside integreerimine veebitehnoloogiaga uued käibe suurendamise, kulude vähendamise ning organisatsiooni efektiivsuse tõstmise võimalused
-- .vajadus luua uusi meetodeid, mõistmaks kliente, konkurente ning kogu tegevusvaldkonda.
+- kiired muutused ärikeskkonnas – globaliseerumine ning dereguleerimine
+- äriprotsesside integreerimine veebitehnoloogiaga uued käibe suurendamise, kulude vähendamise ning organisatsiooni efektiivsuse tõstmise võimalused
+- vajadus luua uusi meetodeid, mõistmaks kliente, konkurente ning kogu tegevusvaldkonda.
 
 **Organisatsiooni strateegial** on laias mõttes kaks eesmärki:
 
-- .arendada ning hoida olemasolevat konkurentsieelist
-- .luua konkurentsieelis tulevikuks.
+- arendada ning hoida olemasolevat konkurentsieelist
+- luua konkurentsieelis tulevikuks.
 
 Teadmusjuhtimine eeldab, et organisatsiooni konkurentsieelist suurendavad tema teadmised. Konkurentsieelise saavutamiseks tuleb esmalt identifitseerida ning analüüsida olemasolevaid organisatsioonilisi teadmisi ning teadmisi sihtturukohta. Teise eesmärgi täitmiseks tuleb aga luua uusi teadmisi. See on märksa keerulisem ülesanne, eriti kui arvestada tänapäeva dünaamilist elukeskkonda.
 
 **Organisatsiooniliste teadmiste juhtimiseks** ja haldamiseks on vajalik:
 
-- .teadmiste kogumine ning talletamine olgu süstemaatiline ning mõtestatud tegevus
-- .uute teadmiste kogumine on organisatsiooniellujäämise seisukohalt kriitiline, seda eriti muutuvas ärikeskkonnas
-- .suuremas organisatsioonis olgu teadmusjuhtimisega tegelevad spetsialistid tööl täiskohaga
-- .organisatsioonikultuur olgu teadmiste vahetamiseks avatud, tähtis on usaldus organisatsiooni liikmetevahel.
+- teadmiste kogumine ning talletamine olgu süstemaatiline ning mõtestatud tegevus
+- uute teadmiste kogumine on organisatsiooniellujäämise seisukohalt kriitiline, seda eriti muutuvas ärikeskkonnas
+- suuremas organisatsioonis olgu teadmusjuhtimisega tegelevad spetsialistid tööl täiskohaga
+- organisatsioonikultuur olgu teadmiste vahetamiseks avatud, tähtis on usaldus organisatsiooni liikmetevahel.
 
 **Teadmusjuhtimise seos IT-ga**. IT on teadmusjuhtimise baasinfrastruktuur. Erinevalt organisatsioonikultuurist, struktuurist ja protsessidest on IT-d suhteliselt lihtne uuendada ning muuta. Samas on IT-1 väga vähe tegemist reaalse teadmusjuhtimisega, põhiliselt kasutatakse seda info edastamisel ja talletamisel.
 
 Tasub meeles pidada, et:
 
-- .IT rakendamine pole iseenesest teadmusjuhtimine, infotehnoloogial on teadmusjuhtimises vaid soodustav mõju (peamiselt infrastruktuuri näol)
-- .IT ei loo teadmisi, küll aga on selle abil võimalik neid edastada ning talletada
-- .IT ei paranda teadmiste kasutamist, küll aga aitab kogutud teadmisi levitada.
+- IT rakendamine pole iseenesest teadmusjuhtimine, infotehnoloogial on teadmusjuhtimises vaid soodustav mõju (peamiselt infrastruktuuri näol)
+- IT ei loo teadmisi, küll aga on selle abil võimalik neid edastada ning talletada
+- IT ei paranda teadmiste kasutamist, küll aga aitab kogutud teadmisi levitada.
 
 Teadmusjuhtimise rollid ning erialad
 
@@ -580,24 +585,24 @@ Kuigi teadmusjuhtimine on suhteliselt uus distsipliin, on teadmisi püütud kogu
 
 Teadmistehoidla realiseerimiseks kasutatakse põhiliselt kahte erinevat tehnoloogiat:
 
-- .rühmatarkvara (groupware,Lotus Notes)
-- .veebi (intraneti lahendus).
+- rühmatarkvara (groupware,Lotus Notes)
+- veebi (intraneti lahendus).
 
 Tänapäeval on need kaks tehnoloogiat peaaegu ühte sulanud.
 
 Rühmatarkvara või kujutada ka teadmiste hoidlana:
 
-- .dokumendipõhiste andmete haldus
-- .diskussioonigruppide loomine ja haldus
-- .teadmiste ühtlustamine hajutatud keskkonnas ning kaugkasutamine
-- .lessons learn-tüüpi teadmiste kogumine ning haldamine
-- .viitesüsteemi loomine dokumentides.
+- dokumendipõhiste andmete haldus
+- diskussioonigruppide loomine ja haldus
+- teadmiste ühtlustamine hajutatud keskkonnas ning kaugkasutamine
+- lessons learn-tüüpi teadmiste kogumine ning haldamine
+- viitesüsteemi loomine dokumentides.
 
 Veebikeskne intranet teadmiste hoidlana:
 
-- .info publitseerimine väga erinevatel platvormidel
-- .otsingusüsteemide loomine
-- .viitesüsteemide loomine veebilinkide abil.
+- info publitseerimine väga erinevatel platvormidel
+- otsingusüsteemide loomine
+- viitesüsteemide loomine veebilinkide abil.
 
 Reaalajas töötavad teadmusjuhtimissüsteemid sobivad enamasti juhul, kui on suhteliselt vähe aega ning kasutajal on olemas tugisüsteem või HelpDesk-tüüpi rakendused. Säärased süsteemid vajavad eksperte, kes sisestavad teatud hulga lahendatud (positiivse tulemiga) juhtumeid. Kasutaja peab oskama leida probleemile hoidlast sobiv lahendus, seda soovitavalt kiiresti, mis on lõppkasutajale sageli väga oluline. Suurt kasutamist leiavad sellised süsteemid IT firmades ning organisatsioonide IT osakondades. Üks võimalus muuta andmed teadmisteks on kasutada närvivõrke. Närvivõrgud on statistikale orienteeritud vahendid, mis kasutavad andmeid erinevate sündmuste või juhtumite klassifitseerimiseks. Mida rohkem on lahendatud juhtumeid, seda täpsemaks sellised süsteemid muutuvad. Samas seavad närvivõrgud kasutajaile väga kõrgeid nõudmisi. Et tulemuste interpreteerimine on keerukas, vajatakse selleks eriti algfaasis kõrgtasemelisi statistikuid. Närvivõrke võib vaadelda kui üht tehisintellekti vormi ja nende kasutusvaldkond on enamasti finantssektor.
 
@@ -621,7 +626,7 @@ Teadmusjuhtimine võib osutuda organisatsioonile kalliks ettevõtmiseks, mistõt
 
 5. Selge visioon
 
-Teadmusjuhtimise strateegia on osa üldisest organisatsiooni strateegiast. See puudutab ka teadmusjuhtimise visiooni, mis peab olema üks osa organisatsiooni üldisest visioonist. Samuti on oluline, et visioon oleks selge kõigile organisatsiooni liikmetele- et neil oleks „ühine keel&quot;. Jällegi võiks selle visiooni vahendajaks olla sisekommunikatsiooni juht.
+Teadmusjuhtimise strateegia on osa üldisest organisatsiooni strateegiast. See puudutab ka teadmusjuhtimise visiooni, mis peab olema üks osa organisatsiooni üldisest visioonist. Samuti on oluline, et visioon oleks selge kõigile organisatsiooni liikmetele- et neil oleks „ühine keel". Jällegi võiks selle visiooni vahendajaks olla sisekommunikatsiooni juht.
 
 6. Läbimõeldud motiveerimissüsteem
 
@@ -639,33 +644,37 @@ Lõpuks peab märkima, et lähtudes ülaltoodud teadmusjuhtimise ideoloogiast on
 
 ### 1.6.7 Kordamisküsimused
 
+::: tip Kordamisküsimused
+
 1. Andmed on:
 
-1. arvutis korrastatult paiknev volitatutele ligipääsetav ja metainfoga varustatud infohulkX
-1. kõvaketastel paiknevad failid
-1. andmebaasi sisu
-1. numbrid Exceli tabelites
+- arvutis korrastatult paiknev volitatutele ligipääsetav ja metainfoga varustatud infohulk X
+- kõvaketastel paiknevad failid
+- andmebaasi sisu
+- numbrid Exceli tabelites
 
-1. Infosüsteemiks nimetatakse:
+2. Infosüsteemiks nimetatakse:
 
-1. ettevõtte tugisüsteemi informatsiooni halduseks X
-1. arvuteid ja arvutivõrku
-1. sisseostetud tarkvararakendusi
-1. personali ja palgainfot
+- ettevõtte tugisüsteemi informatsiooni halduseks X
+- arvuteid ja arvutivõrku
+- sisseostetud tarkvararakendusi
+- personali ja palgainfot
 
-1. Infoks nimetatakse:
+3. Infoks nimetatakse:
 
-1. kõike, mida kuuldakse või nähakse
-1. sõnumit, mis esineb dokumendi või audiovisuaalses vormis oleva kommunikatsioonina X
-1. juhtkonna poolt infoks nimetatud teavet
-1. ainult vajalikku teavet
+- kõike, mida kuuldakse või nähakse
+- sõnumit, mis esineb dokumendi või audiovisuaalses vormis oleva kommunikatsioonina X
+- juhtkonna poolt infoks nimetatud teavet
+- ainult vajalikku teavet
 
-1. Teadmusjuhtimine on:
+4. Teadmusjuhtimine on:
 
-1. soovide ja ideede kahesuunalise liikumise protsess sihttarbija ja tooteid/teenuseid arendava meeskonna vahel
-1. teaduslike avastuste süstematiseerimine
-1. patendiohjesüsteemi sünonüüm
-1. ärikeskkonnast saadud olulise info süstematiseerimine, töötlemine, kommenteerimine ja kättesaadavaks tegemine sihtgrupile X
+- soovide ja ideede kahesuunalise liikumise protsess sihttarbija ja tooteid/teenuseid arendava meeskonna vahel
+- teaduslike avastuste süstematiseerimine
+- patendiohjesüsteemi sünonüüm
+- ärikeskkonnast saadud olulise info süstematiseerimine, töötlemine, kommenteerimine ja kättesaadavaks tegemine sihtgrupile X
+
+:::
 
 ## 1.7 Koostöötehnika organisatsioonides
 
@@ -675,9 +684,9 @@ Selle alateema materjale läbi töötades õpid tundma organisatsionide koostö�
 
 Raske, kui mitte võimatu, on ette kujutada edukat ettevõtet, kus pole tähelepanu pööratud koostöö küsimuste lahendamisele. Igasugune koostöö tänapäeval on seotud aga kommunikatsioonitehnoloogiatega ja baseerub tihtipeale just Interneti abil realiseeritavatele lahendustele. Kvaliteetse koostöö tagamiseks peab olema tasemel nii ettevõtte sise- kui ka välissuhtlus.
 
-Müügi ladus ja tarbijasõbralik korraldamine on igale ettevõttele ülioluline. Seetõttu lähtudes ühel poolt kliendisõbralikkusest ja hinnates teiselt poolt kommunikatsioonitehnika arengusuundi, peab toonitama, et reaalsuses pälvivad üha laiemat tähelepanu internetimüügi tehnikad (e-äri) ja/või interneti kasutamine müügikohtades (e-kommerts). E-kommertsi arengule on kaasa aidanud ka meile juba mõnda aega teada-tuntud ja laialdaselt kasutatud pankade ja müügikettide poolt väljatöötatud rakendused. Oluliseks läbimurdeks või pidada internetipankade kasutamist, mis võimaldab meil teha igapäevaseid väikseid makseid isiklikul kontol sularaha omamata. Sama süsteemi saab kasutada ka internetikauplustes. Seitsmekümnendate aastate revolutsiooniks panganduses oli „masintelleri&quot; (ATM) kasutamine, mida meie tunneme rohkem pangaautomaatide nime all.
+Müügi ladus ja tarbijasõbralik korraldamine on igale ettevõttele ülioluline. Seetõttu lähtudes ühel poolt kliendisõbralikkusest ja hinnates teiselt poolt kommunikatsioonitehnika arengusuundi, peab toonitama, et reaalsuses pälvivad üha laiemat tähelepanu internetimüügi tehnikad (e-äri) ja/või interneti kasutamine müügikohtades (e-kommerts). E-kommertsi arengule on kaasa aidanud ka meile juba mõnda aega teada-tuntud ja laialdaselt kasutatud pankade ja müügikettide poolt väljatöötatud rakendused. Oluliseks läbimurdeks või pidada internetipankade kasutamist, mis võimaldab meil teha igapäevaseid väikseid makseid isiklikul kontol sularaha omamata. Sama süsteemi saab kasutada ka internetikauplustes. Seitsmekümnendate aastate revolutsiooniks panganduses oli „masintelleri" (ATM) kasutamine, mida meie tunneme rohkem pangaautomaatide nime all.
 
-Erinevused Interneti ja e-kommertsi osas on esile kerkinud alles viimastel aastatel. Kui hinnata Interneti ja e-äri arenguid viimasel kümnendil, siis vaatamata „uue majanduse&quot; ja sellega koos ka e-äri suuri tagasilööke 2000 a. on selles valdkonnas ringlevate rahade kasv märkimisväärne. Tagasihoidlike hinnangute alusel on viimase kümne aasta jooksul kasvanud interneti äris ringlevate summade suurus kümneid tuhaneid kordi. Tõeline hüpe Interneti äri arengus on tekitanud ööpäevaringse iseteenindusel baseeruva internetimüügi väljaarendamine. Firmades on peamised Interneti põhised arendustegevuse suunad mõnevõrra stabiilsemal alusel, kuna arendatakse juba järeleproovitud ja mõnevõrra traditsioonilisemaid rakendusi, mis on välja töötatud pidades tarbijate huvisid silmas ja mõeldud lahenduste mugavamaks kasutamiseks. Peamine probleem on aga see, kuidas tagada tõhus koostöö firma ja Interneti kaubanduse vahel enne spetsiaalse e-äri jaoks väljatöötatud uue tehnoloogia kasutuselevõtmist.
+Erinevused Interneti ja e-kommertsi osas on esile kerkinud alles viimastel aastatel. Kui hinnata Interneti ja e-äri arenguid viimasel kümnendil, siis vaatamata „uue majanduse" ja sellega koos ka e-äri suuri tagasilööke 2000 a. on selles valdkonnas ringlevate rahade kasv märkimisväärne. Tagasihoidlike hinnangute alusel on viimase kümne aasta jooksul kasvanud interneti äris ringlevate summade suurus kümneid tuhaneid kordi. Tõeline hüpe Interneti äri arengus on tekitanud ööpäevaringse iseteenindusel baseeruva internetimüügi väljaarendamine. Firmades on peamised Interneti põhised arendustegevuse suunad mõnevõrra stabiilsemal alusel, kuna arendatakse juba järeleproovitud ja mõnevõrra traditsioonilisemaid rakendusi, mis on välja töötatud pidades tarbijate huvisid silmas ja mõeldud lahenduste mugavamaks kasutamiseks. Peamine probleem on aga see, kuidas tagada tõhus koostöö firma ja Interneti kaubanduse vahel enne spetsiaalse e-äri jaoks väljatöötatud uue tehnoloogia kasutuselevõtmist.
 
 ### 1.7.2 Võrguteenuste mõju ettevõttele
 
@@ -711,7 +720,7 @@ Põhilised vahendid, mida tuleks kindlasti silmas pidada ettevõtte juhtimisprot
 
 Kindel koht firmasiseses suhtluses omab ka protseduurireeglite süsteem. Antud süsteem sisaldab ametikirjeldus, määratleb käsuliinid alluvussuhted, töötajate rollid, infosüsteemi kasutamise õigused e. kellel on õigus ainult lugeda kellel muuta andmeid, millistele andmetele keegi üldse ligi pääseb jne. jne. kaasajal omab järjest suuremat tähtsust Interneti-põhine varustus-turustussüsteem, mi iseloomustab ettevõtte juhtimistegevuse väljumist ettevõtte raamidest ning omab tänapäeval väga tähtsat rolli edukate ettevõtete majandustegevuses. Ja lõpuks ka telekommunikatsiooni ja tehnoloogiliste võimaluste kasutamise süsteem, mille abil luuakse võimalus videokonverentside pidamiseks jne.
 
-Võimalus töötada ühiselt, ühes töögrupis vaatamata sellele, et ollakse ruumilises ja mõnikord ka geograafilises mõttes üksteisest eraldatud on tänapäeval küllaltki levinud. Tänapäevased sidevahendid teevad tuhanded kilomeetrid olematuks, vahel võib häirida ja ebamugavusi tekitada ainult suur ajavahe. Läbivaks ideeks sellist laadi koostöö korral oleks kokkukuuluvus, ühtsed eesmärgid, mis ilmselt ongi sellist laadi meeskonnatöö aluseks. Kokkukuuluvustunnet aga ka teatud laadi sisemist hierarhiat peavad tunnetama kõik töögrupi üksikud liikmed. Tihtipeale nimetatakse sellist loomingulist suhtumist ja koostöö valmidust ka „meeskonna vaimuks&quot;. Seega, töötades grupis tuleb loomulikuks pidada kõrget sõltumatuse taset, kusjuures vabadusastmed tuleb eelnevalt kokkuleppida.
+Võimalus töötada ühiselt, ühes töögrupis vaatamata sellele, et ollakse ruumilises ja mõnikord ka geograafilises mõttes üksteisest eraldatud on tänapäeval küllaltki levinud. Tänapäevased sidevahendid teevad tuhanded kilomeetrid olematuks, vahel võib häirida ja ebamugavusi tekitada ainult suur ajavahe. Läbivaks ideeks sellist laadi koostöö korral oleks kokkukuuluvus, ühtsed eesmärgid, mis ilmselt ongi sellist laadi meeskonnatöö aluseks. Kokkukuuluvustunnet aga ka teatud laadi sisemist hierarhiat peavad tunnetama kõik töögrupi üksikud liikmed. Tihtipeale nimetatakse sellist loomingulist suhtumist ja koostöö valmidust ka „meeskonna vaimuks". Seega, töötades grupis tuleb loomulikuks pidada kõrget sõltumatuse taset, kusjuures vabadusastmed tuleb eelnevalt kokkuleppida.
 
 Kui vaadelda laiemalt eraldi või koos töötamise probleemi, siis võib märkida, et eraldi asuvate töötajate koostöö korraldamine ei pruugi olla lihtsate meetoditega lahendatav. Organisatsiooniteooria üks valdkondi tegelebki erinevatest kultuuri ja/või usulise taustaga keskkondadest pärinevate töötajate koostöö küsimustega. Reaalsuses võivad need inimesed töötada ühises ruumis, kuid tänapäeval pole sugugi harvad juhtumid, kus töötatakse eri piirkondades. Kaugtöö korral võib juhtuda, et inimesed pole teineteist näinudki ega tunne üksteist.
 
@@ -729,10 +738,10 @@ Kokkuvõtteks peab märkima, et üheks edukust tagavaks teguriks tuleb pidada t�
 
 1. Milline koostöötehnika on alltoodud võimalustes uusim:
 
-1. ühes kontoris töötav personal
-1. sama sõnumsidet kasutavad tuttavad ja sõbrad
-1. failisüsteemi kirjutusõigusega kasutajad
-1. virtuaalne töögrupp X
+- ühes kontoris töötav personal
+- sama sõnumsidet kasutavad tuttavad ja sõbrad
+- failisüsteemi kirjutusõigusega kasutajad
+- virtuaalne töögrupp X
 
 ## 1.8 Arvutipõhine koolitus ja e-õpe
 
@@ -740,7 +749,7 @@ Selle alateema materjale läbi töötades õpid tundma arvutipõhise koolituse j
 
 ### 1.8.1 Arvutipõhise koolituse ja e-õppe põhimõtted
 
-Tänapäeval on arvuti leidnud kindla koha kõikides õppetöövormides alates üld- ja kõrgharidusega ning lõpetades täiendkoolitusega. Kuna tööturul püsimiseks peavad inimesed senisest aktiivsemalt tegelema enda tööalases „vormis&quot; hoidmisega, siis ilma Internetita ja arvutita see alati võimalik ei olegi. Võimatu on ette kujutada kõrgemat õppeasutust või koolitusfirmat, mis ei oma arvutiklassi või ei kasuta Interneti võimalusi oma õppematerjalide suunamiseks avalikustamiseks. Internetipõhist koolitust ongi hakatud nimetama üldnimetusega e-õpe. Ilmselgelt võimaldab Internet õppurite võimalusi oluliselt suurendada.
+Tänapäeval on arvuti leidnud kindla koha kõikides õppetöövormides alates üld- ja kõrgharidusega ning lõpetades täiendkoolitusega. Kuna tööturul püsimiseks peavad inimesed senisest aktiivsemalt tegelema enda tööalases „vormis" hoidmisega, siis ilma Internetita ja arvutita see alati võimalik ei olegi. Võimatu on ette kujutada kõrgemat õppeasutust või koolitusfirmat, mis ei oma arvutiklassi või ei kasuta Interneti võimalusi oma õppematerjalide suunamiseks avalikustamiseks. Internetipõhist koolitust ongi hakatud nimetama üldnimetusega e-õpe. Ilmselgelt võimaldab Internet õppurite võimalusi oluliselt suurendada.
 
 E-õppe korral on aga tehnoloogia võimaluste laienemine kogu õppeprotsessi üks külg.
 
@@ -752,11 +761,11 @@ E-õppeks on loetud ka ülikoolide õppeinfosüsteemidesse lisatud loengumaterja
 
 Kui mingil moel ülaltoodud lähenemisi kokku võtta ja süstematiseerida, siis oleksid põhilised e-õppe iseloomustavad väited:
 
-- .tarkvarade raames (Microsoft, Linux jne.) leiduvad võimalused, mis annavad kasutajatel võimaluse õppida ja kasutada kõikvõimalikke lisafunktsioone ja –võimalusi
-- .õppeinfosüsteemid ja koduleheküljed, kuhu õppejõud oma õppematerjale üle laadivad, mõningates õppeinfo süsteemides eksisteerivad ka lihtsamad teadmiste kontrollisüsteemid
-- .õppejõudude endi poolt väljatöötatud ainekesksed materjali esituse ja loogilised teadmiste kontrolli süsteemid. Paraku on nende väljatöötamine aeganõudev, seega oleks ka nende arv väike, samas on need kõige efektiivsemad vahendid aine omandamisel
-- .universaalsed e-õppe keskkonnad, mis on välja töötatud kas suurte ülikoolide poolse tellimusena või kommertseesmärkidel, nagu WebCT, Edutizer, Luvit, Moodle, IVA jne
-- .eeldatakse, et aastatel 2010-2015 laieneb plahvatuslikult just sotsiaalsete internetikeskkondade kasutamine õppetöös, eriti just sotsiaalteaduste õpetamisel. Seniste suhtluskeskkondade (Facebook, Twitter, kõikvõimalikud blogid, „Second life&quot; keskkond jne.) kõrvale ilmuvad objekt-orienteeritud internetikeskkonnad, mis võimaldavad üliõpilastel omandada ainet senisest oluliselt efektiivsemalt „learning by doing&quot; põhimõtetel.
+- tarkvarade raames (Microsoft, Linux jne.) leiduvad võimalused, mis annavad kasutajatel võimaluse õppida ja kasutada kõikvõimalikke lisafunktsioone ja –võimalusi
+- õppeinfosüsteemid ja koduleheküljed, kuhu õppejõud oma õppematerjale üle laadivad, mõningates õppeinfo süsteemides eksisteerivad ka lihtsamad teadmiste kontrollisüsteemid
+- õppejõudude endi poolt väljatöötatud ainekesksed materjali esituse ja loogilised teadmiste kontrolli süsteemid. Paraku on nende väljatöötamine aeganõudev, seega oleks ka nende arv väike, samas on need kõige efektiivsemad vahendid aine omandamisel
+- universaalsed e-õppe keskkonnad, mis on välja töötatud kas suurte ülikoolide poolse tellimusena või kommertseesmärkidel, nagu WebCT, Edutizer, Luvit, Moodle, IVA jne
+- eeldatakse, et aastatel 2010-2015 laieneb plahvatuslikult just sotsiaalsete internetikeskkondade kasutamine õppetöös, eriti just sotsiaalteaduste õpetamisel. Seniste suhtluskeskkondade (Facebook, Twitter, kõikvõimalikud blogid, „Second life" keskkond jne.) kõrvale ilmuvad objekt-orienteeritud internetikeskkonnad, mis võimaldavad üliõpilastel omandada ainet senisest oluliselt efektiivsemalt „learning by doing" põhimõtetel.
 
 Eeltoodud loetelu jaoks pingerida koostada on raske, pigem on tegemist tehnoloogia ja meie endi tõekspidamiste arengu tulemusena toimunud õppeprotsessi evolutsiooniga - lihtsamalt keerulisemale. Samas, mida vähem vahetuid kontakte õppejõudude ja õppurite vahel toimub, seda motiveeritum peab olema õppur. Iseseisev töö on e-õppe lahutamatu osa, mis nõuab tahtejõudu ja keskendumisvõimet. Paraku on just need iseloomuomadused õppurite lõikes väga erinevad. Kui võrrelda õppurite motiveeritust, siis peab märkima, et üliõpilased on keskmiselt rohkem motiveeritud erialaste ainete omandamisel ja vähem üldainete puhul. Täiendkoolitusel, kus õppurid ise valivad valdkonnad, milles ennast täiendada, on motiveeritus võrreldes üliõpilastega oluliselt kõrgem.
 
@@ -798,11 +807,11 @@ Selle alateema materjale läbi töötades õpid tundma infoüshiskonna ülesehit
 
 Ilma igasuguste kahtlusteta võib väita, et just infotehnoloogia kiire areng on põhjustanud kolossaalseid muutusi majanduses ja ühiskondlikus elus ja seda peamiselt viimaste aastakümnete jooksul. Alates teisest maailmasõjas, kus radartehnoloogia nõudis esimeste arvutite väljatöötamist pole asjatundajad hetkegi kahelnud, et just selle valdkonna päralt on tulevik. Tänaseks päevaks on infotehnoloogia Interneti kaudu ühendanud ja selle läbi muutnud kogu maailma, kuna paljuräägitud globaliseerumisprotsessid ei oleks mõeldavad ilma Interneti levikuta. Sisuliselt ei ole enam valdkonda, kus infotehnoloogia mõju ei oleks märgata, olgu selleks siis majandus tervikuna, riigiasutused või siis kolmas sektor.
 
-USA keskpanga FED-i endine esimees Alan Greenspan, tuntuim ja arvestatuim omaaegne aktsiaturgude mõjutaja maailmas, põhjendab USA majanduse ja börsiindeksite pidevat kiiret kasvu üheksakümnendatel aastatel just infotehnoloogiasse investeerimisest lähtunud tootlikkuse kasvuga. Info­tehnoloogiline tootmine on olnud ja on ka soomlaste, rootslaste ja nn. aasia „majandustiigrite&quot; eduka majanduse aluseks.
+USA keskpanga FED-i endine esimees Alan Greenspan, tuntuim ja arvestatuim omaaegne aktsiaturgude mõjutaja maailmas, põhjendab USA majanduse ja börsiindeksite pidevat kiiret kasvu üheksakümnendatel aastatel just infotehnoloogiasse investeerimisest lähtunud tootlikkuse kasvuga. Info­tehnoloogiline tootmine on olnud ja on ka soomlaste, rootslaste ja nn. aasia „majandustiigrite" eduka majanduse aluseks.
 
 Miks on infotehnoloogia sedavõrd võimas tööriist ja mis on IT eesmärk? Lühidalt võiks öelda, et info­tehnoloogia eesmärk on automatiseerida inimmõistuse kee­rukamaid tööülesandeid. Samas on IT kaugem eesmärk intelli­gentsete masinate loomine, mis inimeste asemel kogu töö ära teeksid.
 
-Samas on „tõeline&quot; tehisintellekt kauge tulevikuunistus, kuigi tipparvuti koos tippmalemängu programmiga on tu­gevam maletaja kui valitsev maailmameister. Sellegipoolest on prae­gused ja lähituleviku arvutid ja tarkvara inimesest ning ka kõrgema arenguga loomadest võrreldamatult ebaintelligentsemad.
+Samas on „tõeline" tehisintellekt kauge tulevikuunistus, kuigi tipparvuti koos tippmalemängu programmiga on tu­gevam maletaja kui valitsev maailmameister. Sellegipoolest on prae­gused ja lähituleviku arvutid ja tarkvara inimesest ning ka kõrgema arenguga loomadest võrreldamatult ebaintelligentsemad.
 
 ### 1.9.2 IT roll ühiskonna arengus
 
@@ -812,9 +821,9 @@ Siit leiame selgituse ka infotehnoloogia kiirele arengule. IT arendamine ja toot
 
 Alus majanduse ja ühiskonna industrialiseerimisele pandi mitu sajandit tagasi. Esmalt võeti masinad kasutusele füüsilise lihttöö asendamiseks - vesiveski, mehhaanilised ketrusmasinad, aurumasin, raudtee ja auto on industriali­seerimise algperioodi peamised märksõnad. Kõik need seadmed ja tehnoloogiad reformisid tootmisprotsesse, lõid uusi teenuseid ning muutsid märkimisväärselt nii majan­dust kui kogu ühiskonda.
 
-Kontori- ja organiseerimistöö mehhaniseerimine algas eelmisel sajandil kirjutusmasinate loomisega ning jätkus mehhaaniliste kaardiarvestusaparaatide ehitamisega. 20. sajandi esimesel poolel sündinud kommunikatsiooni­tehnoloogia - telefon, raadio, televiisor - oli sajandi teise poole radikaalse majandusliku ja ühiskondliku arengu mootoriks. _&quot;Medium is the message&quot;_ - nii pealkirjastas ühiskonnateoreetik Marshall McLuhan oma suurteose.
+Kontori- ja organiseerimistöö mehhaniseerimine algas eelmisel sajandil kirjutusmasinate loomisega ning jätkus mehhaaniliste kaardiarvestusaparaatide ehitamisega. 20. sajandi esimesel poolel sündinud kommunikatsiooni­tehnoloogia - telefon, raadio, televiisor - oli sajandi teise poole radikaalse majandusliku ja ühiskondliku arengu mootoriks. _"Medium is the message"_ - nii pealkirjastas ühiskonnateoreetik Marshall McLuhan oma suurteose.
 
-Kommunikatsioonitehnoloogia oli aluseks kaasaegse arvutustehnika tekkele, mis nüüd omakorda esimest reformib. Võrgusüsteemide pioneeri Sun Microsystemsi moto &quot;Network is the computer&quot; (võrk on arvuti) ongi tõeks saanud. Arvuteid, võrku ja kommunikatsiooni­tehnoloogiat ei saa enam üksteisest eristada.
+Kommunikatsioonitehnoloogia oli aluseks kaasaegse arvutustehnika tekkele, mis nüüd omakorda esimest reformib. Võrgusüsteemide pioneeri Sun Microsystemsi moto "Network is the computer" (võrk on arvuti) ongi tõeks saanud. Arvuteid, võrku ja kommunikatsiooni­tehnoloogiat ei saa enam üksteisest eristada.
 
 Kui kahekümnenda sajandi ühiskond oli auto-, telefoni­ ja televiisoriühiskond, siis sajandivahetuse maailm on muutumas radikaalselt uueks, nn infoühiskonnaks. Infoühiskonna peamiseks tunnuseks on arvutite massiline kasutamine ja kõikjale ulatuvad ülemaailmsed, perso­naalsed kommunikatsioonikanalid - internet ja sellel baseeruvad struktuurid ning teenused. Infoühiskonna inimesel on arvuti abil võimalik ligi pääseda tolmtule hul­gale andmepankadele ja infoallikatele, tema abivahen­diks on võimsad personaal- ja serverarvutid. Suhtlemine maailma mistahes nurgaga on sama lihtne ja odav nagu suhtlemine kõrvalmaja elanikega. Töötada saab edukalt nii kontoris, kodus kui reisil olles. Kaugused kaotavad oma senise tähenduse.
 
@@ -832,11 +841,11 @@ IT arenedes teravneb ning globaliseerub üldine majanduslik konkurents. Senist m
 
 IT võimaldab:
 
-- .teha kiiremini rutiinseid töid ja hoida kokku tööjõudu
-- .pakkuda hoopis uusi tooteid ja teenuseid
-- .juhtimist efektiivsemaks muuta ning organisatsiooni struktuuri õhendada
-- .hajutada tööd eri paikade vahel
-- .luua uusi marketingikanaleid, sh ülemaailmseid
+- teha kiiremini rutiinseid töid ja hoida kokku tööjõudu
+- pakkuda hoopis uusi tooteid ja teenuseid
+- juhtimist efektiivsemaks muuta ning organisatsiooni struktuuri õhendada
+- hajutada tööd eri paikade vahel
+- luua uusi marketingikanaleid, sh ülemaailmseid
 
 ### 1.9.3 E-äri
 
@@ -844,10 +853,10 @@ Virtuaalses ärikeskkonnas tehakse oluline osa äri­tehinguid internetis (virtu
 
 E-äri kirjeldavad neli ärimudeli tüüpi:
 
-- .äri-äri (business to business, B2B)
-- .äri-tarbija (business to consumer, B2C)
-- .äri-riik (business to administration, B2A)
-- .tarbija-riik (consumer to administration, C2A).
+- äri-äri (business to business, B2B)
+- äri-tarbija (business to consumer, B2C)
+- äri-riik (business to administration, B2A)
+- tarbija-riik (consumer to administration, C2A).
 
 E-äri mõjutab oluliselt selliseid majanduse valdkondi (B2B ja B2C mudelid) nagu turundus, müük, reklaam, varustus, hulgi- ja jaekaubandus, kaupade järelteenin­dus ja remont, rahandus, kindlustus, transport ja logis­tika, digitaaltootmine, hajustootmine. B2A sektoris mõjutab e-äri riigi ja äri koostöö valdkondi: toll, mak­sundus, riigihanked, tegevusload, õiguslik regulatsioon.
 
@@ -855,12 +864,12 @@ a) **E-äri valdkonnad**.Põhilised toimivad e-äri valdkonnad on e-rahandus, e-
 
 b) **E-äri iseloomustus**.
 
-- . **E-turg**. Globaalne virtuaalne turg ühendab kõik toodete ja teenuste pakkujad ning ostjad ja annab igaühele võimaluse ühineda selle turuga. Ettevõte sattub e-äris globaalsesse virtuaalärikeskkonda. E-äri loob uusi e-turge.
-- . **E-äri kiirus**. Virtuaalses keskkonnas toimuvad äri­tehingud oluliselt kiiremini, mis loob eelised e-ette­võtetele.
-- . **E-vahendus**. E-äris domineerib praegu vahendus: kaubandus, varustus, logistika, finantsteenindus jt..
-- . **Outsourcing** _._ Ettevõtete keskendumine oma põhi­tegevusele ja kõrvaltegevuse andmine spetsialiseeritud firmadele saab olulist tuge e-ärist. E-äri omadused ­äriinfo vahetamise kiirus, otsesus, mobiilsus, täiuslik­kus ja töökindlus - võimaldavad ettevõttel osta/rentida juhtimisteenuseid (e-rahandus, e-turundus, e-varustus), aga ka kõiki infotehnoloogilisi teenuseid ja võimalusi.
-- . **E-äri ressursid**. E-äri põhineb inforessurssidel, mis on enamasti tasuta või odavad ja sõltub suurel mää­ral inimestest ja nende teadmusest. Tavalise äriga võr­reldes sõltub e-äri vähem materiaalsetest vahenditest, nende hindade dünaamikast ja kättesaadavusest. Väikeettevõtluse e-äri sõltub vähe rahast, suur e-äri on kallis.
-- . **E-äri uued võimalused**. Uute äriideede ja virtuaal­ettevõtluse võimalused e-äris on praegu veel piirama­tud. E-äri on uus ja suur väljakutse ärimeestele ja loob võimalusi inimestele, kellel ei ole neid seni olnud.
+- **E-turg**. Globaalne virtuaalne turg ühendab kõik toodete ja teenuste pakkujad ning ostjad ja annab igaühele võimaluse ühineda selle turuga. Ettevõte sattub e-äris globaalsesse virtuaalärikeskkonda. E-äri loob uusi e-turge.
+- **E-äri kiirus**. Virtuaalses keskkonnas toimuvad äri­tehingud oluliselt kiiremini, mis loob eelised e-ette­võtetele.
+- **E-vahendus**. E-äris domineerib praegu vahendus: kaubandus, varustus, logistika, finantsteenindus jt..
+- **Outsourcing** _._ Ettevõtete keskendumine oma põhi­tegevusele ja kõrvaltegevuse andmine spetsialiseeritud firmadele saab olulist tuge e-ärist. E-äri omadused ­äriinfo vahetamise kiirus, otsesus, mobiilsus, täiuslik­kus ja töökindlus - võimaldavad ettevõttel osta/rentida juhtimisteenuseid (e-rahandus, e-turundus, e-varustus), aga ka kõiki infotehnoloogilisi teenuseid ja võimalusi.
+- **E-äri ressursid**. E-äri põhineb inforessurssidel, mis on enamasti tasuta või odavad ja sõltub suurel mää­ral inimestest ja nende teadmusest. Tavalise äriga võr­reldes sõltub e-äri vähem materiaalsetest vahenditest, nende hindade dünaamikast ja kättesaadavusest. Väikeettevõtluse e-äri sõltub vähe rahast, suur e-äri on kallis.
+- **E-äri uued võimalused**. Uute äriideede ja virtuaal­ettevõtluse võimalused e-äris on praegu veel piirama­tud. E-äri on uus ja suur väljakutse ärimeestele ja loob võimalusi inimestele, kellel ei ole neid seni olnud.
 
 c) **Ettevõte e-majanduses**.E-äri on iga ettevõtte võimalus laiendada tegevuspiir­konda ja võimendada tegevust. Ettevõte laiendab oma tegevust sisenemisega e-äri keskkonda, seal suureneb firma võimalike äripartnerite hulk globaalsel e-turul tegutsejate võrra. Ettevõte võimendab oma tegevust sisenemisega e­-äri keskkonda, seal omandab ta e-äri eelised: klientide tellimuste kiire ja paindlik täitmine, kiire ja kvaliteetne toodete tarnimine, kulude ja varude kokkuhoid.
 
@@ -878,11 +887,11 @@ e) **Ettevõtte e-äri**.Ettevõtte põhilised juhtimisvaldkonnad e-äris on e-t
 
 Ettevõtte e-turunduse põhifunktsioonid on:
 
-- .müük ja müügitoetus
-- .kliendisuhete juhtimine (customer relationship management - CRM)
-- .reklaam
-- .tarnimise juhtimine
-- .müügijärgse teeninduse juhtimine.
+- müük ja müügitoetus
+- kliendisuhete juhtimine (customer relationship management - CRM)
+- reklaam
+- tarnimise juhtimine
+- müügijärgse teeninduse juhtimine.
 
 a) Müük e-turunduseson interneti vahendusel kulgev protsess turustajate ja ostjate vahel. Ekstranetis on sel­leks toodete kirjeldused (omadused, parameetrid, müü­gihinnad), aga ka müügi-, tarnimis- ja arveldustingi­mused. Ekstranet pakub ostjale tellimisdokumente ja toetab turustajate müügiprotseduure interneti kaudu.
 
@@ -898,8 +907,8 @@ Kliendisuhete juhtimine kui uus suund turunduses saab e-äris olulist tuge. Sell
 
 Tulemuseks on:
 
-- .turustajate personaliseeritud müügipakkumised
-- .iga kliendi nõudluse kiire ja kvaliteetne rahuldamine - kliendiprofiilide üldistamine ettevõtte aktuaalseks turumudeliks.
+- turustajate personaliseeritud müügipakkumised
+- iga kliendi nõudluse kiire ja kvaliteetne rahuldamine - kliendiprofiilide üldistamine ettevõtte aktuaalseks turumudeliks.
 
 CRM toimib ettevõtte e-turunduses tõhusalt siis, kui partneriteks on klientide e-varustuse ekstraneti mu­delid.
 
@@ -921,19 +930,23 @@ E-äri on tekitanud ettevõtluse uue ärimudeli - virtuaal­ettevõtlus. Virtuaa
 
 ### 1.9.9 Kordamisküsimused
 
+::: tip Kordamisküsimused
+
 1. Infoühiskonna peamiseks tunnuseks on:
 
-1. tohutu koguse informatsiooni olemasolu
-1. inimühiskonna infotöötlemise teadlikkuse kasv
-1. arvutite massiline kasutamine ja interneti ja sellel baseeruvate struktuuride ning teenuste levik X
-1. ajakirjandusväljaannete arvu suurenemine
+- tohutu koguse informatsiooni olemasolu
+- inimühiskonna infotöötlemise teadlikkuse kasv
+- arvutite massiline kasutamine ja interneti ja sellel baseeruvate struktuuride ning teenuste levik X
+- ajakirjandusväljaannete arvu suurenemine
 
-1. Ettevõtte e-äri infosüsteemi mudelis on välisklientidel võimlik ligipääseda:
+2. Ettevõtte e-äri infosüsteemi mudelis on välisklientidel võimlik ligipääseda:
 
-1. intranetile
-1. puntranetile
-1. kamasutrale,
-1. ekstranetile X
+- intranetile
+- puntranetile
+- kamasutrale,
+- ekstranetile X
+
+:::
 
 # 1.10 Riigi roll infosüsteemide loomisel
 
@@ -967,7 +980,7 @@ d) **Kodaniku IT-keskkond\*\*** (KIT)\*\* on kõigile kodanikele interneti veebi
 
 KIT vahendid võib jagada kasutajagruppide järgi kolmeks: kodaniku, üldsüsteemne ja avalik osa (teabe­portaal):
 
-- . **Kodanikuportaal ** [http://www.eesti.ee/](http://www.eesti.ee/) ja [http://www.riik.ee/kodanikuportaal/](http://www.riik.ee/kodanikuportaal/)
+- **Kodanikuportaal ** [http://www.eesti.ee/](http://www.eesti.ee/) ja [http://www.riik.ee/kodanikuportaal/](http://www.riik.ee/kodanikuportaal/)
 
 sisaldab kodanikele vahetult suunatud põhiosi (kodaniku dokumendisüsteem, elektroonne ümbersuunatav postkast, turvaline keskkond teenustele ligipääsuks).
 
@@ -977,9 +990,9 @@ Loodav kodanikuportaal laiendab üldsuse arusaama ava­likust haldusest ja selle
 
 Portaali toimimiseks ja ajakohastamiseks tuleb luua sellised õiguslikud alused, mis võimaldavad eri asu­tuste eri taseme ametnikel vahetult suhelda ja seega vähendada ametliku suhtlemise kuhjumist juhtide ta­sandile.
 
-- . **Teenuste üldsüsteemsed vahendid** - asutuste info­süsteemide kodanikele suunatud e-teenuste realisee­rimise ja kättesaadavuse hõlbustamiseks töötatakse välja reeglid ning üldsüsteemsed vahendid.
+- **Teenuste üldsüsteemsed vahendid** - asutuste info­süsteemide kodanikele suunatud e-teenuste realisee­rimise ja kättesaadavuse hõlbustamiseks töötatakse välja reeglid ning üldsüsteemsed vahendid.
 
-- . **Teabeportaal** - vaba juurdepääsuga veeb kõigi ini­meste teavitamiseks nende õigustest ja kohustustest, see on kodanikule e-teenuste värav. KIT keskkonna visioon toetab laiemat e-kodaniku vi­siooni: aastaks 2004 pakuvad kõik riigi- ja kohaliku omavalitsuse asutused teenuseid Interneti kaudu. 60% elanikkonnast kasutab igapäevases tegevuses ja olmes Internetti. Teabeportaali kaudu on kodanikule kergesti haaratavalt ning ühest kohast kättesaadavad avaliku halduse ja erasektori pakutavaid e-teenused.
+- **Teabeportaal** - vaba juurdepääsuga veeb kõigi ini­meste teavitamiseks nende õigustest ja kohustustest, see on kodanikule e-teenuste värav. KIT keskkonna visioon toetab laiemat e-kodaniku vi­siooni: aastaks 2004 pakuvad kõik riigi- ja kohaliku omavalitsuse asutused teenuseid Interneti kaudu. 60% elanikkonnast kasutab igapäevases tegevuses ja olmes Internetti. Teabeportaali kaudu on kodanikule kergesti haaratavalt ning ühest kohast kättesaadavad avaliku halduse ja erasektori pakutavaid e-teenused.
 
 e) **X-tee** [https://portaal.riik.ee/](https://portaal.riik.ee/)X-tee on vastava projekti algetapil kasutusele võetud tinglik termin riigi loodavate andmekogude ühtse tee­ninduskihi kompleksse lahenduse kohta, mis hõlmab nii tark- ja riistvara kui ka organisatsioonilisi meetmeid süsteemi töö korraldamiseks ja arendamiseks. Süsteem võimaldab selleks volitatud kasutajal (asu­tusel, ettevõttel, organisatsioonil või üksikisikul) soo­ritada erinevaid päringuid riigi infosüsteemidesse ja volituste piires teha andmetes muudatusi.
 
@@ -995,25 +1008,25 @@ g) **Valitsusasutuste dokumendihalduse programm** [http://www.riik.ee/dhp/](http
 
 Programm näeb ette kolme valdkonna kompleksset arendamist, milleks on:
 
-- .riigi asjaajamise aluste ümberkorraldamine digitaal­dokumentide kasutuselevõtuks
-- .vajalike rakenduslike õigusaktide väljatöötamine
-- .digitaalseks asjaajamiseks vajalike infotehnoloogi­liste standardite ning metoodika väljatöötamine.
+- riigi asjaajamise aluste ümberkorraldamine digitaal­dokumentide kasutuselevõtuks
+- vajalike rakenduslike õigusaktide väljatöötamine
+- digitaalseks asjaajamiseks vajalike infotehnoloogi­liste standardite ning metoodika väljatöötamine.
 
 Valitsusasutuste dokumendihalduse programm on koostööprogramm üleminekuks digitaalsele dokumendihaldusele valitsusasutustevahelises elektroonilises asjaajamises. Valitsusasutuste dokumendihalduse programmi ees­märk on riigi asjaajamise digitaliseerimine ning koos­kõlla viimine infoühiskonna nõuetega.
 
 DHP tähendab:
 
-- .ühtset metoodikat: fikseeritakse riigi dokumendi­halduse poliitika, mis on osa riigi halduse-, info- ja internetipoliitikast, arvestades maailmas toimuvat ja riigi vajadusi
-- .ühtseid standardeid: dokumendid ei tohi sõltuda riist-, võrgu- ega tarkvarast, neid kasutatakse andme­vahetusel nii ametnike, infosüsteemide kui ka arvuti­programmide vahel
-- .töökorralduse reformi, mille eesmärk on riigi asja­ajamise digitaliseerimine, selle muutmine vastavalt infoühiskonna reeglitele
-- .ühiseid infotehnoloogilisi lahendusi: valitsusasutuse dokumendihalduse reformi edukad lahendused laien­datakse üleriigilisteks lahendusteks, selleks koonda­takse vajalikud infotehnoloogilised võimalused
-- .koordineerimist: valitsusasutuste dokumendihaldu­se projektide ning temaatikaga seotud tegevused koon­datakse ühtse kooskõlastamise alla.
+- ühtset metoodikat: fikseeritakse riigi dokumendi­halduse poliitika, mis on osa riigi halduse-, info- ja internetipoliitikast, arvestades maailmas toimuvat ja riigi vajadusi
+- ühtseid standardeid: dokumendid ei tohi sõltuda riist-, võrgu- ega tarkvarast, neid kasutatakse andme­vahetusel nii ametnike, infosüsteemide kui ka arvuti­programmide vahel
+- töökorralduse reformi, mille eesmärk on riigi asja­ajamise digitaliseerimine, selle muutmine vastavalt infoühiskonna reeglitele
+- ühiseid infotehnoloogilisi lahendusi: valitsusasutuse dokumendihalduse reformi edukad lahendused laien­datakse üleriigilisteks lahendusteks, selleks koonda­takse vajalikud infotehnoloogilised võimalused
+- koordineerimist: valitsusasutuste dokumendihaldu­se projektide ning temaatikaga seotud tegevused koon­datakse ühtse kooskõlastamise alla.
 
 DHP strateegia.Alustatakse valitsuse reglemendi reguleerimisvald­konnast lähtuva dokumentide haldamise süsteemi ra­kendamisega, sest see valdkond on:
 
-- .õigusaktidega korraldatud (valitsuse reglement, asjaajamise kord)
-- .ühine osa kõigile valitsusasutustele
-- .hiljem laiendatav kõigile valitsusasutustes kasuta­tavatele dokumendiliikidele.
+- õigusaktidega korraldatud (valitsuse reglement, asjaajamise kord)
+- ühine osa kõigile valitsusasutustele
+- hiljem laiendatav kõigile valitsusasutustes kasuta­tavatele dokumendiliikidele.
 
 Saadud tulemused ja standardid üldistatakse ning töö­tatakse välja nõuded valitsusasutuste dokumendihal­dussüsteemidele. Luuakse tingimused valitsusasutustes dokumentide haldamise süsteemide kasutuselevõtmiseks.
 
@@ -1023,23 +1036,28 @@ Loomulikult võivad löögi alla sattuda ka eraettevõtted ja riigiasutused, kui
 
 Kokkuvõtteks võib märkida, et liikumine infoühiskonna suunas on olnud üheks globaliseerumise veduriks, kuid kaugeltki mitte ainus. Kahtlemata aitab vaba suhtlemine inimeste vahel teineteisest paremini aru saada, kuid võib ka tekitada ühiskonnas uusi probleeme.
 
-1. 1. 1. 1.10.2Kordamisküsimused
+### 1.10.2 Kordamisküsimused
 
-1. **1.** ID kaarti kasutatakse:
-1. ülemaailmse isikutunnistusena
-1. siseriikliku isikuttõendava dokumendina X
-1. digiallkirja andmiseks ja pangateenuste kasutamiseks X
-1. ainult riigitöötajate poolt töötõendina
-1. lennuohutuse tagamiseks, kuna tunneb ära kõik reisijal kaasaolevad keelatud asjad
+::: tip Kordamisküsimused
 
-1. **2.** Valitsusasutuste dokumendihalduse programm **(DHP):**
+1. ID kaarti kasutatakse:
 
-1. 1. on nn loetelu valitsuse dokumentidest
-   2. nõuab dokumentide korrektset vormistamist
-   3. on riigikantselei algatatud riigiasutuste koostööprogramm üleminekuks digitaalsele dokumen­dihaldusele omavahelises asjaajamises X
-   4. eeldab kõikide dokumentide vormisatamist paberkandjal
+- ülemaailmse isikutunnistusena
+- siseriikliku isikuttõendava dokumendina X
+- digiallkirja andmiseks ja pangateenuste kasutamiseks X
+- ainult riigitöötajate poolt töötõendina
+- lennuohutuse tagamiseks, kuna tunneb ära kõik reisijal kaasaolevad keelatud asjad
+
+2. Valitsusasutuste dokumendihalduse programm **(DHP):**
+
+- on nn loetelu valitsuse dokumentidest
+- nõuab dokumentide korrektset vormistamist
+- on riigikantselei algatatud riigiasutuste koostööprogramm üleminekuks digitaalsele dokumen­dihaldusele omavahelises asjaajamises X
+- eeldab kõikide dokumentide vormisatamist paberkandjal
+
+:::
 
 ## 1.11 Kasutatud materjalid
 
-- .&quot;IT juhtimise käsiraamat.&quot; Koostanud EBS. Välja andnud Äripäeva kirjastus
-- .Schgör, P., Brambilla, R. and Amarilli, F. 2004. &quot;PROFESSIONE INFORMATICA: I – Pianificazione, uso e gestione dei sistemi informativi. Competenze interdisciplinari per l&#39;applicazione delle tecnologie dell&#39;informazione e della comunicazione nel mondo del lavoro.&quot;. Milan : Edizione F. Angeli. – Translation into English
+- "IT juhtimise käsiraamat." Koostanud EBS. Välja andnud Äripäeva kirjastus
+- Schgör, P., Brambilla, R. and Amarilli, F. 2004. "PROFESSIONE INFORMATICA: I – Pianificazione, uso e gestione dei sistemi informativi. Competenze interdisciplinari per laapplicazione delle tecnologie del;a informazione e della comunicazione nel mondo del lavoro.". Milan : Edizione F. Angeli. – Translation into English

@@ -20,8 +20,8 @@ Infotehnoloogia rakenduste puhul tuleb eristada mõiste **klient** kahetähendus
 
 Viimaste puhul abstraheeritakse inimese s.o. kasutaja roll arvuti töö juhtimisel ja kasutatakse täpsustavaid liiteid tehniliste protsesside paremaks kirjeldamiseks:
 
-- .klientarvuti klient-serverarhitektuuris arvuti, mis kasutab andmetöötluseks serveri ressursse - faile, seadmeid ja nende andmetöötlusvõimsust
-- .klientprogrammi kasutatakse serverprogrammi või teise arvutiga ühenduse võtmiseks ja sealt andmete hankimiseks üle võrgu. Iga klientprogramm on mõeldud koostööks ühe või mitme kindla serverprogrammiga ja iga server vajab kindlat tüüpi klienti (näiteks meiliklient).
+- klientarvuti klient-serverarhitektuuris arvuti, mis kasutab andmetöötluseks serveri ressursse - faile, seadmeid ja nende andmetöötlusvõimsust
+- klientprogrammi kasutatakse serverprogrammi või teise arvutiga ühenduse võtmiseks ja sealt andmete hankimiseks üle võrgu. Iga klientprogramm on mõeldud koostööks ühe või mitme kindla serverprogrammiga ja iga server vajab kindlat tüüpi klienti (näiteks meiliklient).
 
 Reeglina põhinevad niisugused rakendused klient-server arhitektuuril, mis on võrguarhitektuur, kus iga võrgus asuv arvuti on kas klient või server sõltuvalt ülesannete jaotusest (failiserverid, printeriserverid, võrku haldavad serverid, personaalarvutid, tööjaamad). Eristatakse kõhna klienti ja paksu klienti. Esimene on reeglina odav ja lihtne klientprogramm ja/või -arvuti, mis teeb ainult kõige lihtsamaid operatsioone ja on võimeline töötama ainult arvutivõrgus, kus suurem osa tööst teeb ära server. Teine on klient-server arhitektuuris selline klient, mis teeb ära suurema osa andmetöötlusest, kusjuures andmed paiknevad serveris. Kuigi terminit &quot;paks klient&quot; kasutatakse enamasti tarkvara kohta, võib see tähistada ka suure andmetöötlusvõimsusega võrguarvutit.
 
@@ -45,29 +45,37 @@ Vajalike spetsialistide kvalifikatsiooni või ostetavate teenuste hulga määrab
 
 ### 3.1.3 Kordamisküsimused
 
-1. Missugune lause järgnevatest kirjeldab kõige paremini IT-osakonna sise- ja väliskliendi erinevusi?
-1. Sise- ja väliskliendile osutatavad teenused on alati ühesugused ja nad ei erine.
-1. Reeglina on sisekliendi teenused seotud organisatsiooni infosüsteemis uute teenuste arendamisega ja nende kasutamise koolitusega aga välisklient kasutab olemasolevaid infosüsteeme mõne teise organisatsioonile või isikule lisandväärtuse loomiseks.
-1. IT osakonna ja sisekliendi koostöös luuakse ja hooldatakse reeglina organisatsiooni infosüsteeme teenuste osutamiseks väljapoole ning oma töö korraldamiseks. Koostöös väliskliendiga luuakse temale vajalikke IT lahendusi kasutades oma organisatsiooni teadmisi ja oskusi. X
-1. Missugune järgnevatest annab õigeima huvigrupi loetelu IT ettevõtte jaoks?
-1. Ettevõtte juhtkond, aktsionärid, Riigikogu liikmed, välispartnerid.
-1. Kliendid, töötajad ja juhtkond, omanikud, hankijad, kreeditorid, valitsus, kohalik omavalitsus ja eriala liidud. X
-1. Ettevõtte juhtkond ja töötajad, omanikud, maksuamet, kliendid pangad.
+::: tip Kordamisküsimused
 
-1. Missugust arvutikasutajat loetakse regulaarseks kasutajaks? Kas seda, kes kasutab arvutit:
-1. vähemalt kord kuus?
-1. vähemalt kord nädalas? X
-1. vähemalt kord päevas?
+1. Missugune lause järgnevatest kirjeldab kõige paremini IT-osakonna sise- ja väliskliendi erinevusi?
+
+- Sise- ja väliskliendile osutatavad teenused on alati ühesugused ja nad ei erine.
+- Reeglina on sisekliendi teenused seotud organisatsiooni infosüsteemis uute teenuste arendamisega ja nende kasutamise koolitusega aga välisklient kasutab olemasolevaid infosüsteeme mõne teise organisatsioonile või isikule lisandväärtuse loomiseks.
+- IT osakonna ja sisekliendi koostöös luuakse ja hooldatakse reeglina organisatsiooni infosüsteeme teenuste osutamiseks väljapoole ning oma töö korraldamiseks. Koostöös väliskliendiga luuakse temale vajalikke IT lahendusi kasutades oma organisatsiooni teadmisi ja oskusi. X
+
+2. Missugune järgnevatest annab õigeima huvigrupi loetelu IT ettevõtte jaoks?
+
+- Ettevõtte juhtkond, aktsionärid, Riigikogu liikmed, välispartnerid.
+- Kliendid, töötajad ja juhtkond, omanikud, hankijad, kreeditorid, valitsus, kohalik omavalitsus ja eriala liidud. X
+- Ettevõtte juhtkond ja töötajad, omanikud, maksuamet, kliendid pangad.
+
+3. Missugust arvutikasutajat loetakse regulaarseks kasutajaks? Kas seda, kes kasutab arvutit:
+
+- vähemalt kord kuus?
+- vähemalt kord nädalas? X
+- vähemalt kord päevas?
+
+:::
 
 ## 3.2 Äriplaanid ja teostuvuse uuringud
 
 Selle alateema materjale läbi töötades saad teadmised:
 
-- .äriplaanist
-- .infotehnoloogia rollist äriprotsessis
-- .tegevusstrateegiast ja IT-strateegiast
-- .projekti planeerimisest
-- .IT strateegia elluviimisest.
+- äriplaanist
+- infotehnoloogia rollist äriprotsessis
+- tegevusstrateegiast ja IT-strateegiast
+- projekti planeerimisest
+- IT strateegia elluviimisest.
 
 ### 3.2.1 Äriplaan ja selle struktuur
 
@@ -99,12 +107,12 @@ Siin kirjeldatakse põhjalikult oma toodet või teenust, mida pakutakse ehk teis
 
 Tehnilistest vajadustest kirjeldatakse:
 
-- .vajalikku infotehnoloogilist infrastruktuuri (kui selleks ei tehta eraldi dokumenti) - serverid, arvutivõrk, tööjaamad
+- vajalikku infotehnoloogilist infrastruktuuri (kui selleks ei tehta eraldi dokumenti) - serverid, arvutivõrk, tööjaamad
 
-- .vajalikku tehnikat, mille juhtimine on uuematel seadmetel usaldatud mikroprotsessoritele s.t. võimalust integreerida ERP süsteemidega
-- .transpordivahendeid, mille liikumist on võimalik jälgida positsioneerimise tarkvaraga (vt. http://www.navirec.ee/ ; inglise keeles: http://www.navirec.ee/index.php?lang=english)
-- .kontoritehnikat, mis ongi sisuliselt IT lahendus
-- .ettevõtte ülesehitusest sõltub tööks vajalike ruumide liik - tootmise või teenindamise ruumid, milles vajalikud töö ja keskkonna tingimused tagatakse automaatikaga. Selle suutlikkus tuleb valida töökeskkonnale esitatavatest nõuetest. Näiteks niiskus arhiivi hoidlates, õhu puhtus kõrgtehnoloogiliste seadmete montaaži ruumides jne.
+- vajalikku tehnikat, mille juhtimine on uuematel seadmetel usaldatud mikroprotsessoritele s.t. võimalust integreerida ERP süsteemidega
+- transpordivahendeid, mille liikumist on võimalik jälgida positsioneerimise tarkvaraga (vt. http://www.navirec.ee/ ; inglise keeles: http://www.navirec.ee/index.php?lang=english)
+- kontoritehnikat, mis ongi sisuliselt IT lahendus
+- ettevõtte ülesehitusest sõltub tööks vajalike ruumide liik - tootmise või teenindamise ruumid, milles vajalikud töö ja keskkonna tingimused tagatakse automaatikaga. Selle suutlikkus tuleb valida töökeskkonnale esitatavatest nõuetest. Näiteks niiskus arhiivi hoidlates, õhu puhtus kõrgtehnoloogiliste seadmete montaaži ruumides jne.
 
 Tootearendus
 
@@ -146,9 +154,9 @@ Rahastamine on iga projekti või käivitatava ettevõtte võtmeküsimus. Äripla
 
 Peaaegu kõikide äriplaani osade aluseks on teostatavuse uuringud. Need võivad olla näiteks:
 
-- .majanduslik (rõhuasetusega rahalisele poolele)
-- .tehniline
-- .organisatsiooniline.
+- majanduslik (rõhuasetusega rahalisele poolele)
+- tehniline
+- organisatsiooniline.
 
 Majanduslik teostavuse uuring koosneb eelkõige turu valmisoleku ja tasuvuse uuringutest. Viimane on detailne uuring planeeritava toote või teenuse tuludest ja kuludest. Siia hulka kuuluvad ka võimalikud sotsiaalsed ja keskkonna mõjud ning ettepanekud vahenditest, kuidas võimalikke negatiivseid mõjusid vähendada. Tänapäeval on kehtestatud saastemaksude tõttu keskkonna mõjud otsene majanduslik tegur.
 
@@ -160,26 +168,22 @@ Kõigi teostavuse uuringute tulemuste põhjal võetakse vastu otsus projekti kä
 
 Ajaloost on eristavad kolm suuremat perioodi, mis iseloomustavad infotehnoloogia kasutamist äri eesmärkides ja nende kahe suuna omavahelisi suhteid organisatsioonis.
 
-- .Infosüsteemide kasutamise algusperiood (1950–1970)
+**Infosüsteemide kasutamise algusperiood (1950–1970)**
 
 Arvutite kasutusele võtmise peamiseks motivaatoriks oli ettevõtete kasv suuruseni, mille juures rutiinsete tööde maht läks nii suureks, et selle võis anda väga kallite masinate teha kartmata kahju tehtud investeeringust. Administratiivsed ülesanded ja arendustööd nõudsid suuremahulisi arvutusi - andmetöötlust. Ainult kõige jõukamad firmad suutsid endale muretseda suurarvuti. Neid käsitsesid ülikõrgete palkadega IT-insenerid ja teadlased. Firma tippjuhid ei teadnud midagi IT-probleemidest.
 
 IT-gurusid usaldati pimesi kui teadlasi-eksperte. Selle tingis ka arvutustehnika kasutatavuse keerukus muude erialade spetsialistide jaoks. Iseloomulikeks ilminguteks oli suhtumine, et:
 
--
-
-- .• IT on kulude vähendamise vahend
-- .• juhtimine on IT poolel
-- .• äripersonal ei osalenud IT tööde paneerimisel ja kontrollis
-- .• IT-le anti andeks igasugune eksperimenteerimine.
+- IT on kulude vähendamise vahend
+- juhtimine on IT poolel
+- äripersonal ei osalenud IT tööde paneerimisel ja kontrollis
+- IT-le anti andeks igasugune eksperimenteerimine.
 
 Kokkuvõtvalt oli see eraldiseisvate rakenduste kasutamise periood, mil juhtimine oli rangelt vertikaalne
 
-# 1
+IT kasutusele võtmine oli väga aeglane ja kallis ning kasutamine paindumatu ja liigipääsmatu nii sise- kui välisklientidele. ([Thomas R. Gulledge Ruth A. Haszko](http://www.unesco.org/most/gulled.htm#authors)The Information Technology Enabled Organization: A Major Social Transformation in the U.S.A. http://www.unesco.org/most/gulled.htm)
 
-. IT kasutusele võtmine oli väga aeglane ja kallis ning kasutamine paindumatu ja liigipääsmatu nii sise- kui välisklientidele. ([Thomas R. Gulledge Ruth A. Haszko](http://www.unesco.org/most/gulled.htm#authors)The Information Technology Enabled Organization: A Major Social Transformation in the U.S.A. http://www.unesco.org/most/gulled.htm)
-
-- . **Äriprotsesside ümberkujundamise periood** **(70-ndate lõpp ja 80-ndad)**
+**Äriprotsesside ümberkujundamise periood (70-ndate lõpp ja 80-ndad)**
 
 Personaalarvutite, lokaalvõrkude ja relatsiooniliste andmebaaside areng võimaldas äril tuua rakenduse endale lähemale, kuigi nende rakendused jäid sõltuvaks arvutite võimsusest. See tõi kaasa pideva vajaduse riist- ja tarkvara uuendamiseks, mis omakorda tegi väga kalliks kogu IT haldamise. (Frank E. Gillett Organic IT The TechStrategyTM Report April 2002 [http://www.forrester.com/Research/PDF/0,5110,14136,00.pdf](http://www.forrester.com/Research/PDF/0,5110,14136,00.pdf))
 
@@ -187,10 +191,10 @@ Seetõttu jäi juhtimine algul endiselt IT spetsialistidele, kuid muutus kiirest
 
 IT põhiülesanne liikus ära ärioperatsioonide automatiseerimiselt kogu äriprotsessi teeninamisele. Koos sellega muutus ka IT staatus teenindavaks üksuseks. Kuigi IT-arendus toimus alt-üles meetodil hetkevajaduste kohaselt, sest rakenduste loomise ajad olid endiselt pikad ja seda ei määranud organisatsiooni strateegia. Iseloomulikeks ilminguteks oli suhtumine, et:
 
-- .IT-projektide fookus muutub tehnoloogilisest äriliseks
-- .IT-põhiste projektide juhtimine läheb IT-spetsialistidelt järk-järgult ärijuhtidele.
+- IT-projektide fookus muutub tehnoloogilisest äriliseks
+- IT-põhiste projektide juhtimine läheb IT-spetsialistidelt järk-järgult ärijuhtidele.
 
-- .Ettevõtete integratsiooni periood (alates 90-ndatest).
+**Ettevõtete integratsiooni periood (alates 90-ndatest)**
 
 Tehnoloogia on arenenud tasemele, millal paljud ettevõtted rajavad on ärimudeli IT‑süsteemidele. eelkõige on see finantssektor. Sellega muutub IT määrava tähtsusega osaks ning ainus võimalus eduks on äri ja IT koostöö. See seab täiesti uued nõudmised IT‑ spetsialistidele. Tehnilise teadmiste ja oskuste kõrval tuleb omandada tööandja organisatsioonile vajalikud eriteadmised klienditeenindusest (sise- ja välisklientide jaoks) ja majandusest. ([B. Dawn Medlin](http://www.inderscience.com/search/index.php?action=basic&wf=author&year1=1995&year2=2007&o=2&q=B.%20Dawn%20Medlin) Skills crucial to the information technology professionals in the global business environment: an empirical study in the United States, [International Journal of Human Resources Development and Management 2004 - Vol. 4, No.2](http://www.inderscience.com/browse/index.php?journalID=15&year=2004&vol=4&issue=2)[ ](http://www.inderscience.com/browse/index.php?journalID=15&year=2004&vol=4&issue=2)[pp.](http://www.inderscience.com/browse/index.php?journalID=15&year=2004&vol=4&issue=2)[ ](http://www.inderscience.com/browse/index.php?journalID=15&year=2004&vol=4&issue=2)[183 - 190](http://www.inderscience.com/browse/index.php?journalID=15&year=2004&vol=4&issue=2))
 
@@ -200,10 +204,10 @@ Infotehnoloogia on saavutanud paljuski teenuste osutamise staatuse. See nõuab v
 
 Iseloomulikeks ilminguteks on:
 
-- .IT ja äripoole vastastikune suhtumine on avatud ja koostöövalmis
-- .äripoole osalemine IT- arenduses on määrav
-- .IT-projektide fookus – täielikult määratud ärivajadustega
-- .IT-põhine projektide juhtimine on avatud ja äri poolt suunatud.
+- IT ja äripoole vastastikune suhtumine on avatud ja koostöövalmis
+- äripoole osalemine IT- arenduses on määrav
+- IT-projektide fookus – täielikult määratud ärivajadustega
+- IT-põhine projektide juhtimine on avatud ja äri poolt suunatud.
 
 Oluliseks tunnuseks on, et enamus IT‑arendusetöödest toimub projektimeeskondades, milles osalevad äri ja IT inimesed. selles töös tulemuslikule tasemele jõudmiseks peab iga organsatsioon sinna jõudma oma sisemiste protsesside arendamise kaudu. Seetõttu võibki leida organisatsioone, mille IT- ja äripoole suhted vastavad suvalise eelneva perioodi suhtemallile. Organisatsioonide arengut on analüüsitud nende endi arengu seisukohalt. Eristatakse mitmeid perioode IT ja äripoole partnerluse arengus, kuid nende eristamiseks panid aluse R.Nolani tööd 1973 aastal*. (*[Nolan, Richard](http://en.wikipedia.org/wiki/Richard_L._Nolan) _(1973). &quot;Managing The Computer Resource:A Stage Hypotesis&quot;._ _Harvard Business Review\_\_16_ _(4): 399-405)_
 
@@ -217,10 +221,10 @@ See on IT kasutuselevõtu algusfaas, mis on täiesti loomulik tänapäeval asuta
 
 Iseloomulikumad jooned on:
 
-- .kasutajad hoiavad rakendustest eemale oskamatuse tõttu
-- .IT personal pöörab peatähelepanu tehnoloogia rakendamisele
-- .IT-planeerimine ja tööde kontroll on lõtv
-- .eesmärgiks on praktilised rakendused kulude vähendamiseks.
+- kasutajad hoiavad rakendustest eemale oskamatuse tõttu
+- IT personal pöörab peatähelepanu tehnoloogia rakendamisele
+- IT-planeerimine ja tööde kontroll on lõtv
+- eesmärgiks on praktilised rakendused kulude vähendamiseks.
 
 ### Olek II – Nakkus
 
@@ -228,12 +232,12 @@ Vaatamata sellele, et arvutite kasutamine toob kaasa suuri muutusi ei võta kõi
 
 Iseloomulikumad jooned on:
 
-- .rakenduste küllus
-- .ühtede kasutajate entusiasm ja teiste võõrandumine tehnoloogia kasutamisest
-- .juhtkonna vähene kontroll
-- .IT kulutuste kiire kasv
-- .arvutite kasutuse kiire levik organisatsioonis
-- .arvutikasutus tingib ühe kriisi teise järel.
+- rakenduste küllus
+- ühtede kasutajate entusiasm ja teiste võõrandumine tehnoloogia kasutamisest
+- juhtkonna vähene kontroll
+- IT kulutuste kiire kasv
+- arvutite kasutuse kiire levik organisatsioonis
+- arvutikasutus tingib ühe kriisi teise järel.
 
 ### Olek III – Kontroll
 
@@ -241,12 +245,12 @@ Kolmandas infotehnoloogia rakendamise faasis võtab juhtkond kasutusele meetmed 
 
 Iseloomulikumad jooned on:
 
-- .arvutikasutuse optimeerimine aga mitte kahanemine
-- .IT-osakonna olulisuse kasv
-- .keskne kontroll kulude üle
-- .rakendused endiselt mitteühilduvad ja mitte asjakohased
-- .andmebaaside ja kommunikatsiooni kasutamine vaatamata sagedasele juhtkonna, tõrjuvale hoiakule
-- .kasutajate pettumus.
+- arvutikasutuse optimeerimine aga mitte kahanemine
+- IT-osakonna olulisuse kasv
+- keskne kontroll kulude üle
+- rakendused endiselt mitteühilduvad ja mitte asjakohased
+- andmebaaside ja kommunikatsiooni kasutamine vaatamata sagedasele juhtkonna, tõrjuvale hoiakule
+- kasutajate pettumus.
 
 ### Olek IV – Integratsioon
 
@@ -254,10 +258,10 @@ Seniste eraldiseisvad rakendused püütakse ühendada süsteemiks. See viib IT-k
 
 Iseloomulikumad jooned on:
 
-- .tugevneb kasutajapoolne kontroll ja vastutus oma rakenduste eest
-- .hüppeline kulude kasv
-- .vajadus n-lineandmebaaside järgi
-- .andmetöötluse formaalne planeerimine ja kontroll, mis viib juhtkomiteede ja vastavate dokumentide loomisele.
+- tugevneb kasutajapoolne kontroll ja vastutus oma rakenduste eest
+- hüppeline kulude kasv
+- vajadus n-lineandmebaaside järgi
+- andmetöötluse formaalne planeerimine ja kontroll, mis viib juhtkomiteede ja vastavate dokumentide loomisele.
 
 ### Olek V – Andmehaldus
 
@@ -265,10 +269,10 @@ Selles faasi pööratakse peatähelepanu andmehaldusele, mis võimaldab korrasta
 
 Iseloomulikumad jooned on:
 
-- .rakendatakse tugevat andmehaldust s.t. määratakse liiased andmed, andmete kasutusõigused ja nende tähtsus kõigis organisatsioonistruktuurides
-- .rakendused on integreeritud kogu organisatsioonis
-- .IT-osakond on andmete administraator ja vähema tähtsusega on arvutite teenindus
-- .termin andmetöötlus asendub infosüsteemiga.
+- rakendatakse tugevat andmehaldust s.t. määratakse liiased andmed, andmete kasutusõigused ja nende tähtsus kõigis organisatsioonistruktuurides
+- rakendused on integreeritud kogu organisatsioonis
+- IT-osakond on andmete administraator ja vähema tähtsusega on arvutite teenindus
+- termin andmetöötlus asendub infosüsteemiga.
 
 ### Olek VI – Küpsus
 
@@ -276,12 +280,12 @@ Küpsus tähendab rakenduste kasutamise jõudmist tasemele, kus organisatsiooni 
 
 Iseloomulikumad jooned on:
 
-- .infosüsteem võimaldab katta organsatsiooni infovajadusi
-- .kasutatavad andmeallikad võimaldavad luua konkurentsivõimelisi ja paindlikke rakendusi
-- .andmeallikaks on ka kogu andmetöötlusahel
-- .andmetöötlus on strateegiliselt planeeritud
-- .kasutajad ja andmetöötlejad on vastutavad koos andmete kasutatavuse eest
-- .IT- juhid on organisatsiooni hierarhias samal tasemel rahandus- ja personalijuhtidega.
+- infosüsteem võimaldab katta organsatsiooni infovajadusi
+- kasutatavad andmeallikad võimaldavad luua konkurentsivõimelisi ja paindlikke rakendusi
+- andmeallikaks on ka kogu andmetöötlusahel
+- andmetöötlus on strateegiliselt planeeritud
+- kasutajad ja andmetöötlejad on vastutavad koos andmete kasutatavuse eest
+- IT- juhid on organisatsiooni hierarhias samal tasemel rahandus- ja personalijuhtidega.
 
 ### 3.2.3 Tegevusstrateegia ja IT-strateegia
 
@@ -295,9 +299,9 @@ Tänases IT-ala ettevõttes on töökorraldus reeglina projektidel põhinev. See
 
 Üheks võimalikuks lähenemisviisiks projekti algatamisel on nende teostatavuse ning tasuvuse hindamine:
 
-- -.turu valmisoleku
-- -.tehniline teostatavuse
-- -.rahalise tasuvuse alusel.
+- turu valmisoleku
+- tehniline teostatavuse
+- rahalise tasuvuse alusel.
 
 Sõltuvalt ettevõtte töökorraldusest eristatakse lühiajalisi ehk pisitöid (näit.: erakorraline hooldus kliendi juures) ja pikemaajalisi töid, mille puhul rakendatakse projektijuhtimise meetodeid.
 
@@ -349,37 +353,47 @@ Koos infosüsteemi rakendamisega tuleb vaadata organisatsiooni struktuuri ja loo
 
 ### 3.2.6 Kordamisküsimused
 
+::: tip Kordamisküsimused
+
 1. Missugune dokumendi kooskõla organisatsiooni strateegiaga järgneva loetelu seast on kõige olulisem?
-1. riist- ja tarkvara hanke juhend
-1. infotehnoloogia strateegia X
-1. IT osakonna töötajate koolitusprogramm
-1. juhatusele esitatavad tehnoloogia arengu aruanded
 
-1. Missugusele küsimusele otsitakse vastust majandusliku teostatavuse uuringuga?
-1. planeeritava projekti tulemusi sõltuvalt konkurentide kasumi suurusest
-1. planeeritava projekti majandusliku tasuvuse kohta ettevõtte jaoks X
-1. võimalikku palgatõusu organisatsioonis
+- riist- ja tarkvara hanke juhend
+- infotehnoloogia strateegia X
+- IT osakonna töötajate koolitusprogramm
+- juhatusele esitatavad tehnoloogia arengu aruanded
 
-1) Missugusele küsimusele otsitakse vastust tehnilise teostatavuse uuringuga?
-1) uusima tehnoloogia arengusuundade muutumise võimalikkusest
-1) odavaima tehnoloogia soetamise võimalikkus
-1) projekti edukuse võimlikkus olemasoleva või soetatava tehnika ja tehnoloogiagaX
+2. Missugusele küsimusele otsitakse vastust majandusliku teostatavuse uuringuga?
 
-1) Missugusele küsimusele otsitakse vastust organisatsioonilise teostatavuse uuringuga?
-1) vajadust uue juhtimiskorralduse ja juhataja järele
-1) rganisatsiooni struktuuri vastavust ja võimakust toime tulla vajalike infovoogude töötlemisega X
-1) organisatsiooni uutesse hoonetesse paigutamise võimalikkust
-1) rganisatsiooni võimekust kasutada uusi telefoni- ja arvutivõrke
+- planeeritava projekti tulemusi sõltuvalt konkurentide kasumi suurusest
+- planeeritava projekti majandusliku tasuvuse kohta ettevõtte jaoks X
+- võimalikku palgatõusu organisatsioonis
 
-1. Missugune alljärgnevatest tulemuste loeteludest on kõige täilikum loetelu IT rakendamise tulemustest organisatsioonis:
-1. Suurem tootlikus, parem klienditeenindus, parem materjalide kasutus, ajalisel ning koguseliselt täpsemad tarned, töötajate paremad hügieenitingimused
-1. Suurem tootlikus, parem klienditeenindus, parem materjalide kasutus, ajalisel ning koguseliselt täpsemad tarned, täpsem turundusinfo X
-1. Suurem tootlikus, parem klienditeenindus, parem materjalide kasutus, kiirem tootearendus, parem kvaliteet, täpsem turundusinfo, töötajate paremad hügieenitingimused
+3. Missugusele küsimusele otsitakse vastust tehnilise teostatavuse uuringuga?
 
-1. Missuguste alljärgnevate tegurite koosmõjul on projekti ebaõnnestumine kõige tõenäolisem?
-1. Juhtkonna huvi puudus, projektijuhi liigne nõudlikkus, ebaõnnestunud turundus X
-1. Projekti on kaasatud hea aga mitte kõige parimad spetsialistid, projektijuhi liigne nõudlikkus, ebaõnnestunud turundus
-1. Projektijuhi liigne nõudlikkus, ebaõnnestunud turundus, mõned kõrvaltegevused on jäänud ajagraafikust maha
+- uusima tehnoloogia arengusuundade muutumise võimalikkusest
+- odavaima tehnoloogia soetamise võimalikkus
+- projekti edukuse võimlikkus olemasoleva või soetatava tehnika ja tehnoloogiagaX
+
+4. Missugusele küsimusele otsitakse vastust organisatsioonilise teostatavuse uuringuga?
+
+- vajadust uue juhtimiskorralduse ja juhataja järele
+- Organisatsiooni struktuuri vastavust ja võimakust toime tulla vajalike infovoogude töötlemisega X
+- Organisatsiooni uutesse hoonetesse paigutamise võimalikkust
+- Organisatsiooni võimekust kasutada uusi telefoni- ja arvutivõrke
+
+4. Missugune alljärgnevatest tulemuste loeteludest on kõige täilikum loetelu IT rakendamise tulemustest organisatsioonis:
+
+- Suurem tootlikus, parem klienditeenindus, parem materjalide kasutus, ajalisel ning koguseliselt täpsemad tarned, töötajate paremad hügieenitingimused
+- Suurem tootlikus, parem klienditeenindus, parem materjalide kasutus, ajalisel ning koguseliselt täpsemad tarned, täpsem turundusinfo X
+- Suurem tootlikus, parem klienditeenindus, parem materjalide kasutus, kiirem tootearendus, parem kvaliteet, täpsem turundusinfo, töötajate paremad hügieenitingimused
+
+6. Missuguste alljärgnevate tegurite koosmõjul on projekti ebaõnnestumine kõige tõenäolisem?
+
+- Juhtkonna huvi puudus, projektijuhi liigne nõudlikkus, ebaõnnestunud turundus X
+- Projekti on kaasatud hea aga mitte kõige parimad spetsialistid, projektijuhi liigne nõudlikkus, ebaõnnestunud turundus
+- Projektijuhi liigne nõudlikkus, ebaõnnestunud turundus, mõned kõrvaltegevused on jäänud ajagraafikust maha
+
+:::
 
 ## 3.3 Kulud ja tulud
 
@@ -415,25 +429,19 @@ Investeerimise mõttekust hinnatakse mõiste nüüdisväärtus (net present valu
 
 Investeeringu tekkiva tulu nüüdisväärtust saab väljendada järgnevalt:
 
-NPV =∑
-
-# i=1,N
+```
+NPV =∑ i=1,N
 
 ( tulu
 
-# i
-
 / (1+k)
 
-# i
-
 ) - kulu
+```
 
 kus,
 
 tulu
-
-# i
 
 - on tulu perioodil i (võib olla positiivne või negatiivne);
 
@@ -487,24 +495,31 @@ Olgu siinkohaltoodud mõned võimalikud tulu saamise kohad.
 
 ### 3.3.2 Kordamisküsimused
 
+::: tip Kordamisküsimused
+
 1. Mida iseloomustab investeeringu tasuvus (return on investment)?
-1. uute projektide rakendamisel saadud palgatõusu
-1. investeeringust saadud ettevõtte tulu suhet selle investeeringu suurusesse X
-1. ühe investeeringu ja organisatsiooni kõigi investeeringute suhet
 
-1) Milles on otseste ja kaudsete kulude erinevus?
-1) otsesed kulud tekivad ettevõtte töö tulemusel, kaudsed on partnerite kulud
-1) tsesed on täpselt kirjeldatavad alusdokumentide järgi, kaudsed on hinnangulised X
-1) tsesed kulud tehakse töötajatele teatavaks regulaarsetel koosolekutel, kaudsed jäävad ainult juhtkonna teada
+- uute projektide rakendamisel saadud palgatõusu
+- investeeringust saadud ettevõtte tulu suhet selle investeeringu suurusesse X
+- ühe investeeringu ja organisatsiooni kõigi investeeringute suhet
 
-1) Mida iseloomustab omandi kogumaksumuse mõiste (TCO –Total Cost of Ownership)?
-1) tsesed kulud mis tekivad kaupu ostes või IT-lahendusi luues
-1) kõik kulud, mis on seotud omandiga kogu selle kasutusaja jooksul X
-1) omandi ostukulud, sellega seotud raamatupidamise kannate tegemise kulud ja pangalaenu intressid
+2. Milles on otseste ja kaudsete kulude erinevus?
+
+- otsesed kulud tekivad ettevõtte töö tulemusel, kaudsed on partnerite kulud
+- tsesed on täpselt kirjeldatavad alusdokumentide järgi, kaudsed on hinnangulised X
+- tsesed kulud tehakse töötajatele teatavaks regulaarsetel koosolekutel, kaudsed jäävad ainult juhtkonna teada
+
+3. Mida iseloomustab omandi kogumaksumuse mõiste (TCO –Total Cost of Ownership)?
+
+- tsesed kulud mis tekivad kaupu ostes või IT-lahendusi luues
+- kõik kulud, mis on seotud omandiga kogu selle kasutusaja jooksul X
+- omandi ostukulud, sellega seotud raamatupidamise kannate tegemise kulud ja pangalaenu intressid
+
+:::
 
 ## 3.4 Infotehnoloogiliste lahenduste hindamine
 
-## Selle alateema materjale läbi töötades õpid hindama infotehnoloogilisi lahendusi erinevatel meetoditel.
+Selle alateema materjale läbi töötades õpid hindama infotehnoloogilisi lahendusi erinevatel meetoditel.
 
 ### 3.4.1 Infotehnoloogiliste lahenduste hindamine
 
@@ -520,9 +535,9 @@ Strateegiliste IT investeeringute käsitlemine on aga keerukam kahel põhjusel:
 
 3. Puudub üldlevinud metoodika IT investeeringute hindamiseks, erinevalt investeeringute käsitlemisest muudes valdkondades, mida käsitleb ärirahanduse teooria (Corporate Finance).
 
-**TCO (\*\***Total Cost of Ownership\***\*) mudel** on keskendunud eelkõige kuludele, sellele, kuidas IT kulusid paremini mõõta, juhtida ja vähendada, tõstmaks IT investeeringute tulusust.
+**TCO (Total Cost of Ownership) mudel** on keskendunud eelkõige kuludele, sellele, kuidas IT kulusid paremini mõõta, juhtida ja vähendada, tõstmaks IT investeeringute tulusust.
 
-**TBO (\*\***Total Benefit of Ownership\***\*) mudel** seevastu on orienteeritud tulude suurendamisele, sellele, kuidas paremini juhtida, suurendada ja mõõta IT investeeringult saadavaid tulusid.
+**TBO (Total Benefit of Ownership) mudel** seevastu on orienteeritud tulude suurendamisele, sellele, kuidas paremini juhtida, suurendada ja mõõta IT investeeringult saadavaid tulusid.
 
 Tänapäeval on rõhuasetus kaldunud pigem tulude suurendamise poole. Investeeringud IT-sse peavad kiirendama otsuste tegemist, tõstma teeninduse kvaliteeti ja teenuste/toodete arendustempot jne.
 
@@ -540,12 +555,18 @@ Organisatsioonis on vaja pidevalt jälgida infotehnoloogia kasutamise majandusli
 
 ### 3.4.2 Kordamisküsimused
 
-1. Missugune alljärgnevatest kirjeldab kõige paremini organisatsiooni IT-auditi eesmärke?
-1. hinnata raamatupidamise infosüsteemi toimimist
-1. **anda hinnang IT juhtimise asjakohasusele, kehtestatud poliitikatele vastavusele ja tööprotsessidele** X \*\* \*\*
-1. anda hinnang otseste kulude planeerimise asjakohasusele, turbeintsidentide registreerimisele ning juhtkonna teavitamisele IT-vahendite olukorrast
+::: tip Kordamisküsimused
 
-1. Missugune alljärgnevatest on infotehnoloogia kasulikkuse hindamise parim viis?
-1. **üldlevinud parimat viisi ei ole olemas ja seetõttu tuleb rakendad mitmeid kasulikkuse ja tasuvuse hindamise metoodikaid** X
-1. tuleb hinnata raamatupidamise infosüsteemist saadavaid andmeid
-1. anda hinnang otsestele kuludele, mis tekivad infotehnoloogia vahendite kasutamisest
+1. Missugune alljärgnevatest kirjeldab kõige paremini organisatsiooni IT-auditi eesmärke?
+
+- hinnata raamatupidamise infosüsteemi toimimist
+- anda hinnang IT juhtimise asjakohasusele, kehtestatud poliitikatele vastavusele ja tööprotsessidele X
+- anda hinnang otseste kulude planeerimise asjakohasusele, turbeintsidentide registreerimisele ning juhtkonna teavitamisele IT-vahendite olukorrast
+
+2. Missugune alljärgnevatest on infotehnoloogia kasulikkuse hindamise parim viis?
+
+- üldlevinud parimat viisi ei ole olemas ja seetõttu tuleb rakendad mitmeid kasulikkuse ja tasuvuse hindamise metoodikaid X
+- tuleb hinnata raamatupidamise infosüsteemist saadavaid andmeid
+- anda hinnang otsestele kuludele, mis tekivad infotehnoloogia vahendite kasutamisest
+
+:::
