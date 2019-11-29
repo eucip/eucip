@@ -72,6 +72,7 @@ Info edastamine internetis
 
 ::: error Pilt puudu :::
 
+
 Joonis 4-2. Kommunikatsioon internetis
 
 Internetis kasutatakse kahte põhimõistet: aadress ja protokoll. Iga internetti ühendatud arvuti omab unikaalset aadressi. Isegi ajutise ühenduse puhul eraldatakse arvutile unikaalne aadress. Igal ajahetkel omavad kõik internetti ühendatud arvutid erinevaid aadresse - nagu postiaadress iseloomustab unikaalselt inimese asukohta, iseloomustab arvuti asukohta võrgus selle internetiaadress.
