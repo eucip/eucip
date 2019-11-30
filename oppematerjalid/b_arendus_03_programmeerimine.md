@@ -1,12 +1,18 @@
-# B3 Programmeerimine
+# B.3 Programmeerimine
 
 Selle teema materjale läbi töötades saad teadmised programmeerimisega seotu kohta.
 
-## 1.1 Tarkvara arendusmeetodid ja tehnikad
+## B.3.1 Tarkvara projekteerimise meetodid ja vahendid
 
 Selle alateema materjale läbi töötades õpid tundma tarkvara arendusmeetodeid ja tehnikaid
 
-### 1.1.1 Tarkvaraarandus, objektorienteeritud disain, ülalt alla projekteerimine ja struktuurne programmeerimine
+### B.3.1.1 Tarkvaraarandus, objektorienteeritud disain, ülalt alla projekteerimine ja struktuurne programmeerimine
+
+::: warning Õppekava
+
+Tuua erinevate programmide projekteerimise meetodite põhijooned, nagu näiteks objektorienteeritud (OO) projekteerimine, ülalt-alla disain, struktureeritud programmeerimine.
+
+:::
 
 Suurema tarkvara arendamine on tänapäeval enamasti meeskonnatöö ja seetõttu on siin valdkonnas mõeldud välja erinevaid reeglistike ja meetodeid. Need reeglid ja head tavad on välja töötatud eelkõige selleks, et tarkvaraarendusega seotud inimesed mõistaksid üksteist ja nende tööd oleks võimalik kõigile arusaadavalt standardiseerida. Standardiseerimise abil on võimalik tagada tarkvara kvaliteeti ja vähendada tarkvara arendamiseks kuluvat aega ja raha.
 
@@ -19,11 +25,11 @@ Tarkvara arenduse võib laias laastus jagada järgmisteks alamülesanneteks:
 5. Toote väljalase (juurutamine)
 6. Toote hooldus.
 
-#### 1.1.1.1 Vajaduste kirjeldamine ja nende analüüs
+#### Vajaduste kirjeldamine ja nende analüüs
 
 Tarkvara loomine algab tavaliselt vajaduste kirjeldamisest ja nende analüüsist. Mida täpsem ja korrektsem on tarkvara vajaduste kirjeldus ja nende analüüs, seda lihtsam on hiljem kõiki muid arenduse etappe teostada. Peamine probleem selles faasis seisneb tellija ja tarkvara arendaja erinevas nägemuses. Tihti on nii, et tarkvaratellija ei tea midagi programmeerimisest ega tarkvara disainist, aga tal on väga selge nägemus sellest, mida ta vajab. Tarkvaraarendaja aga ei kujuta väga täpselt ette tellija tööprotsessi, vaid kipub liiga vara mõtlema tarkavara teostamise võimalustele ja vahenditele.
 
-#### 1.1.1.2 Tarkvaratoote disain
+#### Tarkvaratoote disain
 
 Tarkvara disaini etapis peab arendaja mõtlema, kuidas tarkvara teostada. Peamiseks ülesandeks siin etapis on mõelda välja kuidas võimalikult väikeste raha ja ajakuluga teostada tellijale vajalik tarkvaratoode.
 
@@ -47,9 +53,7 @@ Alt-üles lähenemise korral jagatakse lähteülesanne alammooduliteks, millisei
 
 Tihti on kasulik lähteülesanne jagada "alt-üles"; lähenemise abil alammooduliteks ja need omakorda "ülalt-alla"; lähenemise abil lõplikult lahendada.
 
-## 1.1.2 Tarkvaraarenduse meetodid
-
-Tarkvaraarenduse jaoks on kasutusel mitmeid projekteerimismeetodeid, peamised kasutatavad meetodid on: struktureeritud ja objekt-orienteeritud projekteerimine.
+#### Tarkvaraarenduse meetodid
 
 **Struktuurprojekteerimise** korral valmib terve programm korraga, projekteerimise etapid (analüüs, disain jne) on selgelt piiritletud ja järgmine etapp ei käivitu enne, kui eelmine on lõppenud. Sellisel projekteerimisel on mitmeid tõsiseid puuduseid: kui disainimisel tehti vigu, siis ilmneb see tihti alles arenduse lõppfaasis, lahenduse korduvkasutus on komplitseeritud, lahendus koosneb harva moodulitest ja funktsionaalsuse lisamine lahendusele on keeruline. Nende puuduste kõrvaldamiseks kasutatakse tihti prototüüpimist: lahendusele tehakse kiiranalüüs, valmistatakse piiratud funktsionaalsusega prototüüp, korraldatakse testimine tellija juures ja edasisel lahenduse väljatöötamisel lähtutakse ka prototüübi tagasidest.
 
@@ -57,7 +61,13 @@ Tarkvaraarenduse jaoks on kasutusel mitmeid projekteerimismeetodeid, peamised ka
 
 OO projekteerimise korral kasutatakse analüüsi ja disaini etapis lahenduse kirjeldamisel sageli UML (Unified Modeling Language) vahendeid.
 
-### 1.1.3 Abstraktsioon probleemide lahendamise ja tarkvara loomise meetodina
+### B.3.1.2 Abstraktsioon probleemide lahendamise ja tarkvara loomise meetodina
+
+::: warning Õppekava
+
+Kirjeldada abstraktsiooni kui probleemilahenduse ja tarkvara projekteerimise vahendit.
+
+:::
 
 **Abstraktsioon**
 
@@ -76,9 +86,15 @@ Struktuurprogrammeerimise korral mõistetakse juhtimisabstraktsiooni all süstem
 
 Objektorienteeritud programmeerimiskeeltes on juhtimis- ja andmeabstraktsioonid ühildatud.
 
-### 1.1.4 Spetsiifilised eripärad vanade rakenduste juures
+### B.3.1.3 Spetsiifilised eripärad vanade rakenduste juures
 
-**Pärandsüsteemid**
+::: warning Õppekava
+
+Tuua välja vanemate süsteemide projeteerimise erivajadused ja -nüansid, näiteks keeruline struktuur, halb dokumentatsioon, vananenud riist-/tarkvara ärikliitiline süsteem.
+
+:::
+
+#### Pärandsüsteemid
 
 Pärandsüsteemi (ingl k legacy system) all mõeldakse vananenud, varem kasutusel olnud rakendusprogrammi või riistvaraseadet, mida ka tänapäeval kasutatakse.
 
@@ -88,7 +104,13 @@ Pärandsüsteemidega seonduvad järgnevad võimalikud probleemid:
 2. rganisatsioonis puudub kompetents süsteemi arendamiseks ja haldamiseks (näiteks võivad selle loonud programmeerijad olla organisatsioonist lahkunud või sootuks surnud, kui süsteem pärineb näiteks 1960ndatest aastatest). Tarkvara loojaid hoiatatakse, et nende sobivaks osutunud kood võib töötada kauem, kui nende kõige hullemad unistused võiksid ette näha
 3. uute süsteemide kasutuselevõtul tuleb hoolitseda "tagasiühilduvuse"; (ingl. k. backward compatibility) eest.
 
-### 1.1.5 Avatud ning suletud koodiga tarkvaraarendus
+### B.3.1.4 Avatud ning suletud koodiga tarkvaraarendus
+
+::: warning Õppekava
+
+Tuua välja erinevused avatud lähtekoodiga ja kommertstarkvara arenduses.
+
+:::
 
 Aegade jooksul on välja kujunenud avatud ning suletud koodiga tarkvaraarendus. Esimese juures neist tehakse oma programmikood üldjuhul kõigile vabalt kättesaadavaks, varjatud on ainult paroolid ja muu sarnane tundlik info. Omal on mugav valmivat rakendust luua vabalt ligipääsetavas keskkonnas. Suuremate ja laiemat huvi pakkuvate projektide korral on lootust, et huvilised on valmis lõike omalt poolt täiendama ja kontrollima. Samuti on avatud koodiga arenduste puhul üldjuhul õigus kasutada vajalikke lõike juba valminud avatud koodiga rakenduste juurest mis võib mõnikord töövaeva märgatavalt vähendada.
 
@@ -98,57 +120,61 @@ Suletud koodiga tarkvaraarenduse juures on lõppkasutajale kättesaadav vaid ins
 
 Tasapisi on tarkvara ja ka muu intellektuaalomandiga seotud litsentside süsteem mitmekesistunud. On võimalik määrata, millistes tingimustes on tarkvara võimalik edaspidi kasutada. Kas, millistel tingimustel ja kui palju on seda tulevikus võimalik muuta. Nii on loodetavasti võimalik leida enamike projektide jaoks sobiv lahendus kus on piisavalt vabad käed oma süsteemi loomisel, samas ei pea muretsema, et tarkvara koodi edasine kasutus võiks arendavale seltskonnale märgatavalt kahju teha.
 
-### 1.1.6 Tarkvara litsensivajadused kinnise tarkvara, avatud koodiga tarkvara, vaba tarkvara ja vabavara juures
+### B.3.1.5 Tarkvara litsensivajadused kinnise tarkvara, avatud koodiga tarkvara, vaba tarkvara ja vabavara juures
+
+::: warning Õppekava
+
+Tuua välja erinevad litsentseerimise nõuded kommertstarkvarale, avatud lähtekoodiga tarkvarale, vabale tarkvarale ja vabavarale.
+
+:::
 
 Lehekülgi sellisel lehestikul tavaliselt mõnest mõneteistkümneni. Abstraktsioonitase sõltub sellest, kas ja kui keerukat sisuhaldussüsteemi pruugitakse. Valmislahenduse ülevõtmisel võib piirduda vaid sisu vahetamisega. Keerukama kujunduse ning mõne lisavidina (nt. hinnakalkulaator) puhul võib siiski kuni paari nädala jagu tehnilist tegemist olla – sisu kokku otsimine ja sättimine nagunii.
 
 Pankade infosüsteemile esitatavad nõuded on kümnetes kordades keerukamad. Koodi mahtu loetakse vähemasti sadades tuhandetes koodiridades ning hulgem peab juures olema kontrolle, et valesid operatsioone teha ei õnnestuks. Abstraktsioonitasemeid peab mitu olema, sest otse kõike hallata on keerukas ja riskantne. Piiratud tükkideks jaotamisel on võimalik tööülesandeid lihtsamini jagada ning tulemust kontrollida. Kuna eri pankade süsteemid on loodud tõenäoliselt erisuguseid vahendeid kasutades ja veidi erineva loogikaga, siis tuleb kindlasti arvesse pärandsüsteemidega seonduv.
 
-### 1.1.7 Kordamisülesanded
+### B.3.1 Kordamisülesanded
 
 ::: tip Kordamisülesanded
 
 1. Abstraktsiooni puhul:
-
-a – tohib andmete juures kasutada ainult arve
-
-b – parema arusaadavuse huvides üldistatakse üksikjuhtumid X
-
-c – ei tohi alamprogrammid üksteist välja kutsuda
-
-d – peavad kõik andmed olema tekstitüüpi
+   – tohib andmete juures kasutada ainult arve
+   – parema arusaadavuse huvides üldistatakse üksikjuhtumid X
+   – ei tohi alamprogrammid üksteist välja kutsuda
+   – peavad kõik andmed olema tekstitüüpi
 
 2. Pärandsüsteemid:
-
-a – on ilmtingimata suured
-
-b – on kindlasti kättesaadava lähtekoodita
-
-c – on sageli raskesti kohandatavad ja liidestatavad X
-
-d – on harva töövõimelised
+   – on ilmtingimata suured
+   – on kindlasti kättesaadava lähtekoodita
+   – on sageli raskesti kohandatavad ja liidestatavad X
+   – on harva töövõimelised
 
 :::
 
-## 1.2 Algoritmid ja andmestruktuurid
+## B.3.2 Algoritmid ja andmestruktuurid
 
 Selle alateema materjale läbi töötades tutvud programmeerimise andmete hoidmise ning töötlemise vahenditega.
 
-### 1.2.1 Liht- ja struktuurandmetüübid. Andmestruktuurid - kirjed, massiivid, ahelad
+### B.3.2.1 Liht- ja struktuurandmetüübid. Andmestruktuurid - kirjed, massiivid, ahelad
 
-#### 1.2.1.1 Muutujad
+::: warning Õppekava
+
+Kirjeldada struktureeritud ja struktureerimata andmetüüpe ja erinevaid andmestruktuure: kirjed, massivid, ahelad (linked lists).
+
+:::
+
+#### Muutujad
 
 Programmeerimise käigus on reeglina vaja hoida meeles mingit hulka andmeid (vahetulemused, toimunud sündmused, sisendväärtused, väljundväärtused jne). Neid väärtused tuleb hoida mälus. Selleks defineeritakse koht mälus, mida kasutatakse andmete hoidmiseks ning seda defineeritud kohta nimetatakse muutujaks. Kuna andmed, mida hoitakse, võivad olla väga erinevad, siis öeldakse ka muutuja defineerimisel, mis tüüpi andmeid selles muutujas hoidma hakatakse (muutujatüüp).
 
-**Lihttüübid**
+#### Lihttüübid
 
 Lihttüüpi muutujas on märksõna all peidus üks väärtus (enamasti arvuna loetav) ning ta on sealt otse kättesaadav. Tuntumad lihttüübid on: märgiga täisarv, märgita täisarv, reaalarv (komakohaga), tähemärk, tõeväärtus. Keeleti võivad nad mõnevõrra erineda.
 
-**Struktuurtüübid**
+#### Struktuurtüübid
 
 Struktuurtüüpides koondatakse ühe märksõna alla mitu kokkukuuluvat väärtust nagu näiteks punkti koordinaadid või inimese ees- ja perekonnanimi. Selliselt on andmekogumit kergem korraga edasi anda. Samas andmeid kasutada või muuta tuleb enamasti ikka struktuuri seest ükshaaval.
 
-**Massiivid**
+#### Massiivid
 
 Massiiv on ühetüübiliste muutujate kogum, millistel on üks nimi ja mis on üksteisest eristatavad indeksi poolest. Massiivid lihtsustavad oluliselt ühetüübiliste andmete töötlemist. Lihtsustamine tuleneb sellest, et programmi täitmise käigus on võimalik indeksit lihtsalt muuta ja seega on lihtsam pöörduda vajaliku muutuja poole. Massiivist järjekorranumbri järgi väärtuse küsimine on arvuti jaoks suhteliselt kiire operatsioon.
 
@@ -164,7 +190,7 @@ mass[0]=1; //kohale 0 kirjutatakse väärtus 1
 
 **Lisalugemist:** http://enos.itcollege.ee/~jpoial/java/i200loeng4.html
 
-#### 1.2.1.2 Kirjed
+#### Kirjed
 
 Hoidmaks erinevate tüüpi andmeid, mis moodustavad koos mingi seostatud kogumi kasutatakse kirjeid. Näiteks moodustub kirje inimene järgmistest andmetest: eesnimi (tekst), perenimi (tekst), sugu (tõeväärtus, 0- naine, 1 -mees), kaal (reaalarv). Sellised andmed moodustavad ühtse terviku ühe inimese kirjeldamiseks, kuid eraldiseisvana on väga erinevat tüüpi.
 
@@ -190,7 +216,7 @@ kasutaja.sex = 1;
 kasutaja.weight = 80.0;
 ```
 
-##### 1.2.1.3 Ahelloendid ja puud
+##### Ahelloendid ja puud
 
 Kaasajal kasutatakse tihti andmete hoidmiseks loendeid (list). Kui iga listi liige viitab järgmisele, siis on tegemist ahelloendiga, ahelloendi lõppu märgib tühiliige (_null)_. Ahelloend, kus iga liige viitab järgmisele nimetatakse ühesuunaliseks loendiks, ahelloend, kus iga liige viitab eelmisele ja järgmisele nimetatakse kahesuunaliseks loendiks. Ahelloend, kus puudub esimene ja viimane liige ning iga liige viitab järgmisele nimetatakse ringloendiks. Ahelloendi pikkus on loendi liikmete arv. Loendi esimene liige on pea (_head_) ja ühejäänud liikmed saba (tail).
 
@@ -228,6 +254,12 @@ B-puu võimaldab nõnda hoida puu sügavust kahendpuust väiksemana. Täituvust 
 
 ### 1.2.2 Levinumad sortimis- ja otsimisalgoritmid ning andmestruktuurid
 
+::: warning Õppekava
+
+Hinnata tüüpiliste otsi- ja sortimisalgritmide sobivust erinevate andmestruktuuridega.
+
+:::
+
 Märgatav osa arvutite tööajast kulub andmete otsimisele ja sortimisele, ehkki on ka muid vajalikke algoritme (graafidega seonduv näiteks). Sõltuvalt andmete ülesehitusest, eelnevast järjestusest, andmekandjast, päringute sagedusest ja tüübist ning kasutatavast mäluhulgast on sortimiseks ja otsimiseks loodud kümneid algoritme.
 
 Mullsortimise puhul vahetatakse järjest ära kõrvuti asetsevad väärtused sobivasse suunda. Sobib juhul, kui andmestik on peaaegu sorditud, on ainult üksikud erinevused lähestikku seisvate väärtuste seas. Segamini suurema andmestiku puhul tegemist väga aeglase algoritmiga. Lihtne programmeerida.
@@ -242,35 +274,33 @@ Kahe väärtuse vahetamiseks on üldjuhul tarvis kolmandat kohta vahepealseks ho
 
 http://www.cs.tlu.ee/~inga/alg\_andm/sorting\_Python.pdf
 
-### 1.2.3 Kordamisküsimused
+### B.3.2 Kordamisküsimused
 
 1. Massiivi puhul:
-
-a – on elemendi poole võimalik pöörduda massiivi nime ning järjekorranumbri kaudu X
-
-b – võivad sisaldada kuni viis elementi
-
-c – elemendid peavad olema täisarvud
-
-d – pole võimalik tsükli sees elementide poole pöörduda
+   – on elemendi poole võimalik pöörduda massiivi nime ning järjekorranumbri kaudu X
+   – võivad sisaldada kuni viis elementi
+   – elemendid peavad olema täisarvud
+   – pole võimalik tsükli sees elementide poole pöörduda
 
 2. Andmepuu:
+   – võib sisaldada ainult täisarve
+   – peab sisaldama vähemalt viis elementi
+   – lehtede väärtused saab süstemaatiliselt läbi käia X
+   – on kasutatav vaid üksikute programmeerimiskeeltega
 
-a – võib sisaldada ainult täisarve
-
-b – peab sisaldama vähemalt viis elementi
-
-c – .lehtede väärtused saab süstemaatiliselt läbi käia X
-
-d – on kasutatav vaid üksikute programmeerimiskeeltega
-
-## 1.3 Programmeerimiskeeled
+## B.3.3 Programmeerimiskeeled
 
 Selle alateema materjale läbi töötades õpid tundma programmeerimiskeelte tüüpe, eripärasid ja ajaloolist kujunemist, samuti programmeerimise käigus esile tulevad põhikonstruktsioone.
 
-### 1.3.1 Programmeerimiskeelte tüübid - funktsionaalsed, protseduursed, objektorienteeritud keeled
+### B.3.3.1 Programmeerimiskeelte tüübid - funktsionaalsed, protseduursed, objektorienteeritud keeled
 
-#### 1.3.1.1 Programmeerimiskeelte põlvkonnad
+::: warning Õppekava
+
+Tuua välja programmeerimiskeelte liikide erinevused ja eelised: funktsionaalsed, protseduursed, objektorienteeritud.
+
+:::
+
+#### Programmeerimiskeelte põlvkonnad
 
 Programmeerimise vajadus tekkis juba enne programmeeritavaid arvuteid. Nii on teada näiteks 18. sajandist kangasteljed, mis olid programmeeritavad puuliistude, kuhu oli tehtud õigetesse kohtadesse augud, abil.
 
@@ -298,7 +328,7 @@ FORTRAN (The IBM Mathematical FORmula TRANslating System) – 1950ndatel aastate
 
 COBOL (COmmon Business Oriented Language) – 1959. aastal loodud objekt-orienteeritud programmeerimiskeel, peamiselt ärivajadusele suunatud rakenduste kirjutamiseks.
 
-BASIC (Beginner&#39;s All-purpose Symbolic Instruction Code) – 1963. aastal väljatöötatud programmeerimiskeel, mis algselt loodi selleks, et inseneride oleks võimalik teostada arvutitel erinevaid simulatsioone.
+BASIC (Beginner's All-purpose Symbolic Instruction Code) – 1963. aastal väljatöötatud programmeerimiskeel, mis algselt loodi selleks, et inseneride oleks võimalik teostada arvutitel erinevaid simulatsioone.
 
 Pascal – 1970ndatel loodud programmeerimiskeel, mis loodi programmeerimise õpetamiseks.
 
@@ -314,7 +344,7 @@ Neljanda põlvkonna programmeerimiskeeled on loodud eesmärgiga lihtsustada nend
 
 Viienda põlvkonna programmeerimiskeeled on loodud tehisintelligentsete süsteemide loomiseks ja tehisintelligentsusega seotud probleemide lahendamiseks.
 
-#### 1.3.1.2 Programmeerimiskeelte põhitüübid
+#### Programmeerimiskeelte põhitüübid
 
 Erinevalt programmeerimiskeelte põlvkondadest kirjeldavad põhitüübid kuidas on võimalik mingite keelte abil programmeerida. Peamised põhitüübid on: protseduurilised, funktsionaalsed ja objektorienteeritud programmeerimiskeeled.
 
@@ -332,7 +362,7 @@ Teiseks näiteks võib tuua tekstimuutuja, luues tekstimuutuja klassi baasil obj
 
 Selliselt klasse kirjeldades ning objektidega manipuleerides on võimalik koostada väga keerulisi programme ja täita mitmesuguseid tegevusi.
 
-#### 1.3.1.3 Interpreteeritavad ja kompileeritavad keeled
+#### Interpreteeritavad ja kompileeritavad keeled
 
 Enne seda kui arvuti saab kõrgkeeles kirjutatud programmi täita, tuleb see "tõlkida"; talle arusaadavasse keelde e. masinkoodi. Seda tõlkimisprotsessi nimetatakse transleerimiseks ja tõlkeprogrammi translaatoriks. Translaatorid jagunevad kahte klassi: kompilaatorid ja interpretaatorid.
 
@@ -344,19 +374,27 @@ Programmi interpreteerimine on ca 10-200 korda aeglasem, kui kompileeritud koodi
 
 Põhimõtteliselt saab igas keeles kirjutatud programme nii interpreteeritult täita kui kompileerida.
 
-#### 1.3.1.4 Funktsioonide ja protseduuride kasutus. Väärtuse ja viite kaudu parameetrite edastamine.
+### B.3.3.2 Funktsioonide ja protseduuride kasutus. Väärtuse ja viite kaudu parameetrite edastamine.
 
-**Protseduurid ja funktsioonid**
+::: warning Õppekava
+
+Kirjeldada protseduuride ja funktsioonide kasutamist ja tuua välja vahe väljakutsel väärtuse (call by value) ja nime (viite) järgi (call by reference).
+
+:::
+
+#### Protseduurid ja funktsioonid
 
 Programmi struktuuri lihtsustamiseks on otstarbekas jagada suurem programmeerimisülesanne väiksemateks alamülesanneteks. Alamülesannete lahendamine jäetakse väiksemate terviklike alammoodulite – protseduuride ja funktsioonide ülesandeks. Selline lähenemisviis lihtsustab programmi silumist ja haldamist. Alammoodulite korduvkasutuse võimaluse tõttu vähendab selline meetod ka programmeerimistööd.
 
 Protseduurid ja funktsioonid erinevad nende kasutusviisi poolest. Funktsiooni kasutatakse funktsiooniviite abil, protseduuri aga protseduurilause abil. Erinevalt protseduurist tagastab funktsioon alati väärtuse – mille võib küll mõnel puhul kasutanata jätta. Näiteks kui veakoodi ei kontrollita.
 
+#### Parameetrite edastamine
+
 Seos alammoodulite ja neid väljakutsuva mooduli vahel organiseeritakse mooduli parameetrite abil. Parameetrite edastamisviisi poolest jagatakse nad kahte gruppi:
 
-a) aadresskutse (ingl. k. call by reference) puhul saab kutsutav moodul muuta kutsuva mooduli salvestatud parameetrite väärtusi. Tehniliselt on selline kutse realiseeritud nii, et kutsuv moodul annab kutsutavale moodulile talle üleantavate parameetrite aadressid.
+- aadresskutse (ingl. k. call by reference) puhul saab kutsutav moodul muuta kutsuva mooduli salvestatud parameetrite väärtusi. Tehniliselt on selline kutse realiseeritud nii, et kutsuv moodul annab kutsutavale moodulile talle üleantavate parameetrite aadressid.
 
-**b)** kutse väärtusega e. väärtuskutse (ingl. k. call by value)- kutsuv moodul annab kutsutavale moodulile talle üleantavate parameetrite tegelikud väärtused (nende koopiad). Väärtuskutses ei saa kutsutav moodul muuta kutsuva mooduli salvestatud või tema jaoks salvestatud parameetrite väärtusi.
+- kutse väärtusega e. väärtuskutse (ingl. k. call by value)- kutsuv moodul annab kutsutavale moodulile talle üleantavate parameetrite tegelikud väärtused (nende koopiad). Väärtuskutses ei saa kutsutav moodul muuta kutsuva mooduli salvestatud või tema jaoks salvestatud parameetrite väärtusi.
 
 Aadresskutse eeliseks on, et ka mahukate andmete puhul ei tule kopeerimisest tingitud lisakulu. Väärtuskutse puhul pole jälle karta, et keegi alamprogrammis etteantud muutujate sisu soovimatult muudaks.
 
@@ -375,7 +413,7 @@ Protseduure ja funktsioone nimetatakse sageli ka alamprogrammideks (ingl. k. rou
 
 **Lisalugemist:** http://enos.itcollege.ee/~jpoial/java/i200loeng2.html
 
-### 1.3.2 Programmeerimiskeele süntaks
+#### Programmeerimiskeele süntaks
 
 Ülesanne on enamasti lahenduv nii protseduurilise, funktsionaalse kui objektorienteeritud lähenemise kaudu. Lihtsalt tuleb vaadata, mis parasjagu sobiv tundub. Protseduurilisel juhul on võimalik ja tavapärane kõik tegevused etappidena ära kirjeldada ning neid pärast soovitud järjekorras kasutada. Funktsionaalsel juhul saab mõnedki kohad lühematena kirja panna. Samuti on võimalik otsustada, et samanimelise funktsiooni all käitutakse kord üht- kord teistmoodi.
 
@@ -383,37 +421,35 @@ Objektorienteeritud lähenemine annab põhjalikumad võimalused, samas pole sell
 
 **Lisalugemist:** [http://metshein.com/content/view/587/32/](http://metshein.com/content/view/587/32/)
 
-### 1.3.3 Kordamisküsimused
+### B.3.3 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Masinkood on:
-
-a – esimese põlvkonna programmeerimiskeel X
-
-b – teise põlvkonna programmeerimiskeel
-
-c – kolmanda põlvkonna programmeerimiskeel
-
-d – neljanda põlvkonna programmeerimiskeel
+   – esimese põlvkonna programmeerimiskeel X
+   – teise põlvkonna programmeerimiskeel
+   – kolmanda põlvkonna programmeerimiskeel
+   – neljanda põlvkonna programmeerimiskeel
 
 2. Viite kaudu alamprogrammile andmete edastamisel:
-
-a – tohib edasi anda ainult täisarve
-
-b – alamprogrammis tehtud muutus kajastub ka peaprogrammist parameetrina kaasa antud muutujas X
-
-c – ei tohi ühele alamprogrammile kaasa anda rohkem kui ühte parameetrit
-
-d – kulub andmete kopeerimisele palju aega
+   – tohib edasi anda ainult täisarve
+   – alamprogrammis tehtud muutus kajastub ka peaprogrammist parameetrina kaasa antud muutujas X
+   – ei tohi ühele alamprogrammile kaasa anda rohkem kui ühte parameetrit
+   – kulub andmete kopeerimisele palju aega
 
 :::
 
-## 1.4 Objektorienteeritud programmeerimine
+## B.3.4 Objektorienteeritud programmeerimine
 
 Selle alateema materjale läbi töötades õpid tundma objektorienteeritud disaini ja programmeerimise aluseid, mõisteid ning kasutatavaid tehnikaid.
 
-### 1.4.1 Objektorienteeritud disaini põhimõtted
+### B.3.4.1 Objektorienteeritud disaini põhimõtted
+
+::: warning Õppekava
+
+Kirjeldada objektorienteeritud projekteerimise põhimõtteid.
+
+:::
 
 Objektorienteeritud disaini puhul jagatakse süsteem arusaadavateks ja hallatavateks osadeks. Need on suhteliselt iseseisvad ning osade loomisel arvestatakse, et neid peaks saama mitmes olukorras kasutada. Keerukamatel juhtudel tuleb enne kogu loodavat süsteemi senikaua kihtideks või osadeks jagada, kuni osade realiseerimist on võimalik ja mõistlik detailsemalt objektide ja nende omaduste ja toimingute abil kirja panna. Kui püüda protseduurilist ning objektorienteeritud programmeerimist võrrelda, siis esimesel juhul oleks tegemist keskse juhtimisega, kus ";mõisavalitsejal"; on enamjaolt kõik teada, kes mida millal teeb ning saab igal ajal määrata, mida kunas ja kus tehakse. Objektorienteeritud lähenemine sarnaneb pigem suhteliselt iseseisvate üksuste väljaõpetamisele. Neile saab hiljem anda korraldusi, et mida vaja teha. Kuidas teha, see on juba üksuse ehk objekti siseasi. Ning seda saab ka hiljem muuta/täiendada. Selliselt süsteemi üles ehitades on kergem hoolitseda, et keskusesse liialt palju keerukust ei koonduks.
 
@@ -421,25 +457,55 @@ Objektorienteeritud disaini puhul jagatakse süsteem arusaadavateks ja hallatava
 
 [http://www.tud.ttu.ee/material/vladimir/PROGRAMMEERIMINE/Program_II_11/lisamat/Mikli_AB_konspekt/OODisain.pdf](http://www.tud.ttu.ee/material/vladimir/PROGRAMMEERIMINE/Program_II_11/lisamat/Mikli_AB_konspekt/OODisain.pdf)
 
-### 1.4.2 Objektorienteeritud programmeermise põhimõtted
+### B.3.4.2 Objektorienteeritud programmeermise põhimõtted
+
+::: warning Õppekava
+
+Kirjeldada objektorienteeritud programmeerimise kontseptsiooni.
+
+:::
 
 Objektorienteeritud programmeerimise juures luuakse tarkvara iseseisvate suhteliselt sõltumatult kasutatavate ja testitavate klassidena, mille põhjalt siis omakorda töö käigus objekte tekitatakse. Objektid jäljendavad pärismaailma üksusi, on nende arvutipoolseks mudeliks. Nagu mudelite puhul ikka, tuleb teha nende piiritlemiseks lihtsustusi ning pärast arvestada, kuidas lihtsustuste kaudu leitud tulemused tegelikule keskkonnale ülekantavad on. Objektid luuakse konstruktori abil ning hiljem saavad nad omavahel suhelda meetodite kaudu. Tehniliselt on tegemist alamprogrammidega, mille ülesandeks on muu hulgas hoolitseda, et objekt pärast meetodi käivitamist ka ise ";ellu jääks"; ning ebasobivate andmete tõttu kahjustada ei saaks.
 
 **Lisalugemist:** Jaanus Pöidla konspekt [http://enos.itcollege.ee/~jpoial/java/i200loeng3.html](http://enos.itcollege.ee/~jpoial/java/i200loeng3.html)
 
-### 1.4.3 Klass, objekt, meetod ning nende omavahelised suhted
+### B.3.4.3 Klass, objekt, meetod ning nende omavahelised suhted
+
+::: warning Õppekava
+
+Kirjeldada mõisteid klass, objekt, eksemplar, meetod ja nende seost objektorienteeritud programmeerimisega.
+
+:::
 
 Klassis kirjeldatakse ära loodava üksuse omadused ja oskused. Objektid luuakse klassi kirjelduse põhjal. Üldjuhul on sama klassi eri objektidel (eksemplaridel) samad väljad (tunnused), kuid nende väärtused erinevad. Klassi oskused kirjeldatakse meetodites – ehk üldjuhul alamprogrammides. Eri keeltes sellele põhisuunale ka mõningaid täiendusi. Java ja C# puhul näiteks kirjeldatakse ühiseid oskusi ka liideste (Interface) abil. Javaskriptis luuakse uued samatüübilised objektid prototüüpobjekti põhjal.
 
-### 1.4.4 Päriluse ülesehitus ning selle tarvilikkus programmeerijale
+### B.3.4.4 Päriluse ülesehitus ning selle tarvilikkus programmeerijale
+
+::: warning Õppekava
+
+Kirjeldada pärimise mõistet ja selle vajalikkust programmeerijale.
+
+:::
 
 Pärilus aitab programmeerijal vältida tarbetult korduva koodi kirjutamist. Nagu reaalmaailmas nii ka siin saab ühiste tunnustega seotud koodi ja andmed ühes kohas kogu vastava grupi jaoks kirja panna ning hiljem spetsialiseeritumal tasemel lisada täiendusi ja täpsustusi. Ilma selle võimaluseta oleks suuremate süsteemide kirjapanek palju mahukam ning veaohtlikum. Üksteisest pärinevad üldjuhul klassid ehk objektitüübid. Päriluse puhul luuakse ülemklassile (baasklass, super class) alanejaks alamklass (subclass). Lihtsamal juhul võib pärilus piirdudagi vaid alamklassi loomisega. Eraldi piirangute puudumisel on loodud klassil kõik samad oskused mis ülemklassilgi. Samas programmeerijal enesel on teada, mis kontekstis ta kummagi klassi eksemplari kasutab. Näiteks Punkti ja Vektori puhul mõlemal on tarvis meeles pidada kaht koordiaati. Punkti puhul tähendavad need absoluutset asukohta, vektori puhul aga nihet. Vektori puhul on tähtsaks omaduseks tema pikkus, punkti puhul paljalt koordinaatide märkimiseks pole selle valemiga kuigi palju peale hakata – seega saab vektori teha punkti alamklassiks ning ühes pärilusega sinna vastava pikkusfunktsiooni juurde liita. Pärilusahel võib mõnigikord päris pikaks kasvada – paljude sarnaste klasside puhul viis-kuus taset kus igal pool mõned omadused ja oskused juurde tulevad, see ei ole mingi ime.
 
-### 1.4.5 Abstrahheerimine ja kapseldamine (teabe peitmine)
+### B.3.4.5 Abstrahheerimine ja kapseldamine (teabe peitmine)
+
+::: warning Õppekava
+
+Kirjeldada mõiseid abstraktsioon ja kapseldamine (information hiding).
+
+:::
 
 Abstrahheerimine võimaldab korraga tegelda vaid ülesande kontekstis hädavajaliku teabega jättes kõrvale kõik muu ning samuti seigad, mis tunduvad lahendamise juures vähetähtsatena. Ainult nõnda on lootust keerukamate reaaleluliste süsteemide tarbeks piisavalt arusaadavaid mudeleid luua, millest on võimalik ka lühemal vaatlusel aru saada ning loodud komponenti muude osadega liidestada. Kapseldamise käigus piiritletakse reaalmaailma jäljendav objekt kõigepealt abstrahheerimise abil. Edasi luuakse talle välismaailma ja teiste objektidega suhtlemiseks liidesed, kusjuures kontroll seesoleva teabe üle on vaid objektil enesel. Avalikes liides-alamprogrammides saab koodi abil otsustada, kuidas ja milliseid sisemisi andmeid väljapoole näidatakse/avaldatakse ning samuti mida ja kuivõrd lubatakse väljast käivitatavate alamprogrammide kaudu kapseldunud objekti sees muuta. Selliselt on objektil võimalus ise oma koodi abil hoolitseda, et vaid selleks vajalik osa temast väljapoole paistaks või muudetav oleks.
 
 ### 1.4.6 Polümorfism ja tarkvara efektiivsem loomine
+
+::: warning Õppekava
+
+Kirjeldada, kuidas polümorfism aitab korduvkasutatavate komponentide abil kaasa tõhusamale tarkvara projekteerimisele.
+
+:::
 
 Pärilus võimaldas hoolitseda, et sarnasest puust välja kasvanud klasside puhul pole vaja mitmel pool esinevaid samu oskusi korduvalt välja kirjutada. Näiteks taustavärvi meelde jätmine ja sellega tagapinna katmine on sarnane nii nupu (Button) kui sildi (Label, selgitav tekst) juures – vastav oskus oli lihtsalt kirja pandud graafikakomponentide ühisesse ülemklassi, kust siis mõlemad klassid vastava oskuse päriluse teel kaasa said. Sellised ühised oskused annavad muu hulgas võimaluse ühest klassist pärinenud alamklasside objekte käsitleda sama tüüpi ülemklassi muutuja kaudu. Näiteks kui on tarvis seadeteakna kaudu muuta nupu või sildi taustavärvi, siis piisab seadeteaknale teadmiseks, et talle ette antud objekt on tüübist graafikakomponent või mõni tema alamklass – sellest teadmisest piisab, et kindel olla, et etteantud objektil on taustavärv ning seda on võimalik graafikakomponendi klassis oleva käskluse abil muuta.
 
@@ -450,34 +516,32 @@ Mõnevõrra keerukam on aga olukord omaduste juures mis on objektidel küll sarn
 ::: tip Kordamisküsimused
 
 1. Klass
-
-a – on objektitüüp, kõigil sama klassi eksemplaridel on samad omadused ja oskusedX.
-
-b – on eksemplar, kahte samast klassist eksemplari pole võimalik luua.
-
-c – on alamprogramm, väljakutsel täidetav käsujada.
-
-d – on pakett, sarnaste objektitüüpide kogum.
+   – on objektitüüp, kõigil sama klassi eksemplaridel on samad omadused ja oskused X.
+   – on eksemplar, kahte samast klassist eksemplari pole võimalik luua.
+   – on alamprogramm, väljakutsel täidetav käsujada.
+   – on pakett, sarnaste objektitüüpide kogum.
 
 2. Objektorienteeritud programmeerimise juures
-
-a – üks suur keskne peaprogramm kontrollib kõiki toimetusi
-
-b – igast programmiosast on võimalik otse kõigi andmete poole pöörduda
-
-c – rakendus on jagatud suhteliselt iseseisvateks üksusteks, mis omavahel meetodite väljakutsete abil suhtlevadX
-
-d – paljude samatüübiliste järjestatud andmete puhul on tagumiste poole võimalik pöörduda ainult nõnda, et tuleb kõikide esimeste aadressid läbida.
+   – üks suur keskne peaprogramm kontrollib kõiki toimetusi
+   – igast programmiosast on võimalik otse kõigi andmete poole pöörduda
+   – rakendus on jagatud suhteliselt iseseisvateks üksusteks, mis omavahel meetodite väljakutsete abil suhtlevadX
+   – paljude samatüübiliste järjestatud andmete puhul on tagumiste poole võimalik pöörduda ainult nõnda, et tuleb kõikide esimeste aadressid läbida.
 
 Õiged vastused: 1-a, 2-c
 
 :::
 
-## 1.5 Põhikonstruktsioonid
+## B.3.5 Programmikomponendid (põhikonstruktsioonid)
 
 Selle alateema materjale läbi töötades tutvud programmikomponentidega.
 
-### 1.5.1 Programmi osad ja sisend-väljund
+### B.3.5.1 Programmi osad ja sisend-väljund
+
+::: warning Õppekava
+
+Selgitada ja hinnata sisend-väljundkäske.
+
+:::
 
 Iga programm koosneb tavaliselt järgmisest osadest:
 
@@ -486,9 +550,11 @@ Iga programm koosneb tavaliselt järgmisest osadest:
 - Juhtkäsud
 - Sisend-väljund (I/O) käsud
 
-Deklaratsioonidega seotakse mingi sümbolitest koosnev nimi mõne andmeobjekti või programmi osaga. Aritmeetika ja loogikatehete abil muudetakse programmi käiku ja andmeobjektide väärtusi. Juhtkäsud määravad programmi täitmise korra (erinevate programmiosade täitmise, vahelejätmise, korduvtäitmise jne). Sisend-väljund käsud lubavad programmil suhelda sisend-väljund seadmete või teiste programmidega.
+Deklaratsioonidega seotakse mingi sümbolitest koosnev nimi mõne andmeobjekti või programmi osaga. Aritmeetika ja loogikatehete abil muudetakse programmi käiku ja andmeobjektide väärtusi. Juhtkäsud määravad programmi täitmise korra (erinevate programmiosade täitmise, vahelejätmise, korduvtäitmise jne).
 
-### 1.5.2 Deklaratsioonid
+Sisend-väljund käsud lubavad programmil suhelda sisend-väljund seadmete või teiste programmidega.
+
+#### Deklaratsioonid
 
 Deklaratsioonidega seotakse mingi sümbolitest koosnev nimi mõne andmeobjekti või programmi osaga.
 
@@ -524,7 +590,13 @@ readf(muutuja1[,muutuja2...])  
 
 Antud näites loetakse sisendvoost väärtused muutujatesse muutuja1, muutuja2 jne. Sisendit nimetatakse siinkohal standardseks siseniks (stdin – standart input) ja tavaliselt moodustub see infovoog klaviatuurilt sisestatud väärtustest, kuid samas on see on võimalik tihti see voog ühendada mõne failiga, teise programmi väljundiga jne.
 
-### 1.5.3 Juhtkäsud
+### B.3.5.2 Juhtkäsud
+
+::: warning Õppekava
+
+Selgitada ja hinnata sisend-väljundkäske.
+
+:::
 
 Juhtkäsud määravad programmi täitmise korra (erinevate programmiosade täitmise, vahelejätmise, korduvtäitmise jne).
 
@@ -568,7 +640,7 @@ kirja panna ka kui
 (a>b) || (a=b)
 ```
 
-#### 1.5.3.1 If
+#### If
 
 Tuntum juhtkäsk on kindlasti `if`: if lause võimaldab täita erinevat koodi sõltuvalt tingimuse tulemusest:
 
@@ -612,7 +684,7 @@ _If_-käsu keerulisemad versioonid on _case_ ja \_switc_h, need juhtkäsud võim
 
 Kordused võimaldavad mingisugust koodi osa vastavalt etteantud tingimusele korduvalt täita. Kordused jagunevad: eelkontrolliga ja järelkontrolliga ning määratud pikkusega ja määramata pikkusega kordusteks.
 
-#### 1.5.3.2 While
+#### While
 
 _while_-kordus on eelkontrolliga kordus, see tähendab, et korduse jätkamiseks vajalikku tingimust kontrollitakse enne korduse täitmist.
 
@@ -722,19 +794,35 @@ for(int a=0; i<10; i++) {
 
 Tulemus on sarnane do kordusele, muutuja a väärtus pannakse alguses võrduma nulliga, seejärel kontrollitakse korduse täitmise tingimust ja kui see on tõene, siis liidetakse muutujale b muutuja a väärtus, seejärel muudetakse muutuja a väärtust vastavalt etteantud reeglile (antud juhul a++, ehk suurendatakse a väärtust ühe võrra), kontrollitakse jätkamise tingimust, ning kui see on tõene, siis tehakse uuesti korduse sees olev tegevus jne. Tulemuseks on, et a=10 ja b=0+1+2+3+4+5+6+7+8+9=45.
 
-### 1.5.4 Aritmeetika- ja loogikatehted
+### B.3.5.3 Aritmeetika- ja loogikatehted
+
+::: warning Õppekava
+
+Selgitada ja hinnata aritmeetilisi ja loogilisi tehteid.
+
+:::
 
 Peamiselt läheb meil vaja viit aritmeetikatehet:
 
-Liitmine: kasutatakse märki "+"; ja liidab kokku kaks väärtust, näiteks c=a+b liidab muutujate a ja b väärtused ja paneb muutuja c väärtuse võrduma tehte tulemusega (c=3+2, järelikult c=5).
+#### Liitmine
 
-Lahutamine: kasutatakse märki "-"; ja lahutab esimesest väärtusest teise , näiteks c=a-b lahutab muutuja a väärtusest muutuja b väärtuse ja paneb muutuja c väärtuse võrduma tehte tulemusega(c=3-2, järelikult c=1).
+kasutatakse märki "+"; ja liidab kokku kaks väärtust, näiteks c=a+b liidab muutujate a ja b väärtused ja paneb muutuja c väärtuse võrduma tehte tulemusega (c=3+2, järelikult c=5).
 
-Korrutamine: kasutatakse märki "\*"; ja korrutab kaks väärtust, näiteks c=a\*b korrutab muutujate a ja b väärtused ja paneb muutuja c väärtuse võrduma tehte tulemusega(c=3\*2, järelikult c=6).
+#### Lahutamine
 
-Jagamine: kasutatakse märki "/"; ja jagab ühe väärtuse teisega, näiteks c=a/b jagab muutuja a väärtuse muutuja b väärtusega ja paneb muutuja c väärtuse võrduma tehte tulemusega (c=3/2, järelikult c=1,5 või c=1, oleneb keelest ja andmetüüpidest).
+kasutatakse märki "-"; ja lahutab esimesest väärtusest teise , näiteks c=a-b lahutab muutuja a väärtusest muutuja b väärtuse ja paneb muutuja c väärtuse võrduma tehte tulemusega(c=3-2, järelikult c=1).
 
-Jagamise jääk: kasutatakse märki "%"; ja jagab ühe väärtuse teisega, näiteks c=a%b jagab muutuja a väärtuse muutuja b väärtusega ja paneb muutuja c väärtuse võrduma jagamise jäägiga. (c=5%3 järelikult c=2).
+#### Korrutamine
+
+kasutatakse märki "\*"; ja korrutab kaks väärtust, näiteks c=a\*b korrutab muutujate a ja b väärtused ja paneb muutuja c väärtuse võrduma tehte tulemusega(c=3\*2, järelikult c=6).
+
+#### Jagamine
+
+kasutatakse märki "/"; ja jagab ühe väärtuse teisega, näiteks c=a/b jagab muutuja a väärtuse muutuja b väärtusega ja paneb muutuja c väärtuse võrduma tehte tulemusega (c=3/2, järelikult c=1,5 või c=1, oleneb keelest ja andmetüüpidest).
+
+#### Jagamise jääk
+
+kasutatakse märki "%"; ja jagab ühe väärtuse teisega, näiteks c=a%b jagab muutuja a väärtuse muutuja b väärtusega ja paneb muutuja c väärtuse võrduma jagamise jäägiga. (c=5%3 järelikult c=2).
 
 EPL keeles ei ole tõeväärtus tüüpi muutujat, seetõttu on loogikatehteid ainult juhtlausetes. Keeltes, kus on tõeväärus tüüpi muutujad on võimalik kasutada ja loogikatehteid, näiteks c= a &amp;&amp; b, c=true kui a ja b on võrdsed ja c=false kui a ja b ei ole võrdsed. Loogikatehetest tuleb pikemalt juttu juhtlausete käsitlemisel.
 
@@ -744,7 +832,7 @@ Erinevad programmeerimiskeeled lubavad erinevate aritmeetikaoperaatorite kasutam
 
 Näiteks c += a liidab muutuja c väätusele juurde muutuja a väärtuse (ehk c = a + c), a++ on muutuja iteratsioon ehk väärtuse suurendamine ühe võrra (ehk a=a+1) jne.
 
-### 1.5.5 Kordamisküsimused
+### B.3.5 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
