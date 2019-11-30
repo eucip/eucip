@@ -40,4 +40,8 @@ sidebar: none
 
 #### C2 [Operatsioonisüsteemid](./oppematerjalid/c_haldus_02_operatsioonisysteemid.md)
 
-> C3, C4... jne tulekul
+#### C3 [Side ja Võrgud](./oppematerjalid/c_haldus_03_side_ja_vorgud.md)
+
+#### C4 [Võrguteenused](./oppematerjalid/c_haldus_04_vorguteenused.md)
+
+> C4, C5... jne tulekul
