@@ -8,7 +8,7 @@ Selle alateema materjale läbi töötades saad teadmised andmete üldistest omad
 
 ### B.2.1.1 Andmed ja informatsioon
 
-::: warning
+::: warning Õppekava
 
 Tuua välja vastupidava (durable) andmesalvestuse ja aruandlussüsteemi tähtsus.
 
@@ -121,7 +121,7 @@ Siin tuleb appi andmebaasirakendus, mis võimaldab sellist hulka andmeid paiguta
 
 ### B.2.1.2 Andmete salvestamine
 
-::: warning
+::: warning Õppekava
 
 Tuua välja, kuidas atomaarsus, järjepidevus (consistency), isoleeritus ja vastupidavus (ACID) aitavad tagada töökindlaid andmebaasi transaktsioone.
 
@@ -164,7 +164,7 @@ Andmete ja info salvestamine süstemaatiliselt arvuti mälus omab rea eeliseid, 
 
 ### B.2.1.3 Andmete liiasus ja vasturääkivus
 
-::: warning
+::: warning Õppekava
 
 Näidata ühiskasutus-süsteemides projekteerimise ja hoolduse probleeme nt andmete liiasus ja vastuolulisus, terviklus, andmete paindlikkus, samaaegne juurdepääs ja turvalisus.
 
@@ -245,7 +245,7 @@ Selle alateema materjale läbi töötades saad teadmised andmebaasi juurde kuulu
 
 ### B.2.2.1 Failihaldussüsteemi ja andmebaasihaldussüsteemi erinevused
 
-::: warning
+::: warning Õppekava
 
 Tuua välja erinevused failihaldussüsteemi ja andmebaaside haldussüsteemi vahel (DBMS).
 
@@ -269,7 +269,7 @@ Täpsemalt vaadates, avaldub FMS piiratus järgmistel juhtudel:
 
 ### B.2.2.2 Andmebaasisüsteemi komponendid: andmefailid, andmesõnastik, indeksid, statistilised andmed
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada andmebaasisüsteemi komponente: andmefailid, andmesõnastikud, indeksid, statistilised andmed.
 
@@ -293,7 +293,7 @@ Enamikes tänapäeva veebirakendustes kasutatakse andmete hoiukohana andmebaase 
 
 ### B.2.2.4 Andmebaasihaldussüsteemi komponendid
 
-::: warning
+::: warning Õppekava
 
 Anda lühiinfot andmebaasi haldussüsteemide komponentide: päringukeele, aruandegeneraator, ihaldusvahendite, paralleeltöö halduse (concurrency control), transaktsioonide halduse, varundus- ja taastevahendite kohta.
 
@@ -309,7 +309,7 @@ Administreerimisvahendid võivad piirduda päringukeele abil antavate õiguste j
 
 ### B.2.2.5 Andmebaasi kasutaja, koostaja, programmeerija ja administraatori rollid
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada andmebaasi administraatori, projekteerija /programmeerija, kasutaja rolle.
 
@@ -343,7 +343,7 @@ Selle alateema materjale läbi töötades saad teadmised tegelike andmete kohand
 
 ### B.2.3.1 Andmete abstraktsioon ja vaatetasemed
 
-::: warning
+::: warning Õppekava
 
 Defineerida andmete abstraheerimine ja selgitada vahet füüsilise taseme, kontseptuaalse (loogilise ) ja vaate (kasutaja) tasemel.
 
@@ -365,7 +365,7 @@ Nimetatud kolm vaadet on üksteisest sõltumatud ja võivad olla hallatavad erin
 
 ### B.2.3.2 Andmemudelite grupid
 
-::: warning
+::: warning Õppekava
 
 Näidata erinevusi andmemudelitel: objektipõhise loogilise mudeli, kirjepõhise loogilise mudeli ja füüsilise andmemudeli vahel.
 
@@ -385,7 +385,7 @@ Objektidega seotud suurem üldistustase põhineb sõltuvusseostega seotud andmeo
 
 ### B.2.3.3 Kirjepõhiste hierarhilise andmemudeli ning võrkmudeli kirjeldus
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada kirjepõhise loogilise mudeli põhimõtet nt hierarhilise või võrkmudeli abil.
 
@@ -405,7 +405,7 @@ Enamate mudelite olemasolu on põhjustanud erinevate nimede kasutamist sarnastel
 
 ### B.2.3.4 Objektipõhine loogiline mudel
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada objektipõhise loogilise mudeli põhimõtet nt olem-relatsioonmudeli või objektorienteeritud mudeli abil.
 
@@ -463,7 +463,7 @@ Selle alateema materjale läbi töötades õpid tundma levinuimaks saanud andmem
 
 ### B.2.4.1 Mudeli paindlikkus, skaleeruvus ning liiasuste puudumine
 
-::: warning
+::: warning Õppekava
 
 Tuua välja relatsioonilise mudeli eelised, nagu mitteliiasus, paindlikkus, skaleeritavus.
 
@@ -496,7 +496,7 @@ Hästi projekteeritud relatsioonilisel andmebaasil on rida olulisi ja kasulikke 
 
 ### B.2.4.2 Tähtsamad relatsioonilise mudeli terminid: relatsioon, võti, primaarvõti, alternatiivne võti, võõrvõti, viiteterviklus
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada relatsioonilise mudeli olulisi mõisteid: relatsioon, võti, primaarvõti, alternatiivvõti, välisvõti, viidete terviklus (referential integrity).
 
@@ -535,7 +535,7 @@ Eero Ringmäe konspekt
 
 ### B.2.4.3 Näide andmete normaliseerimiseks esimesele, teisele ja kolmandale normaalkujule
 
-::: warning
+::: warning Õppekava
 
 Selgitada lihtsate näidete varal 1. 2. ja 3. normaalkujule viimist.
 
@@ -630,7 +630,7 @@ Selle alateema materjale läbi töötades õpid tundma mitmesuguste päringukeel
 
 ### B.2.5.1 Protseduuriliste ja mitteprotseduuriliste päringukeelte eristamine
 
-::: warning
+::: warning Õppekava
 
 Tuua välja vahe protesuursete ja mitteprotseduursete keelte vahel.
 
@@ -640,7 +640,7 @@ Andmebaaside päringkeelte areng algas relatsioonalgebraga ja jõudis **struktur
 
 ### B.2.5.2 Relatsioonalgebra põhioperatsioonid
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada põhilisi relatsioonalgebra tehteid: valik (select), projektsioon (project), ümbernimetamine (rename), otsekorrutis (cartesian product), ühend (union), konjunktsioon (join), vahe (set difference).
 
@@ -710,7 +710,7 @@ Et tõhusalt mõista andmete otsimist, on kasulik alustada relatsioonalgebra mõ
 
 ### B.2.5.3 Andmete määratluskeel (DDL) ja andmede manipuleerimiskeel (DML)
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada SQL keele komponente :andmete defineerimiskeel (DDL), andmete manipuleerimiskeel (DML), andmete juhtkeel (DCL).
 
@@ -724,7 +724,7 @@ Liikudes relatsioonalgebra juurest SQL juurde peab tähele panema, et see keel s
 
 ### 2.5.4 Andmete määratluskeele tähtsamad korraldused
 
-::: warning
+::: warning Õppekava
 
 Aru saada SQL andmete defineerimiskeele käskude toimimisest nt. create, drop, alter table.
 
@@ -860,7 +860,7 @@ CREATE UNIQUE INDEX koeraindeks ON koerad(kood)
 
 ### B.2.5.5 Kordamisküsimused
 
-::: warning
+::: warning Õppekava
 
 Aru saada SQL andmete juhtkeele käskude toimimisest nt grant, revoke.
 
@@ -882,7 +882,7 @@ Selle alateema materjale läbi töötades saad teadmised SQL-päringute kohta.
 
 ### B.2.6.1 SQL andmete manipuleerimiskeele (DML) käsud
 
-::: warning
+::: warning Õppekava
 
 Aru saada SQL andmete manipuleerimiskeele käskude toimimisest nt insert, delete, update, select.
 
@@ -965,7 +965,7 @@ kus on kasutatud tähiseid
 
 ### 2.6.2 SQL lisaklauslite kasutamine (nagu: where, order by, group by…)
 
-::: warning
+::: warning Õppekava
 
 Aru saada SQL tingimustest: where, order by, group by.
 
@@ -1054,7 +1054,7 @@ select oppeained.eesnimi, perenimi, tudengid.eesnimi from oppeained, outer tuden
 
 ### B.2.6.3 Vaated ning transaktsioonihaldus
 
-::: warning
+::: warning Õppekava
 
 Tuua välja vaadete kasutamine ja SQL erikäsud nt commit, rollback.
 
@@ -1124,7 +1124,7 @@ Selle alateema materjale läbi töötades saad teadmised andmebaaside administre
 
 ### 2.7.1 Andmebaasid ja nende tähtsamad administreerimise toimingud
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada kõige olulisemaid andmebaaside halduse toimingud, näiteks skeemi määratlemine, salvetusmahu struktuur ja pöördusmeetodid, skeemi ja füüsilise paigutuse muutmine, andmetele juurdepääsu lubamine.
 
@@ -1170,7 +1170,7 @@ Nagu oleme näinud on ABHS IT toode, mida kasutatakse andmete haldamiseks organi
 
 ### 2.7.2 Turvaküsimused akronüümi CIA kontekstis (Confidentiality, Integrity, Availability – konfidentsiaalsus, terviklus, käideldavus)
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada konfidentsiaalsuse ja terviklusega seotud probleeme nt. tervikluse piirangud, õnnetusjuhtumiga põhjustatud terviklusekadu, õnnetusjuhtumiga põhjustatud järjepidevuse kadu, pahatahtlik andmete poole pöördumine.
 
@@ -1198,7 +1198,7 @@ Käideldavuse nõuded tõstatavad kaht tüüpi spetsiifilisi probleeme.
 
 ### 2.7.3 Näited mimesuguste turvareeglite kohta: inimfaktor, füüsilised tegurid, operatsioonisüsteemi ja andmebaasi turvalisus
 
-::: warning
+::: warning Õppekava
 
 Tuua näiteid turvareeglitest näiteks isikuturvalisusest, füüsiliset turbest, opsüsteemi turbest, andmebaasi turvalisusest..
 
@@ -1215,7 +1215,7 @@ Riskid võivad tuleneda:
 
 ### 2.7.4 Taastamisskeemid vastavalt vigadele
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada taastekavasid, mida kasutatakse erinevat tüüpi vigade korral, näiteks loogiline viga, süsteemi viga, süsteemi ootamatu seiskumine, kettaseadme tõrge.
 
@@ -1251,7 +1251,7 @@ Selle alateema materjale läbi töötades saad teadmised andmehoidlate eesmärki
 
 ### 2.8.1 Andmehoidla põhimõtted ja põhikomponendid
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada andmeaida mõistet ja selle komponente.
 
@@ -1294,7 +1294,7 @@ AAS täiteprotsess, mis regulaarselt integreerib erinevatest andmeallikatest võ
 
 ### 2.8.2 Andmekaeve põhimõtted
 
-::: warning
+::: warning Õppekava
 
 Määratleda andmekaeve mõiste.
 
@@ -1306,7 +1306,7 @@ Põhjalikuma ja kulukama analüüs võib teha mittesummeeritud andmetega: seda t
 
 ### 2.8.3 Andmehoidlate põhilised kasutusalad
 
-::: warning
+::: warning Õppekava
 
 Tuua välja andmeaida tööpõhimõtted.
 
