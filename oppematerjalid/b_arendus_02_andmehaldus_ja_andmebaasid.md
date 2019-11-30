@@ -335,7 +335,7 @@ Andmebaasi kasutaja pärib, muudab ja täiendab andmeid nii nagu tema töö juur
 - aitab soovitud tunnuse järgi kiiremini otsida X
 - võimaldab kindlamat üheaegset failikirjutust
 
-::: warning
+:::
 
 ## B.2.3 Andmete modelleerimine
 
@@ -840,7 +840,7 @@ Indeksi tühistamisel ei loe, kas indeks on unikaalne või mitte. Indeksite muut
 drop index tudenginimi;
 ```
 
-Ülesandeid
+#### Ülesandeid
 
 Koosta tabel koerte andmete hoidmiseks (kood, koeranimi)
 
@@ -858,7 +858,7 @@ CREATE UNIQUE INDEX koeraindeks ON koerad(kood)
 
 Ühiseks ja igalpool toimivaks standardiks on üljuhul SQL-92 (aastanumber). Andmebaasisüsteemid on hulgaliselt teinud täiendusi andmetüüpide ja käskude lisavõimaluste juures, samuti näiteks primaarvõtme ja automaatsete koodide loomisel. Nii et ühes keskkonnas kokku pandud vähegi keerukamate käskude üle viimine teise võib küllalt keeruliseks osutuda.
 
-**2.5.5 Kordamisküsimused**
+### B.2.5.5 Kordamisküsimused
 
 ::: warning
 
@@ -876,11 +876,19 @@ c – select from
 
 d – alter table X
 
-## 2.6 SQL-päringud
+## B.2.6 SQL-päringud
 
 Selle alateema materjale läbi töötades saad teadmised SQL-päringute kohta.
 
-### 2.6.1 SQL andmete manipuleerimiskeele (DML) käsud (insert, delete, update, select)
+### B.2.6.1 SQL andmete manipuleerimiskeele (DML) käsud
+
+::: warning
+
+Aru saada SQL andmete manipuleerimiskeele käskude toimimisest nt insert, delete, update, select.
+
+:::
+
+#### Insert
 
 Liikudes andmete manipuleerimiskeele (DML) juurde, võib märkida, et on võimalik andmeid tabelisse lisada järgmise korraldusega:
 
@@ -890,15 +898,17 @@ insert into tname [(colname, ...)] values (colval, ...);
 
 kus on kasutatud tähiseid:
 
-tname – tabelinimi, millisesse andmeid lisatakse;
-colname – veerunimi, kuhu lisatakse;
-colval – konkreetsed andmed, mida lisatakse.
+`tname` – tabelinimi, millisesse andmeid lisatakse;
+`colname` – veerunimi, kuhu lisatakse;
+`colval` – konkreetsed andmed, mida lisatakse.
 
 Andmete lisamise operatsioon võib nurjuda mitmel põhjusel: lisatavad andmed dubleerivad unikaalse indeksi väärtusi või sisestatavad andmed ei vasta veeru määratud andmetüübile.
 
 | Näited:                                                                                 |
 | --------------------------------------------------------------------------------------- |
 | **_Insert into tudengid (tkood, eesnimi, perenimi) values (12, "Juhan", "Juurikas");_** |
+
+#### Delete
 
 Ridade kustutusoperatsioon võimaldab lisada ka kustutamise tingimusi, tutvustades uut süntaksielementi klausel where.
 
@@ -936,6 +946,8 @@ Näited:
 delete from tudengid where synnipaev \&lt;"01.01.1983" and perenimi="Juurikas"
 ```
 
+#### Update
+
 Tabeli väärtuste muudatusi võib teha järgmise korraldusega:
 
 ```
@@ -952,6 +964,12 @@ kus on kasutatud tähiseid
 `oprel` – suhteoperaator (relatsiooniline operaator).
 
 ### 2.6.2 SQL lisaklauslite kasutamine (nagu: where, order by, group by…)
+
+::: warning
+
+Aru saada SQL tingimustest: where, order by, group by.
+
+:::
 
 Andmete uuenduskorraldus lubab tabeli mitut rida ja veergu uuendada samaaegselt. Rea valik teostatakse **where** klausliga, samas peab veeru uuenduse korralduses täpselt näitama.
 
@@ -1034,7 +1052,13 @@ Näited:
 select oppeained.eesnimi, perenimi, tudengid.eesnimi from oppeained, outer tudengid order by oppeained.eesnimi, perenimi, tudengid.eesnimi where oppeained.tudeng=tudengid.kood;
 ```
 
-### 2.6.3 Vaated ning transaktsioonihaldus
+### B.2.6.3 Vaated ning transaktsioonihaldus
+
+::: warning
+
+Tuua välja vaadete kasutamine ja SQL erikäsud nt commit, rollback.
+
+:::
 
 Olles eelnevalt piisavalt uurinud select korraldust, võib nüüd uurida kasutaja korraldust create view. Kasutaja vaade (user view) on funktsionaalsest seisukohast vaade nagu tabel ise, aga see luuakse select korraldusega. Põhiliselt on see võimalus esitada tabeleid erineval viisil. Korralduse süntaks:
 
@@ -1078,45 +1102,45 @@ rollback work;
 
 Kui automaatne andmetehingute lõpetamine on välja lülitatud (autocommit=off), siis andmete muutmiskorraldused ( **insert** - lisamine, **delete** - kustutamine, **update** - uuendus) ei muuda tabeli sisu, selle asemel nad regisreerivad vajalikud muutused (tavaliselt logides). Need muutused teostatakse ainult juhul, kui sooritatakse korraldus **commit**. Kui sooritatakse korraldus **rollback** , siis muudatused lükatakse tagasi. Selliselt on võimalik luua käskude komplekte, mis täidetakse tervikuna või jäetakse tervikuna täitmata.
 
-### 2.6.4 Kordamisküsimused
+### B.2.6 Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 1. Konkreetse sünniaastaga inimeste küsimiseks SELECT-lauses kasutatakse tingimust lauseosas nimega
-
-a – `ORDER BY`
-
-b – `WHERE X`
-
-c – `GROUP BY`
-
-d – `FROM`
+   – `ORDER BY`
+   – `WHERE X`
+   – `GROUP BY`
+   – `FROM`
 
 2. Käivitatud käskude eelse seisundi taastamiseks võib sobida
-
-a – `ROLLBACK X`
-
-b – `COMMIT`
-
-c – `ORDER BY`
-
-d – `GROUP BY`
+   – `ROLLBACK X`
+   – `COMMIT`
+   – `ORDER BY`
+   – `GROUP BY`
 
 ## 2.7 Andmebaaside administreerimine ja turvalisus
 
 Selle alateema materjale läbi töötades saad teadmised andmebaaside administreerimise ja turvalisuse kohta.
 
-### 2.7.1 Andmebaasid ja nende tähtsamad administreerimise toimingud: skeemi defineerimine, andmesalvesttus­struktuuri ja andmete poole pöördumise määramine, õiguste jagamine
+### 2.7.1 Andmebaasid ja nende tähtsamad administreerimise toimingud
+
+::: warning
+
+Kirjeldada kõige olulisemaid andmebaaside halduse toimingud, näiteks skeemi määratlemine, salvetusmahu struktuur ja pöördusmeetodid, skeemi ja füüsilise paigutuse muutmine, andmetele juurdepääsu lubamine.
+
+:::
 
 Andmebaas haldusoperatsioone teostavad üks või rohkem andmebaasi administraatorit (DBA) kes on vastutavad AB seadistuse halduse eest. Nende ülesannete hulka kuuluvad muuhulgas skeemihaldus ABHS olemasolevate haldusprogrammidega, kasutades DDL korraldusi ja kasutajate juurdepääsupoliitika seadistamine.
 
 See ei tähenda midagi, et DBA ei ole andmebaasi omanik (täpselt nagu elamuühistu administraator ei ole elamute omanik), vaid on selle asemel kõrge kvalifikatsiooniga tehnik, et igas olukorras tegutseda vastavalt tavalisele plaanile, mis on kooskõlastatud organisatsiooni, kes toodab või kasutab andmeid, direktoriga (õige omanik).
 
-Senini pole me rääkinud DBA rollist AB füüsilise vaate seisukohalt. Kõigepealt need operatsioonid pole tavaliselt standardne haldus, kuna füüsilise vaate haldusega tegeleb tavaliselt ABHS müüja. Need operatsioonid võivad erinevate ABHS jaoks olla erinevad, aga nad peegeldavad üldisi vajadusi. Need vajadused on peamiselt seotud ABHS turvalisuse ja jõudlusega (täitmis- või töökiirus). Turvalisus vajadused on seotud andmete **konfidentsiaalsuse** (_confidentiality_) ja **käideldavusega** (_availability_). On olemas sobivad SQL korraldused konfidentsiaalsuse haldamiseks, kuid nendest tuleb juttu edaspidi.
+Senini pole me rääkinud DBA rollist AB füüsilise vaate seisukohalt. Kõigepealt need operatsioonid pole tavaliselt standardne haldus, kuna füüsilise vaate haldusega tegeleb tavaliselt ABHS müüja. Need operatsioonid võivad erinevate ABHS jaoks olla erinevad, aga nad peegeldavad üldisi vajadusi. Need vajadused on peamiselt seotud ABHS turvalisuse ja jõudlusega (täitmis- või töökiirus). Turvalisus vajadused on seotud andmete **konfidentsiaalsuse** _confidentiality_ ja **käideldavusega** _availability_. On olemas sobivad SQL korraldused konfidentsiaalsuse haldamiseks, kuid nendest tuleb juttu edaspidi.
 
 Käideldavuse vajadused on tavaliselt lahendatud füüsilisel tasemel liiasuse kaudu või andmete dubleerimisega ning ka varukoopiate poliitikaga. Liiasus võib olla kas kohalik (RAID-ketaste kasutus) või kaugjuhitav (algatatud andmebaasi peegelduspoliitika tõttu teises arvutis).
 
 Jõudluse parandamise vajadused on lahendatud füüsilisel tasandil füüsilise vaate seadistamisega:
 
-- Valides töökeskkonnaks uued (_raw devices_) salvestusseadmed (või kõvakettad) failisüsteemi kasutamise asemel (salvestus läbi FHS). See on selline valik, mis loob keerukusi ja on seepärast samuti kulukas, kuid võib suuresti parandada ABHS jõudlust, mis peab haldama suurt hulka andmeid.
+- Valides töökeskkonnaks uued _raw devices_ salvestusseadmed (või kõvakettad) failisüsteemi kasutamise asemel (salvestus läbi FHS). See on selline valik, mis loob keerukusi ja on seepärast samuti kulukas, kuid võib suuresti parandada ABHS jõudlust, mis peab haldama suurt hulka andmeid.
 - Otsustades jagada AB mitme masina vahel, et saavutada suurem arvutusvõimsus.
 - Kasutades mitmelõimelist ABHS (hargtöötlus), mis suudab ära kasutada rohkem protsessoreid või igal juhtumil jagada korraldused (päringud) efektiivselt.
 - Muutes jagatud mäluala nii, et ta on suuteline kohanema nõutava laienemisega kaasnevate protsesside hulgaga.
@@ -1146,23 +1170,39 @@ Nagu oleme näinud on ABHS IT toode, mida kasutatakse andmete haldamiseks organi
 
 ### 2.7.2 Turvaküsimused akronüümi CIA kontekstis (Confidentiality, Integrity, Availability – konfidentsiaalsus, terviklus, käideldavus)
 
+::: warning
+
+Kirjeldada konfidentsiaalsuse ja terviklusega seotud probleeme nt. tervikluse piirangud, õnnetusjuhtumiga põhjustatud terviklusekadu, õnnetusjuhtumiga põhjustatud järjepidevuse kadu, pahatahtlik andmete poole pöördumine.
+
+:::
+
 Ilmselt on vajalik kavandada vastumeetmeid iga riski vähendamiseks.
 
 Jaotades võimalikud lahendused vastavalt kaalutletud turvalisuse aspektidele, võib sõnastada järgmised nõuded:
 
 - Mis puudutab konfidentsiaalsust, siis esimene vastumeede on korrektne lubade (õiguste) määramine piirates juurdepääsuõigusi ja piirates võimalike operatsioonide (tegevuste) hulka iga üksiku tabeli korral. Ilmselt on ilma täiendavate kulutusteta vastumeetmeks varustuse ja varukoopiate õige haldamine, nii on kõik, mis on ligipääsematu ABHS kaudu, oleks ka füüsiliselt ligipääsematu. Need vastumeetmed on efektiivsed, sest konfidentsiaalsusrisk tuleneb enamasti volitamata juurdepääsu juhtumitest.
-- Mis puudutab terviklust, siis on risk juhusliku tervikluse ja koherentsuse (kooskõla) kaotusega seotud peamiselt programmi talitlushäiretega (ja nendest põhjustatud), tõenäoliseks põhjuseks on anomaaliad andmete lisandumisel. On mitmeid viise nendele riskidele reageerimiseks:
 
-  - Esiteks: juurdepääs andmetele peaks olema kontrollitud ja piiratud nii, et ainult ametlikud kasutajad võiks muuta andmeid.
-  - Teiseks: piirangud peaks mõjutama AB skeemi (unikaalsed indeksid, viiteline terviklus).
-  - Kolmandaks: põhitähelepanu peaks olema suunatud transaktsioonide haldusele.
+Mis puudutab terviklust, siis on risk juhusliku tervikluse ja koherentsuse (kooskõla) kaotusega seotud peamiselt programmi talitlushäiretega (ja nendest põhjustatud), tõenäoliseks põhjuseks on anomaaliad andmete lisandumisel.
 
-- Käideldavuse nõuded tõstatavad kaht tüüpi spetsiifilisi probleeme.
-  - Esiteks peab määrama ABHS adekvaatse riistvara hulga ja sobiva seadistuse (konfiguratsiooni) kompleksse, keeruka koormusega toimetulemiseks.
-  - Teine probleem on seotud käideldavuse maksimeerimise poliitikaga, mis põhineb liiaste ketaste massiivi (RAID), liiaste protsessorite (nagu mitmikprotsessorid) kasutamisel või kaugjuhitavate varunduslahenduste (peegelduste) kasutamisel.
-  - Ilmselgelt täielikke garantiisid ei ole olemas; seepärast peaks eesmärgiks seadma kahjude vähendamise strateegia, varukoopiate tegemise poliitika on vajalik, et võimaldada mitte ainult kiire andmete taastamine, vaid ka piirata sellega andmete võimalikku kaotust. Abinõudena võiks soovitada **varukoopiate** loomise perioodi vähendamist ja tehingute pidevat jälgimist veebilogide (online logging) kasutamise teel vähendamaks tehingute kaotsiminekut ja lõpetamata tehinguid ABHS rikke või mittetoimimise ajal.
+On mitmeid viise nendele riskidele reageerimiseks:
+
+- Esiteks: juurdepääs andmetele peaks olema kontrollitud ja piiratud nii, et ainult ametlikud kasutajad võiks muuta andmeid.
+- Teiseks: piirangud peaks mõjutama AB skeemi (unikaalsed indeksid, viiteline terviklus).
+- Kolmandaks: põhitähelepanu peaks olema suunatud transaktsioonide haldusele.
+
+Käideldavuse nõuded tõstatavad kaht tüüpi spetsiifilisi probleeme.
+
+- Esiteks peab määrama ABHS adekvaatse riistvara hulga ja sobiva seadistuse (konfiguratsiooni) kompleksse, keeruka koormusega toimetulemiseks.
+- Teine probleem on seotud käideldavuse maksimeerimise poliitikaga, mis põhineb liiaste ketaste massiivi (RAID), liiaste protsessorite (nagu mitmikprotsessorid) kasutamisel või kaugjuhitavate varunduslahenduste (peegelduste) kasutamisel.
+- Ilmselgelt täielikke garantiisid ei ole olemas; seepärast peaks eesmärgiks seadma kahjude vähendamise strateegia, varukoopiate tegemise poliitika on vajalik, et võimaldada mitte ainult kiire andmete taastamine, vaid ka piirata sellega andmete võimalikku kaotust. Abinõudena võiks soovitada **varukoopiate** loomise perioodi vähendamist ja tehingute pidevat jälgimist veebilogide (online logging) kasutamise teel vähendamaks tehingute kaotsiminekut ja lõpetamata tehinguid ABHS rikke või mittetoimimise ajal.
 
 ### 2.7.3 Näited mimesuguste turvareeglite kohta: inimfaktor, füüsilised tegurid, operatsioonisüsteemi ja andmebaasi turvalisus
+
+::: warning
+
+Tuua näiteid turvareeglitest näiteks isikuturvalisusest, füüsiliset turbest, opsüsteemi turbest, andmebaasi turvalisusest..
+
+:::
 
 Informaatika turvalisusest on olnud veidi juttu eelnevates materjalide osades. Kui räägime andmebaasidest, siis turvalisusel on samuti oluline osa. Andmebaaside turvalisust esindavad turvalisuse kolm aspekti: **konfidentsiaalsus** (ainult autenditud kasutajad omavad informatsioonile juurdepääsu), **terviklus** (soovimatud informatsiooni muutusi hoitakse ära) ja **käideldavus** (informatsioon on alati kättesaadav, kui teda vajatakse).
 
@@ -1175,6 +1215,12 @@ Riskid võivad tuleneda:
 
 ### 2.7.4 Taastamisskeemid vastavalt vigadele
 
+::: warning
+
+Kirjeldada taastekavasid, mida kasutatakse erinevat tüüpi vigade korral, näiteks loogiline viga, süsteemi viga, süsteemi ootamatu seiskumine, kettaseadme tõrge.
+
+:::
+
 Mitmesuguste probleemide põhjuste kaalumise asemel võime jagada vastavad vastumeetmed järgmiselt:
 
 - **Loogilisi** vigu, mis tulenevad väärast andmete sisestamist või protseduurivigadest on võimalik vältida korrektsete AB piirangute abil (constraints), nagu primaarvõtmete defineerimine, viitelise tervikluse kontroll või kasutades tehinguteks loogilisi vaateid (views). Ilmselt pole kõiki vigu võimalik kõrvaldada või vältida. Näiteks 3 asemel 5 sisestamine pole üldiselt automaatselt tuvastatav (identifitseeritav): kuid, kui viga on leitud või ära tuntud, siis peaks järgnema veaparandusprotseduur andmete uuendamiseks.
@@ -1183,31 +1229,33 @@ Mitmesuguste probleemide põhjuste kaalumise asemel võime jagada vastavad vastu
 
 **2.7.5 Kordamisküsimused**
 
+::: tip Kordamisküsimused
+
 1. Kasutajale õiguste jagamiseks kasutatakse käsklust
-
-a – `UPDATE`
-
-b – `REVOKE`
-
-c – `GRANT X`
-
-d – `INSERT`
+   – `UPDATE`
+   – `REVOKE`
+   – `GRANT X`
+   – `INSERT`
 
 2. Loogilisi vigu aitavad vältida
+   – RAID-kettaseadmed
+   – võõrvõtmed X
+   – varukoopiad
+   – UPS-seadmed
 
-a – RAID-kettaseadmed
-
-b – võõrvõtmed X
-
-c – varukoopiad
-
-d – UPS-seadmed
+:::
 
 ## 2.8 Andmehoidlad ja andmete kaevandamine
 
 Selle alateema materjale läbi töötades saad teadmised andmehoidlate eesmärkidest, ülesehitusest ning nende toest andmekaevanduse juures.
 
 ### 2.8.1 Andmehoidla põhimõtted ja põhikomponendid
+
+::: warning
+
+Kirjeldada andmeaida mõistet ja selle komponente.
+
+:::
 
 Vaatamata faktile, et **relatsiooniliste andmebaaside** (RAB) teooria määratleb, et ainult üksik andmebaas peab salvestama oma organisatsiooni kõik andmed, on mitmesuguseid põhjuseid mitmete andmebaaside olemasoluks ja nii on paljudes organisatsioonides palju andmebaase ja nad sisaldavad palju mitmesugust informatsiooni.
 
@@ -1246,11 +1294,29 @@ AAS täiteprotsess, mis regulaarselt integreerib erinevatest andmeallikatest võ
 
 ### 2.8.2 Andmekaeve põhimõtted
 
+::: warning
+
+Määratleda andmekaeve mõiste.
+
+:::
+
 Olles andmetega varustatud, võib andmeaita kasutada analüüsi tegemiseks. Neid analüüse tehakse kasutades tavalisi (normaalseid) päringuid andmebaasist, algselt töötades kokkuvõtvate andmetega, mis loodi andmeaida andmete sisestuse viimases faasis. Need esimesed analüüsid tavaliselt näitavad (paljastavad) analüüsitavate parameetrite dünaamikat, aga tavaliselt ei näita nad dünaamika põhjuseid.
 
 Põhjalikuma ja kulukama analüüs võib teha mittesummeeritud andmetega: seda tüüpi analüüs on sarnane eelmisele nii vahendite, kui ka uuritavate andmete poolest ja kannab nime andmete kaevandamine (data mining). Andmekaevandamine on arenev teadus: kasutaja alustab kokkuvõtvatest andmetest ja siis jätkab üksikasjalike andmete analüüsiga, otsides oma hüpoteesile kinnitust või tagasilükkamist. Andmeaidas on andmekaevandamisega seotud tegevuste osakaal madal, aga see kaasab suure hulga töötlusvõimsust; igal juhtumil kaasatakse vahendeid nende operatsioonide kiirendamiseks.
 
 ### 2.8.3 Andmehoidlate põhilised kasutusalad
+
+::: warning
+
+Tuua välja andmeaida tööpõhimõtted.
+
+:::
+
+::: danger
+
+Õppekava ja õppematerjali sisu ei lähe kokku
+
+:::
 
 Selle AAS põgusa kirjelduse lõpetuseks vaatame milleks nad kasulikud on:
 
@@ -1262,24 +1328,16 @@ Selle AAS põgusa kirjelduse lõpetuseks vaatame milleks nad kasulikud on:
 ::: tip
 
 Andmehoidla võimaldab:
-
-a – leida eilse kolmanda tehingu summa
-
-b – kiiremini kätte saada kokkuvõtvaid andmeid X
-
-c – serveri kettaid defragmenteerida
-
-d – kasutajaid kiiremini administreerida
+– leida eilse kolmanda tehingu summa
+– kiiremini kätte saada kokkuvõtvaid andmeid X
+– serveri kettaid defragmenteerida
+– kasutajaid kiiremini administreerida
 
 Andmekaeve
-
-a – võimaldab leida andmete mustreid, mida lihtsa tavapäringuga ei pruugi kätte saada X
-
-b – kustutab andmehoidlast andmeid, mida mõningatel põhjustel ei soovita säilitada.
-
-c – on võimatu andmehoidlat kasutamata
-
-d – on andmebaasis võimalik ainult spetsiaalse kasutajatunnuse abil
+– võimaldab leida andmete mustreid, mida lihtsa tavapäringuga ei pruugi kätte saada X
+– kustutab andmehoidlast andmeid, mida mõningatel põhjustel ei soovita säilitada.
+– on võimatu andmehoidlat kasutamata
+– on andmebaasis võimalik ainult spetsiaalse kasutajatunnuse abil
 
 :::
 
