@@ -282,6 +282,8 @@ Selgitada IKT investeeringute jälgimise ja hindamise vajadust.
 
 Kirjeldada omamise kogukulu (TCO) mõistet ja loetleda tüüpilisemad kuluartiklid.
 
+## A.3 IKT väärtus
+
 ### A.3.1 Kliendi mõiste hindamine
 
 #### A.3.1.1
