@@ -837,26 +837,16 @@ Näiteks c += a liidab muutuja c väätusele juurde muutuja a väärtuse (ehk c 
 ::: tip Kordamisküsimused
 
 1. Valik ja kordus
+   – valiku puhul peab tingimuses olema &amp;- märk
+   – korduse puhul peab tingimuses olema &amp;-märk
+   – tingimuslauset läbitakse üks kord või üldse mitte, korduslauset null või rohkem korda X
+   – iga korduslauset peab läbima vähemalt ühe korra
 
-a – valiku puhul peab tingimuses olema &amp;- märk
-
-b – korduse puhul peab tingimuses olema &amp;-märk
-
-c – tingimuslauset läbitakse üks kord või üldse mitte, korduslauset null või rohkem kordaX
-
-d – iga korduslauset peab läbima vähemalt ühe korra
-
-2. Jäägiarvutus
-
-5%4=
-
-a – 1X
-
-b – 2
-
-c – 3
-
-d – 4
+2. Jäägiarvutus `5 % 4=`
+   – 1 X
+   – 2
+   – 3
+   – 4
 
 Õiged vastused: 1 – c, 2 - a
 
@@ -866,7 +856,13 @@ d – 4
 
 Selle alateema materjale läbi töötades õpid tundma testimise mõisteid, meetodeid ja vahendeid.
 
-### 1.6.1 Testimise tasemed, põhimõisted
+### B.3.6.1 Testimise tasemed, põhimõisted
+
+::: warning Õppekava
+
+Kirjeldada testimise põhimõisteid: veavõimalus (fault), viga (error), tõrge (failure). Tuua välja kontrollimise, testimise ja silumise erinevad tasemed.
+
+:::
 
 Testimiseks saab nimetada ka lihtsat kompileeri/käivita/paranda tsüklit, kuid testimine on tarkvara valmimise juures nõnda tähtis osa, et selle tarbeks on hulgaliselt erinevaid vahendeid ja võimalusi loodud.
 
@@ -874,7 +870,13 @@ Arenduskeskkondade juurde kuuluvad silurid (debugger), mille abil on võimalik p
 
 Logimiste tarbeks on loodud eraldi abivahendeid. Lihtsaim ja vanadest aegadest levinuim on töö vahetulemuste trükkimine väljundaknasse. Suuremate rakenduste puhul aga võib neid teateid olla raske jälgida. Samuti peab ettevaatlik olema, et sellised programmeerijale mõeldud vaheteated lõppkasutajat häirima ei jääks. Selle tarbeks on mõeldud ka mitmeid abivahendeid nagu näiteks konstantide defineerimine C-keeles, kuid sellegipoolest kipuvad vaheväljatrükid mõnigikord segadust tekitama. Eri keskkondades on loodud logimiste tarbeks mitmesugused abivahendid – eri raskusastmega teadete saatmiseks logifailidesse või näiteks nende kättesaamiseks erilise aadressigaveebilehelt. Vigade raskusastmed arvutuslikest ebakõladest süsteemi tööd halvavate vigadeni.
 
-### 1.6.2 Mitmesuguste testide eesmärgid ja teostus
+### B.3.6.2 Mitmesuguste testide eesmärgid ja teostus
+
+::: warning Õppekava
+
+Kirjeldada erinevate testimiste eesmärke ja ulatust: komponendi testimine, süsteemi testimine,vastuvõtueelne testimine.
+
+:::
 
 Vastuvõtutestid lepitakse tellija ja tegija vahel enne toote loomist kokku – siis on võimalik selle järgi otsustada, kas tehtu on nõuetele vastav. Funktsionaalsus- ehk süsteemitestide puhul vaadeldakse üksipulgi kasutajalugudes kirjas olevaid nõudeid. ";Musta kasti"; testide puhul piirdutakse juhuslike ja käepäraste andmetega mis võimaluse korral valitakse võimalike andmete koguskaalast, et saada tulemustest ülevaatlikumat pilti. ";Valge kasti"; testimise puhul analüüsitakse eelnevalt läbi süsteemi sisemine töö enamasti programmikoodi tasemel ning püütakse ka sealtkaudu kahtlasemad kohad üles leida.
 
@@ -886,7 +888,13 @@ Vastuvõtutestid lepitakse tellija ja tegija vahel enne toote loomist kokku – 
 
 Unit-testid (üksusetestid) kontrollivad enamasti ühe klassi töö korrektsust. Mõne metoodika järgi soovitatakse testid kirjutada enne tegeliku koodi valmimist ning iga testi loomise järel kirjutada koodi juurde nõnda vähe kui võimalik, et see soovitud testi ära kataks. Sellisel juhul võib suhteliselt kindel olla, et tarkvaraüksuse enamik omadusi on testidega kaetud. Testidega kaetuse hea külg on, et siis võib suhteliselt kindel olla, et tarkvara muutmise korral jäävad vanad funktsionaalsused samamoodi toimima ning ei avaldu üllatuslikke anomaaliaid ootamatutes kohtades (mis muul juhul tarkvara muutmise korral suhteliselt kergesti juhtuma kipuvad).
 
-### 1.6.3 Testimise metodoloogiad. Automaatsed testimisvahendid
+### B.3.6.3 Testimise metodoloogiad. Automaatsed testimisvahendid
+
+::: warning Õppekava
+
+Tuua välja vahe staatilise ja dünaamilise testimismetodoloogia vahel ja loetleda automatiseeritud testimisvahendite näiteid
+
+:::
 
 Süsteemi kasvades tekib testitavaid kohti nõnda hulgem, et nende pidev käsitsi üle käimine kipub kergesti kurnavaks osutuma. Samas on loodud ning viimastel aastatel tuntuks saanud hulk automaatse testimise vahendeid. Automaatsed testid võimaldavad programmeerija aega nõudmata läbi käia mõne minutiga tuhandeid kontrolle kindlaks tegemaks, et lisatud täiendus pole midagi lahenduse varasema toimimise juures ära rikkunud.
 
@@ -901,38 +909,42 @@ Automaatselt on võimalik testida ka kujunduse ning veebiühendusega seotud rake
 ::: tip Kordamisküsimused
 
 1. Integratsioonitestimise puhul
-
-a – kontrollitakse keelefailide korrektsust
-
-b – kontrollitakse moodulite omavahelist koostalitlusvõimet
-
-c – kontrollitakse arvutuste korrektsust algoritmides
-
-d – kontrollitakse tingimuslausete omavahelist paiknemist
+   – kontrollitakse keelefailide korrektsust
+   – kontrollitakse moodulite omavahelist koostalitlusvõimet
+   – kontrollitakse arvutuste korrektsust algoritmides
+   – kontrollitakse tingimuslausete omavahelist paiknemist
 
 2. Silurid (debugger) võimaldavad
-
-a – käivitada programmi tööd sammude kaupa
-
-b – dekompileerida masinkoodi
-
-c – muuta muutujate andmetüüpe
-
-d – koondada programmifailid projektidesse
+   – käivitada programmi tööd sammude kaupa
+   – dekompileerida masinkoodi
+   – muuta muutujate andmetüüpe
+   – koondada programmifailid projektidesse
 
 Õiged vastused: 1-b, 2-a
 
 :::
 
-## 1.7 Dokumentatsioon ja haldus
+## B.3.7 Dokumentatsioon ja haldus
 
-Selle alateema materjale läbi töötades õpid tundma dokumentatsiooni tähtsust, tüüpe, koostamist ning selle muutuste haldust.
+Selle alateema materjale läbi töötades õpid tundma dokumentatsiooni tähtsust tüüpe, koostamist ning selle muutuste haldust.
 
-### 1.7.1 Dokumentatsiooni tüübid
+### B.3.7.1 Dokumentatsiooni tüübid
+
+::: warning Õppekava
+
+Kirjeldada tarkvaraarendusel ja üleandmisel üldiselt levinud dokumentatsiooni, nt struktureeritud kirjeldus loomulikus keeles (structural English), otsustuspuud, UML kood, programmi kommentaarid, vooskeemid.
+
+:::
 
 Pea iga rakenduse juures on vaja mingil kujul dokumenteerida või mugavalt kättesaadavaks muuta süsteemi nõuded, ülesehitus ning selgitused kasutajale. Kui põhjalik osa kirjutatakse eraldi dokumendina ning kui palju on leitav koodi ja kasutajaliidese kaudu – see sõltub juba märgatavalt kasutatavast arendusmeetodist. Eraldi kirjutisena olevat dokumentatsiooni aitavad märkimisväärses osas asendada näitlikud prototüübid, sobivalt kommenteeritud kood ning kokkulepitud testid. Samas – mõnel puhul on selgitamiseks mugavam lugeda eraldi süstemaatiliselt kirja pandud dokumenti.
 
-### 1.7.2 Hästi struktueeritud ja dokumenteeritud koodi väärtus
+### B.3.7.2 Hästi struktueeritud ja dokumenteeritud koodi väärtus
+
+::: warning Õppekava
+
+Kirjeldada hästi dokumenteeritud ja –struktureeritud dokumentatsiooni väärtuslikkust.
+
+:::
 
 Väiksema tarkvara esmase loomise ajal on enamik teabest mugavalt kättesaadav tegijate peades ning selge sihtmärgi puhul edeneb töö ka ilma eraldi nõudeid, struktuuri ja kasutajajuhendit kirja panemata. Ka väiksema rakenduse puhul kipub loomise käigus unustamisi ette tulema, kuid nendest saab enamasti üle ka esmaste katsetuste või kaaslasepoolse meeldetuletuse abil. Kui aga tegijaid on rohkem, nad ei suhtle pidevalt vahetult või rakenduse loomine/muutmine jääb pikema ajavahemiku sisse, siis mälu põhjal töötav arendus enam ei toimi. Uuesti rakenduse juurde pöördudes kulub märkimisväärne osa ajast olemasoleva meelde tuletamise peale ning mõnedki algselt kokku lepitud põhimõtted ja piirangud võivad kergesti tähelepanuta jääda kui neid eraldi kirja pandud ei ole. Koodi sobiva struktuuri ja lühikeste asjalike kommentaaride abiga võib rakenduse ülesehituse meelde tuletamine (vahel isegi kümnetes) kordades lihtsustuda.
 
@@ -940,49 +952,59 @@ Võrdluseks – Java või .NETi standardteekides olevate tuhandete klasside ja k
 
 Uuesti kirjutamine ei pruugi sugugi alati paha mõte olla ning seda ei tasu ka liialt karta. Peab ainult tundma ja kindel olema, et uuel kujul rakendus märgatavalt paremini hallatav ja edasi arendatav on. Küllalt sageli võib selline ümber tegemine otstarbekaks osutuda juhul, kui rakendus eelmise versiooniga võrreldes on kolm või rohkem korda suuremaks paisunud. Mõned arendajad püüavad sellist ümbertegemisvajadust vältida ning kohe algul luua põhjaliku struktuuriga arendusprojekti, kus igal osal ja koodilõigul on kindel koht. Sellisel juhul aga kipub tulemuseks olema ka näiteks lihtsa kalkulaatori puhul mitmeteistkümne kataloogi ning mitmekümne failiga projektipuu, kus rakendusespetsiifilist sisu on siiski vaid paari faili seest. Selline lähenemine võib mugav olla tarkvarafirmade puhul, kus suurte rakenduste struktuur on selgelt välja kujunenud ning meeskond oskab sobilikke lõike kergesti leida. Kui aga tegemist rakendusega, mille tegevusloogika saab kirjeldada paari ekraanitäie programmikoodiga, siis on lühikesel lahendusel oma võlu – eriti, kui selle koodiga peavad hiljem tegelema mitmesuguse taustaga programmeerijad eri arendusvahendite abil. Isegi siis on kompaktne kood vahel mugav, kui on teada, et paari aasta pärast tuleb see süsteemi kasvamise ning nõuete muutumise tõttu märgatavalt ümber teha.
 
-### 1.7.3 Dokumentatsiooni muutused
+### B.3.7.3 Dokumentatsiooni muutused
+
+::: warning Õppekava
+
+Selgitada kuidas fikseerida parandusi programmides ja programmi dokumentatsioonis.
+
+:::
 
 Nõuded muutuvad, süsteemid muutuvad, koos nendega peab muutuma ka dokumentatsioon. Sest dokumentatsiooni puudumisest hullem on vigane dokumentatsioon. Samas kiirete muutuste ajal on eraldiseisva põhjaliku dokumentatsiooni värskena hoidmine mahukas ja keeruline ülesanne. Kergesti kipuvad tekkima kohad, kus eelnevalt paigas olnud seosed muutmise käigus kaduma lähevad. Kui tahta süsteemi ja dokumentatsiooni kooskõla säilitada, siis üheks mooduseks alustada muutuste sisseviimist dokumentatsioonis ning pidada järge kõigi osadega, mis muutustega seotud võiksid olla. Ning alles lõpuks viia muudatused sisse ka tegelikult töötavasse süsteemi.
 
 Teiseks mooduseks on võimalikult suure osa dokumentatsiooni sidumine programmikoodiga. Sest nagu vahel öeldakse, ei valeta kood kunagi – ikka teeb masin seda, mis seal kirjas. Sel juhul automaattestidega määratakse kõigepealt uus vajalik funktsionaalsus – mis on omakorda nõuete kirjelduseks. Ning muudes kohtades on dokumentatsioon võimalikult koodi juurest genereeritavate automaatsete kommentaaridena – siis piisab hoolitsemisest, et koodis koha peal tehtavad muutused sealsamas meetodi päises korralikult kommenteeritud saaks – ülejäänu eest otsustab juba kommentaaride põhjal dokumentatsiooni koostav rakendus.
 
-### 1.7.4 Programmi haldust lihtsustavad vahendid – kommenteerimise reeglid, koodi läbivaatus
+### B.3.7.4 Programmi haldust lihtsustavad vahendid – kommenteerimise reeglid, koodi läbivaatus
+
+::: warning Õppekava
+
+Kirjeldada programmi väärtuse säilitamist hoolduse abil, nagu koodi ülevaatamine, kommenteerimise reeglid, tehnilised viitedokumendid.
+
+:::
 
 Kommenteerimise üldreegliks on, et ";piisavalt lühidalt kuid kindlasti arusaadavalt";. Samas selliste kommentaaride maht ja keerukus sarnaste rakenduste juures võib kordades erineda. Hea, kui sama rakenduse või ka firma piires on kommenteerimise suhtes ühised tavad – siis tulevad kokkupandud rakenduste dokumentatsioonid ühtlasemad ning samuti teab täpsemalt ette aimata, mida võib kommentaaridest leida, mida mitte. Lisaks on ka programmeerimiskeelte kaupa olemas ühtsed soovitused programmikoodi vormistamiseks – muutujate kirjeldamise reeglid, treppimise reeglid samuti automaatsete kommentaaride kirjutamise reeglid.
 
 Programmikoodi aitab viisakama ning usaldatavamana hoida koodi läbivaatus ehk selle inspekteerimine teise asjatundja poolt. Võõras silm avastab vigu ja kahtlasi kohti, mis kirjutajal enesel kipuvad tähelepanuta jääma. Ekstreemprogrammeerimise juures on läbivaatus viidud ";ekstreemselt põhjalikuks";, ehk siis koodi kirjutataksegi kahekesi koos. Toimingut nimetatakse paarisprogrammeerimiseks. Kasulikuks osutub aga ka lihtsalt pärast valmimist koodi läbivaatus ja analüüs teise eksperdi poolt.
 
-### 1.7.5 Kordamisküsimused
+### B.3.7.5 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Süsteemi nõuete document:
-
-a – juhendab kasutaja käitumist erisugustes olukordades
-
-b – on nõuete kogumise ja analüüsi tegevuse väljundiks X
-
-c – märgib üles rakenduse arhitektuurse disaini
-
-d – määrab rakendust loova meeskonna liikmed
+   – juhendab kasutaja käitumist erisugustes olukordades
+   – on nõuete kogumise ja analüüsi tegevuse väljundiks X
+   – märgib üles rakenduse arhitektuurse disaini
+   – määrab rakendust loova meeskonna liikmed
 
 2. Koodi kommenteerimise reeglid:
-
-a – määravad rakenduses kasutatava programmeerimiskeele
-
-b – hoiavad alles koodi vanemad versioonid
-
-c – kirjeldavad, kuidas ühtlaselt kirja panna programmi juures leiduv metainfo X
-
-d – aitavad konfiguratsioonifailidest leida soovitud parameetreid.
+   – määravad rakenduses kasutatava programmeerimiskeele
+   – hoiavad alles koodi vanemad versioonid
+   – kirjeldavad, kuidas ühtlaselt kirja panna programmi juures leiduv metainfo X
+   – aitavad konfiguratsioonifailidest leida soovitud parameetreid.
 
 :::
 
-## 1.8 Programmeerimise näited
+## B.3.8 Programmeerimise näited
 
 Selle alateema materjale läbi töötades õpid tundma koodinäidetega seotud ülesannete sisu. Ülesannete lahendamiseks on vajalik mõningane koodikirjutamise kogemus, et tekiks oskus näiteid analüüsida.
 
-### 1.8.1 Väikeste koodinäidete loomine määratud ülesande lahendamiseks
+### B.3.8.1 Väikeste koodinäidete loomine määratud ülesande lahendamiseks
+
+::: warning Õppekava
+
+Tõlgendada programmilõiku etteantud hüpoteesi alusel.
+
+:::
 
 Koodinäited on väga head vahendid programmeerimise õppimiseks ning mõnele konkreetsele ülesandele vastuse otsimiseks. Tervikliku näite eeliseks on, et teda on võimalik käivitada, täiendada, tulemust proovida ning eksituse korral jälle eelmise seisu juurde tagasi pöörduda. Temaatilisi näiteid liialt palju, et neist siinses lühikeses kirjutises kasu oleks. Õnneks on Internetis päris mitmeid näidete kogumikke vabalt saadaval, kel nende põhjal õppimise tahtmist on.
 
@@ -998,7 +1020,13 @@ Sealsed näited on isegi keerukamate teemade kohta tehtud piisavalt lihtsad, et 
 
 Sealsedki näited on püütud teha suhteliselt mõistetavalt lühikeselt. Samas enamikul juhtudel hoolitsetud, et nad tervikuna käivitatavad ja katsetatavad oleksid.
 
-### 1.8.2 Vigade leidmine ja parandamine nõuetele vastavuse saavutamiseks
+### B.3.8.2 Vigade leidmine ja parandamine nõuetele vastavuse saavutamiseks
+
+::: warning Õppekava
+
+Leida programmilõigus viga või puudus ja parandada see nõuete vastavaks.
+
+:::
 
 EUCIP kutseeksami juures on mitmeid ülesandeid programmikoodis vea otsimiseks ja parandamiseks. Jällegi tegemist valdkonnaga, kus tuleb pikemalt koodikirjutamist harjutada ning mõningane vilumus saavutada. Aga siia mõned tüüpilised kohad, mida tasub kontrollida.
 
@@ -1033,11 +1061,8 @@ s=s+m[i];
 Milline on muutuja s väärtus pärast koodilõigu läbimist?
 
 a – 0
-
 b – 17
-
 c – 13 X
-
 d – 12
 
 **Koodilõik**
@@ -1054,10 +1079,8 @@ for(int i=1; i<3; i++){
 Mida peaks koodilõigus muutma, et tulemusena leitaks massiivielementide summa?
 
 a – rida 2 s=1;
-
-b – rida 3 for(int i=0; i\&lt;4; i++){ X
-
-c - rida 3 for(int i=0; i\&lt;3; i++){
+b – rida 3 for(int i=0; i<4; i++){ X
+c - rida 3 for(int i=0; i<3; i++){
 
 c – rida 2 s=-1;
 
