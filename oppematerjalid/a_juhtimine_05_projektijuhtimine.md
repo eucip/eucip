@@ -2,7 +2,7 @@
 
 Selle teema materjale läbi töötades saad põhiteadmised IT projektide juhtimisega seotud teemadest.
 
-## 5.1 Infosüsteemide projektid
+## A.5.1 Infosüsteemide projektid
 
 Selle alateema materjale läbi töötades saad teada:
 
@@ -14,7 +14,7 @@ Selle alateema materjale läbi töötades saad teada:
 - mida tuleb teha selleks, et jõuda eduka projektini
 - millised tegurid takistavad edukate projektideni jõudmist.
 
-### 5.1.1 Mis on projekt?
+### A.5.1.1 Mis on projekt?
 
 Sõna projekt on tänaseks muutunud igapäevaselt kasutatavaks enamikes eluvaldkondades. Projektidest ning nende läbiviimisest räägitakse nii koolis kui ehitusfirmas, nii pangas kui transpordiettevõttes. Ilma uuringuteta võib väita, et väga suure tõenäosusega on täna raske leida ettevõtet või organisatsiooni, kus ei oleks viimastel aastatel ellu viidud ühtegi projekti.
 
@@ -29,7 +29,7 @@ Seetõttu peab alati kindlaks määrama, mis kontekstis projektist räägitakse,
 
 Edaspidi räägime me projektist, kui täpselt määratletud eesmärgiga ühekordsest tööst, mis tuleb ära teha kindla aja jooksul ning mille tegemiseks mõeldud raha hulk on piiratud.
 
-### 5.1.2 Projekti kõige iseloomulikumad tunnused
+### A.5.1.2 Projekti kõige iseloomulikumad tunnused
 
 Kõik projektid, mis käivitatakse ja ellu viiakse kutsuvad mingil kujul esile muutusi, täiustusi või edasiarendusi.
 
@@ -56,7 +56,7 @@ Projektid on **keerulised planeerida ja juhtida** , kuna täpselt sellist ülesa
 
 Projektid on **konfliktsed** , sest tuues endaga kaas muutusi tavategevuses kätkevad nad endas alati mingite huvigruppide vastuseisu.
 
-### 5.1.3 Mille poolest erinevad IT ja äriprojektid?
+### A.5.1.3 Mille poolest erinevad IT ja äriprojektid?
 
 Eelmises alalõigus välja toodud tunnused on omased nii IT- kui äriprojektidele. Vaatamata nendele sarnasustele on IT- ja äriprojektidel olulisi erinevusi. Erinevuste paremaks väljatoomiseks võrdleme IT projekti konkreetse maja ehitamise projektiga.
 
@@ -81,7 +81,7 @@ Väljund on ehitusprojektil ja IT projektil absoluutselt erinevad. Ühel juhul t
 
 Kui ehitusprojekti korral on sellega kaasnevatesse muutustesse suhtumine pigem positiivne, siis IT projektidega kaasnevatesse muutustesse suhtutakse tihtipeale negatiivselt, sest uue tarkvaralahenduse kasutajad peavad hakkama ümber õppima.
 
-### 5.1.4 Kuidas projekte klassifitseeritakse?
+### A.5.1.4 Kuidas projekte klassifitseeritakse?
 
 Projekte võib kõige üldisemalt liigitada arendus ja teostusprojektideks. Arendusprojektide eesmärgid ei ole alati konkreetsed vaid sageli hoopis nägemuslikud. Juhul, kui firma otsustab käivitada firmasisese arendusprojekti, siis tuleb sageli alustada kõigepealt projekti abil lahendatava probleemi määratlemisega. Arendusprojektide korral ei ole tavaliselt ka eesmärkide saavutamiseks vajaminevad tegevused alati teada. Väga keeruline on selliste projektide puhul määrata ühe või teise tegevuse kestust.
 
@@ -93,7 +93,7 @@ Samas ei ole olemas ühtegi projekti, mis oleks puhtalt arendusprojekt või puht
 
 Kui enamiku projektide korral on alguses ülekaalus arenduslik moment, siis mida aeg edasi, seda vähemaks jääb projektis arenduslikkust ning kasvab teostuslikkuse moment. Samas ei kao ka päris projekti lõpus ära arenduslikkus, sest veel viimasteski etappides ning ka kõige viimase töö juures võib vaja minna mingit uudset, loomingulist lähenemist.
 
-### 5.1.5 Mida projektides juhitakse?
+### A.5.1.5 Mida projektides juhitakse?
 
 Projektides juhitakse üheksat komponenti:
 
@@ -126,7 +126,7 @@ Projektides juhitakse üheksat komponenti:
 
 **Seoste juhtimise** korral on tegemist seostega nii projektis eneses kui ka projektiväliste seostega. Erinevate seoste (rahaline, ajaline, vahenditega seotud seosed jms) arvestamata jätmine on ohtlik, sest see võib viia projekti ebaõnnestumiseni.
 
-### 5.1.6 Kuidas jõuda eduka projektini?
+### A.5.1.6 Kuidas jõuda eduka projektini?
 
 Edukaks projektihalduse eelduseks on see, et
 
@@ -149,7 +149,7 @@ Edukaks projektihalduse eelduseks on see, et
 - määratletud on projektispetsiifilised väärtused ja reeglid
 - koostatud on kommunikatsiooniplaan, mida projekti jooksul jälgitakse.
 
-### 5.1.7 Mis takistab edukate projekti **d** eni jõudmist?
+### A.5.1.7 Mis takistab edukate projekti **d** eni jõudmist?
 
 Edukat projektihaldust takistavad eelkõige see, et:
 
@@ -170,7 +170,7 @@ Edukat projektihaldust takistavad eelkõige see, et:
 - ei teata, millised on projektide vahel olevad seosed
 - käivitatakse pidevalt uusi projekte arvestamata juba toimuvate projektidega
 
-### 5.1.8 Kordamisküsimused
+### A.5.1.8 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -219,7 +219,7 @@ Selle alateema materjale läbi töötades saad teada:
 - mis on väärtusanalüüs
 - millised on aja, kulude ja kvaliteedi ebakindlust mõjutavad tegurid.
 
-### 5.2.1 Kuidas on omavahel seotud aeg, kulud ja kvaliteet?
+### A.5.2.1 Kuidas on omavahel seotud aeg, kulud ja kvaliteet?
 
 Iga projekti kolm kõige olulisemat suurust on aeg, kulud ja kvaliteet. Need on omavahel väga tihedas seoses. Sageli nimetatakse nende omavahelisi seoseid raudseks kolmnurgaks, mida kujutatakse alljärgnevalt.
 
@@ -229,7 +229,7 @@ Joonis 5-1. "Raudne kolmnurk" (The Iron Triangle). Parem tulemus nõuab reeglina
 
 Kui nn "raudsest kolmnurgast" ühte komponenti muuta, siis tuleb arvestada sellega, et muutuvad kohe ka teised komponendid. Näiteks kui tellija soovib esialgsest kvaliteetsemat tulemust siis kindlasti läheb selle tulemuseni jõudmiseks rohkem aega ja ka raha kulub rohkem. Kui aga kärbitakse projekti eelarvet või ajalist kestust, siis tuleb arvestada sellega, et tulemus ei saa olla enam nii kvaliteetne, kui alguses kavandati.
 
-### 5.2.2 Mis on väärtusanalüüs?
+### A.5.2.2 Mis on väärtusanalüüs?
 
 Väärtusanalüüsi juhtimine on projektijuhtimise tehnika, mida kasutatakse projekti edenemise eesmärkidest lähtuvaks hindamiseks. Väärtusanalüüsi teostamiseks on vajalik:
 
@@ -241,7 +241,7 @@ Väärtusanalüüsi meetodi korral seotakse kõik erinevad projekti iseloomustav
 
 Seda meetodit kasutades toimub pidev projekti edenemise jälgimine läbi selle, et hinnatakse tegelikult saavutatut väärtust kontrolli hetkeks kavandatud väärtusega. Kontrolli hetkel liidetakse kokku kõikide teostatud tööde väärtused ja võrreldakse seda väärtusega, mis kavandati selleks ajahetkeks saavutada.
 
-### 5.2.3 Aja, kulude ja kvaliteedi ebakindlust mõjutavad tegurid
+### A.5.2.3 Aja, kulude ja kvaliteedi ebakindlust mõjutavad tegurid
 
 Iga projekt on seotud kas suuremal või vähemal määral määramatusega. See muudab aga aja, kulude ja kvaliteedi kavandamise ebatäpseks.
 
@@ -263,7 +263,7 @@ Eelkõige tuleneb ebakindlus nende suuruste määratlemisel sellest, et projekti
 
   see viib projekti käigus tööde ümber tegemiseni ning kavandamise etapis paika pandud tähtajad lähevad nihkesse, kulud suurenevad ning kvaliteet halveneb.
 
-### 5.2.4 Kordamisküsimused
+### A.5.2.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -284,7 +284,7 @@ Kuidas mõjub projekti töömahu täpne määramine projekti ajagraafikust kinni
 
 :::
 
-## 5.3 Projekti organisatsioon
+## A.5.3 Projekti organisatsioon
 
 Selle alateema materjale läbi töötades saad teada:
 
@@ -294,7 +294,7 @@ Selle alateema materjale läbi töötades saad teada:
 - millised on vastutusvaldkondade üliformaalse jagamise eelised ja puudused
 - millised on põhilised töörollid projektides.
 
-## 5.3.1 Kuidas on tööd projekti plaanides osadeks jaotada?
+## A.5.3.1 Kuidas on tööd projekti plaanides osadeks jaotada?
 
 Iga projekt koosneb suurest hulgast töödest. Projekte kavandada ja ellu viia on alati lihtsam siis, kui kogu projekt on loogiliselt jagatud pea ja alamtöödeks.
 
@@ -311,7 +311,7 @@ Siin ei ole õiget ega valet lähenemist, et üks on õige ja teine on vale ning
 
 Projekti struktuurplaani koostamisel peab selguma kogu täitmisel kuuluv töömaht, mis tuleb pärast projektgrupi liikmete ja alltöövõtjate vahel ära jagada.
 
-### 5.3.2 Mida kooskõlastada projektgrupi liikmetega?
+### A.5.3.2 Mida kooskõlastada projektgrupi liikmetega?
 
 Erinevate projektgrupi liikmete töötulemused tuleb omavahel kooskõlastada. Vastasel juhul ei pruugi projekti lõpptulemusse integreeritavad üksiklahendused omavahel sobida. Eriti oluline on töötulemuste kooskõlastamine sellisel juhul, kui töötatakse paljude projekti alagruppidega, kes töötavad geograafiliselt eri kohtades.
 
@@ -329,7 +329,7 @@ Kooskõlastada tuleb:
 
   Projekti osade tulemused sõltuvad üksteisest. Seetõttu tuleb neid omavahel võrrelda ja kooskõlastada, saavutamaks ühtset ja homogeenset lõpptulemust. Kontrollida tuleb eelkõige osa tulemuse sobivust üldkontseptsiooni.
 
-### 5.3.3 Kuidas projektorganisatsiooni üles ehitada?
+### A.5.3.3 Kuidas projektorganisatsiooni üles ehitada?
 
 Projekti juhtimisstruktuur on formaalsete koostöösuhete skeem, mis kujutab endast koostisosade paigutusest ja nende omavahelistest seostest tulenevat eripärast põimikut või mustrit.
 
@@ -353,7 +353,7 @@ Projektide koordineerimise korral luuakse projektide läbiviimiseks pidevalt muu
 
 ![](data:image/png;base64,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)
 
-### 5.3.4 Projekti vastutusvaldkondade jagamise eeliseid ja puudusi
+### A.5.3.4 Projekti vastutusvaldkondade jagamise eeliseid ja puudusi
 
 Projekti organiseerimisel on vastutusvaldkondade jaotamine väga tähtis tegevus. Paljud segadused ja ebakohad projektides tekivad tööjaotuse ja vastutuse, eeskätt seal esinevate puuduste pinnal.
 
@@ -376,11 +376,11 @@ Vastutusvaldkondade väga täpse määratlemise puudusteks on:
 - loomingulisuse kahanemine
 - sünergiaefekti tekkimise tõenäosuse vähenemine.
 
-### 5.3.5 Põhilised töörollid projektides
+### A.5.3.5 Põhilised töörollid projektides
 
 Selles peatükis tutvud tellija, projektijuhi, juhtrühma, projektirühma liikme, peakasutaja ja lõpptarbija rolliga projektides.
 
-#### 5.3.5.1 Tellija
+#### A.5.3.5.1 Tellija
 
 Igal projektil on tellija. Selleks võib olla oma ettevõtte juhtkond, osakonna või valdkonna juht. Neid nimetatakse ettevõtte sisesteks tellijateks ja tavaliselt on siis tegemist ettevõtte arendusprojektidega. Teise võimalusena võib projekti tellijaks olla kas üksikisik või ettevõte väljastpoolt firmat. Olenemata sellest, kas tegemist on ettevõtte sisese või välise tellijaga on tal kindlad ülesanded, mis on seotud:
 
@@ -395,7 +395,7 @@ Igal projektil on tellija. Selleks võib olla oma ettevõtte juhtkond, osakonna 
 
 Tellija peaks suutma määratleda, mis on konkreetse projekti juures kõige olulisem. Kas selleks on aeg, kulud, kvaliteet, keskkonnasõbralik lahendus jms. Prioriteetide järjestamine annab projektijuhile aluse plaanimise käigus tehtavatele otsustele.
 
-#### 5.3.5.2 Projektijuht
+#### A.5.3.5.2 Projektijuht
 
 Projektijuht plaanib, ohjab ja kontrollib projektigrupi tööd nii sisulisest, personaalsest, tähtajalisest kui ka eelarvelisest aspektist.
 
@@ -434,7 +434,7 @@ Projekti kontrollimisega seoses on projektijuhil kaks ülesannet:
 
 Projekti kontroll on projekti ohjamise ja lõpptulemuse saavutamise seisukohast kohustuslik.
 
-#### 5.3.5.3 Juhtrühm
+#### A.5.3.5.3 Juhtrühm
 
 Väliste tellijate ja suurte projektide korral luuakse sageli projekti juhtrühm, kes peaks:
 
@@ -444,7 +444,7 @@ Väliste tellijate ja suurte projektide korral luuakse sageli projekti juhtrühm
 - võtma vastu eelotsuseid projekti sõlmpunktides
 - toetama projektgruppi.
 
-#### 5.3.5.4 Projektgrupi liige - spetsialist
+#### A.5.3.5.4 Projektgrupi liige - spetsialist
 
 Projektgrupi liikme ülesanneteks on:
 
@@ -455,7 +455,7 @@ Projektgrupi liikme ülesanneteks on:
 - saleda lahendustele hinnangu andmises
 - järgida kinnitatud projektiplaani.
 
-#### 5.3.5.5 Peakasutaja
+#### A.5.3.5.5 Peakasutaja
 
 Peakasutaja ülesanneteks on:
 
@@ -465,14 +465,14 @@ Peakasutaja ülesanneteks on:
 - lahenduse juurutamise ettevalmistamisele kaasa aitamine
 - uue rakendusega kaasnevate probleemide fikseerimine ja projektijuhile edastamine
 
-#### 5.3.5.6 Lõpptarbija
+#### A.5.3.5.6 Lõpptarbija
 
 Lõpptarbija ülesanneteks on:
 
 - lähteülesandesse omapoolse sisendi andmine läbi oma vajaduste kirjeldamise
 - juurutamisperioodil kõikidest vigadest ja probleemidest teavitamine.
 
-### 5.3.6 Kordamisküsimused
+### A.5.3.6 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -507,7 +507,7 @@ Kes kannab põhivastutust projekti õigeaegse lõpetamise eest?
 
 :::
 
-## 5.4 Projekti plaanimine ja järelevalve
+## A.5.4 Projekti plaanimine ja järelevalve
 
 Selle alateema materjale läbi töötades saad teada:
 
@@ -515,7 +515,7 @@ Selle alateema materjale läbi töötades saad teada:
 - miks on vaja teada projekti kriitilist teed
 - millal on või ei ole projektijuhtimise tarkvara projektijuhile abiks.
 
-### 5.4.1 Gantti graafik
+### A.5.4.1 Gantti graafik
 
 Projekti tähtajastamise tehnikaid on mitmeid, kuid täna on kõige enam levinud Gantti graafik, mis kujutab endast joongraafikut mille abil seotakse omavahel tegevused, nende tegemise kalendaarne ja ajaline kestus. Projekti tähtajastamise tulemusena tekkinud ajaplaanid aitavad jälgida projekti graafikus püsimist.
 
@@ -523,7 +523,7 @@ Projekti tähtajastamise tehnikaid on mitmeid, kuid täna on kõige enam levinud
 
 Joonis 5-2. Gantti graafik, kus on näha pea- ja alamtööd ning punasega on näha kriitiline tee tööd (joonise tegemisel on kasutatud projektijuhtimise vabavara OpenProj)
 
-### 5.4.2 Miks on vaja teada projekti kriitilist teed?
+### A.5.4.2 Miks on vaja teada projekti kriitilist teed?
 
 Projekti kriitiline tee moodustab ajaliselt kõige kauem kestvatest sündmustest. Seega on kogu projekti kestvus võrdne kriitilise tee ülesannete kestvuste summaga. Kriitilisel teel olevatel ülesannetel langevad kokku varaseim ja võimalik hiliseim algusaeg ning samuti varaseim ja hiliseim võimalik lõpetamisaeg.
 
@@ -537,7 +537,7 @@ teada, milliste tööde korral kõrvalekalle ajas mõjutab projekti lõpetamise 
 
 Kuna kriitilisel teel olevatel ülesannetel ei ole ajavaru, siis iga ajaline kõrvalekalle mõjutab projekti lõpetamise tähtaega. Samas annab kriitilise tee ülesannete väljaselgitamine projekti õigeaegse lõpetamise tagamiseks hea abivahendi. Kui projekti läbiviijad on teadlikud, millised tegevused on projekti edukuse seisukohalt kriitilised, on nende tööde kulgemist võimalik tähelepanelikumalt jälgida. See küll ei garanteeri, aga annab võimaluse kindlustada kogu projekti edukus.
 
-### 5.4.3 Projektijuhtimise tarkvara
+### A.5.4.3 Projektijuhtimise tarkvara
 
 Projektijuhtimise tarkvara aitab projektijuhti eelkõige kavandamise ja kontrolli läbiviimisel. Samas on ka kõige täiuslikuma tarkvara võimalused piiratud.
 
@@ -564,7 +564,7 @@ Alljärgnevas tabelis on ära toodud, kus tarkvara võib projektijuhti abistada 
 - läbi viia meeskonna nõupidamisi
 - lahendada probleeme, mis on seotud projekti inimliku küljega
 
-### 5.4.4 Kordamisküsimused
+### A.5.4.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -585,7 +585,7 @@ Kas projektijuhtimise tarkvara aitab lahendada konflikte?
 
 :::
 
-## 5.5 Projekti hindamine
+## A.5.5 Projekti hindamine
 
 Selle alateema materjalide läbitöötamise järel tead sa:
 
@@ -594,7 +594,7 @@ Selle alateema materjalide läbitöötamise järel tead sa:
 - kuidas liigitatakse projekti kulusid
 - kuidas hinnata projekti tulemust.
 
-### 5.5.1 Kuidas viia läbi projekti riskianalüüsi?
+### A.5.5.1 Kuidas viia läbi projekti riskianalüüsi?
 
 Riske võime jaotada teadvustatud ja teadvustamata riskideks. Projekti eduka kulgemise huvides on see, et enamik teostusega kaasnevaid riske oleks projekti läbiviijate poolt teadvustatud. Teades varakult projekti läbiviimisega kaasneda võivaid probleeme on võimalik õigeaegselt reageerida ja rakendada vastumeetmeid.
 
@@ -631,7 +631,7 @@ Riskianalüüsi vorm:
 |     |      |                     |      |                                                           |
 |     |      |                     |      |                                                           |
 
-### 5.5.2 Miks on vaja projektiplaani?
+### A.5.5.2 Miks on vaja projektiplaani?
 
 Projekti õnnestumine sõltub otseselt plaanija oskustest, tööst, hoolikusest ja ajast, mis ta kulutab plaanimisele. Projekti plaanimise käigus luuakse konkreetne mudel, millega kirjeldatakse ära tulemuseni jõudmiseks vajalikud tegevused ja ressursid. Plaanimise peamiseks eesmärgiks on luua kõikehõlmav ülevaade kogu projektist.
 
@@ -653,7 +653,7 @@ Projektiplaan võib olla:
 - juhtrühmale ja projektijuhile projekti edenemise kontrolli aluseks
 - arhiivmaterjaliks, mis jääb järgmistele projektidele toeks ja taustinformatsiooniks või siis lihtsalt informeerimisevahendiks.
 
-### 5.5.3 Projekti kulud
+### A.5.5.3 Projekti kulud
 
 Peale seda, kui projektiplaan ja ajagraafik on valmis, saab alustada eelarve koostamisega. Varem ei saa seda teha seetõttu, et kõik kavandamisel tehtud otsused mõjutavad ühel või teisel viisil projekti elluviimiseks vajalikku raha hulka.
 
@@ -699,7 +699,7 @@ Rakendatava süsteemi püsikuludeks on
 
 - infosüsteemi ekspluateerimisel tekkivad kulud. (Põhiliselt on nendeks hooldus kulud ning tark- ja riistvara uuenduste kulud.)
 
-### 5.5.4 Kuidas hinnata projekti tulemust?
+### A.5.5.4 Kuidas hinnata projekti tulemust?
 
 Projekti peamiseks eesmärgiks on lõpptulemuseni jõudmine ja tulemuste kasutamise tagamine. Projekti tulemuseks on asi, nähtus, psühholoogiline seisund või üldiselt igasugune objekt, mis tekitatakse projektis. Võib eristada vahe­tulemusi (nt. süsteemi kavand) ja lõpptulemusi (valmis süsteem).
 
@@ -723,7 +723,7 @@ Keeruline ei ole see konkreetsete teostusprojektide korral kus valmib mingi käe
 
 Raske on aga hinnata vahetulemust paljude arendusprojektide ja eriti just IT arendusprojektide korral. Siin on keeruline hinnata nii tulemust ja selle kvaliteeti kui ka tegemata töö hulka. Seetõttu saab paljudel juhtudel hinnangu tulemusele ja selle kvaliteedile anda alles projekti lõpus. See aga nõuab kontrollijatelt ja hindajatelt väga suurt objektiivsust, sest vastasel juhul võivad hinnangud olla valed ja hinnatavate töömotivatsioon võib oluliselt langeda.
 
-### 5.5.5 Kordamisküsimused
+### A.5.5.5 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -744,7 +744,7 @@ Kumma projekti, kas arendus- või teostusprojekti lõpptulemit on hinnata lihtsa
 
 :::
 
-## 5.6 Projektijuhtimine ja lepingud
+## A.5.6 Projektijuhtimine ja lepingud
 
 Peale selle alateema materjalide läbitöötamist sa tead:
 
@@ -754,7 +754,7 @@ Peale selle alateema materjalide läbitöötamist sa tead:
 - miks on vaja projekti vahehindamisi
 - kuidas kinni pidada tähtaegadest.
 
-### 5.6.1 Tüüpilise IT projekti faasid
+### A.5.6.1 Tüüpilise IT projekti faasid
 
 Klassikalistes käsitlustes koosneb IT projekt järgmistest etappidest:
 
@@ -766,13 +766,13 @@ Klassikalistes käsitlustes koosneb IT projekt järgmistest etappidest:
 
 Kindlasti ei ole aga nii, et enne alguses tehakse üks, siis teine, siis kolmas. Kõige parem on teha neid asju paralleelselt või tsüklitena üha uuesti ja uuesti.
 
-### 5.6.2 Milleks vajatakse projektis lepinguid?
+### A.5.6.2 Milleks vajatakse projektis lepinguid?
 
 Üks olulisemaid dokumente projektide korral on leping. Tellija ja teostaja vahel sõlmitud formaalne leping on see, mis kaitseb mõlemat osapoolt juhul, kui tekkivad vastastikkused pretensioonid. Teostajale esitatakse lähteülesanne, mille täitmisel tuleb arvestada kehtivaid piiranguid. Teostaja võib omakorda kasutada allhankijaid. Ka sellisel juhul tuleb sõlmida leping, sest siingi on kaks osapoolt, kelle huvid vajavad kaitsmist. Mõne projekti korral on leping küll sõlmitud, kuid vaja teda ei lähe. Need on need projektid, kus kõik sujub ja osapoolte vahel ei ole lahkarvamusi. Sellisel juhul tundub, et lepingu koostamine ja sõlmimine oli üleliigne, kuid see ei ole õige. Projektid on seotud riskidega ja lepingu tõeline väärtus ilmneb siis, kui projektis juhtub midagi sellist, mida ei osatud ette näha või siis, kui osapoolte vahel tekivad lahkarvamused.
 
 Lepinguga reguleeritakse projekti osapoolte vahelised suhted. Leping on kokkulepe, mille alusel kohustub üks subjekt, teostaja, tegema omal riisikol teise subjekti, tellija, ülesandel kindlaksmääratud tööd kas siis tellija või oma materjalist. Tellija aga kohustub tehtud töö vastu võtma ja selle eest tasuma vastavalt lepingus määratud tingimustel.
 
-### 5.6.3 Millised on lepingu kohustuslikud elemendid?
+### A.5.6.3 Millised on lepingu kohustuslikud elemendid?
 
 Kõikide projekti alguses sõlmitavate lepingute kohustuslikud elemendid on:
 
@@ -787,7 +787,7 @@ Kõikide projekti alguses sõlmitavate lepingute kohustuslikud elemendid on:
 - sanktsioonid lepingu mittekorrektse täitmise eest
 - projekti juhtimise korraldus.
 
-### 5.6.4 Miks on vaja projekti vahehindamisi?
+### A.5.6.4 Miks on vaja projekti vahehindamisi?
 
 Projekti juhtimise ajal peab projektijuht olema aktiivselt tegutsev, mitte sündmustele reageeriv. Ainult nii käitudes on võimalik mõjutada projekti kulgu ja tagada aja- ja tulemusgraafikutes püsimine. Kehtestades projekti vahetähtajad ja viies läbi regulaarseid ülevaatusi kontrollpunktides saab projektijuht tagada seda, et projekti käik vastaks varem kavandatule.
 
@@ -799,7 +799,7 @@ Projekti vahehindamise käigus kogutud andmete õigeks interpreteerimiseks tuleb
 
 Kui andmeid analüüsides on selgunud, et projekti edasise arengu käigus võib tekkida probleeme kulude, tähtaegade, kvaliteedi jms siis tuleb kavandada meetmed tekkida võivate probleemide kõrvaldamiseks.
 
-### 5.6.5 Kuidas kinni pidada tähtaegadest?
+### A.5.6.5 Kuidas kinni pidada tähtaegadest?
 
 Kui tekkib oht, et mõnest tähtajast ei ole võimalik kinni pidada, siis on võimlik kasutada järgmisi meetmeid:
 
@@ -819,7 +819,7 @@ Kui tekkib oht, et mõnest tähtajast ei ole võimalik kinni pidada, siis on võ
 
   Üksikute sõlmpunktide või võimaluse korral kogu projekti tähtaegu tuleb nihutada. Seda võtet on võimalus kasutada siis, kui jõutakse tellijaga kokkuleppele ja nihutamist põhjustanud asjaolud on projektgrupist sõltumatud.
 
-### 5.5.6 Kordamisküsimused
+### A.5.5.6 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -845,7 +845,7 @@ Projekti mingi töö kiiremini tegemine on võimalik siis, kui panna seda tööd
 
 :::
 
-## 5.7 Kvaliteedijuhtimine ja infosüsteemide uuendamine
+## A.5.7 Kvaliteedijuhtimine ja infosüsteemide uuendamine
 
 Peale selle alateema materjalide läbitöötamist tead sa:
 
@@ -858,7 +858,7 @@ Peale selle alateema materjalide läbitöötamist tead sa:
 - mille poolest erineb kvaliteedijuht projektijuhist
 - mis on staatiline ja mis dünaamiline testimine.
 
-### 5.7.1 Mida nimetatakse projekti kvaliteediks?
+### A.5.7.1 Mida nimetatakse projekti kvaliteediks?
 
 Sõna kvaliteet tuleb ladina keelsest sõnast qualitas ja tähendab omadust, laadi, väärtust või headust. Kvaliteedi all mõeldakse tavaliselt toote tehnilisi omadusi, st. toote kõikide mõõdetavate ja objektiivselt fikseeritavate omaduste kogumit. Projekti kvaliteedi määramise keskpunktis on alati tellija ja tema ettekujutused ja nõudmised projekti lõpptulemusele. Samuti on olulisel kohal see, kuidas klient projekti läbiviimise käigus seda kvaliteeti tajus. Seega võib öelda, et projekti kvaliteet on väga paljuski subjektiivne suurus, mis sõltub tellijast.
 
@@ -888,13 +888,13 @@ IT projekti lõpptulemuse kvaliteeti iseloomustavateks märksõnadeks võivad ol
 - kiirus
 - ökonoomsus jne.
 
-### 5.7.2 Mida põhjustab kvaliteedijuhtimise puudumine?
+### A.5.7.2 Mida põhjustab kvaliteedijuhtimise puudumine?
 
 Kvaliteedi hindamisel on üheks levinumaks meetodiks toote elutsükli jaotamine kaheks: tootmiseks ja kasutamiseks. Kõrgem kvaliteet tootmisel toob reeglina kaasa suurema maksumuse. Kasutamisel toob aga suurem kvaliteet kaasa madalamad kulud. Täpselt nii on see ka enamiku IT projektide korral. Et leida õiget kvaliteedinivood tuleb elutsükli kulud kokku liita ja lähtuda sellisest kvaliteedinivoost, mille puhul kogukulud on kõige väiksemad. Selliselt leitud kvaliteeditaset võib nimetada optimaalseks kvaliteediks.
 
 Puudulik kvaliteedijuhtimine aga võib viia selleni, et me leiame küll läbi elutsükli kogukulude optimaalse kvaliteedi, kuid projekti oodatud maksumus kasvab oluliselt suuremaks. Kvaliteedi tagamiseks tuleb teha lisatöid, kas projekti käigus või süsteemi kasutamise ajal ning see kõik maksab. Lõppkokkuvõttes on puuduliku kvaliteedijuhtimise tagajärjeks rahulolematu tellija ning firma maine langus. Kõige sellega loomulikult kaasneb kasumlikkuse langus.
 
-### 5.7.3 Miks on kvaliteedijuhtimine üks osa IT projekti juhtimisest?
+### A.5.7.3 Miks on kvaliteedijuhtimine üks osa IT projekti juhtimisest?
 
 Kvaliteeti saab juhtida ainult sellisel juhul, kui on määratletud selged kvaliteedi kriteeriumid. Sel juhul on kvaliteet vastavus nendele kriteeriumitele. Keeruliste toodete või teenuste puhul, mille hulka kuulub ka IT, on vastavust kõikidele kvaliteediparameetritele väga raske kontrollida. Seetõttu on siin oluline, et arendusprotsess oleks jälgitav ja vastaks kindlatele kriteeriumitele.
 
@@ -910,7 +910,7 @@ Enamikes infotehnoloogilises projektis tuleb kvaliteetse tulemuse saavutamiseks 
 
 Eriti komplekssete tarkvarasüsteemide korral ka beeta-testimisega, kus testijateks on ettevõttevälised eksperdid, kliendid või avalikkus.
 
-### 5.7.4 Millised on standardite kasutamise põhjused?
+### A.5.7.4 Millised on standardite kasutamise põhjused?
 
 Standardeid võib liigitada:
 
@@ -930,7 +930,7 @@ Sisestandardite rakendamise põhjused:
 - protseduuride lihtsustamine ja parendamine (saab teistelt ettevõtteilt kindlalt töötavaid protseduure üle kanda)
 - kvaliteedihaldus.
 
-### 5.7.5 Millised on kvaliteedijuhtimise põhilised metoodikad?
+### A.5.7.5 Millised on kvaliteedijuhtimise põhilised metoodikad?
 
 Kvaliteeti saab juhtida mitmeti, alates lihtsate põhimõtete rakendamisest ja lõpetades keerukate kvaliteedisüsteemidega, mida toetab vastav tarkvara.
 
@@ -953,7 +953,7 @@ Kvaliteedijuhtimise hindamisel on võimalik kasutada ka tarkvaraprotsessi küpsu
 
 IT valdkonna standardite kehtestajaks on maailma juhtiv standardeid loov organisatsioon IEEE, kus luuakse igal aastal ligemale 1000 standardit erinevatele tegevusvaldkondadele nagu elekter, biomeditsiin, nanotehnoloogia, telekommunikatsioon, infotehnoloogia jm.
 
-### 5.7.6 Kuidas hinnata IT projekti kvaliteeti?
+### A.5.7.6 Kuidas hinnata IT projekti kvaliteeti?
 
 IT või IS projekti kvaliteeti võib hinnata ka läbi kasutaja rahulolu. Me võime projekti tulemuse kliendile üle anda õigeaegselt ja täpselt sellises konfiguratsioonis nagu tellija soovis. Kui me aga lähteülesande koostamisel ei mõelnud kliendi tegelikule vajadusele, siis võime saavutada kliendi rahulolematuse ja me ei saa öelda, et meie töö oli süsteemi luues kvaliteetne.
 
@@ -968,7 +968,7 @@ Kui nüüd pakutud lahendus lähtub küll kliendi vajadusest, aga:
 
 siis ei saa me mingil moel öelda seda, et projekti lõpptulemus on kvaliteetne. Kõik eelpoolnimetatu mõjutab kliendi rahulolu ja hinnangut kvaliteedile negatiivses suunas.
 
-### 5.7.7 Mille poolest erineb kvaliteedijuht projektijuhist?
+### A.5.7.7 Mille poolest erineb kvaliteedijuht projektijuhist?
 
 Kvaliteedijuhi ülesanne on tegeleda kogu ettevõttega, samal ajal, kui projektijuht tegeleb projekti või projektidega. Kui kvaliteedijuhi tegevus on suunatud eelkõige ettevõttesse sisse, siis projektijuhi tegevus võib olla suunatud nii ettevõttesse (ettevõtte sisene arendusprojekt) kui ettevõttest välja (kliendi tellimuse täitmine).
 
@@ -985,7 +985,7 @@ Kvaliteedijuhi ülesanne on tegeleda kogu ettevõttega, samal ajal, kui projekti
 | Kavandab ja viib ellu kvaliteedijuhtimissüsteemi teadlikkuse tõstmist ettevõttes                                           | Kavandab vajadusel projektis osalejate kvalifikatsiooni tõstmise meetmeid                                                     |
 | Informeerib viivitamatult ettevõtte juhti asjaoludest, mis teevad võimatuks teenistuskohustuste täitmise                   | Informeerib viivitamatult ettevõtte juhti ja tellijat asjaoludest, mis võivad saada takistuseks projekti edukale lõpetamisele |
 
-### 5.7.8 Staatiline ja dünaamiline testimine
+### A.5.7.8 Staatiline ja dünaamiline testimine
 
 Tarkvara testimine jaotatakse staatiliseks ja dünaamiliseks testimiseks. Staatilise testimise põhiülesandeks on leida vigu juba programmi projekteerimise ja spetsifitseerimise faasides. Staatilise testimise käigus saab kontrollida ka süsteemi omadusi nagu näiteks hooldatavus, töökindlus, analüüsitavus.
 
@@ -1000,7 +1000,7 @@ Funktsionaalse testimise tehnikad on tuntud ka kui nn Black Box (must kast) ja s
 
 Struktuursete testimise tehnikate puhul tulenevad sooritatavad testid tarkvara sisemisest struktuurist ja neid nimetatakse ka White Box (valge kast) tehnikateks, kuna nende kasutamisel peab omama teadmisi kuidas tarkvara on juurutatud ning kuidas ta töötab. Üldjuhul kasutavad neid tehnikaid tarkvara arendajad ise. Struktuurse testimise tehnikad on tüüpilised moodulite testimise tehnikad, mille käigus testitakse ainult tarkvara süsteemi osi.
 
-### 5.7.9 Kordamisküsimused
+### A.5.7.9 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 

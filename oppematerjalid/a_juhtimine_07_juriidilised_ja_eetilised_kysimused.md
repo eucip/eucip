@@ -1,12 +1,12 @@
-# 7. Juriidilised ja eetilised küsimused
+# A.7 Juriidilised ja eetilised küsimused
 
 Selle teema materjale läbi töötades saad üldised teadmised juriidika ja eetika olulisematest küsimustest, mis reguleerivad spetsialistide professionaalset käitumist.
 
-## 7.1. Intellektuaalomand ja autoriõigus
+## A.7.1 Intellektuaalomand ja autoriõigus
 
 Selle teema materjale läbi töötades saad teadmised intellektuaalsest omandist ja patentidest.
 
-### 7.1.1. Intellektuaalomand ja autoriõigus
+### A.7.1.1 Intellektuaalomand ja autoriõigus
 
 Alljärgnevalt antakse ülevaade intellektuaalomandi olemusest, kuid ei käsitleta kõiki võimalikke tahke sügavuti tulenevalt selle teema keerukusest ja rahvusvahelisest olemusest. Intellektuaalomandi mõiste on pidevas arengus tingituna üha uutest võimalikest loomevormide tekkimisest ja probleemide üle on pidevalt vaieldud alates Berni konventsiooni http://www.riigikantselei.ee/failid/Autori_guse_p_him_tted.pdf vastvõtmisest.
 
@@ -30,7 +30,7 @@ Isikud, kelle käsutuses on varalised autoriõigused nimetatakse seaduse keeles 
 
 Õiguslike meetmete esmase toimimise eest on vastutavad eelkõige jõustruktuurid - Maksu- ja Tolliamet ning politsei. Õigustatud juhtudel viivad need läbi kasutatavate või müüdavate toodete legaalsuse kontrolliks reide. Sobivateks meetoditeks on tollikontroll ning müügi- ja kasutuskohtade läbivaatused. Müüjad ja kasutajad peavad suutma tõestada toodete õiguspärast päritolu ja kasutusõigusi.
 
-### 7.1.2 Tarkvara kasutusõigused
+### A.7.1.2 Tarkvara kasutusõigused
 
 Tarkvaratoodete ja teenuste puhul on kastusõigused sõltuvad tootjate poolt antud litsentsidest ja kasutajad ning kontrollijad peavad väga täpselt teadma kaubamärkide olemust ja oskama lugeda väga erinevate litsentside tingimusi. Sageli ei pruugi ostutšekkide ja originaalpakendi (mis mõned aastad tagasi olid enamusel juhtudel tarkvara puhul vältimatud) puudumine veel olla autoriõiguste rikkumist tõendav asjaolu. Tehnoloogilisi meetmeid rakendatakse kõigi kasutajagruppide alates algajatest kuni ekspertideni puhul takistamaks neil tooteid loata s.t. illegaalseid kanaleid pidi hankima ja autoritasu maksmata kasutada. Siia kuuluvad mitmesugused juurdepääsu piiravad kodeerimisvõtmete sidumine toote seerianumbriga, geograafilised piirangud (DVD-de tsoonid) jne.
 
@@ -40,7 +40,7 @@ Kasutajate lojaalsuse tagamiseks on loodud mitmeid viise. Üks levinumaid on pro
 
 Omandusliku tarkvara kasutamiseks tuleb reeglina osta kasutusõigus s.o. litsents, selle kõige sagedamini pruugitavas mõttes. Õiguste valdaja võib kehtestada tingimused, mille järgi võib üks ja seesama tarkavara rakendus olla sõltuvalt kasutajast iga nimetatud levitusviisi alla kuuluv. Oluline on eristada veel vabavara ja vaba tarkvara. Viimane tähendab avatud lähtekoodiga tarkvara. Vaba tarkvara ei pruugi ilmtingimata olla vabavara, kuigi see on üks levinumaid vorme.
 
-### 7.1.3 Autoriõiguste kaitse
+### A.7.1.3 Autoriõiguste kaitse
 
 Autoriõiguste valdajatel on võimalus kaitsta oma õigusi rahvusvaheliselt, kas registreerides oma patendid ja kaubamärgid soovitud maades või Euroopa patendi. Kaubamärkide registreerimine ei ole kohutuslik, kuid annab kindluse omandi väärkasutuste vastu.
 
@@ -60,7 +60,7 @@ Tuntumad intellektuaalomandi vaidluste teemad:
 
 SCO vs. IBM [http://www.infoworld.com/article/06/07/03/HNscofewerclaims_1.html](http://www.infoworld.com/article/06/07/03/HNscofewerclaims_1.html)
 
-### 7.1.4 Kordamisküsimused
+### A.7.1.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -84,11 +84,11 @@ SCO vs. IBM [http://www.infoworld.com/article/06/07/03/HNscofewerclaims_1.html](
 
 :::
 
-## 7.2 IT-ga seotud õigusruum
+## A.7.2 IT-ga seotud õigusruum
 
 Selle alateema materjale läbi töötades õpid tundma seaduslikke regulatsioone isikuandmete kasutamiseks. Lisaks saad teada nende kogumisest andmebaasidesse ja uute tehnoloogiatega (näiteks digiallkiri) seonduvast seadusandlusest. Käsitletakse ka töösuhete regulatsiooni, samuti valdkonnaäris olulisi IT põhi- ja ka tarnelepinguid.
 
-### 7.2.1 Eesti õigusaktid. Infosüsteemidega seotud õigusaktid
+### A.7.2.1 Eesti õigusaktid. Infosüsteemidega seotud õigusaktid
 
 IT õigusruum on reguleeritud eriseadustega ja seadustega, mis on oma olemuselt olnud IT spetsiifilised, kuid infotehnoloogiliste rakenduste üha laiema levikuga omandanud paljusid ühiselu tahke reguleerivateks (nt. Isikuandmete kaitse seadus). Üldisemad aspektid - nagu töö seadusandlus, tööohutus ja töötervishoid ei oma kindlaid IT erisusi seaduse tasemel, kuid rakenduslikul tasemel tuleb muidugi töökoha - režiimi ja -korralduse tingimusi arvestada.
 
@@ -148,7 +148,7 @@ Seadus sätestab riigihangete teostamise korra, riigihangetega seotud subjektide
 
 Määrusega kehtestatakse riigi ja kohaliku omavalitsuse andmekogudes sisalduvate andmekoosseisude töötlemiseks kasutatavate infosüsteemide ning nendega seotud infovarade turvameetmete süsteem. Turvameetmete süsteem koosneb turvanõuete spetsifitseerimise korrast ning andmete organisatsiooniliste, füüsiliste ja infotehniliste turvameetmete kirjeldustest. Turvameetmete süsteemi rakendamine seisneb infoturbe eesmärkidele vastavate turvaklasside määramises ja nendele vastavate turvameetmete valimises vastavalt infosüsteemide kolmeastmelise etalonturbe süsteemi (edaspidi ISKE) rakendamisjuhendile ja nende rakendamises ning rakendamise auditeerimises.
 
-### 7.2.2 Tarkvara litsentsid
+### A.7.2.2 Tarkvara litsentsid
 
 Litsentsid jagunevad liht- ja ainulitsentsideks. Lihtlitsentsi andmisel säilib litsentsiandjal õigus litsentsis nimetatud õigusi ka ise teostada, ainulitsentsi andmisel mitte. Ainulitsentsi andmine ei muuda varem antud lihtlitsentside kehtivust (nt kuni nende tähtaja lõpuni).
 
@@ -177,15 +177,15 @@ Keerukamad tarkvarasüsteemid koosnevad reeglina erinevate autorite poolt loodud
 
 Antud teema käsitlemisel on kasutatud Peeter P. Mõtsküla materjale:http://www.riso.ee/wiki/File:Tarkvaraalaste_riigihangete_korraldamise_soovitused\_ver1.01.odt
 
-### 7.2.3 Töösuhted
+### A.7.2.3 Töösuhted
 
 Infotehnoloogia alal töösuhted ei erine üldistest. Kuna infotehnoloogia on kujunenud teisi majandusharusid läbivaks - horisontaalseks tegevusalaks, siis töötades ettevõtetes, mis ei ole IT ettevõtted peavad töötajad arvestama selle majandusharu jaoks kehtestatud erisusi. Näiteks avaliku teenistuse või kaitseväe reegleid ning samuti kollektiivlepingu tingimusi, kui niisugune on olemas. Tihti puutuvad infotehnoloogia spetsialistid vahetult kokku organisatsiooni jaoks tundlike andmetega, mis ei tohi jõuda kõrvaliste isikuteni. Niisugustel juhtudel on vältimatu sõlmida töötajaga konfidentsiaalsuse kokkulepe töölepingu lahutamatu osana.
 
-### 7.2.4 Tarnelepingud
+### A.7.2.4 Tarnelepingud
 
 Organisatsioonide omavaheline suhtlus toimub reeglina lepingute alusel. Eestis reguleerib neid suhteid kõige enam Võlaõigusseadus, milles on kirjas üldised põhimõtted, kuid lepingute sõlmijad on oma tahteavalduses suures osas vabad. Normaalselt toimivate suhete korral justnagu ei olekski lepinguid vaja, kuid need annavad ettenägematute juhtude jaoks õiguskindluse ja tagavad võimalikult väikesed kahjud lepingupooltele lepingu rikkumise puhuks. Avalikus sektoris töötades on oluline silmas pidada, et seadusega määratud maksumust ületavad ostud ja tellimused peavad läbima riigihanke kõik protseduurid.
 
-### 7.2.5 IT lepingud
+### A.7.2.5 IT lepingud
 
 Tellija ja tarnija huvide kaitseks on hea omada ettekujutust kogu infosüsteemide elutsükli jaoks võimalikest lepingutest. Kõikide infosüsteemi hankimisel sõltumata sellest, kas ostetakse valmis toode või tellitakse suuremal-vähemal määral arendustöid, puutuvad mõlemad pooled kokku süsteemi kasutustingimuste ehk litsentsilepingutega. Lepinguosalised peavad läbi rääkima loodava/tarnitava tarkvara kasutusrežiimi. Valida mitmete variantide vahel alates vabavarast, avatud lähtekoodiga tarkvarast kuni omandusliku tarkvara puhul rentimisest täieliku väljaostuni. Viimane tähendab üldiselt tarkara üleminekut tellija ainuomandisse.
 
@@ -229,7 +229,7 @@ Seadus näeb ette juhud, millal pakkumine ja sellega nõustumine muutuvad siduva
 
 Tehingute kinnitamisel ja tehingupoolte tuvastamiseks ning nende volituste kontrolliks on hea kasutada digitaalallkirja.
 
-### 7.2.6 Kordamisküsimused
+### A.7.2.6 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -247,11 +247,11 @@ Tehingute kinnitamisel ja tehingupoolte tuvastamiseks ning nende volituste kontr
 
 :::
 
-## 7.3 Eetika ja käitumisreeglid
+## A.7.3 Eetika ja käitumisreeglid
 
 Selle alateema materjale läbi töötades õpid tundma käitumiskoodeksit, mis peaks olema üks professionaalse spetsialisti tegutsemise aluseks.
 
-### 7.3.1 Eetika ja käitumisreeglid
+### A.7.3.1 Eetika ja käitumisreeglid
 
 Inimühiskond on aegade jooksul välja kujundanud üldised väärtushinnangud, mille alusel otsustatakse oma liikmete käitumise üle. Need väärtused on piirkonniti ja kogukonniti väga erinevad. Ajaloos esmaseks väärtushinnangute kujunemise aluseks on kindlasti vajadus väärtustada tegusid, mis aitavad kogukonda elus hoida ja kestma jääda. Ühiskonna arenedes lisanduvad siia religioossed, majanduslikud, õiguslikud, poliitilised ja muud tegurid.
 
@@ -299,7 +299,7 @@ Euroopa Kutseliitude Nõukogu (Council of European Professional Informatics Soci
 - ametialase kohalemääramise (edutamise) toetamine, välja arvatud põhjendamatud juhud
 - klientide ja osapoolte huvide kokkupõrget põhjustavate olukordade vältimine avades eelnevalt kõigile osapooltele kogu informatsiooni asjaoludest.
 
-### 7.3.2 Kordamisküsimused
+### A.7.3.2 Kordamisküsimused
 
 Missugusel juhul käitub IT spetsialist vastavalt üldtunnustatud eetikakoodeksile, kui märkab kolleegide väga hästi tehtud tööd?
 
@@ -307,11 +307,11 @@ Missugusel juhul käitub IT spetsialist vastavalt üldtunnustatud eetikakoodeksi
 - Tunnustab tehtud tööd avalikult, tutvustab selle tulemusi laiemalt ning seab endale eesmärgi saavutada sarnaseid tulemusi X
 - Tunnustab tehtud tööd oma sisimas ja püüab saavutada samasuguseid tulemusi
 
-## 7.4 Turvalisus
+## A.7.4 Turvalisus
 
 Selle alateema materjale läbi töötades õpid tundma turvalisuse tagamise põhimõtteid ühiskonnas ja organisatsioonis.
 
-### 7.4.1 IT süsteemide töökindlus
+### A.7.4.1 IT süsteemide töökindlus
 
 Infotehnoloogia on muutnud infotöö nii avalikus kui ka erasektoris oluliselt efektiivsemaks. Infoturve on muutunud väga oluliseks kogu maailmas. Võrreldes olukorraga mõned aastad tagasi on infovarad veelgi kasvanud, ohud ja ründed läinud massilisemaks, meetmed maksavad järjest rohkem ja riskid on suuremad. Infoturvet ei saa enam tagada üks ametkond, ettevõte, töögrupp või riik - vaja on kõigi osaliste koostööd igas organisatsioonis, riigis ja rahvusvaheliselt.
 
@@ -374,7 +374,7 @@ Informatsiooniline infrastruktuur on kaasaegse riigi ja majanduse üks aluseid, 
 
 Oluline on inimeste kaitse vastavalt põhiõigustele ning asutuste ja ettevõtete kaitse-meetmete rakendamine. Selleks peab rakendama kõige rangemad meetmed isikuandmete kaitseks, turvalised e‑identiteedi vahendid (näiteks ID-kaart ja mobiil‑ID ja viimaste piiriülese kasutamise võimalused). Inimesi tuleb kaitsta illegaalse või ebasoovitava sisuga tülitamise eest (ahistamine, laste pornograafia, vägivalla õhutamine jne).
 
-### 7.4.2 Elutähtsad valdkonnad ja teenused
+### A.7.4.2 Elutähtsad valdkonnad ja teenused
 
 Arenenud riikide majandused ja ühiskonnad toetuvad väga paljus infosüsteemidele. Viimaste aastate jooksul on meie sõltuvus IT lahenduste toimimisest oluliselt suurenenud (äriprotsesside tulemuslikkus, avaliku sektori teenused, m-parkimine jne). Mõne infosüsteemi mittetoimimine võib avaldada olulist mõju äriettevõtte ja riigiasutuse toimimisele ja selle kaudu ka kodanike teenindamisele. Riigi toimimise seisukohast on eriti oluline elutähtsate teenuste toimimine. Seetõttu tuleb keskenduda kriitilise informatsiooni infrastruktuuri, sealhulgas ka informatsioonilise infrastruktuuri, kaitsele, et tagada elutähtsate teenuste ja vajalike infosüsteemide toimimine.
 
@@ -396,7 +396,7 @@ Selleks on paika pandud viis prioriteetset suunda:
 
 Elutähtsad valdkondade kaitse edukaks elluviimiseks tuleb need "lahti kirjutada" teenuste tasandil ning määratleda ka asutuste ja ettevõtete kohustused teenuste toimepidevuse tagamisel. Elutähtsa teenuse osutajal on kohustus koostada teenuse toimepidevuse riskianalüüs ning ka toimepidevuse plaan. Elutähtsa teenuse osutaja riskianalüüsi eesmärk on kaardistada elutähtsa teenuse toimimise seisukohast olulised ressursid ja tegevused ning analüüsida tegureid, mis võivad põhjustada teenuse toimimise lakkamist. Elutähtsa teenuse osutaja toimepidevuse plaan sisaldab vastust küsimusele, kuidas on tagatud elutähtsat teenust toetavate tegevuste toimimise suutlikkus (riskide maandamine) ning nende taastamine ohu realiseerumise korral.
 
-### 7.4.3 Infoturbe meetmed
+### A.7.4.3 Infoturbe meetmed
 
 Turvariskide maandamiseks tuleb alati vaadata, kes on nende ärahoidmise eest vastutavad. Niisuguste ülesannete jagamine tehakse organisatsiooni infopoliitika ühe osana või ka eraldi dokumendina. See käsitleb kõiki selles organisatsioonis asjakohaseid turvalisusega seotud aspekte s.o. kehtestab infourbe meetmete süsteemi. Alati on organisatsiooni sisese vastutuse kõrval s.o. vastutus kaastöötajate, klientide ja tarnijate ees, olemas ka laiem vastutus ühiskonnas, mis hõlmab usaldust infotehnoloogia rakendamise vastu äritegevuses, sotsiaalsetes suhetes ja avalike teenuste kasutamises.
 
@@ -448,7 +448,7 @@ Kuna andmeturve on spetsiifiline valdkond, siis on asjakohane tuua eraldi välja
 
 **Public Key Infrastructure,\*\*** PKI \***\*–** avaliku võtme infrastruktuur.
 
-### 7.4.4 Kordamisküsimused
+### A.7.4.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -470,11 +470,11 @@ Kuna andmeturve on spetsiifiline valdkond, siis on asjakohane tuua eraldi välja
 
 :::
 
-## 7.5 Tööohutus ja -tervishoid
+## A.7.5 Tööohutus ja -tervishoid
 
 Selle alateema materjale läbi töötades saad teadmised peamistest regulatsioonidest töökohal tervise ja ohutuse tagamiseks.
 
-### 7.5.1 Olulised nõuded ja ühtlustatud Euroopa standardid
+### A.7.5.1 Olulised nõuded ja ühtlustatud Euroopa standardid
 
 Infotehnoloogia on oma olemuselt tegevusala, mis on sarnane teiste kontoritöödega, millega ei kaasne suuri riske tööohutuse mõttes, nii professionaalidele kui ka inimestele, kes kasutavad andmetöötlusteenuseid või arvuteid ja muid kommunikatsiooniseadmeid. Eraldi tuleb vaadelda inimesi, kes tegelevad seadmetega, mille puhul tuleb jälgida elektriohutuse nõudeid ja kaabeldusega tegelevaid spetsialiste, kelle puhul kaasneb veel lisaks töötamine kõrgustes või kitsaste ruumides (kaablitunnelid jne).
 
@@ -511,7 +511,7 @@ Oma otsusega [2000/299/EÜ](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?ur
 
 on Euroopa Komisjon kehtestanud raadioseadmete ja telekommunikatsiooni lõppseadmete klassid, mida ei saa kasutada kõikjal Euroopa Liidus. Niisugused seadmed peavad kandma erimärgistust
 
-### 7.5.2 Üldine seadmete ohutus
+### A.7.5.2 Üldine seadmete ohutus
 
 Nii nagu igas elektriseadme korral peavad olema ka IT-tehnika toiteseadmed vastama üldise elektriohutuse nõuetele. Elektrilöögi saamise võimalus peab olema välistatud ja kasutajad peavad võtma tarvitusele täiendavad meetmed (maandused, antistaatilised vaibad kontori põrandal, erivarustus hoolduse töökohtadel ja tehnikutel) elektrostaatiliste laengutest põhjustatud elektrilöökide vältimiseks. Elektriseadmete rikked võivad olla ka tulekahju põhjustajateks, seetõttu peab tööruumides olema ka vastavad kustutusseadmed (pulber- või süsihappegaasiga kustutid). Lubamatu on kinni katta jahutamist vajavaid osi või teha märjaks pingestatud seadmeid.
 
@@ -631,7 +631,7 @@ Eelpool toodud seadusaktid põhinevad Euroopa Liidu järgmistel direktiividel:
 - Electromagnetic Compatibility Directive 89/336/EEC
 - Electrical equipment designed for use with certain voltage limits. Directive 73/23/EEC
 
-### 7.5.3 Kordamisküsimused
+### A.7.5.3 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 

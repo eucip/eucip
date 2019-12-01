@@ -2,11 +2,11 @@
 
 Selle teema materjale läbi töötades saad üldteadmised meeskonnatööst ja kommunikatsioonist organisatsioonis.
 
-## 6.1 Meeskonnad
+## A.6.1 Meeskonnad
 
 Selle alateema materjale läbi töötades saad teadmised meeskondade liikmete rollidest, koostöö toimimisest ja eelistest.
 
-### 6.1.1 Meeskonnad
+### A.6.1.1 Meeskonnad
 
 Inimene on oma olemuselt sotsiaalne s.t. ta püüab olla koos teistega ja tegutseda ühiselt. Koostöös on enamuse elutarvilike ülesannete lahendamine jõukohane. Alates kaubanduse, ja eriti tuntavalt manufaktuuride, tekkimisest süveneb erialane spetsialiseerumine. Selle eesmärgiks on töö tulemuslikkuse tõstmine. H.Fordi loodud tootmisliinid viisid selle tootva tööstuse jaoks viimase mõistliku piirini. See kõik toimib tootvas tööstus. Teenuste ja teadmistepõhises ühiskonnas, mille aluseks on loov mõttetegevus ei ole niisugune töökorraldus tulemuslik, sest mõttetööd ei ole võimalik väga täpselt piiritleda. Samas annab mõtete ühendamisel tekkiv sünergia oluliselt paremaid tulemusi.
 
@@ -77,7 +77,7 @@ Tehniliselt sobivad paljud IT rakendused meeskonnatöö korraldamiseks kaugemate
 
 Sõltuvalt koostöö vormist on vahel otstarbekas eristada koostöö vorme. Inglise keeles kasutakse mõisteid "co-operate" ja "collaborate". Eesti keelde tõlgitakse need mõlemad koostöö tegemisena. Esimene tähendab reeglina erinevates meeskondades (organisatsioonide või struktuuriüksuste tasemel) töötamist ja teine ühises meeskonnas tööd. Esimesel juhul on suhted formaalsemad ja põhinevad rohkem lepingutel või virtuaalsete meeskondade puhul selgetest protseduurireeglitest s.t. see on koordineerimisel põhinev koostöö. Teisel juhul jagatakse ühiseid töömeetodeid ja -vahendeid, mis on sisulisele tööle palju lähemal s.t. see on koos töötamisel põhinev.
 
-### 6.1.2 Kordamisküsimused
+### A.6.1.2 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -105,7 +105,7 @@ Sõltuvalt koostöö vormist on vahel otstarbekas eristada koostöö vorme. Ingl
 
 Selle alateema materjale läbi töötades saad teadmised ettevõttes kommunikatsiooni korraldamisest.
 
-### 6.2.1 IT mõisted ja määratlused - kasutamine suhtluses
+### A.6.2.1 IT mõisted ja määratlused - kasutamine suhtluses
 
 Tavaliselt on igas organisatsioonis koos töötamas mitme eriala inimesi. Eelmises peatükis kirjeldasime organisatsiooni meeskonna loomise ja koostöö põhimõtteid. Märkisime suhtluse olulisust edukaks koostööks. Suhtlemine võib olla suuline või kirjalik, vahetu või vahendatud. Igal juhul peavad olema olemas kommunikatsiooniks täidetud teatud tingimused.
 
@@ -188,7 +188,7 @@ Loe lähemalt ZXTM kohta: http://www.zeus.com
 Seminar on TASUTA
 ```
 
-### 6.2.2 Kordamisküsimused
+### A.6.2.2 Kordamisküsimused
 
 1. Serveriruumi uksel on silt "Kõrvalistel isikutel ruumis viibimine keelatud!". Kas see teate edastamise viis on:
 
@@ -202,7 +202,7 @@ Seminar on TASUTA
 - mitteregulaarse operatiivinfo edastamiseks
 - osakonna tootmisülesannete tutvustamiseks
 
-## 6.3 IT spetsialistide ja äripersonali dialoog
+## A.6.3 IT spetsialistide ja äripersonali dialoog
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -210,7 +210,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama infotehnoloogiat kui võimaluste kogumit organisatsioonis
 - Kirjeldama infotehnoloogiat kui organisatsiooni osa.
 
-### 6.3.1 IT spetsialistide ja äripersonali dialoog
+### A.6.3.1 IT spetsialistide ja äripersonali dialoog
 
 Vähe on neid ettevõtteid, kus täna ei kasutata infotehnoloogia vahendeid töö korraldamisel otseselt või kaudselt. Paljudes organisatsioonides on IT lahenduste kasutamine missioonikriitilise tähtsusega s.o. ilma nendeta ei saa toimuda organisatsiooni põhiprotsessid. Kindlasti on niisugusteks täna pangad ja riigiasutused Eestis.
 
@@ -242,7 +242,7 @@ Kokkuvõttes annavad kirjeldatud tegevused oma osa ettevõtte äri hindamisel. S
 
 Infosüsteemide tulemusliku toimimise eelduseks ja nende muutumine osaks ettevõtte väärtusahelas, on hea planeerimine ja plaanitu elluviimine hea projektijuhtimise kaudu. Ilma üksteist mõistva suhtluseta on see võimatu. Organisatsiooni mõlemad osapooled meie vaadeldaval juhul - "äri" ja IT - peavad suutma ennast väljendada korrektselt ja teisele osapoolele (ja mitte ainult neile) arusaadavalt. Tehnilised väärtused kummalgi pool ei tohi saada väärtuseks omaette, vaid peavad olema kooskõlas põhieesmärkidega - kliendi rahulolu, kvaliteet, tööviljakus jne.
 
-### 6.3.2 Kordamisküsimused
+### A.6.3.2 Kordamisküsimused
 
 Missugune alljärgnevatest viib organisatsiooni, mille tegevuses on IT-l väga oluline roll, arengus parima tulemuseni, kui tegevuses peetaks silmas eelkõige ainult üht tegutsemisviisi:
 
@@ -250,7 +250,7 @@ Missugune alljärgnevatest viib organisatsiooni, mille tegevuses on IT-l väga o
 - äri- ja IT juhtide vahel on kindel üksteisemõistmine organisatsiooni üldiste eesmärkide saavutamise teedest X
 - ärijuhid arvestavad organisatsiooni arendamisel ainult inimestest tulenevate võimaluste ja piirangutega
 
-## 6.4 Muutuste algatamine
+## A.6.4 Muutuste algatamine
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -258,7 +258,7 @@ Selle alateema materjale läbi töötades õpid:
 - Tundma uue tehnoloogia aktsepteerimiseks vajalikke motivatsioonitegureid
 - Tundma muutustele vastuseisu põhjustavaid tegureid.
 
-### 6.4.1 Muutuste algatamine
+### A.6.4.1 Muutuste algatamine
 
 Muudatused võivad olla kas oodatud või mitte oodatud, aga tänapäeval on nende vältimine võimatu. Muudatuste juhtimine peab sisaldama oma olemuselt mõttelist arengut, planeerimist, hoolikat rakendamist, seiret ja konsultatsiooni ning selle kõige juures inimeste kaasamist protsesside mõjutamisse. Muudatus peab olema realistlik, saavutatav ja mingil viisil mõõdetav. Muudatuse protsessis peavad olema mõningad indikaatorid iga etapi edu mõõtmiseks juba enne alustamist. See võimaldab näha iga etapi arengut ja teeb progressi nähtavaks.
 
@@ -432,7 +432,7 @@ Juhid peavad vastama järgnevatele küsimustele:
 
 Töötajatele tuleb teada anda, et nad saavad tehniliste muudatuste läbiviimisel kaasa aidata esitades küsimusi ja hinnates uusi võimalusi. Tavaliselt teavad kasutajad ise kõige paremini, missugused teemad on kontrolli all ja mida tuleks täiustada, paremaks muuta. Tuleb meeles pidada, et pärast rakenduse faasi protsess jätkub (tarkvara)täienduste, uuenduste ja koolitustega jne. Seega tuleb kannatlik olla, alati tuleb ette üllatusi, aga nendega saab tegeleda.
 
-### 6.4.2 Kordamisküsimused
+### A.6.4.2 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -458,7 +458,7 @@ Töötajatele tuleb teada anda, et nad saavad tehniliste muudatuste läbiviimise
 
 :::
 
-## 6.5 Audiovisuaalsed vahendid
+## A.6.5 Audiovisuaalsed vahendid
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -467,7 +467,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama audiovisuaalvahendite kasutamise eelised
 - Tundma tehnilised nõuded audiovisuaalvahendite kasutamisel.
 
-### 6.5.1 Audiovisuaalsed vahendid
+### A.6.5.1 Audiovisuaalsed vahendid
 
 Audio-visuaalsed (AV) vahendid on tavapärased igapäeva töö ja koosolekute korraldamisel. Need aitavad paremini edastada oma ideid ja vajalikke andmeid. Reeglina mõistetakse nende all traditsioonilist esitlustehnikat alates arvutist koos digiprojektoriga (ka data- või videoprojektor). Tänapäeval on kasutatavate vahendite hulk ja võimalused oluliselt suuremad. Paljudega nendest puutuvad kokku ka IT spetsialistid klientidele tehnilisi lahendusi pakkudes ja teenuseid osutades.
 
@@ -504,7 +504,7 @@ Nagu öeldud on sidekanaliteks reeglina IP-ühendused, kuid on ka ISDN ühenduse
 
 Laialt kasutatakse videokonverentsi koolituses, kus seeläbi suureneb võimalus kasutada välislektoreid.
 
-### 6.5.2 Kordamisküsimused
+### A.6.5.2 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 

@@ -42,6 +42,8 @@ sidebar: none
 
 #### C5 [Traadita ja kaasaskantavad arvutusseadmed](./oppematerjalid/c_haldus_05_traadita_ja_kaasaskantavad_arvutusseadmed.md)
 
+#### C6 [Võrguhaldus](./oppematerjalid/c_haldus_06_vorguhaldus.md)
+
 # Õppekava
 
 ### A [Juhtimine](./oppekava/a_juhtimine.md)

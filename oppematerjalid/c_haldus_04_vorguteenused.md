@@ -1,4 +1,4 @@
-# C4 Võrguteenused
+# C.4 Võrguteenused
 
 Selle teema materjale läbi töötades õpid:
 
@@ -6,11 +6,11 @@ Selle teema materjale läbi töötades õpid:
 - Aru saama veebi (WWW) mõistest, elektroonse sõnumivahetuse võimalustest ja IP-kõne protokolliteenustest
 - Määratlema ressursinõuded multimeediale ja riistvara nõuded multimeedia serverile.
 
-## 4.1 Võrgu turvaprobleemid
+## C.4.1 Võrgu turvaprobleemid
 
 Selle alateema materjale läbi töötades õpid kirjeldama erinevat tüüpi ohte tavalistele võrguoperatsioonidele.
 
-### 4.1.1 Erinevad ohuallikad
+### C.4.1.1 Erinevad ohuallikad
 
 Võrguturve on oluline teema, kuna tänapäeval ei ole reeglina arvutit, mis poleks võrku ühendatud ja seega on iga sisselülitatud arvuti potentsiaalne võrguründe ohver. Ründeohud võrgule, serveritele ja arvutitele võivad saada alguse erinevatest allikatest. Reeglina on kaasaegsed arvutid ühendatud internetti, mis on oluline äri- ja suhtluskeskkond, seda kasutavad riigiasutused kodanikega suhtlemisel ja interneti kaudu edastatakse konfidentsiaalseid isikuandmeid.
 
@@ -55,7 +55,7 @@ Süsteemidesse sissepääsuks saab kasutada ka pahavara abi, mis eelnevalt süst
 
 Eesmärgiks võrgu turvalisusel on garanteerida saatja ja vastuvõtja andmevahetuse kaitstus ja andmete õigsus, et välistada pettuse variandid, ja tagada andmete kättesaadavus. Sellega seoses on vaja tagada andmete konfidentsiaalsus, puutumatus, autentsus ja käideldavus. Täpsemalt peab olema võimalik andmevahetuse osapooltel vahetada andmeid konfidentsiaalselt (Confidentiality) ja kontrollida, et andmed on tulnud õigelt saatjalt ehk autentsed (Authenticity) ja et andmed ei ole teel muudetud ehk tagada andmete puutumatus (Integrity). Andmete käideldavus (Availability) tähendab, et kasutajad saavad oma andmetele vabalt juurde ja on välistatud teenuse tõkestamine võrguründe abil.
 
-### 4.1.2 Kordamisküsimused
+### C.4.1.2 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -84,14 +84,14 @@ Eesmärgiks võrgu turvalisusel on garanteerida saatja ja vastuvõtja andmevahet
 - Kommutaatori pordi suunamine vahendusmehe masinasse X
   :::
 
-## 4.2 Krüptograafia
+## C.4.2 Krüptograafia
 
 Selle alateema materjale läbi töötades õpid:
 
 - Kirjeldama krüptograafia olemust ja selle rakendamist võrguturbes
 - Tooma välja erinevused salajase võtme ja avaliku võtme algoritmidel.
 
-### 4.2.1 Sissejuhatus krüptograafiasse
+### C.4.2.1 Sissejuhatus krüptograafiasse
 
 **Krüptograafia** on kunst info varjamiseks. Võrgus liikuvate konfidentsiaalsete andmete üha kasvav hulk muudab selle kaitsmise ja varjamise kõrgendatud huviobjektis nii valitsustele, äriettevõtetele kui ka üksikisikutele. Andmete krüpteerimine võimaldab kaitsta võrgus liikuvaid andmeid muutes need loetamatuks isikutele, kellel pole õigust vastavaid andmeid näha. Andmete saatja töötleb enne andmete ülekandmist andmeid teatud algoritmiga ehk krüpteerib andmed ja andmete vastuvõtja teeb läbi vastupidise operatsiooni dekrüpteerides andmed loetavale kujule. Andmete krüpteerimise algoritm defineerib võtme keerukuse, mille abil on võimalik andmeid kaitsta. Mida pikem on kasutatud krüpteerimisvõti seda rohkem on võtmete erinevaid variatsioone ja seda keerukam on võtme toore jõuga lahti murdmine ning seda suurem on konfidentsiaalsus, mida algoritm pakub. Kaasaegsed turvalisimad algoritmid kasutavad 256 bitiseid (näiteks AES) või 512-4096 bitiseid (näiteks RSA) võtmeid. Mitmed algoritmid omavad sisseehitatud dünaamilist võtme muutumist, mispuhul üks võti kehtib vaid teatud aja ja selle äraarvamine ei võimalda pealtkuulajal salvestada kogu andmevahetust võrgus.
 
@@ -103,14 +103,14 @@ Esimeste krüpteerimissüsteemide hulka kuulub Spartalaste rakendatud meetod „
 
 Esimene krüpteerimiskood on tuntud nime alla „Caesar code&quot;, mille puhul asendati tähed teatud nihkega tähestikus. Selliste koodide lahtimurdmine on suhteliselt lihtne, kasutades tähemärkide esinemise sagedusanalüüsi. Selle järgi on igas keeles teatud tähemärkide esinemissagedus kõrgem ja selle järgi saab koodi nihke välja arvutada.
 
-### 4.2.2 Krüpteerimise algoritmid
+### C.4.2.2 Krüpteerimise algoritmid
 
 Krüptograafilised algoritmid võib jagada kaheks:
 
 - **Sümmeetrilise võtmega algoritmid** ehk salajase võtmega algoritmid
 - **Asümmeetrilise võtmega algoritmid** ehk avaliku võtmega algoritmid.
 
-#### 4.2.2.1 Sümmeetriline krüptograafia
+#### C.4.2.2.1 Sümmeetriline krüptograafia
 
 Sümmeetrilise võtmega algoritmi puhul on info krüpteerimiseks ja dekrüpteerimiseks sama võti, mis jagatakse eelnevalt välja osapoolte vahel.
 
@@ -131,7 +131,7 @@ Sümmeetrilised krüpteerimisalgoritmid on laialdaselt kasutusel ja piisavalt ke
 - Advanced Encryption Standard (AES) kasutab Rijndael'i algoritmi. AES on praegu peamine krüpteering, mida kasutavad USA valitsusasutused. Toetab see standard krüpteeringut kuni 256 bitise võtmega.
 - Rivest's Cipher (RC) on RSA laborite poolt väljatöötatud algoritm. Kaasaegsed versioonid on RC5 ja RC6. RC5 kasutab 2048 bitist võtit ja on turvaline algoritm
 
-#### 4.2.2.2 Asümmeetriline krüptograafia
+#### C.4.2.2.2 Asümmeetriline krüptograafia
 
 Asümmeetrilise võtmega algoritmid kasutavad kahte võtit andmete krüpteerimiseks ja dekrüpteerimiseks. Neid võtmeid nimetatakse **avalikuks võtmeks** ja **salajaseks võtmeks**. Vastuvõtja avaliku võtme abil saab saatja andmed krüpteerida ja vastuvõtja saab andmed dekrüpteerida oma salajase võtmega. Asümmeetrilise krüpteerimise puhul peab iga infovahetuses osalev subjekt omama salajase ja avaliku võtme paari. Turvalisuse tagab algoritmi keerukus, mis välistab võimaluse tuletada ühest võtmest teist võtit.
 
@@ -147,7 +147,7 @@ Tänapäeval kasutuselolevad asümmeetrilise võtme algoritmid:
 - Diffie-Hellmann võtmevahetuse (Diffie-Helmann key exchange) on loojate nime järgi algoritm. Seda algoritmi kasutatakse peamiselt võtmete turvaliseks saatmiseks üle avaliku võrgu. Loojaid peetakse avaliku/salajase võtme põhimõtte asutajateks.
 - Elliptiliste kõverate krüptosüsteem (ECC - Elliptic Curve Cryptography) on sarnase funktsionaalsusega RSA algoritmile. Seda rakendatakse väiksemate mõõtmetega seadmetes nagu mobiiltelefonid ja traadita seadmed. ECC on vähem mahukas ja vajab vähem arvutusressurssi. Avaliku ja salajase võtmepaari tuletamise idee baseerub kõveratel asuvate punktide kasutamisel.
 
-### 4.2.3 Krüptograafia rakendamine võrguturbes
+### C.4.2.3 Krüptograafia rakendamine võrguturbes
 
 Krüptograafia kasutamine andmete edastamisel aitab tagada andmete konfidentsiaalsuse, puutumatuse ja autentsuse.
 
@@ -161,7 +161,7 @@ Krüptograafia kasutamine andmete edastamisel aitab tagada andmete konfidentsiaa
 
 **Mittekeeldumine** (Nonrepudiation) on mehanism tagamaks, et avaliku võtme kasutaja on see, kes ta tegelikult väidab ennast olevat. Selleks kasutatakse kolmandat osapoolt ehk sertifitseerimisasutust (CA – Certification Authority), kes väljastab ja haldab võtmetega sertifikaate, kontrollides enne võtme saaja identiteeti ja autentsust.
 
-#### 4.2.3.1 Avaliku võtme infrastruktuur
+#### C.4.2.3.1 Avaliku võtme infrastruktuur
 
 **Avaliku võtme infrastruktuur** (PKI – Public Key Infrastructure) võtab kokku erinevad turvaaspektid, mis seotud sõnumite turvalise ülekandmisega. PKI leiab kasutust e-äri rakendustes, turvalises andmete ülekandmises ja informatsiooni salastatuse tagamisel. PKI on asümmeetriline krüptograafiline süsteem, milles on esindatud järgmised komponendid:
 
@@ -169,7 +169,7 @@ Krüptograafia kasutamine andmete edastamisel aitab tagada andmete konfidentsiaa
 - **Krüpteerimisalgoritm** (näiteks RSA) avaliku ja salajase võtmepaari väljastamiseks
 - **Digitaalsed sertifikaadid** on mehanismid, mis seovad asümmeetrilise võtmepaari konkreetse isikuga. Igal kasutajal on PKI süsteemis sertifikaat, mida saab kasutada tema autentimiseks. Kõige enam levinud sertifikaadi standard on X.509. See standard spetsifitseerib info, mida sertifikaat sisaldab (versiooni, seerianumbri, algoritmi, väljastava asutuse, kehtivusaja, isiku, kellele sertifikaat väljastati, kasutusotstarbe, võtmed, jne). Sertifikaatide tühistamiseks on kasutusel sertifikaaditühistusnimistu (CRL – Certificate revocation list), mis on peab olema kättesaadav ja sealt saab kontrollida sertifikaadi kehtivust.
 
-#### 4.2.3.2 Turbeprotokollid
+#### C.4.2.3.2 Turbeprotokollid
 
 **Turvasoklite kiht** (SSL – Secure Sockets Layer) on kasutusel turvalise ühenduskanali loomiseks kahe TCP baasil arvuti vahel. Protokolli loojaks on Netscape. SSL kasutab sideseansi loomisel asümmeetrilist krüpteerimist ja edasine andmevahetus toimub sümmeetrilise krüpteeringuga. See protokoll kasutab kätlusmeetodit sideseansi loomiseks. Kätluse käigus autenditakse server ja vajadusel kasutaja avaliku võtme tehnikat kasutades ning luuakse sümmeetrilise krüpteerimise võtmed kiireks andmevahetuseks.
 
@@ -203,7 +203,7 @@ Joonis 4‑7. SSTP andmepakett
 
 IKEv2 (Internet Key Exchange V2) kasutab IPSec'i krüpteeringut, autentimiseks peab server tõendama enda identiteeti sertifikaadiga. Toetab ühenduse automaatset taasloomist (VPN Reconnect).
 
-### 4.2.4 Kordamisküsimused
+### C.4.2.4 Kordamisküsimused
 
 :::tip Kordamisküsimused
 
@@ -239,7 +239,7 @@ IKEv2 (Internet Key Exchange V2) kasutab IPSec'i krüpteeringut, autentimiseks p
 - Ainult asümmeetrilist krüpteerimismeetodit
   :::
 
-## 4.3 Domeeninimede süsteem
+## C.4.3 Domeeninimede süsteem
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -247,11 +247,11 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama kuidas nimetatakse lõppseadmeid internetis ja nimelahenduse tehnikat
 - Kirjeldama ressursikirjete kasutust ja otstarvet.
 
-### 4.3.1 Sissejuhatus
+### C.4.3.1 Sissejuhatus
 
 **Domeeninimede süsteem** on kasutusel, et identifitseerida arvuti nime järgi, mis on seotud vastava arvuti IP aadressiga. Nimede kasutamine lihtsustab arvutite meeldejätmist ja nimi on konkreetne viide mingile arvutile. Samas IP aadress on seotud vaid konkreetse võrgukaardiga ja võib erinevatel põhjustel muutuda aga nime järgi suunab DNS kasutaja ikka õigesse masinasse.
 
-### 4.3.2 Seadmete nimetamine internetis
+### C.4.3.2 Seadmete nimetamine internetis
 
 DNS on hierarhilise struktuuriga. Aadressi lahendamine algab kõige üldisemast **tipptaseme domeenist** (TLD – Top Level Domain) .com või .uk. Sellest veel kõrgemal on root ehk „ .&quot;, mis reeglina jäetakse nimest ära.
 
@@ -274,7 +274,7 @@ Domeeninimede registreerimine toimub registripidajate vahendusel: [http://www.ee
 
 Üldiselt on domeeninimede registreerimine tasuline. Samas on saadaval ka tasuta teenuseid domeeninime registreerimiseks teatud teenusepakkuja alamdomeeni alla. See annab võimaluse enda dünaamiline IP siduda kindla domeeninimega ja näiteks enda koduserverisse niimoodi juurde pääseda.
 
-### 4.3.3 Nimelahendus
+### C.4.3.3 Nimelahendus
 
 Nimelahenduse jaoks on DNS teenust pakkuvas serveris erinevate nimeruumide tsoonifailid ja tundmatute tsoonide päringud suunatakse edasi teistele nimeserveritele või kasutatakse iteratiivseid päringuid juurnimeserveritele.
 
@@ -301,7 +301,7 @@ Joonis 4‑10.Nimelahendus iteratiivsete päringutega juurserveritele (Allikas: 
 
 Päring lõpeb otsingutulemuse kliendi arvuti nimepuhvrisse laadimisega. Puhverdatud kirje on kehtiv vastavalt **kirjele määratud eluea** ehk TTL (Time to Live) väärtusega. Puhverdatud kirje TTL väärtus kahaneb ajas ja kui päringu tegemine toimub mitme DNS serveri vahendusel siis iga server puhverdab saadud kirje TTL väärtuse puhverdamise ajahetkel, mitte kirjele autoritiivse serveri poolt määratud eluea. See mehnism tagab, et internetis ringlev DNS kirje aegub lõpuks ja klientideni jõudev info vastab serveri tsoonifailis olevale tegelikule väärtusele. DNS serverilt saadud vastus võib olla ka negatiivne ja sel juhul puhverdatakse kliendi pool ka negatiivne vastus. Kui selline asi juhtub siis tuleb uue päringu tegemise eel lokaalne nimepuhver tühjendada (Windows'is ipconfig /flushdns).
 
-### 4.3.4 Ressursikirjed
+### C.4.3.4 Ressursikirjed
 
 **Ressursikirjed** (Resource records – RR) on domeeninimede süsteemi põhilised andmeelemendid. Igal kirjel on oma tüüp. Näiteks A-kirje on aadressikirje, mis omistab IP aadressile domeeninime ja CNAME kirje on domeeninime aliase kirje, mis viitab teisele A-kirjele. Üks ressursikirje tüüp on e-posti vahendaja kirje ehk MX kirje. Viimane spetsifitseerib e-posti serveri, mis on vastutav e-posti sõnumite vastuvõtmise eest sihtdomeenis.
 
@@ -312,7 +312,7 @@ Kirjed, mis saadetakse üle interneti, kasutavad standardset formaati, mille pea
 - CLASS: klassikood
 - TTL: Aeg sekundites, mille jooksul ressursikirje on kehtiv
 
-### 4.3.5 Kordamisküsimused
+### C.4.3.5 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -348,7 +348,7 @@ Kirjed, mis saadetakse üle interneti, kasutavad standardset formaati, mille pea
 - Teisele A-kirjele
   :::
 
-## 4.4 Veeb
+## C.4.4 Veeb
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -357,7 +357,7 @@ Selle alateema materjale läbi töötades õpid:
 - Aru saama dünaamilisest veebisisu haldusest kasutades andmebaasi
 - Määratlema võimalused veebimajutuseks.
 
-### 4.4.1 Veebi kirjeldus
+### C.4.4.1 Veebi kirjeldus
 
 **Veeb** (WWW-World Wide Web) on infovahendussüsteem internetis, mis kasutab hüpertekst navigatsiooni võimalusi. Veeb on hajutatud klient-server lahendus, kus klientidel on võimalik serverist infot vaadata ja dokumente vahetada kasutades spetsiaalset rakendust ehk veebilehitsejat. Kliendi ja serveri omavaheline suhtlus leiab aset üle **HTTP** (Hyper Text Transfer Protocol) protokolli, mis omakorda kasutab transpordiks TCP protokolli.
 
@@ -368,36 +368,36 @@ Veebi peamised funktsioonid on:
 - Hüpertekstilinkide kaudu navigeerimine erinevate URL'ide vahel
 - Pakub protokollide (HTTP, HTTPS) abil juurdepääsu (HTML – Hypertext Markup Language) dokumentidele ja muule infole.
 
-### 4.4.2 Internetiressursi aadress
+### C.4.4.2 Internetiressursi aadress
 
 Veebilehed on **URL adresseeringuga**. URL on internetiaadress ressursside leidmiseks, mille esimene osa näitab ära protokolli (näiteks http:// või https:// või ftp://) ja aadressi keskel on kooloniga eraldatult domeeninimi ja port, mille kaudu teenust jagatakse ning aadressi lõpus on alamkataloog ja failinimi, näiteks [http://www.domeeninimi.ee:80/kataloog/fail](http://www.domeeninimi.ee:80/kataloog/fail)
 
-### 4.4.3 Veebiserveri roll
+### C.4.4.3 Veebiserveri roll
 
 Arvuti, mis pakub klientidele veebiteenust kasutades HTTP või HTTPS protokolle ja jagab juurdepääsu hüperteksti kujul dokumentidele on **veebiserver**. Info on juurdepääsetav kasutades kliendi poolt **veebilehitseja** nimelist rakendust. Juurdepääs infole saab võimalikuks veebiserveril töötava rakenduse abil, mis „kuulab&quot; klientide veebilehitsejatest saabunud päringuid ja vastab nendele päringutele soovitud veebisisu saatmisega. Info on veebiserveris organiseeritud kataloogidesse. Need kataloogid on seotud ühe veebisaidiga ja sealt jagatakse välja info kasutajatele. Veebikliendi juurdepääs on piiratud nende kataloogidega ja teistele serveri kataloogidele tal vaikimisi juurdepääs puudub. Kui kasutaja kirjutab veebilehitsejasse täpse URL aadressi siis suunatakse kasutaja otse soovitud failini. Kui kasutaja sisestab ainult serveri nime siis sõltuvalt veebiserveri konfiguratsioonis avaneb avalehe fail nimega index.html või default.html. Võib ka olla, et kasutajale kuvatakse veebisaidi kataloogipuu kui see on serverist lubatud. Avanenud veebilehtedel võib olla hüperlinke erineva sisuga infole nagu videod, helifailid, veebivormid, jne.
 
 Üks veebiserver võib sisaldada mitmeid virtuaalseid veebisaite. Selleks on kasutusel spetsiaalne nimi ehk päis (host header) erinevatele veebisaitidele. Veebiserver kontrollib saidi päist päringu protsessimisel ja suunab kasutaja õigesse virtuaalsesse veebisaiti. Selle funktsionaalsuse tarbeks tuleb ka DNS serveris luua erinevate virtuaalsete saitide nimede jaoks kirjed. Teine võimalus mitut veebisaiti ühes füüsilises masinas käimas hoida on kasutada eri saitide jaoks erinevat juurdepääsu porti aga sel juhul kui port ei ole vaikimisi HTTP või HTTPS port, peab ka kasutaja, kes teenusele juurdepääsu loob, teadma pordinumbrit ja seda ka päringu tegemisel aadressireal kirjeldama.
 
-### 4.4.4 Veebilehitseja roll
+### C.4.4.4 Veebilehitseja roll
 
 Veebi navigeerimiseks on vaja **veebilehitsejat** ehk rakendust, mis võimaldab kasutajal ühenduda veebiserveriga, et sealt kohale tõmmata soovitud lehekülg ja see kasutaja arvutiekraanile kuvada. Veebilehitseja oskab renderdada ekraanile erinevat veebisisu, milleks võivad olla videod, tekst, animatsioonid, jne. Veebilehitseja põhifunktsionaalsuste hulka kuulub võimalus sisestada URL aadress ja navigeerida lehtedel edasi-tagasi vastavate nuppudega ning värskendada lehekülje sisu. Väga oluline veebilehitseja omadus on näidata erinevates formaatides dokumente otse veebilehitseja aknas. Teatud sisu toetavad veebilehitsejad sisemiselt ja teatud dokumentide jaoks on võimalus installeerida eraldi tarkvaramoodul ehk plugin, mis laaditakse koos veebilehitseja käivitamisega ja nende abil võib avada näiteks porditavas failivormingus (PDF) dokumente või vaadata dünaamilist veebisisu Adobe flash või Microsoft Silverlight lisamooduleid kasutades.
 
-### 4.4.5 HTTP protokoll
+### C.4.4.5 HTTP protokoll
 
 **Hüperteksti edastusprotokoll** HTTP (Hypertext Transfer Protocol ) on TCP protokollil baseeruv protokoll info edastamiseks ja vahetamiseks arvutivõrkudes, algselt HTML dokumentide edastamiseks. Sellel protokollil on mitmeid versioone alates versioonist 0.9. Edasised versiooni 1.0 ja 1.1. Versioon 1.0 puhul loodi iga infopäringu jaoks uus ühendusseanss, versioon 1.1 võimaldab kasutada sama seanssi mitmete päringute jaoks ja vähendab viivitusi. Lihtaim infovahetusseanss on veebilehitseja päring GET koos URL aadressiga. Sellele päringule vastates saadab server esmalt päise. Viimane defineerib erinevat infot saadetud dokumendi kohta nagu sisu tüüp, kodeeringu tüüp, jne. Veebilehitseja kasutab seda infot, et vastavat veebisisu alla laadida ja õiges vormingus ekraanile kuvada.
 
 Päises võivad olla ka spetsiaalsed väikesed andmeplokid ehk **küpsised** (Cookie), mis sisaldavad veebiserveri poolt saadetud andmeid ja mis salvestatakse veebilehitseja poolt kliendi arvutis. Veebilehitseja seadetes saab kas lubada või keelata küpsiste allalaadimise. Nendes andmefailides sisalduv info võib olla kasutaja sisselogimise info või ostukorvi info veebipoes. Küpsiste kasutamine võimaldab teatud infot kliendi ja serveri vahel teha pikemaajaliselt kättesaadavaks kui jooksev seanss, mis on reeglina piiratud ühe päringu täitmisega ja siis suletakse, kuna HTTP on olekuta (stateless) protokoll. Näiteks saab selle abil salvestada kliendi autentimisinfo ja ta ei pea iga uue päringu korral oma parooli uuesti sisestama vaid veebilehitseja saadab serverile järgmise päringu koos vastva küpsisega. Küpsiseid saab ka kasutada, et koguda infot kasutaja käitumisharumuste kohta veebis. Selliseid küpsiseid nimetatakse **andmekaevuriteks** (data miner või tracking cookie), mille eesmärk on pakkuda kasutajale tema käitumisharjumuste põhjal veebi soovimatut reklaami või muud infot, mis võiks teda huvitada. Samuti võivad seda kasutada turuinfo statistikakogujad, et vastavat infot edasi müüa.
 
-### 4.4.6 Hüpertekst-märgistuskeel
+### C.4.4.6 Hüpertekst-märgistuskeel
 
 **Hüpertekst-märgistuskeel** (HTML – Hypertext Markup Language) on keel veebilehtede kirjeldamiseks. See keel kasutab märgendeid, et kirjeldada kuidas veebileht veebilehitsejas välja näeb. Märgendid on `<>` märkidega eraldatud. Näiteks `<BODY>` ja `</BODY>` märgendid ümbritsevad lehekülje põhiosa. Veebilehitsemise jaoks olulisim on linkide olemasolu. Selleks on kasutusel märgendid `<A HREF=&quot;veebi URL&quot;>` , selle järel kasutajale nähtav lingi selgitus ja lingi lõpetab `</A>`.
 
-### 4.4.7 Dünaamilised veebilehed
+### C.4.4.7 Dünaamilised veebilehed
 
 HTML keel võimaldab kirjeldada **staatilisi veebilehti**. Siiski on paljudel juhtudel vaja kliendile saadetud lehekülgi muuta vastavalt kliendi poolt sisestatud parameetritele või saata kliendi päringule vastus veebiserveriga ühendatud andmebaasist. Selleks otstarbeks on kasutusel **dünaamilised veebilehed**. Üks mehhanism selliste päringute jaoks välja arendatud mehhanism on **üldine lüüsiliides** (CGI – Common Gateway Interface). CGI päring suunab kasutaja mitte staatilise veebisisu juurde vaid käivitab serveris rakenduse, mille väljund saadetakse kasutajale päringu vastuseks. CGI ei ole seotud konkreetse programmeerimiskeelega. CGI skripti saab kasutada näiteks koos Perl, PHP, C või Java keeltega. Java keeles kirjutatud CGI rakendust nimetatakse Java servlett. CGI'd kasutavad keeled loovad kliendile HTML vormingus lehekülje. Kasutaja võib Cgi rakenduse käivitada ka veebilehitseja aadressiribalt, kus saab kasutaja kirjeldada ka päringu andmed peale CGI rakendust.
 CGI'le analoogne skriptimiskeskkond on Microsoft'i **ASP** (Active Server Pages).
 
-### 4.4.8 Kliendi arvutis käivitatavad rakendused
+### C.4.4.8 Kliendi arvutis käivitatavad rakendused
 
 Kliendipoolsete veebirakenduste käivitamisel on erinevad võimalikud lähenemised:
 
@@ -419,7 +419,7 @@ Vastukaaluks Java tehnoloogiale on Microsoft arendanud **ActiveX** tehnoloogia, 
 
 Joonis 4‑12. Apleti kasutamise näidis (Allikas: Learning Materials for Information Technology Professionals (EUCIP-Mat))
 
-### 4.4.9 Veebimajutus
+### C.4.4.9 Veebimajutus
 
 **Veebimajutus** (Web hosting) on teenus, mille puhul teenusepakkuja haldab kliendi veebisaiti oma serveris. Veebisait majutatakse ettevõtte domeeninimega ja pakutud lahendus võib sisaldada täiendavaid teenuseid. Tasu, mis teenuse eest küsitakse on kuupõhine. Teenusepakkuja poolt pakutavat teenust saab mõõta veebimajutuse garanteeritud ülalolekuaja alusel.
 
@@ -434,7 +434,7 @@ Erinevad veebimajutuse tüübid:
 
 Ettevõte võib üles panna ja hallata ka ise enda veebiserverit ehk pakkuda ettevõte sisemist veebimajutust. Sellisel juhul langeb kogu vastutus serveri riistvara ja operatsioonisüsteemi valikul ning serveri haldamise ja serveri sisu varundamise eest ettevõttel. Selline lahendus võib olla eelistatum kui teenusega on seotud muud ettevõtte andmebaasid, mida ettevõte ise haldab ja mille sidumine veebimajutussüsteemiga on ebapraktiline või liialt komplitseeritud.
 
-### 4.4.10 Kordamisküsimused
+### C.4.4.10 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -472,14 +472,14 @@ Ettevõte võib üles panna ja hallata ka ise enda veebiserverit ehk pakkuda ett
 
 :::
 
-## 4.5 Sõnumside
+## C.4.5 Sõnumside
 
 Selle alateema materjale läbi töötades õpid:
 
 - Võrdlema erinevaid elektroonse sõnumivahetuse süsteeme
 - Kirjeldama e-posti serveri ja kliendi rolle ning kasutatavaid protokolle.
 
-### 4.5.1 Elektroonilise sõnumivahetuse süsteemid
+### C.4.5.1 Elektroonilise sõnumivahetuse süsteemid
 
 Elektroonilise sõnumivahetusesüsteeme internetikeskkonna jaoks on kaasajal väga erinevaid. Kõige tuntum on ilmselt **elektronposti** ehk e-posti teel sõnumivahetus. Samas on e-posti kõrval väga levinud **kiirsuhtlus** (Instant messaging), mille puhul teatud kiirsuhtluse süsteemiga liitunud kasutajad saavad vastava rakenduse abil kontrollida üksteise kättesaadavust ning vahetada kiirelt teksti või helisõnumeid ja kaamera olemasolul ka videopilti. **Kohalolek** (Presence) koos kiirsõnumirakendustega on kaasajal lõpptarbijatel tavakasutuses ja ärikasutuses asendamas telefonikommunikatsiooni, iseäranis juhtudel, kus on nõutud vaikne töökeskkond. Sellised rakendused on näiteks AOL, Google, Microsoft Messenger, Lync, Skype, jne.
 
@@ -487,7 +487,7 @@ Väga oluline infovahetusviis internetis on erinevatest huvigruppidest moodustun
 
 Mobiilsideseadmete abil kättesaadavad elektroonilise sõnumivahetuse võimalused on **SMS** (Short Message Service) või **MMS** (Multimedia Messaging Service) sõnumitena. Kui võrrelda SMS sõnumit näiteks e-posti sõnumiga, siis SMS puhul on puuduseks sõnumi piiratud pikkus ja sisu ning iga saadetava sõnumi eest tuleb SMS puhul maksta teenustasu.
 
-### 4.5.2 E-posti süsteem
+### C.4.5.2 E-posti süsteem
 
 Elektrooniline sõnumivahetus elektronposti ehk e-posti teel on kõige levinum internetirakendus. See on väga mugav vahend sõnumivahetuseks, kuna on kiire ja oluliselt odavam kui tavaline maapealne postiteenus. Võib isegi öelda, et kaasajal on e-post muutunud peamiseks töövahendiks ja e-posti rakendused on arvutitöökoha lahutamatuks osaks pakkudes tsentraalset infovahetus- ja arhiveerimiskeskkonda ning on aluseks tööaja planeerimisel ja kokkusaamiste või ürituste korraldamisel, samuti erinevate ressursside planeerimisel kui need ressursid on kajastatud e-posti süsteemis. Sõnumitega koos saab saata erinevat dokumentatsiooni, multimeediamaterjali, pilte, faile ja HTML lehekülgi. Kuna e-posti keskkond on nii globaalne ja asendamatu töökeskkond, on seda lihtne kasutada reklaami ja pahavara levitamiseks üle maailma ja suurtele gruppidele korraga. Seetõttu on suurem osa e-postist rämpspost (junkmail or spam), mis kulutab serverite ja võrgu ressursse.
 
@@ -529,7 +529,7 @@ POP3 protokoll kasutab TCP porti 110 ja 995 (SSL), mille kaudu kasutaja saab end
 
 IMAP4 protokoll kasutab TCP porti 143 ja 993 (SSL). IMAP4 protokolli eelisteks on täiendav sõnumite haldamisvõimalus serveris ja kasutaja saab jagada oma e-kirjad kataloogidesse ja teostada serveripoolseid otsinguid arhiivides.
 
-### 4.5.3 Kordamisküsimused
+### C.4.5.3 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -560,7 +560,7 @@ IMAP4 protokoll kasutab TCP porti 143 ja 993 (SSL). IMAP4 protokolli eelisteks o
 
 :::
 
-## 4.6 Kõneedastus üle interneti
+## C.4.6 Kõneedastus üle interneti
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -568,7 +568,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama IP-kõne nõuded kasutajale ja võrgule
 - Kirjeldama ressursinõudeid heli ülekandeks.
 
-### 4.6.1 Kõneedastus üle interneti ja IP telefon
+### C.4.6.1 Kõneedastus üle interneti ja IP telefon
 
 Heli edastusel üle interneti on oluline, et kahe lõpppunkti vaheline ühendus oleks madalate viivitustega, et vältida katkestused kõnes ja edastada osapooltele ladus vestlus. **Voice over Internet Protocol** (VoIP) protokoll spetsifitseerib heli ülekande ja vastuvõtu üle interneti. Ühendus helistaja ja kõne vastuvõtja vahel saavutatakse kasutades **seansialustusprotokolli** (SIP -Session Initiation Protocol). SIP kasutab seansside kirjeldamiseks **seansikirjeldusprotokolli** (SDP - Session Description Protocol) ja tegeliku transpordi jaoks **reaalaja-transpordiprotokolli** (RTP - Real-time Transport Protocol). SIP võimaldab mitmeid funktsioone, nagu kõne jaoks kasutatava koodeki kokkuleppimine, kõnede suunamine, kõnede lõpetamine.
 
@@ -594,7 +594,7 @@ VoIP seadmed adresseeritakse nii telefoninumbriga kui ka **SIP ühtse ressursi-i
 
 Ainult partnervõrgu helikõnede puhul ei ole IP PBX kasutusel. Partnervõrgu kõneteenust pakuvad mitmed kiirsuhtlusrakenduste tootjad.
 
-### 4.6.2 Heliedastuse nõuded
+### C.4.6.2 Heliedastuse nõuded
 
 Heli digitaalne ülekandmine sai alguse CD (Compact Disk) kasutuselevõtuga. Muusikaplaatide tootmisel digitaliseeriti heli diskreetimissagedusega 44 KHz. See sagedus tuleb diskreetimisteooriast, mille järgi diskreetimissagedus peab olema vähemalt 2x kõrgem kui analoogsignaali maksimaalne sagedus (22 KHz), et taastada digitaalsignaalist ülekantav heli kadudeta. Sellise sagedusega diskreeditud heli ülekandmiseks peab andmeedastuskiirus olema 640 kbit/s.
 
@@ -604,7 +604,7 @@ Täiustatud audiokodeering (AAC – Advanced Audio Coding) on helifailide tihend
 
 Inimestevahelise dialoogi ülekande nõuded on suhtliselt madalamad. Piisab kui on tuvastatud ja üle kantud helivõnkumised, mille sagedus on vahemikus 300-3400 Hz. Digitaalseks ülekandeks peab selline heli olema diskreeditud sagedusel 8000 Hz, mis omakorda 13-bitise analoog-digital muundamise korral, nõuab andmevahetuskiirust 104 kbit/s. Andmete tihendamine näiteks LPC (Linear Predictive Coding) algoritmiga võimaldab piirata veelgi vajalikku andmeedastuskiirust tasemele 4,8kbit/s, millega on ikka garanteeritud arusaadava heli ülekanne. Kaasajal kasutatakse IP telefoni helivoo kodeerimiseks ITU-T standardeid G.726 andmeedastuskiirusega 16-40 kbit/s ja G.711 andmeedastuskiirusega 64 kbit/s. Ülekantava heli kvaliteeti hinnatakse numbrilise meetodiga, mida nimetatakse keskmiseks arvatavaks väärtuseks (MOS – Mean Opinion Score). Seda väljendatakse numbrites 1 kuni 5, millest 1 on halvim ja 5 veatu ülekanne. 4-4,5 on kvaliteet, mida pakuvad PSTN lahendused ja ka IP telefonilahendused üritavad saavutada seda taset. G.726 standardi järgi kodeeritud IP kõne andmeedastuskiirusega 32 kbit/s on kvaliteediga MOS=4,3.
 
-### 4.6.3 Kordamisküsimused
+### C.4.6.3 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -634,7 +634,7 @@ Inimestevahelise dialoogi ülekande nõuded on suhtliselt madalamad. Piisab kui 
 
 :::
 
-## 4.7 Süsteemi infrastruktuuri dimensioneerimine
+## C.4.7 Süsteemi infrastruktuuri dimensioneerimine
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -642,7 +642,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama multimeediasüsteemi komponente
 - Kirjeldama serverarvuti parameetreid, mida saab kasutada multimeediarakenduste majutamiseks.
 
-### 4.7.1 Ressursinõuded multimeediaülekandel
+### C.4.7.1 Ressursinõuded multimeediaülekandel
 
 Multimeedia alla kuulub infovahetus, mis sisaldab mitmeid infokanaleid ja ka erinevaid süsteeme, pakkudes integreeritud kommunikatsioonilahendust. Näiteks digitaalse heli ülekandmine koos visuaalse kujutisega annab täiuslikuma elamuse kontserdist. Ressursinõuded multimeediaülekandel on oluliselt kõrgemad kui tavalise infovahetuse puhul võrgus ja kvaliteetse teenuse jaoks on vajalik interneti püsiühendus, mille andmeedastuskiirus algab megabittides sekundis.
 
@@ -650,7 +650,7 @@ Multimeedia komponentide ülekandmiseks on erinevaid standardeid. Formaadid, mid
 
 H.264 võimaldab äri kvaliteediga videokonverentsi kiirusel 192 kbit/s. Samas on H.264 puhul ka protsessoril kõrgem koormus meediavoo dekodeerimisel võrreldes vanemate standarditega. Tänapäeval toetab enamus arvuteid ja videokaameraid H.264 kodeeringut.
 
-### 4.7.2 Multimeedia voogesitus
+### C.4.7.2 Multimeedia voogesitus
 
 Väga levinud on ka **multimeedia voogesitus** (streaming) erinevatelt seadmetelt ja internetist. Voogesitatud videot saab vaadata arvuti abil aga samuti on selle vaatamiseks lisaseadmed teleriga ühendamiseks ja uuemad telerid, mis toetavad võrguühendust oskavad voogesituse kaudu jagatud meediat esitada juba ka ilma vahendamiseta.
 
@@ -715,7 +715,7 @@ Näide multimeedia voogesitusest koos parameetritega: [http://www.iis.net/media/
 
 Infot voogvideo formaatidest ja rakendustest voogvideo loomiseks: [http://www.mediacollege.com/video/streaming/formats/](http://www.mediacollege.com/video/streaming/formats/)
 
-### 4.7.3 Multimeediakomponendid
+### C.4.7.3 Multimeediakomponendid
 
 DLNA (Digital Living Network Alliance) on koostööorganisatsioon, asutatud Sony poolt 2003 aastal ja koondab enam kui 250 mobiilside, tarbeelektroonika, PC'de tootmisele ja teenusepakkumisele orienteerunud ettevõtet. Eesmärk on standardiseerida multimeedia sisu ülekannet ja jagamist tarbijate vahel. DLNA defineerib erinevad seadmed ja seadmete klassid ning protokollid mille kaudu seadmed ühendatakse (UPnP, HTTP, RTP, jne.).
 
@@ -726,7 +726,7 @@ Näiteks koduvõrgu multimeediakomponendid on defineeritud järgmiselt:
 - **Digitaalse meedia ekraan** (DMR - Digital Media Renderer): mängib DMC kaudu edastatud rakendusi, mis omakorda saavad oma rakendused DMS kaudu. Näiteks telerid, audio/video ressiiverid, video-ekraanid.
 - **Digitaalse meedia kontroller** (DMC - Digital Media Controller): otsib rakendusi DMS serverilt ja mängib neid maha DMR ekraanidel. Näiteks PC, tablet PC, PDA.
 
-### 4.7.4 Multimeediaserver
+### C.4.7.4 Multimeediaserver
 
 Multimeediarakendused esitavad spetsiaalseid nõudmisi serverile, mille kaudu sisu klientidele jagatakse. Multimeedia sisu ülekanne ei ole sama, mis failide internetist allalaadimine. Selleks kohandatud server peab suutma edastada reaalajas toimuvat sündmust üle interneti või ka edastama salvestatud formaadis saadet vastuvõtja arvutisse. Täpsemalt peab server võimaldama esitada meediat voona, pakkudes klientidele nii reaal-ajas kui tellimise peale heli- ja videomaterjali üle standardsete ühendusprotokollide, mida internet kasutab. Edastatavad andmed kodeeritakse, salvestatakse ja saadetakse kasutaja nõudmisel teele. Vastuvõtja puhverdab sisu loetud sekundid, et tagada sujuv esitus arvestades võrguviivitusi. Andmeid saadetakse voona üksikedastust kasutades, mis sobib iseäranis nõudevideo tellimisel. Meediat saab sel juhul kliendi poolt juhtida, peatada või edasi-tagasi kerida.
 
@@ -741,7 +741,7 @@ Seega nõuded multimeediaserverile on:
 
 Server, mis edastab meediavoogu peab olema varustatud spetsiaalsete rakendustega andmevoo edastamiseks, mis omakorda toetab teatud kliendipoolset rakendust multimeediafailide vaatamiseks. Serveri riistvarakonfiguratsioon peab olema hoolikalt valitud ja sisaldama head kiiret massmäluseadet (näiteks RAID ketaste massiiv). Teine oluline komponent serveris on kiire võrgukaart või võrgukaardid, mis võimaldavad andmete edastamist kliendile piisava jõudlusega. Vähe olulised ei ole ka suur põhimälumaht andmete puhverdamiseks ja protsessori jõudlus meediavoogude haldamiseks.
 
-### 4.7.5 Kordamisküsimused
+### C.4.7.5 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -765,7 +765,7 @@ Server, mis edastab meediavoogu peab olema varustatud spetsiaalsete rakendustega
 
 :::
 
-## 4.8 Soovitatavad praktilised harjutused
+## C.4.8 Soovitatavad praktilised harjutused
 
 - Installeerida võimaluse korral virtuaalne testimiskeskkond (näiteks Hyper-V, Virtual PC, Virtualbox, VMware) ja luua virtuaalmasinad, kus installeeritud erinevad operatsioonisüsteemid (Linux, Windows)
 - Sisesta päring Windowsi ja Linuxi all DNS nimeserverite tuvastamiseks mingile vabalt valitud domeenile.
@@ -777,7 +777,7 @@ Server, mis edastab meediavoogu peab olema varustatud spetsiaalsete rakendustega
 - Proovi luua telefoniühendus üle interneti kasutades kiirsuhtlusrakendusi (näiteks Skype).
 - Vaata videovoogu mõnelt meediaserverilt ja kontrolli edastatud video andmeid ning kasutatavat andmeedastuskiirust.
 
-## 4.9 Lisamaterjalid
+## C.4.9 Lisamaterjalid
 
 - EUCIP programmi materjal: Learning Materials for Information Technology Professionals (EUCIP-Mat)
 - CompTIA Security+ Study Guide, 4th Edition by Emmett Dulaney

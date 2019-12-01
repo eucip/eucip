@@ -1,8 +1,8 @@
-## A.5 Traadita ja kaasaskantavad arvutusseadmed
+## C.5 Traadita ja kaasaskantavad arvutusseadmed
 
 Selle teema materjale läbi töötades saad ülevaate traadita ja kaasaskantavatest võrguseadmetest, nende kasutusotstarbest, standarditest ja ühilduvusest.
 
-## A.5.1 Multimeedia ja kaasaskantavate seadmete komponendid
+## C.5.1 Multimeedia ja kaasaskantavate seadmete komponendid
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -10,7 +10,7 @@ Selle alateema materjale läbi töötades õpid:
 - Määratlema põhilised multimeedia sisend/väljund seadmed
 - Kirjeldama peamised multimeedia massmälukandjate standardid.
 
-### 5.1.1 Kaasaskantavad elektroonikaseadmed
+### C.5.1.1 Kaasaskantavad elektroonikaseadmed
 
 Kaasaskantavad elektroonikaseadmed on kasutusel praktiliselt igaühel, aidates inimesi nende igapäevatoimingutes. Olgu see siis suhtlemine erinevaid elektroonilise suhtlusvahendeid kasutades, telefonkõned, elektroonilise märkmiku funktsioon või enda asukoha tuvastamine GPS abil. Seadmeid on eri otstarvete jaoks ja seadmete funktsionaalsused tihtipeale kattuvad. Erinevate seadmete ülevaade on toodud allpool.
 
@@ -47,13 +47,13 @@ See seade võimaldab laadida hulga e-raamatuid mällu ja neid nii mugavalt luged
 
 **Globaalne positsioneerimissüsteem** (GPS - Global Positioning System) on süsteem, mis võimaldab määrata objekti asukohta satelliitidelt vastuvõetud raadiosignaalide võrdlemise teel ligikaudu 10m täpsusega. Asukoha määramise eelduseks on barjääride puudumine GPS seadme ja satelliitide vahel. GPS kuulub paljude mobiilsete seadmete komplektsusesse. See leiab laialdast kasutust erinevate navigeerimissüsteemide kasutamisel ja ka erinevate objektide teekonna jälgimisel, näiteks logistikaettevõtte autode asukoha määramisel või auto turvasüsteemi osana ärandatud auto leidmisel.
 
-### 5.1.2 Multimeedia sisend-väljundseadmed
+### C.5.1.2 Multimeedia sisend-väljundseadmed
 
 Multimeedia seob erinevad meedialiigid ja sellega seoses võivad olla kasutusel erinevad sisend-väljundseadmed, mille abil mingi osa meediast kas arvutile või tarbijale kättesaadavaks tehakse. Näiteks vajavad videotelefoni funktsionaalsust kasutavad osapooled videokaamerat, mille kaudu jõuab videopilt ühest arvutist teise arvutisse ja peamikrofoni, et lisada videopildile kõne ja teise osapoole kõnet kuulata. Kõrglahutusega multimeediavoo esitamisel võib olla vaja vastava kõrglahutusrežiimi toetusega ekraani ja ruumilist heli võimendavat helisüsteemi, et saada esitatud filmist maksimaalne elamus. Piltide arvutisse saatmiseks ühendatakse kaamera arvuti USB pordi või traadita ühenduse abil arvutiga ja jagatakse niimoodi pilte vaatamiseks sõpradega üle arvutivõrgu või ka kodusele teleriekraanile. Multimeediapresentatsioone, koolitusi ja ajaviiteüritusi aitavad läbi viia multimeediaprojektorid, mis kuvavad multimeediaesitluse otse seinale.
 
 Virtuaalne reaalsus kasutab multimeediakomponente et luua keskkond, mis sarnaneks võimalikult reaalsega. Selle kooslusesse võivad kuuluda erinevad sisend-väljund seadmed, mis vahendavad VR kasutaja ja keskkonna omavahelisi infovooge.
 
-### 5.1.3 Multimeedia salvestusmeediumid
+### C.5.1.3 Multimeedia salvestusmeediumid
 
 Multimeedia salvestamisel võib kasutada erinevat salvestusmeediat sõltuvalt sellest milline on kasutatava materjali maht ja otstarve. Erinevad multimeediakomponendid vajavad erineval hulgal mäluruumi. Vajaliku mälu maht sõltub oluliselt salvestatud meedia kvaliteedist ja võib erineda suurtes piirides. Näiteks võib digitaalne foto olla mahuga 100 kB kuni kümnete megabaitideni. MPEG-2 baasil 2-kihilisele DVD-meediale salvestatud filmi maht on suurusjärgus 6 GB, 2-kihilisele Blu-Ray-meediale mahub kuni 50GB infot. Kõrglahutusega täispikk Blu-Ray film võtab reeglina vähem ruumi aga samas saab vaba salvestusmeedia osa kasutada tarbijale filmi kohta täiendava info või uute filmide tutvustuste edastamiseks. CD-plaadid mahutavad 700MB ja neid saab kasutada piltide ja digitaalsete helifailide salvestuseks.
 
@@ -61,7 +61,7 @@ Kaasaegsed CD-mängijad toetavad peale standardsete audio-CD plaatide ka CD-plaa
 
 Multimeediaserveri korral on multimeedia sisu salvestatud serveri massmäluseadmel, mille mahud on tänapäeval kümnetes terabaitides. Sealt saab edastada klientidele multimeediat voogesituses üle võrgu.
 
-### 5.1.4 Kordamisküsimused
+### C.5.1.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -98,7 +98,7 @@ Multimeediaserveri korral on multimeedia sisu salvestatud serveri massmäluseadm
 
 :::
 
-## 5.2 Traadita side põhimõtted
+## C.5.2 Traadita side põhimõtted
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -106,7 +106,7 @@ Selle alateema materjale läbi töötades õpid:
 - Määratlema peamised erinevused traadita seadmete standarditel
 - Määratlema piirangud ja probleemid, mis seotud traadita ja mobiilsete seadmetega.
 
-### 5.2.1 Traadita side tehnoloogiad
+### C.5.2.1 Traadita side tehnoloogiad
 
 Traadita side korral toimub andmete ülekanne elektromagnetlainete abil üle raadioeetri. Traadita sideühenduste jaoks kasutatavad sagedused ulatuvad ultrakõrgsagedusalasse (UHF – Ultra High Frequencies), mis jääb vahemikku 300 – 3000 MHz ja lainepikkusega 1-10 dm. See on detsimeterlaineala, kus töötavad koos mobiiltelefonidega, traadita võrguseadmetega, televisioonisaatjatega, beebimonitoridega ka mikrolaineahjud.
 
@@ -168,7 +168,7 @@ Sellist modulatsiooniskeemi, mille puhul teostatakse moduleerimine koos spektri 
 - CDMA (Code Division Multiple Access) on kasutusel enamikes 3G süsteemides. Erinevad kasutajad eraldatakse koodidega.
 - WCDMA (Wideband Code Division Multiple Access) CDMA süsteemi lairibaversioon. WCDMA on üks UMTS standardiga IMT-2000 lubatud raadioside meetodeid. Vahel kasutatakse WCDMA kohta ka nimetust FDD (Frequency Division Duplex).
 
-### 5.2.2 Levinud standardid ja nende erinevused
+### C.5.2.2 Levinud standardid ja nende erinevused
 
 Tuntumad võrgud jagunevad:
 
@@ -260,7 +260,7 @@ Bluetooth tehnoloogia tutvustus veebis: [http://www.bluetooth.com/Pages/Basics.a
 
 **High Data Rate WPAN** ehk kõrgkiirusega personaalvõrk võimaldab andmevahetust kuni 55 Mbit/s. See võrk on spetsifitseeritud standardiga IEEE 802.15.3. Kasutab piconeti jagatud topoloogiat koos keskse kontrolleriga, mida nimetatakse PNC (Piconet Controller). Viimane erineb Bluetooth juhtseadmest selle poolest, et on vastutav seadmetevaheliste sideühenduste ajastamiste eest aga andmeliiklus ei käi läbi PNC. See tähendab, et seadmed saavad ühenduda partnervõrgu abil üksteisega. Iga Piconet võib sisaldada ühte PNC ja kuni 255 alluvat seadet.
 
-### 5.2.3 Traadita ja kaasaskantavate arvutusseadmetega seotud probleemid
+### C.5.2.3 Traadita ja kaasaskantavate arvutusseadmetega seotud probleemid
 
 Kaablite puudumine piirab traadita võrku ühendatud seadmete **turvalisust,** levitakistused halvendavad andmete **kättesaadavust** või andmete **puutumatust**. Eetri kaudu pole andmete liikumine piiratud vaid levib kontrollimatult väliskeskkonda. See võib tekitada ka **häireid** ja segada teiste seadmete või naabervõrkude tööd.
 
@@ -290,7 +290,7 @@ Erinevad kaitsemeetodid WiFi võrgu kaitseks:
 - Media access control (MAC) aadressi filtreerimine võimaldab piirata juurdepääsu ainult registreeritud kasutajale, kelle arvuti või muu seadme MAC aadress on juurdepääsupunkti nimekirjas.
 - Ettevõtte tasemel RADIUS (Remote and Dial-Up Service) serveri abil autentimine võimaldab keskset haldust ja parimat kaitset traadita võrgule.
 
-### 5.2.4 Kordamisküsimused
+### C.5.2.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -332,7 +332,7 @@ Erinevad kaitsemeetodid WiFi võrgu kaitseks:
 
 :::
 
-## 5.3 Traadita võrgundus ja protokollid
+## C.5.3 Traadita võrgundus ja protokollid
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -341,7 +341,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama peamised mobiilside tugijaamade protokollid
 - Määratlema raadiosagedustuvastus (RFID) ja selle kasutusalad
 
-### 5.3.1 Traadita võrgu komponendid
+### C.5.3.1 Traadita võrgu komponendid
 
 Traadita võrgu või WLAN võrgu sünonüümiks on WiFi tehnoloogia. Sellistes võrkudes on võimalikud kaks ühendusmeetodit: Ad-hoc või infrastruktuurivõrk.
 
@@ -355,11 +355,11 @@ Ettevõtte puhul on juurdepääsupunktid tavaliselt hallatavad RADIUS'e (Remote 
 
 Joonis 5‑11. WLAN võrku autentimine RADIUS'e serveri abil
 
-### 5.3.2 Erinevate tehnoloogiate ühilduvus
+### C.5.3.2 Erinevate tehnoloogiate ühilduvus
 
 Traadita võrguühenduse loomiseks peavad ühenduses osalevad seadmed olema omavahel ühilduvad. Selleks otstarbeks on loodud mitmeid standardeid erinevate seadmete jaoks. Seadmed, mis kuuluva eri standardite alla ei ole enamasti ühilduvad, olgugi, et nad kasutavad töötamisel sama sagedusala. Näiteks 2,4 GHz sagedusalas töötavad WLAN IEEE 802.11 ja Bluetooth IEEE 802.15, mis sellest hoolimata omavahel ei ühildu. Standardid arenevad pidevalt ja ka sama standardi alla kuuluvad erinevad seadmete versioonid võivad omavahel mitte kokku sobida. Näiteks on WLAN 802.11a kokkusobimatu WLAN 802.11 standardi alla kuuluvate teiste seadmete versioonidega. Kuna paljude seadmete tööks kasutatavad sagedusalad ühtivad siis kasutatakse teatud seadmetel võimsuse piiramist, et need ei segaks teiste samas sagedusalas töötavate seadmete tööd.
 
-### 5.3.3 Satelliitsidevõrgu komponendid
+### C.5.3.3 Satelliitsidevõrgu komponendid
 
 Satelliitside tehnoloogiat saab kasutada arvutitevaheliseks andmevahetuseks üle pikkade vahemaade ja paikadest kuhu muud internetiühendused ei ulatu. Näiteks mägede piirkonnas, kõrbes ja merel. Satelliitside kasutab telekommunikatsiooni satelliite, mis on paigutatud geostatsionaarsele orbiidile nii et iga satelliit katab fikseeritud osa maast.
 
@@ -367,7 +367,7 @@ Satelliitside tehnoloogiat saab kasutada arvutitevaheliseks andmevahetuseks üle
 
 **VSAT** (Very Small Aperture Satellite Antenna) ligikaudu 3m või väiksema läbimõõduga satelliidiantenn. Sellele lisandub vastuvõtu-saate seade satelliidiga infovahetuseks ja samuti arvutiga ühendamiseks. Ühenduskiirused võivad ulatuda kuni 1Gbit/s. Probleemiks on teenuse kallim hind ja võimalikud viivitused.
 
-### 5.3.4 Mobiilside keskjaamade protokollid ja rakendused
+### C.5.3.4 Mobiilside keskjaamade protokollid ja rakendused
 
 **Andmesideprotokollid** , mida kasutatakse mobiilseks andmesideks on GPRS, EDGE, 3G, 4G. Nende protokollide tehnilisest poolest oli juttu eespool.
 
@@ -378,7 +378,7 @@ Satelliitside tehnoloogiat saab kasutada arvutitevaheliseks andmevahetuseks üle
 WiFi toetus on enamikel pihuarvutitel ja nutitelefonidel sees ja seda saab kasutada seadme otse traadita võrku ühendamiseks.
 Bluetooth protokoll on kasutuses mobiilsete seadmete omavahel või arvutiga ühendamiseks või lisaseadmete kasutamiseks.
 
-### 5.3.5 Raadiosagedustuvastus
+### C.5.3.5 Raadiosagedustuvastus
 
 **RFID** (Radio Frequency Identification) ehk raadiosagedustuvastus on tehnoloogia, mis kasutab raadiolaineid, et kanda üle andmed **lugemisseadme** ja objekti külge ühendatud **elektroonilise lipiku** vahel eesmärgiga tuvastada ja jälgida mingi objekti liikumist. See teeb võimalikuks anda igale kaubale poes unikaalne identifitseerimisnumber või tuvastada inimesi, loomi, põhivara, dokumente, jne.
 
@@ -394,7 +394,7 @@ Reaal-aja positsioneerimissüsteemid ei vasta lugemisseadme signaalidele vaid sa
 
 Rohkem infot RFID kohta: [http://www.rfidjournal.com/faq#16](http://www.rfidjournal.com/faq#16)
 
-### 5.3.6 Kordamisküsimused
+### C.5.3.6 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -424,7 +424,7 @@ Rohkem infot RFID kohta: [http://www.rfidjournal.com/faq#16](http://www.rfidjour
 
 :::
 
-## 5.4 Soovitatavad praktilised harjutused
+## C.5.4 Soovitatavad praktilised harjutused
 
 - Võimalusel katsetada nutitelefoniga e-posti kasutamist ja veebilehitsemist
 - Salvestada CD-meediale MP3 faile ja proovida seda esitada vastava toetusega multimeediaseadmes
@@ -432,7 +432,7 @@ Rohkem infot RFID kohta: [http://www.rfidjournal.com/faq#16](http://www.rfidjour
 - Ühendada sülearvutid Ad-hoc WiFi võrku.
 - Ühendada arvuti ja Bluetooth toetusega telefon.
 
-## 5.5 Lisamaterjalid
+## C.5.5 Lisamaterjalid
 
 - EUCIP programmi materjal: Learning Materials for Information Technology Professionals (EUCIP-Mat)
 
