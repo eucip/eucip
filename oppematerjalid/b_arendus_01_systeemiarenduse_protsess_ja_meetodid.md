@@ -14,25 +14,25 @@ Kirjeldada andmetöötlust kui komplekti riistvarast, tarkvarast püsivarast, op
 
 :::
 
-**Andmetöötlus** (data processing) on andmete manipuleerimine arvuti abil. See tegevus sisaldab toorandmete teisendamist masin-loetavale kujule, nende liikumist läbi protsessori (CPU) ja mälu väljundseadmetesse ning väljundi vormindamist ja teisendamist sobivale kujule. Üldisemalt nimetatakse andmetöötluseks alati arvutil toimuvat protsessi, kui see sisaldab nimetatud tegevusi. Andmetöötlust võib käsitleda ka kitsamalt kui mõnele organisatsiooni või äri tegevuseks vajalike andmete töötlemist (nt statistiline andmetöötlus).
+**Andmetöötlus** **_data processing_** on andmete manipuleerimine arvuti abil. See tegevus sisaldab toorandmete teisendamist masin-loetavale kujule, nende liikumist läbi protsessori (CPU) ja mälu väljundseadmetesse ning väljundi vormindamist ja teisendamist sobivale kujule. Üldisemalt nimetatakse andmetöötluseks alati arvutil toimuvat protsessi, kui see sisaldab nimetatud tegevusi. Andmetöötlust võib käsitleda ka kitsamalt kui mõnele organisatsiooni või äri tegevuseks vajalike andmete töötlemist (nt statistiline andmetöötlus).
 
-**Andmetöötlussüsteem** (data processing system) koosneb üldisemalt riistvarast, tarkvarast ja inimestest. Andmetöötlussüsteem on süsteem, mis teeb sisendandmetega mitmesuguseid matemaatilisi operatsioone, eesmärgiga muuta need informatsiooniks, kasutajale vajalikule väljundandmete kujule. Viimane võib olla nii heli, video, graafika, arvude kui ka teksti kujul.
+**Andmetöötlussüsteem** **_data processing system_** koosneb üldisemalt riistvarast, tarkvarast ja inimestest. Andmetöötlussüsteem on süsteem, mis teeb sisendandmetega mitmesuguseid matemaatilisi operatsioone, eesmärgiga muuta need informatsiooniks, kasutajale vajalikule väljundandmete kujule. Viimane võib olla nii heli, video, graafika, arvude kui ka teksti kujul.
 
-**Riistvara** (hardware) on üldisem mõiste tähistamaks igasuguseid tehnoloogilisi seadmeid (tooteid). Antud kontekstis peetakse silmas ennekõike arvuti riistvara. Viimase moodustavad kõik arvuti füüsilised komponendid: kuvar, protsessor, mälu, kettaseadmed, modem, printer, klaviatuur, hiir jms (vt moodul C). Arvutiriistvara on vajalik nii andmete sisestamisel, töötlemisel, salvestamisel kui ka töötlemise tulemuste esitamisel.
+**Riistvara** **_hardware_** on üldisem mõiste tähistamaks igasuguseid tehnoloogilisi seadmeid (tooteid). Antud kontekstis peetakse silmas ennekõike arvuti riistvara. Viimase moodustavad kõik arvuti füüsilised komponendid: kuvar, protsessor, mälu, kettaseadmed, modem, printer, klaviatuur, hiir jms (vt moodul C). Arvutiriistvara on vajalik nii andmete sisestamisel, töötlemisel, salvestamisel kui ka töötlemise tulemuste esitamisel.
 
 Andmetöötlussüsteemi tarkvara omakorda sisaldab järgmist liiki osi:
 
-**Püsivara** (firmware) - talitluslikult põhimälust sõltumatul viisil püsimällu (ROM) salvestatud käsu- ja andmekogum (programm ja vastav andmestik). Püsivara on reeglina seotud mõne riistvara komponendiga ning tihti ei ole teda võimalik muuta riistvara komponenti asendamata või vähemalt ei saa seda muuta iga seadme kasutaja. BIOS (basic input/output system) on üks püsivara näiteid. BIOS on kirjutatud arvuti ROM-i ja sisaldab instruktsioone klaviatuuri sisendi ja ekraaniväljundi tarbeks.
+**Püsivara** **_firmware_** - talitluslikult põhimälust sõltumatul viisil püsimällu (ROM) salvestatud käsu- ja andmekogum (programm ja vastav andmestik). Püsivara on reeglina seotud mõne riistvara komponendiga ning tihti ei ole teda võimalik muuta riistvara komponenti asendamata või vähemalt ei saa seda muuta iga seadme kasutaja. BIOS (basic input/output system) on üks püsivara näiteid. BIOS on kirjutatud arvuti ROM-i ja sisaldab instruktsioone klaviatuuri sisendi ja ekraaniväljundi tarbeks.
 
-**Operatsioonisüsteem** (operating system software) on tähtsaim süsteemitarkvara hulka kuuluv programm, mis juhib arvuti tööd, haldab riistvararessursse, suhtleb perifeerseadmetega ja tagab rakendusprogrammide töötamise. Kasutajatel on võimalik suhelda vahetult operatsioonisüsteemiga, kasutades selleks käsukeelt või graafilist kasutajaliidest. Operatsioonisüsteemi ülesannete hulka kuulub ressursside jaotamine erinevate rakenduste vahel, mälu ühiskasutuse juhtimine, sisend- ja väljundseadmetega suhtlemine, kasutajate haldus jne.
+**Operatsioonisüsteem** **_operating system software_** on tähtsaim süsteemitarkvara hulka kuuluv programm, mis juhib arvuti tööd, haldab riistvararessursse, suhtleb perifeerseadmetega ja tagab rakendusprogrammide töötamise. Kasutajatel on võimalik suhelda vahetult operatsioonisüsteemiga, kasutades selleks käsukeelt või graafilist kasutajaliidest. Operatsioonisüsteemi ülesannete hulka kuulub ressursside jaotamine erinevate rakenduste vahel, mälu ühiskasutuse juhtimine, sisend- ja väljundseadmetega suhtlemine, kasutajate haldus jne.
 
 Tuntumad personaalarvutite operatsioonisüsteemid jagunevad kolme suurde gruppi: Windows'i erinevad versioonid, Mac OS ja UNIX'i-laadsed operatsioonisüsteemid
 
-**Rakendustarkvara** (application software) on otseselt kasutaja eesmärkide täitmiseks loodud ja installeeritud tarkvara. Kõige olulisema erinevusena tulekski pidada meeles, et erinevalt süsteemitarkvarast on rakendustarkvara otseselt suunatud just kasutaja eesmärkide täitmisele.
+**Rakendustarkvara** **_application software_** on otseselt kasutaja eesmärkide täitmiseks loodud ja installeeritud tarkvara. Kõige olulisema erinevusena tulekski pidada meeles, et erinevalt süsteemitarkvarast on rakendustarkvara otseselt suunatud just kasutaja eesmärkide täitmisele.
 
-**Süsteemi konfiguratsioonifailid** (system configuration data) sisaldavad erinevaid andmeid, mis on vajalikud arvutisüsteemi enda toimimiseks. Sellised andmed on nii operatsioonisüsteemil kui ka rakendustarkvaral..
+**Süsteemi konfiguratsioonifailid** **_system configuration data_** sisaldavad erinevaid andmeid, mis on vajalikud arvutisüsteemi enda toimimiseks. Sellised andmed on nii operatsioonisüsteemil kui ka rakendustarkvaral.
 
-**Kasutaja andmed** (user-defined data) on spetsiifilised rakendusele, mida kasutaja jaoks arvutisüsteemi salvestatakse.
+**Kasutaja andmed** **_user-defined data_** on spetsiifilised rakendusele, mida kasutaja jaoks arvutisüsteemi salvestatakse.
 
 ### B.1.1.2 Süsteemitarkvara ja rakendustarkvara
 
@@ -44,8 +44,8 @@ Määratleda ja loetleda süsteemitarkvara näiteid.
 
 Tarkvara liigitatakse kahte suurde gruppi:
 
-- süsteemitarkvara (system software)
-- rakendustarkvara (application software)
+- **süsteemitarkvara** **_system software_**
+- **rakendustarkvara** **_application software_**
 
 Süsteemitarkvara alla kuuluvad programmid, millised toetavad rakenduste tööd, olemata ühegi rakenduse spetsiifiline. Kujutades piltlikult ette arvuti ehitust kihtidest või tasemetest koosnevana, paiknevad süsteemitarkvara alla liigituvad programmid "alumistes" kihtides, lähemal füüsilisele kihile – riistvarale, mis jooksutab programme. Süsteemitarkvara toetab kogu arvutisüsteemi käitamist.
 
@@ -75,59 +75,60 @@ Määratleda ja loetleda rakendustarkvara näiteid.
 Toome näiteid mõlemast tarkvara alaliigist
 
 1. süsteemitarkvara:
-  - operatsioonisüsteemid, nt Linux, Windows Vista, Symbian OS – mobiilsetes seadmetes kasutatav operatsioonisüsteem, Unix
-  - draiverid, nt printeri draiver
-  - failihaldusprogrammid
+
+- operatsioonisüsteemid, nt Linux, Windows Vista, Symbian OS – mobiilsetes seadmetes kasutatav operatsioonisüsteem, Unix
+- draiverid, nt printeri draiver
+- failihaldusprogrammid
 
 2. rakendustarkvara nn kontoritööpaketid:
 
-  - tekstitöötlusprogrammid
-  - tabelarvutusprogrammid
-  - esitlusprogrammid
-  - jmt
+- tekstitöötlusprogrammid
+- tabelarvutusprogrammid
+- esitlusprogrammid
+- jmt
 
 2. arendusvahendid:
 
-  - assemblerid
-  - kompilaatorid
-  - interpretaatorid
-  - versioonihaldusprogrammid
-  - jmt
+- assemblerid
+- kompilaatorid
+- interpretaatorid
+- versioonihaldusprogrammid
+- jmt
 
 3. infohaldusrakendused :
 
-  - ettevõtte ressursiplaneerimispaketid (ERP)
-  - raamatupidamispaketid
-  - kliendihalduspaketid (CRM)
-  - otsustusi toetavad süsteemid (DSS)
-  - projektihalduspaketid
-  - jmt
+- ettevõtte ressursiplaneerimispaketid (ERP)
+- raamatupidamispaketid
+- kliendihalduspaketid (CRM)
+- otsustusi toetavad süsteemid (DSS)
+- projektihalduspaketid
+- jmt
 
 4. inseneri töövahendid:
 
-  - CAD-programmid
-  - statistilise analüüsi programmid
-  - geoinfosüsteemid
-  - jmt
+- CAD-programmid
+- statistilise analüüsi programmid
+- geoinfosüsteemid
+- jmt
 
 5. kirjastamine ja multimeedia:
 
-  - trükiste kujundusprogrammid
-  - videotöötlusprogrammid
-  - õppematerjalide ettevalmistus- ja levitusprogrammid
-  - jmt
+- trükiste kujundusprogrammid
+- videotöötlusprogrammid
+- õppematerjalide ettevalmistus- ja levitusprogrammid
+- jmt
 
 6. vabaajaveetmisel kasutatav tarkvara:
 
-  - mängud
-  - heli- ja video esitamise programmid
-  - jmt
+- mängud
+- heli- ja video esitamise programmid
+- jmt
 
 7. suhtlustarkvara:
 
-  - e-maili kliendiprogrammid
-  - veebipäevikute (blog) haldusprogrammid
-  - wiki haldusprogrammid.
+- e-maili kliendiprogrammid
+- veebipäevikute (blog) haldusprogrammid
+- wiki haldusprogrammid.
 
 Ülaltoodud tarkvara klassifikatsioon ei ole kindlasti ammendav – toodud on enamlevinud programmide tüübid.
 
@@ -161,9 +162,9 @@ Pane vastavusse järgmised mõisted ja selgitused:
 
 Selle alateema materjale läbi töötades saad teadmised süsteemiarenduse elutsüklist.
 
-**Süsteemiarenduse elutsükkel** (Systems Development Life Cycle) (ka tarkvaraarenduse elutsükkel) on protsess, mille käigus luuakse uus või muudetakse vana tarkvarasüsteemi, samuti mudelid ja meetodid, mida inimesed kasutavad süsteemide arendamiseks. 
+**Süsteemiarenduse elutsükkel** **_Systems Development Lifecycle_** (ka tarkvaraarenduse elutsükkel) on protsess, mille käigus luuakse uus või muudetakse vana tarkvarasüsteemi, samuti mudelid ja meetodid, mida inimesed kasutavad süsteemide arendamiseks.
 
-Tarkvara kui toode on süsteemiarenduse väljund. 
+Tarkvara kui toode on süsteemiarenduse väljund.
 
 Süsteemiarenduse protsess koosneb nii toote projekteerimisest (disainist) kui toote valmistamisest. Süsteemiarenduse eesmärk on valmistada kõrgekvaliteetne toode ehk tarkvara, mis vastab kasutajate vajadustele ja ootustele, saab valmis kokkulepitud tähtajaks ja maksumuse piires, töötab efektiivselt ja tõhusalt praeguses ja planeeritavas IT infrastruktuuris ning ei ole kulukas hooldada ega laiendada.
 
@@ -175,7 +176,7 @@ Kirjeldada süsteemiarenduse põhilisi etappe.
 
 :::
 
-::: danger Probleem 
+::: danger Probleem
 
 Õppekava punkt B.1.2.3 langeb selle õppematerjaliga kokku:
 
@@ -183,36 +184,36 @@ Kirjeldada süsteemi elutsüklit süsteemi analüüsi, teostuse, kasutuse ja hoo
 
 :::
 
-Käsitledes tarkvara justkui iga teist toodet, võib tarkvara elutsükli (arendusprotsessi) jagada faasidesse. Faaside nimed ja täpsem jaotus varieerub sõltuvalt autorist. Kuid see ei tähenda, et oluliste arendustegevuste loetelu kuidagi erineks. Tüüpilisteks elutsükli osadeks võib lugeda: analüüsi (analysis), projekteerimise / kavandamise (design), teostuse (implementation) ja hoolduse (maintenance).
+Käsitledes tarkvara justkui iga teist toodet, võib tarkvara elutsükli (arendusprotsessi) jagada faasidesse. Faaside nimed ja täpsem jaotus varieerub sõltuvalt autorist. Kuid see ei tähenda, et oluliste arendustegevuste loetelu kuidagi erineks. Tüüpilisteks elutsükli osadeks võib lugeda: analüüsi **_analysis_**, projekteerimise / kavandamise **_design_**, teostuse **_implementation_** ja hoolduse **_maintenance_**.
 
 Järgnevalt sellest, milliseid tegevusi nimetatud arendusfaasid sisaldavad.
 
 #### Analüüsi etapil
 
-ja kogu arenduse käigus on tarkvarale esitatavate **nõuete väljaselgitamine** üks olulisemaid. Ilma selleta ei ole võimalik järgmisi samme astuda. Oma olulisuse tõttu käsitletakse tööd nõuetega tihti ka eraldi faasina. Nõuded annavad ettekujutuse sellest, mida kasutaja tarkvara abil teha tahab, milliseid eesmärke tal vaja saavutada. Teisisõnu on tegemist tarkvara funktsionaalsuse ( **funktsionaalsed nõuded** ) väljaselgitamisega. Lisaks on olulised ka **mittefunktsionaalsed nõuded**. Need on tihti piirangud või lisatingimused, millega süsteemi töötamisel arvestada tuleb.
+Analüüsi etapil ja kogu arenduse käigus on tarkvarale esitatavate **nõuete väljaselgitamine** üks olulisemaid. Ilma selleta ei ole võimalik järgmisi samme astuda. Oma olulisuse tõttu käsitletakse tööd nõuetega tihti ka eraldi faasina. Nõuded annavad ettekujutuse sellest, mida kasutaja tarkvara abil teha tahab, milliseid eesmärke tal vaja saavutada. Teisisõnu on tegemist tarkvara funktsionaalsuse ( **funktsionaalsed nõuded** ) väljaselgitamisega. Lisaks on olulised ka **mittefunktsionaalsed nõuded**. Need on tihti piirangud või lisatingimused, millega süsteemi töötamisel arvestada tuleb.
 
 **Näide** funktsionaalsete nõuete kohta: tavapärases õpiinfosüsteemis (ÕIS) tahab õpilane vaadata oma hindeid. Õpetajal on vaja näha, lisada, muuta ja kustutada kõigi õpetatavate õpilaste hindeid (muidugi oma aines). See ei ole ammendav loetelu ÕIS-i nõuetest. Küll aga tuleb siit välja veel oluline fakt, et tavaliselt on nõuded seotud rollidega - erinevatel süsteemi kasutajatel on erinevad soovid ja erinevad õigused. Mittefunktsionaalsed nõuded võivad näiteks sisaldada tingimust, et süsteem peab töötama pidevalt ning maksimaalne lubatud katkestuse pikkus on pool tundi.
 
 #### Projekteerimine (kavandamine)
 
-on vastavalt IEEE definitsioonile "süsteemi või komponentide arhitektuuri, osade, liideste ja teiste omaduste määramine" Inglisekeelne sõna design tähendab nii tegevust kui ka selle tegevuse produkti, eesti keeles võib tulemust nimetada kavand või projekt. Kavandamine on arendusprotsessi osa, kus analüüsitakse nõudeid, et luua tarkvara sisemine struktuur. Loodud kirjeldus on omakorda realisatsiooni aluseks. Tarkvara projekt peab kirjeldama süsteemi arhitektuuri, st kuidas süsteem on jaotatud osadeks (komponentideks) ning millised on nende liidesed (seostamisvõimalused teiste komponentidega). Komponendid peavad olema kirjeldatud sellise täpsusega, mis lubaks hakata neid realiseerima.
+Projekteerimine on vastavalt IEEE definitsioonile "süsteemi või komponentide arhitektuuri, osade, liideste ja teiste omaduste määramine" Inglisekeelne sõna design tähendab nii tegevust kui ka selle tegevuse produkti, eesti keeles võib tulemust nimetada kavand või projekt. Kavandamine on arendusprotsessi osa, kus analüüsitakse nõudeid, et luua tarkvara sisemine struktuur. Loodud kirjeldus on omakorda realisatsiooni aluseks. Tarkvara projekt peab kirjeldama süsteemi arhitektuuri, st kuidas süsteem on jaotatud osadeks (komponentideks) ning millised on nende liidesed (seostamisvõimalused teiste komponentidega). Komponendid peavad olema kirjeldatud sellise täpsusega, mis lubaks hakata neid realiseerima.
 
 Klassikalises tarkvara elutsüklis vastavalt standardile ISO/IEC 12207 Software life cycle processes, on kavandamise osa jaotatud kahte etappi:
 
 - arhitektuuri kavandamine, millega määratakse kindlaks nö kõrgema taseme komponendid, seosed suuremate ja üldisemate tarkvara osade vahel;
 - detailsem kavandamine, millega täpsustatakse komponentide ülesehitus (protseduurid, objektid, algoritmid jms).
 
-#### Realisatsiooni (teostuse) faasis
+#### Realisatsioon
 
-programmeeritakse tarkvara valmis lähtudes kavandamisetapil loodud tarkvaraprojektist. Komponentideks jagamine loob eeldused tööjaotuseks, st vähegi suurema süsteemi kodeerimiseks rakendatakse tööle programmeerijate meeskond. Realisatsiooni faasis toimub ka programmeeritud osade testimine ehk vigade otsimine. Esialgu komponentide kaupa loogika jms vigade leidmiseks.
+Realisatsiooni (teostuse) faasis programmeeritakse tarkvara valmis lähtudes kavandamisetapil loodud tarkvaraprojektist. Komponentideks jagamine loob eeldused tööjaotuseks, st vähegi suurema süsteemi kodeerimiseks rakendatakse tööle programmeerijate meeskond. Realisatsiooni faasis toimub ka programmeeritud osade testimine ehk vigade otsimine. Esialgu komponentide kaupa loogika jms vigade leidmiseks.
 
 Tegelikkuses ei toimu arendus nii sirgjooneliselt, et enne tehakse põhjalik projekt kogu süsteemi tarbeks ning seejärel asutakse programmeerima. Pigem põimuvad need faasid ning peale projekti tekkimist süsteemi osa kohta asutakse seda osa ka teostama. Samal ajal jätkub aga ülejäänud süsteemi projekteerimine.
 
 Realisatsiooni faasi viimaseks osaks on süsteemi valideerimine. See on samuti sisuliselt testimine, kuid põhieesmärgiks on teada saada, kas tekkinud süsteem vastab kasutaja nõuetele ehk lihtsamalt öeldes - kas süsteem teeb seda, mida kasutaja tahab.
 
-#### Tarkvara hooldamiseks
+#### Hooldamine
 
-nimetatakse tarkvara muutmist peale kliendile üleandmist, et parandada vigu, tõsta jõudlust või parandada muid omadusi. Hoolduse eesmärkideks on süsteemi kohandamine vastavalt muutunud keskkonnale ning muutunud kasutaja soovidele ja tarkvarasüsteemi töös hoidmine nii kaua kui võimalik. Hooldamise juures on oluliseks aspektiks teiste programmeerijate poolt kirjutatud tarkvaraga töötamine (parandamine, täiendamine, muutmine) ja sellest tulenevad omakorda seosed eelmistes faasides tehtud töö kvaliteediga. Hästi kavandatud, kodeeritud ja dokumenteeritud tarkvara on kergem, kiirem ja seega ka odavam hooldada.
+Tarkvara hooldamiseks nimetatakse tarkvara muutmist peale kliendile üleandmist, et parandada vigu, tõsta jõudlust või parandada muid omadusi. Hoolduse eesmärkideks on süsteemi kohandamine vastavalt muutunud keskkonnale ning muutunud kasutaja soovidele ja tarkvarasüsteemi töös hoidmine nii kaua kui võimalik. Hooldamise juures on oluliseks aspektiks teiste programmeerijate poolt kirjutatud tarkvaraga töötamine (parandamine, täiendamine, muutmine) ja sellest tulenevad omakorda seosed eelmistes faasides tehtud töö kvaliteediga. Hästi kavandatud, kodeeritud ja dokumenteeritud tarkvara on kergem, kiirem ja seega ka odavam hooldada.
 
 Tarkvara tootmine lõppeb kliendile tarkvara üleandmisega. Valminud tarkvara peab olema selline, mida klient tahtis. Kuid tarkvara peab edasi arenema. Töötamise käigus leitakse anomaaliaid, muutub töö keskkond, tekivad uued nõuded. Muudatuste vajadused logitakse, määratakse muudatuste mõju, kood muudetakse, tehakse testid, antakse välja tarkvara uus versioon ja vajadusel korraldatakse ka koolitus.
 
@@ -245,10 +246,10 @@ Kui vahepeal toimus süsteemi üldiste arendusmudelite jaotamine rangelt ühte v
 
 Läbi ajaloo on pakutud mitmeid üldisi süsteemiarenduse mudeleid ja olulisemad neist on:
 
-1. **koskmudel** (waterfall model)
-2. **spiraalmudel** (spiral model)
-3. **inkrementaalmudel** (incremental model)
-4. **prototüüpimine** (prototyping).
+1. **koskmudel** **_waterfall model_**
+2. **spiraalmudel** **_spiral model_**
+3. **inkrementaalmudel** **_incremental model_**
+4. **prototüüpimine** **_prototyping_**
 
 Järgnevalt käsitleme eelpoolnimetatud süsteemiarenduse mudeleid lähemealt.
 
@@ -494,6 +495,12 @@ Tuua välja süsteemiarenduse erinevatel etappidel vajalike töövahendite kasut
 
 :::
 
+::: danger Vananenud materjal
+
+CASE töövahendid on vananenud https://stackoverflow.com/questions/3596129/why-did-not-case-tools-succeed
+
+:::
+
 Tarkvara arendusprotsess koosneb mitmetest eripalgelistest tegevustest ning on info kaardistamise, analüüsi, visualiseerimise ja kommunikeerumisrikas loomeprotsess. Arendusprotsessis loodud infoühikud peaksid olema omavahel seostatud – selline lähenemine võimaldab nt funktsionaalse nõude muutudes kergelt leida muutmist vajavad koodiosad ning nende muutmisel omakorda otsida ületestimist vajavad moodulid. Sellise töö lihtsustamiseks on kasutusel spetsiaalsed vahendid, milliseid tuntakse üldnimetuse CASE vahendid – Computer-Aided Software Engineering Tools - all. CASE-vahendid on programmid, mis toetavad tarkvara arendus- ja haldusprotsessi. CASE-tööriistad aitavad rakendada nii töövahendeid kui ka meetodeid kvaliteetsete süsteemide loomiseks. Seega võivad vahendid olla ülesehitatud selliselt, et nad toetavad ja soodustavad konkreetse arendusmeetodi kasutamist.
 
 Eestikeelse mõistena CASE jaoks pakub vallaste.ee välja **tarkvara raaltehnoloogia.** See on arenduskeskkond, mis võimaldab automatiseerida, hallata ja lihtsustada süsteemiarenduse protsessi. Siia hulka kuuluvad näiteks vahendid lähtetingimuste analüüsiks, vooskeemi ja arendustöö ajakava koostamiseks, dokumentatsiooni kirjutamiseks, programmiversioonide juhtimiseks, programmikoodi kirjutamiseks jne. Kitsamalt mõeldakse CASE all objektorienteeritud programmeerimist toetavaid süsteeme, kuid üldisemalt kuuluvad selle mõiste alla kõik tarkvaraarenduse keskkonnad.
@@ -588,13 +595,16 @@ Joonisel 1 on näha madala taseme CASE-vahendi Bloodshed DevC++ ekraanipilt. Red
 ::: tip Kordamisküsimused
 
 1. Millistes tarkvara elutsükli faasides saab kasutada CASE-vahendeid?
-  - analüüs X
-  - kavandamine X
-  - teostus X
-  -  hooldus X
+
+- analüüs X
+- kavandamine X
+- teostus X
+- hooldus X
+
 2. Väikeste programmeerimistööde juures ei ole CASE-vahenditest mingit kasu.
-  - õige
-  - vale X
+
+- õige
+- vale X
 
 :::
 
@@ -693,7 +703,13 @@ Kirjeldada peamisi süsteemi juurutusfaasi probleeme,näiteks kasutajatele paiga
 
 :::
 
-Testitud tarkvaratoode tuleb võtta kasutusele. Süsteemi kasutusele võtt hõlmab kogu tarkvaraprotsessist juurutuse, andmeülekande vanast süsteemist, kasutajate ja süsteemi administraatorite koolituse, toe süsteemi kasutajatele ja paranduste sisseviimise juurutusjärgselt ilmnenud vigade parandamiseks.
+::: danger Oluline materjal puudu
+
+Puudub käsitlus **_continuous deployment_** / **_continuous delivery_** **_CI / CD_** lähenemisest
+
+:::
+
+Testitud tarkvaratoode tuleb võtta kasutusele. Süsteemi kasutusele võtt hõlmab kogu tarkvaraprotsessist juurutuse **_deployment_**, andmeülekande vanast süsteemist, kasutajate ja süsteemi administraatorite koolituse, toe süsteemi kasutajatele ja paranduste sisseviimise juurutusjärgselt ilmnenud vigade parandamiseks.
 
 Tarkvaratoote kasutusele võtt sisaldab mitmeid erinevaid samme. Puudub täpne protsess, sest situatsioon, kus tarkvara juurutatakse, varieerub erinevate klientide juures oluliselt. Siiski järgmised tegevused on reeglina vajalikud:
 
@@ -704,11 +720,13 @@ Tarkvaratoote kasutusele võtt sisaldab mitmeid erinevaid samme. Puudub täpne p
 - **andmeülekanne vanast süsteemist** - varem kasutatud süsteemis on reeglina andmed, mida tuleb ka edaspidi kasutada. Soovitav on automaatülekandevahendi loomine, milline käivitatakse ühekordselt andmete ülekandeks vanast süsteemist uude. Ülekandemehhanism võib olla päris keerukas, eriti kui vana süsteemi ja uue süsteemi andmestruktuurid on oluliselt erinevad. Kui andmete kogus on väike ja/või automaatteisenduse algoritmi väljatöötamine liigselt keerukas, on võimalik andmeid ka käsitsi üle kanda. Sellisel juhul võib olla vajalik luua raportid vanast süsteemist andmete väljavõtmiseks ja sisestusvormid vm vahendid andmete käsitsi sisestamiseks kasutuselevõetavasse süsteemi;
 - **muudatuste tegemine teistesse rakendustesse** , millised peavad töötama koos ja/või kasutatakse koos arendatava tarkvaratootega;
 - **koolituse ettevalmistamine ja läbiviimine** tarkvaratootega kokkupuutuvatele inimestele, sh järgmistele rollidele:
+
   - igapäevased kasutajad
   - administraatorid
   - kasutajatoe pakkujad.
 
   Koolitus peab hõlmama nii teoreetilist kui praktilist osa. Praktilise osa on soovitav läbi viia testimiseks ja/või koolituseks loodud keskkonnas (nii tarkvara kui andmed), seda eelkõige ennetamaks riske reaalsete andmete konfidentsiaalsuse, käideldavuse või tervikluse huvides;
+
 - **valmisoleku loomist** kriisiolukorra juhtimiseks ja kriisiolukorras käitumiseks. Võimalikud kriisid tarkvaratoote kasutusele võtul on:
   - programmi mittetoimimine töökeskkonnas
   - vigade avastamine programmis
@@ -753,7 +771,7 @@ Tuua välja tugevad ja nõrgad küljed juurutusmeetoditel nt suur pauk, samm-sam
 Nimetatud osa on õppematerjalist puudu
 
 :::
- 
+
 ### B.1.4.4 Kasutusjuhend ja tehnilised juhendid
 
 ::: warning Õppekava
@@ -764,9 +782,9 @@ Loetleda kasutajajuhendi ja tehnilise kirjelduse (reference) põhiosad.
 
 #### Kasutusjuhend
 
-(user guide) on tehniline dokument, mis peab pakkuma tuge konkreetse süsteemi kasutajatele. Mõistena kasutatakse ka sõna **manuaal** (manual). Ka parimast tarkvarast ei ole kasu, kui kasutaja ei oska teda kasutada. Kogu kasutaja dokumentatsiooni kuuluvad lisaks kasutusjuhendile hooldusjuhised, töös hoidmise juhend, õppematerjal ja teised materjalid-juhendid süsteemi spetsiifikast lähtudes.
+**Kasutusjuhend** **_user guide_** on tehniline dokument, mis peab pakkuma tuge konkreetse süsteemi kasutajatele. Mõistena kasutatakse ka sõna **manuaal** **_manual_**. Ka parimast tarkvarast ei ole kasu, kui kasutaja ei oska teda kasutada. Kogu kasutaja dokumentatsiooni kuuluvad lisaks kasutusjuhendile hooldusjuhised, töös hoidmise juhend, õppematerjal ja teised materjalid-juhendid süsteemi spetsiifikast lähtudes.
 
-Kasutusjuhendi peab süsteemile kaasa andma arendaja. Hea on, kui juhendi kirjutab **tehniline kirjutaja** (technical writer), kellel on sellise materjali kirjutamise kogemus, mitte aga programmeerija. Väikesemas firmas tavaliselt eraldi kirjutaja puudub ning seda tööd peab tegema haldur või mõni teine tehnilise personali liige.
+Kasutusjuhendi peab süsteemile kaasa andma arendaja. Hea on, kui juhendi kirjutab **tehniline kirjutaja** **_technical writer_**, kellel on sellise materjali kirjutamise kogemus, mitte aga programmeerija. Väikesemas firmas tavaliselt eraldi kirjutaja puudub ning seda tööd peab tegema haldur või mõni teine tehnilise personali liige.
 
 Tavaliselt lisatakse kasutusjuhendisse ekraanipildid, mis lihtsustavad arusaamist. Kasutatav keel peab olema võimalikult lihtne ning sobima auditooriumile. Ei ole sobiv kasutada žargooni ning erimõisted tuleks lahti seletada.
 
@@ -777,7 +795,7 @@ Kasutusjuhend koosneb:
 - juhendist (olulisemate) süsteemi funktsionaalsuste kasutamiseks
 - veaselgituste (troubleshooting) osast, mis peaks hõlmama olulisemad probleemid ja nendega toimetuleku võimalused
 
-Tihti lisandub ka korduma kippuvate küsimuste osa (FAQ), mida on kergem pidada ja vajaduse korral täiendada digitaalses vormis, kontaktandmed, viited lisamaterjalidele, sõnastik ja indeks.
+Tihti lisandub ka korduma kippuvate küsimuste osa **_FAQ_**, mida on kergem pidada ja vajaduse korral täiendada digitaalses vormis, kontaktandmed, viited lisamaterjalidele, sõnastik ja indeks.
 
 Vaata näiteks Google Earthi kasutusjuhendit:
 
@@ -801,7 +819,7 @@ Kasutusjuhendi üks olulisemaid tingimusi on aga see, et ta vastaks tegelikkusel
 
 #### Tehniline dokumentatsioon
 
-(technical reference document)on dokumentide kogum, mida kasutatakse tehniliste objektide konstrueerimisel või projekteerimisel, tootmisel (valmistamisel) ja kasutamisel.
+**Tehniline dokumentatsioon** **_technical reference document_** on dokumentide kogum, mida kasutatakse tehniliste objektide konstrueerimisel või projekteerimisel, tootmisel (valmistamisel) ja kasutamisel.
 
 Tehniline dokumentatsioon sisaldab tarkvarasüsteemi tehnilist kirjeldust, sh dokumente, mis on tekkinud arendustegevuse käigus. Et erinevad arendusmetoodikad käsitlevad arenduse käigus toimuvat dokumenteerimist veidi erineval viisil, siis on raske anda ühest loetelu dokumentatsiooni osadest.
 
@@ -814,22 +832,29 @@ Süsteemi ülesehituse kirjeldusest on kasu nendele, kes süsteemist vigu otsima
 ::: tip Kordamisküsimused
 
 1. Testimisega saab näidata vigade esinemist tarkvaras, kuid mitte kunagi ei saa testimisega näidata vigade puudumist
-  - jah X
-  -  ei
+
+- jah X
+- ei
+
 2. Hooldusetapp ehk toeetapp on tavaliselt kõige lühema kestvusega etapp tarkvara elutsüklis
-  - jah
-  - ei X
+
+- jah
+- ei X
+
 3. Juurutusetapil tuleb:
-  - kasutajaid koolitada X
-  - tarkvara installeerida X
-  - andmeid ülekanda X
-  - toodet reklaamida
+
+- kasutajaid koolitada X
+- tarkvara installeerida X
+- andmeid ülekanda X
+- toodet reklaamida
+
 4. Sea vastavusse järgmised mõisted ja selgitused:
-  - Verifitseerimine - "Kas me teeme tarkvarasüsteemi õigesti?"
-  - regressioontestimine - peale uue funktsionaalsuse lisamist kontrollitakse, kas seni töötav osa ei ole katki läinud
-  - valideerimine -"Kas me teeme õiget tarkvarasüsteemi?"
-  - moodultestimine - testitakse tarkvara osa tehniliste vigade suhtes
-  - koormustestimine - kontrollitakse suure hulga (juhuslike) andmetega kas süsteem tuleb toime piisavalt lühikese ajaga
+
+- Verifitseerimine - "Kas me teeme tarkvarasüsteemi õigesti?"
+- regressioontestimine - peale uue funktsionaalsuse lisamist kontrollitakse, kas seni töötav osa ei ole katki läinud
+- valideerimine -"Kas me teeme õiget tarkvarasüsteemi?"
+- moodultestimine - testitakse tarkvara osa tehniliste vigade suhtes
+- koormustestimine - kontrollitakse suure hulga (juhuslike) andmetega kas süsteem tuleb toime piisavalt lühikese ajaga
 
 :::
 
@@ -851,7 +876,7 @@ Eristada arendus-, test- ja töökeskkondi ja mõista korrastatud süsteemipaiga
 
 **Töökeskkond** (production environment) on keskkond, kus toimub tegelik töö, st mida firma tarvitab oma igapäevases äritegevuses. Sarnaselt testimiskeskkonnale on ta täielik installatsioon kogu vajalikust riist- ja tarkvarast. Töökeskkonna peal ei ole õige katsetada süsteemi uuendusi, sest see võib halvata äritegevuse. Katsetamiseks on testimiskeskkond. Koolituse võimalikkus sõltub pigem sellest, mida konkreetselt tehakse ja kas see võib õppija kogenematuse tõttu mingeid kahjusid põhjustada.
 
-#### Konfiguratsioonihaldus
+#### Konfiguratsioonihaldus ja versioonihaldus
 
 ::: danger Probleem
 
@@ -874,6 +899,12 @@ Edukaks versioonihalduseks tasub kasutada vastavat tarkvara (nt CVS, Git, Subver
 Versioonihaldusega on tihedalt seotud **järkude haldus**.
 
 **Süsteemi järk** on tarkvara versioon, mis tarnitakse kasutajale. Üldkasutatava tarkvara jaoks (kontoritarkvara jms) eristatakse kahte tüüpi järke: **peajärk** (major release) toob kaasa mõne olulise uue funktsionaalsuse ja **pisijärk** (minor release) parandab mõne vea või kasutaja teatatud probleemi. Eritarkvara puhul võivad erinevatel klientidel olla tarkvarast erinevad järgud/versioonid ning igaüks neist võib areneda omasoodu. Nii võib ühest süsteemist töötada samaaegselt mitu erinevat versiooni. Probleemi ilmnemisel tarkvara kasutamisel peab olema võimalik taastada täpselt selline tarkvara variant, nagu see on sellele kliendile antud. Seetõttu peab järkude info olema piisava detailsusega säilitatud ehk iga järk tuleb dokumenteerida selliselt, et see oleks hiljem taasesitatav.
+
+::: danger Puuduv informatsioon
+
+Järgud on nüüdeks standardiseeritud **semantilise järkude halduse** **_semantic versioning_** toel https://semver.org/
+
+:::
 
 ### 1.5.2 Andmeturve
 
@@ -961,46 +992,54 @@ Igapäevaselt tuleb hoolitseda, et igasugused tarkvarauuendused saaksid süsteem
 ::: tip Kordamisküsimused
 
 1. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia arenduskeskkonnas:
-  - koodi kirjutamine X
-  - kasutajatega testimine
-  - kasutajate koolitus
-  - koodi kompileerimine X
-  - moodulite testimine X
-  - kliendipoolne igapäevatöö
-  - projektdokumentatsiooni koostamine X
-  - regressioontestimine
-  - koormustestimine
+
+- koodi kirjutamine X
+- kasutajatega testimine
+- kasutajate koolitus
+- koodi kompileerimine X
+- moodulite testimine X
+- kliendipoolne igapäevatöö
+- projektdokumentatsiooni koostamine X
+- regressioontestimine
+- koormustestimine
 
 2. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia testimiskeskkonnas:
-  - koodi kirjutamine;
-  - kasutajatega testimine X
-  - kasutajate koolitus X
-  - koodi kompileerimine
-  - moodulite testimine
-  - kliendipoolne igapäevatöö
-  - projektdokumentatsiooni koostamine
-  - regressioontestimine X
-  - koormustestimine X
+
+- koodi kirjutamine;
+- kasutajatega testimine X
+- kasutajate koolitus X
+- koodi kompileerimine
+- moodulite testimine
+- kliendipoolne igapäevatöö
+- projektdokumentatsiooni koostamine
+- regressioontestimine X
+- koormustestimine X
+
 3. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia töökeskkonnas:
-  - koodi kirjutamine
-  - kasutajatega testimine
-  - kasutajate koolitus X
-  - koodi kompileerimine
-  - moodulite testimine
-  - kliendipoolne igapäevatöö X
-  - projektdokumentatsiooni koostamine
-  - regressioontestimine
-  - koormustestimine
+
+- koodi kirjutamine
+- kasutajatega testimine
+- kasutajate koolitus X
+- koodi kompileerimine
+- moodulite testimine
+- kliendipoolne igapäevatöö X
+- projektdokumentatsiooni koostamine
+- regressioontestimine
+- koormustestimine
+
 4. Millistel andmete omadustel põhineb andmete turvamudel? Andmete turvamudel põhineb andmete:
-  - käideldavusel X
-  - terviklusel X
-  - konfidentsiaalsusel X
+
+- käideldavusel X
+- terviklusel X
+- konfidentsiaalsusel X
+
 5. Tarkvarasüsteemi turvalisuse tagamisega tuleb alustada:
-  - kliendiga nõudeid arutades
-  - tarkvara projekteerides X
-  - tarkvarasüsteemi programmeerides
-  - vajalikku riistvara ja tugisüsteeme seadistades
-  - peale tarkvarasüsteemi töösse andmist
+
+- kliendiga nõudeid arutades
+- tarkvara projekteerides X
+- tarkvarasüsteemi programmeerides
+- vajalikku riistvara ja tugisüsteeme seadistades
+- peale tarkvarasüsteemi töösse andmist
 
 :::
 
@@ -1030,7 +1069,7 @@ ISO 9000 on **ISO** (International Organization for Standardization) standardite
 
 #### ISO 12207
 
-**ISO 12207 on tarkvara elutsükli protsessi standard**.
+ISO 12207 on tarkvara elutsükli protsessi standard.
 
 Standard kehtestab tarkvara elutsükli protsesside tarbeks üldise, täpselt määratletud terminoloogiaga raamstruktuuri, millele saab viidata tarkvara valdkonnas. Struktuur sisaldab protsesse, tegevusi ja töid, mida rakendada tarkvaratoote või -teenuse hankimisel ning tarkvaratoodete tarnimisel, väljatöötamisel, käitamisel, hooldamisel ja kõrvaldamisel. Tarkvara hõlmab ka püsivara tarkvaraosa. Standard annab protsessi, mida saab rakendada tarkvara elutsükli protsesside määratlemiseks, juhtimiseks ja täiustamiseks. Selle standardi protsesse, tegevusi ja töid võib – eraldi või seoses standardiga ISO/IEC 15288 – rakendada ka tarkvara sisaldava süsteemi hankimisel. (Eesti Standardikeskuse kodulehelt)
 
@@ -1058,15 +1097,25 @@ SEI/CMMI on suunatud (arendus)protsessi parandamisele ning annab organisatsiooni
 
 #### Agiilmeetodid
 
-Arendusmetoodikates on vanade nn **tardmeetodite** (raskete meetodite) asemel tulnud **kerged** ehk **agiilsed** ehk **paindmeetodid** (vt ka B1.2). Agiilmeetodite tuleku üheks põhjuseks oli tardmeetodite sobimatu paljude tarkvaraprojektide läbiviimiseks. Erinevalt muust tööstusest osutus tarkvaraprojekti läbiviimine algselt paika pandud põhjalike plaanide järgi väga keeruliseks. Eriti sel juhul, kui toodet tehti kliendi soovide kohaselt ning need soovid ei olnud väga selgelt välja kujunenud. 2001 aastal koostatud Agile Manifesto';s toodi muuhulgas välja, et planeerimisse põhjaliku panustamise asemel tuleks siiski teha "asja ennast", kuid see ei tähenda samal ajal plaanipärasest tegevusest lahti ütlemist. Agiilsete arendusmeetodite puhul on protsess ja iganädalased tegevused väga selgelt reglementeeritud.
+::: danger Korduv materjal
 
-Siinkohal võib näiteks tuua **Scrum'i** , mis on Eestiski levinud.
+Materjal kordab paljuski alajaotuse [1.2.2](#_1-2-2-elutsukli-uldised-mudelid) materjale.
 
-"Scrumi raamistik aitab meeskondadel saada ülitõhusaks. See võimaldab arendajail teostada suuri projekte vaid murdosa jooksul ajast, mis kulub tavaarenduspraktikas" – ütles Jim Cundiff, Scrum Alliance';i tegevjuht. "Samuti teeb Scrum defektid meeskonnale koheselt nähtavaks", lisab Cundiff. "Lihtsalt öeldes – Scrum parendab tõhusust ja aitab organisatsioonil ülesannetega toime tulla." Scrumi kasvavat populaarsust võib seletada tema suutlikkusega tõsta ja võimendada investeeringult teenitavat tulusust ning võimega ühendada juhtkonda ja arendajaid firma ärieesmärkide saavutamise nimel. Scrumi on lihtne mõista ja rakendada, koolitusprogrammid on olemas ja töötavad. Scrum pakub paindlikku raamistikku, mis aitab suurtel meeskondadel keskenduda sihile, et ühiselt, kogu meeskonnaga, saavutada iga sprindi ülesanded. SCRUM-töö põhineb tsüklilisusel, mille etappe nimetakse **sprintideks**. Sprindi kestus on tavaliselt kaks kuni neli nädalat. Igaks sprindiks võtavad meeskonnad töösse tähtsuse põhjal järjestatud ülesanded, lähtudes kliendi vajadustest. Ülesandeid nimetatakse **kasutuslugudeks** (user story), nii et funktsioonid, mida arendatakse eelkõige, on kliendile kõige suurema väärtusega. Iga sprindi lõpus tarnitakse kliendile potentsiaalselt kasutatav toode.
+:::
 
-Kuigi Scrum on enimlevinud tarkvaraarenduses, sobib see metoodika väga hästi igasuguste agiilsete (olud ja lähteandmed muutuvad sageli) arendusprojektide teostamiseks.
+Arendusmetoodikates on vanade nn **tardmeetodite** (raskete meetodite) asemel tulnud **kerged** ehk **agiilsed** ehk **paindmeetodid**. Agiilmeetodite tuleku üheks põhjuseks oli tardmeetodite sobimatu paljude tarkvaraprojektide läbiviimiseks. Erinevalt muust tööstusest osutus tarkvaraprojekti läbiviimine algselt paika pandud põhjalike plaanide järgi väga keeruliseks. Eriti sel juhul, kui toodet tehti kliendi soovide kohaselt ning need soovid ei olnud väga selgelt välja kujunenud. 2001 aastal koostatud Agile Manifesto';s toodi muuhulgas välja, et planeerimisse põhjaliku panustamise asemel tuleks siiski teha "asja ennast", kuid see ei tähenda samal ajal plaanipärasest tegevusest lahti ütlemist. Agiilsete arendusmeetodite puhul on protsess ja iganädalased tegevused väga selgelt reglementeeritud.
 
-Scrum sisaldab pea ainult töö organiseerimisega (projekti juhtimisega) seotud tegevusi, nähes ette võimalikud igapäevased / iganädalased tegevused. Näiteks ei alustata esmaspäeva hommikul mitte usina koodikirjutamisega, vaid kulutatakse päevast märkimisväärne osa nädala tegevuste planeerimisele (nt "planning poker" - tegemist vajavate tööde jaotamine sprintidesse). Peetakse hommikusi lühikesi nn "püstijala koosolekuid" (stand-up), kus igaüks saab öelda nii seda, mida ta eelmisel päeval tegi kui ka seda, mis teda töötamast segab. Peetakse tagasivaate koosolekuid (retrospective), et toimunut kokku võtta ning avaldatakse arvamust oma meeskonna liikmete kohta, kui nende tegevus näiteks teiste töötamist segab. Seinal hoitaks tööde edenemise graafikut, kus on jooksvalt kõigile näha, kui kaugele erinevate funktsionaalsustega ollakse jõudnud.
+#### SCRUM
+
+Siinkohal võib näiteks tuua ***SCRUM***'i , mis on Eestiski levinud.
+
+"SCRUMi raamistik aitab meeskondadel saada ülitõhusaks. See võimaldab arendajail teostada suuri projekte vaid murdosa jooksul ajast, mis kulub tavaarenduspraktikas" – ütles Jim Cundiff, Scrum Alliance';i tegevjuht. "Samuti teeb Scrum defektid meeskonnale koheselt nähtavaks", lisab Cundiff. "Lihtsalt öeldes – Scrum parendab tõhusust ja aitab organisatsioonil ülesannetega toime tulla." Scrumi kasvavat populaarsust võib seletada tema suutlikkusega tõsta ja võimendada investeeringult teenitavat tulusust ning võimega ühendada juhtkonda ja arendajaid firma ärieesmärkide saavutamise nimel. SCRUMi on lihtne mõista ja rakendada, koolitusprogrammid on olemas ja töötavad. Scrum pakub paindlikku raamistikku, mis aitab suurtel meeskondadel keskenduda sihile, et ühiselt, kogu meeskonnaga, saavutada iga sprindi ülesanded.
+
+SCRUM-töö põhineb tsüklilisusel, mille etappe nimetakse **sprintideks** **_sprints_**. Sprindi kestus on tavaliselt kaks kuni neli nädalat. Igaks sprindiks võtavad meeskonnad töösse tähtsuse põhjal järjestatud ülesanded, lähtudes kliendi vajadustest. Ülesandeid nimetatakse **kasutuslugudeks** **_user story_**, nii et funktsioonid, mida arendatakse eelkõige, on kliendile kõige suurema väärtusega. Iga sprindi lõpus tarnitakse kliendile potentsiaalselt kasutatav toode.
+
+Kuigi SCRUM on enimlevinud tarkvaraarenduses, sobib see metoodika väga hästi igasuguste agiilsete (olud ja lähteandmed muutuvad sageli) arendusprojektide teostamiseks.
+
+SCRUM sisaldab pea ainult töö organiseerimisega (projekti juhtimisega) seotud tegevusi, nähes ette võimalikud igapäevased / iganädalased tegevused. Näiteks ei alustata esmaspäeva hommikul mitte usina koodikirjutamisega, vaid kulutatakse päevast märkimisväärne osa nädala tegevuste planeerimisele (nt **_planning poker_** - tegemist vajavate tööde jaotamine sprintidesse). Peetakse hommikusi lühikesi nn **püstijala koosolekuid** **_stand-up_**, kus igaüks saab öelda nii seda, mida ta eelmisel päeval tegi kui ka seda, mis teda töötamast segab. Peetakse **tagasivaate koosolekuid** **_retrospective_**, et toimunut kokku võtta ning avaldatakse arvamust oma meeskonna liikmete kohta, kui nende tegevus näiteks teiste töötamist segab. Seinal hoitaks tööde edenemise graafikut, kus on jooksvalt kõigile näha, kui kaugele erinevate funktsionaalsustega ollakse jõudnud.
 
 "Agiilsetest tegevustest" Eestis vaata agile.ee ja scrum.ee.
 
@@ -1082,25 +1131,31 @@ Veel mõned aastad tagasi oli üks levinumaid viise struktureerida rakendusi kah
 
 #### Mitmekihiline arhitektuur
 
-**Mitmekihiline arhitektuur** (n-tier client-server architecture) on klient-server arhitektuur, kus esituse, töötlemise ja andmete haldamise protsessid on üksteisest loogiliselt eraldatud protsessid. Mitmekihiline arhitektuurimudel aitab luua paindlikku ja korduvalt kasutatavat tarkvara. Muudatuste puhul on vajalik need teha vaid üksikutes kihtides, mitte kogu rakenduses korraga. See lubab hakkama saada vähema töö, lühema aja ja väiksema potentsiaalse vigade hulgaga.
+**Mitmekihiline arhitektuur** **_n-tier client-server architecture_** on klient-server arhitektuur, kus esituse, töötlemise ja andmete haldamise protsessid on üksteisest loogiliselt eraldatud protsessid. Mitmekihiline arhitektuurimudel aitab luua paindlikku ja korduvalt kasutatavat tarkvara. Muudatuste puhul on vajalik need teha vaid üksikutes kihtides, mitte kogu rakenduses korraga. See lubab hakkama saada vähema töö, lühema aja ja väiksema potentsiaalse vigade hulgaga.
 
-Tüüpilisemaks ja enam kaustatavamaks variandiks on **kolmekihiline arhitektuur** (three-tier client server architecture). Kolmekihilise rakenduse puhul paikneb iga kiht arvutivõrgus erinevas kohas ning võib paikneda ka erinevatel platvormidel.
+Tüüpilisemaks ja enam kaustatavamaks variandiks on **kolmekihiline arhitektuur** **_three-tier client server architecture_**. Kolmekihilise rakenduse puhul paikneb iga kiht arvutivõrgus erinevas kohas ning võib paikneda ka erinevatel platvormidel.
 
 Kliendile kõige lähemal on tema arvutis olev tööjaama tarkvara (nn **esitusloogika kiht** ). See võib piirneda vaid sisestusvormidega ja platvormile tüüpilise graafilise kasutajaliidesega. Ei ole välistatud selle kihi olemasolu erinevatele platvormidele. Esitusloogika kiht suhtleb rakenduse kihiga (ka äriloogika kiht, keskmine kiht).
 
-**Äriloogika** või **firmaloogika kihi** ülesandeks on juhtida funktsionaalsust, töödeldes selleks alumisest kihist saadud andmeid vastavalt kasutajalt ülemisest kihist tulnud päringutele. See kiht paikneb tavaliselt kohtvõrgu serveril.
+**Äriloogika** või **firmaloogika kihi** **_business logic_** ülesandeks on juhtida funktsionaalsust, töödeldes selleks alumisest kihist saadud andmeid vastavalt kasutajalt ülemisest kihist tulnud päringutele. See kiht paikneb tavaliselt kohtvõrgu serveril.
 
 **Andmekiht** on kolmas kiht. See sisaldab andmebaasi ning selle haldamiseks vajalikku tarkvara ning võib paikneda mõnes suurarvutis. Kihi ülesanne on muuhulgas hoida andmeid sõltumatutena rakendusest ja esitusloogikast.
 
 Praegu laialt levivatel veebirakendustel on reeglina sarnane arhitektuur. Sel juhul on esitusloogika kiht seotud veebilehitsejaga ning kasutajaliidese renderdamisega veebilehitseja aknasse. Osa sisu võib olla staatiline ja osa dünaamiline.
 
-**Mitmekihiline arhitektuur** (n-tier architcture) on üldistus. Siin võivad vastavalt vajadusele lisanduda erinevad kihid (või jaotuda kirjeldatud kihid omakorda osadeks). Olukorras, kus järjest enam on väärtust mitte üksikul rakendusel või andmebaasil, vaid koosvõimelistel infosüsteemidel, on arenduses pudelikael liikunud süsteemide liidestamisele-integratsioonile. Oluline on kasutada läbiproovitud praktikaid (nt mustreid sarnaste probleemide lahendamiseks), teenusorienteeritud lähenemist, infosüsteemide semantilist kirjeldamist.
+**Mitmekihiline arhitektuur** **_n-tier architcture_** on üldistus. Siin võivad vastavalt vajadusele lisanduda erinevad kihid (või jaotuda kirjeldatud kihid omakorda osadeks). Olukorras, kus järjest enam on väärtust mitte üksikul rakendusel või andmebaasil, vaid koosvõimelistel infosüsteemidel, on arenduses pudelikael liikunud süsteemide liidestamisele-integratsioonile. Oluline on kasutada läbiproovitud praktikaid (nt mustreid sarnaste probleemide lahendamiseks), teenusorienteeritud lähenemist, infosüsteemide semantilist kirjeldamist.
 
 #### Teenusorienteeritud arhitektuur
 
-**Teenusorienteeritud arhitektuur** (SOA - Service Oriented Architecture) on samuti olemuselt mitmekihiline ja seda kasutatakse veebirakenduste loomisel. Arhitektuur moodustub üksteisega suhtlevatest (veebi)teenustest, mis ei sõltu üksteise kontekstist ega olekust ning töötavad hajussüsteemide mudelil. Teenuste vahel puuduvad tugevad seosed ning ükski teenus pole teadlik teise teenuse tehnilistest detailidest nagu näiteks andmestruktuurid, tarkvaraline platvorm, operatsioonisüsteem, kasutatav andmebaasisüsteem jne. SOA-d võib käsitleda kui rakenduste väljatöötamise kõrgeimat tasandit, kus kasutajate eest on peidetud kogu tehnilise keskkonna keerukus.
+::: danger Vananenud ja puuduolev materjal
 
-SOA **eelised:
+SOA'd peetakse tänapäeval liialt kohmakaks, kuid mitmed SOA ideed on tänaseks kandunud üle nn **_serverless_** tehnoloogiatesse
+
+:::
+
+**Teenusorienteeritud arhitektuur** **_SOA_** / **_Service Oriented Architecture_** on samuti olemuselt mitmekihiline ja seda kasutatakse veebirakenduste loomisel. Arhitektuur moodustub üksteisega suhtlevatest (veebi)teenustest, mis ei sõltu üksteise kontekstist ega olekust ning töötavad hajussüsteemide mudelil. Teenuste vahel puuduvad tugevad seosed ning ükski teenus pole teadlik teise teenuse tehnilistest detailidest nagu näiteks andmestruktuurid, tarkvaraline platvorm, operatsioonisüsteem, kasutatav andmebaasisüsteem jne. SOA-d võib käsitleda kui rakenduste väljatöötamise kõrgeimat tasandit, kus kasutajate eest on peidetud kogu tehnilise keskkonna keerukus.
+
+SOA eelised:
 
 - SOA abil on võimalik integreerida erinevaid infosüsteeme. Arendajad ei pea töötama välja uusi lahendusi erinevate süsteemide kasutamiseks. Oluline on kasutada standardseid protokolle (nt andmevahetusprotokollid). Standardeid mittejärgivaid teenuseid on raske juurutada.
 - Liidesed on taaskasutatavad. Liidest, mida kasutati ühe konkreetse süsteemi arendamisel, saab kasutada ka kõikide teiste analoogsete süsteemide arendamisel.
@@ -1118,7 +1173,9 @@ Kirjeldada kaasaegse süsteemide süsteemi keerukust ja kuidas sellega toime tul
 
 :::
 
-**Pärandtarkvara** (legacy software) töös hoidmine ja integreerimine uute tarkvarasüsteemidega on üks 21. sajandi tarkvaraarenduse väljakutsetest. Firmad, mis on investeerinud suurarvutitesse (mainframe), on huvitatud oma investeeringu ehk suurarvuti jätkuvast kasutamisest. Tekib küsimus, kas suurarvuti saab olla tänapäevase paindliku integreeritud IT-süsteemi osa ning kas pärandtarkvara ja pärandandmeid saab jätkuvalt kasuta? Vastuseks on, et peab saama, kasvõi juba sellepärast, et kogu arvutiparki ega rakendusi ei ole võimalik korraga välja vahetada. Samas suurarvuteid võikski nende võimsuse tõttu rahulikult edasi kasutada. Suurarvutite ja nendel töötavate süsteemide jätkuvaks kasutamiseks ning uute süsteemidega integreerimiseks on vaja spetsiaalseid **tarkvaralisi laiendusi** (legacy mainframe extension). Laiendused töötavad ka selliselt, et neid on võimalik liidestada SOA-arhitektuuri. Laiendusi toodavad ja lisavad oma tarkvarasse ka suurte andmebaasisüsteemide ja arendustarkvara loojad (nt Oracle, IBM)
+**Pärandtarkvara** (legacy software) töös hoidmine ja integreerimine uute tarkvarasüsteemidega on üks 21. sajandi tarkvaraarenduse väljakutsetest. Firmad, mis on investeerinud suurarvutitesse (mainframe), on huvitatud oma investeeringu ehk suurarvuti jätkuvast kasutamisest. Tekib küsimus, kas suurarvuti saab olla tänapäevase paindliku integreeritud IT-süsteemi osa ning kas pärandtarkvara ja pärandandmeid saab jätkuvalt kasuta? Vastuseks on, et peab saama, kasvõi juba sellepärast, et kogu arvutiparki ega rakendusi ei ole võimalik korraga välja vahetada. Samas suurarvuteid võikski nende võimsuse tõttu rahulikult edasi kasutada.
+
+Suurarvutite ja nendel töötavate süsteemide jätkuvaks kasutamiseks ning uute süsteemidega integreerimiseks on vaja spetsiaalseid **tarkvaralisi laiendusi** (legacy mainframe extension). Laiendused töötavad ka selliselt, et neid on võimalik liidestada SOA-arhitektuuri. Laiendusi toodavad ja lisavad oma tarkvarasse ka suurte andmebaasisüsteemide ja arendustarkvara loojad (nt Oracle, IBM)
 
 Arvutisüsteemid on oma kasvamise ja arenemisega toonud kiiruse ja automatiseerituse läbi palju kasu mitmesuguse inimtegevuse valdkondadesse ja nüüd jõuab kätte aeg, kus arvutisüsteemid peaksid iseend automaatselt hooldama. Praegu kulub nende hooldamise peale palju oskustööjõudu. Kaasaegsete hajussüsteemide suurimaks probleemiks on nende endi keerukus ja nende haldamise keerukus. Keerukus ei piirdu ainult tarkvaraga, vaid süsteemis tahetakse koos kasutada erinevaid seadmeid alates serveritest ja lõpetades mobiiltelefonidega. See kõik peab suutma võrgus suhelda. Kasvavast keerukusest saab peagi süsteemide edasiarengut piirav faktor.
 
@@ -1136,26 +1193,30 @@ End ise hooldavate süsteemideni on siiski veel hulk maad minna.
 ::: tip Kordamisküsimused
 
 1. Tarkvaraarenduse kergetele (agile) meetoditele on omane:
-  - testimise alustamine esimestel protsessi etappidel X
-  - tihe suhtlemine kasutajatega X
-  - dokumentatsiooni puudumine
-  - arendusprotsessi juhtimise puudumine
+
+- testimise alustamine esimestel protsessi etappidel X
+- tihe suhtlemine kasutajatega X
+- dokumentatsiooni puudumine
+- arendusprotsessi juhtimise puudumine
 
 2. Tarkvaraarenduse rasketele (heavy) meetoditele on omane:
-  - põhjalik planeerimine X
-  - tihe klientidega suhtlemine kogu protsessi vältel
-  - tarkvara tarnimine osade kaupa
-  - pikk ettemääratus X
+
+- põhjalik planeerimine X
+- tihe klientidega suhtlemine kogu protsessi vältel
+- tarkvara tarnimine osade kaupa
+- pikk ettemääratus X
 
 3. Mitmekihilise arhitektuuri oluline eesmärk on eraldada üksteisest rakenduse andmed ja nende esitamine kasutajale ning teha seeläbi võimalikuks rakenduse erinevate osade muutmise vajaduseta kogu rakenduse koodi ringi kirjutada:
-  - jah X
-  - ei
+
+- jah X
+- ei
 
 4. Pane omavahel õigesti kokku:
-  - Standardid - jagavad soovitusi äriprotsesside juhtimiseks ja seeläbi kvaliteedi kindlustamiseks, samuti annavad soovitusliku sõnavara
-  - ISO12207 - kirjeldab tarkvara elutsükli protsesse, tuues välja viis põhiprotsessi
-  - CMM/SW - sisaldab nõudeid tarkvara kvaliteetsele arendamisele, tuues välja ettevõttes kasutatava arendusprotsessi küpsuse hindamiseks 5 taset
-  - CMMI - on paindlik mudel, lubades hinnata iga protsessi küpsuse taset eraldi
+
+- Standardid - jagavad soovitusi äriprotsesside juhtimiseks ja seeläbi kvaliteedi kindlustamiseks, samuti annavad soovitusliku sõnavara
+- ISO12207 - kirjeldab tarkvara elutsükli protsesse, tuues välja viis põhiprotsessi
+- CMM/SW - sisaldab nõudeid tarkvara kvaliteetsele arendamisele, tuues välja ettevõttes kasutatava arendusprotsessi küpsuse hindamiseks 5 taset
+- CMMI - on paindlik mudel, lubades hinnata iga protsessi küpsuse taset eraldi
 
 :::
 

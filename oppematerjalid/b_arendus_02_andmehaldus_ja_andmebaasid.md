@@ -16,16 +16,15 @@ Tuua välja vastupidava (durable) andmesalvestuse ja aruandlussüsteemi tähtsus
 
 ### Informatsioon
 
-**Informatsioon e. teave** – fakte, sündmusi, asju, protsesse, ideid, mõisteid või muid objekte puudutav teadmus, millel on teatud kontekstis eritähendus.
+**Informatsioon e. teave** **_information_** fakte, sündmusi, asju, protsesse, ideid, mõisteid või muid objekte puudutav teadmus, millel on teatud kontekstis eritähendus.
 
-Organisatsioonis vajaminevat informatsiooni säilitatakse põhiliselt dokumentides
-(digitaalsel või paberlikul kujul), andmeid aga enamasti andmebaasides.
+Organisatsioonis vajaminevat informatsiooni säilitatakse põhiliselt dokumentides (digitaalsel või paberlikul kujul), andmeid aga enamasti andmebaasides.
 
 Infot võib defineerida kui sõnumit, mis esineb dokumendi või audiovisuaalses vormis oleva kommunikatsioonina. Nagu igal sõnumil, on ka infol saatja ja vastuvõtja. Info ülesanne on mõjutada vastuvõtja hinnanguid või käitumist. Erinevalt andmetest on infol tähendus, olulisus ning eesmärk. Andmed muutuvad infoks, kui nende looja lisab neile tähenduse. Oluline on märkida, et IT aitab andmeid infoks muuta ja neile väärtust lisada. Samas ei aita IT kaasa konteksti loomisele (kategooriad, kalkulatsioonid, vorm) – selle loovad inimesed.
 
 #### Andmed
 
-**Andmeteks** (data) nimetatakse inimesele ja/või masinale arusaadaval kujul formaliseeritud (erilisel viisil vormindatud) info esitusviisi, mida saab kasutada suhtluseks, tõlgendamiseks, säilitamiseks või töötluseks.\*\*
+**Andmeteks** **_data_** nimetatakse inimesele ja/või masinale arusaadaval kujul formaliseeritud (erilisel viisil vormindatud) info esitusviisi, mida saab kasutada suhtluseks, tõlgendamiseks, säilitamiseks või töötluseks.
 
 Andmed on üksikasjalikud, objektiivsed faktid sündmustest. Kõik organisatsioonid vajavad andmeid ning neil baseerub enamik eluvaldkondi. Efektiivne andmehaldus on üks olulisemaid edukuse kriteeriume, seevastu suur andmete hulk seda tingimata veel ei ole.
 
@@ -50,11 +49,11 @@ Andmetüpoloogia ülesanne on rühmitatud vastavalt nende päritolu allikale/kan
 
 #### Andmebaas
 
-**Andmebaas**, databas, on omavahel seotud ja süstematiseeritud andmete kogum.
+**Andmebaas**, **_database_**, on omavahel seotud ja süstematiseeritud andmete kogum.
 
 Kõige elementaarsemas tähenduses mõistetakse andmebaasi all andmekogumit, mis lisaks andmetele sisaldab eneses ka nende andmete struktuuri kirjelduse - andmetega koos hoitakse ka nende andmete kirjeldust. Võib öelda ka veel nii: andmebaas on kogum andmeid koos neid andmeid (andmete struktuuri) kirjeldavate meta-andmetega. Kõige elementaarsemal tasemel sisaldab andmete kirjeldus tabelite kirjeldusi (milledes hoitakse andmeid) ja tabelite vaheliste seoste kirjeldusi.
 
-Tänapäeva andmebaasisüsteemid hoiavad andmebaasides lisaks andmete kirjeldustele ka andmeid käsitlevaid protseduure ja nende protseduuride käivitamise reeglid (trigerid (triggers) ja kalenderplaanid (schedulers).
+Tänapäeva andmebaasisüsteemid hoiavad andmebaasides lisaks andmete kirjeldustele ka andmeid käsitlevaid protseduure ja nende protseduuride käivitamise reeglid trigerid **_triggers_** ja kalenderplaanid **_schedulers_**.
 
 Laiemas mõttes ei tohi andmebaaside all mõista ainult elektroonilisi andmebaase, mis on realiseeritud arvutisüsteemides. Andmebaasid eksisteerisid palju aega enne seda, kui neid sai hakata realiseerima arvutisüsteemides. Suvalised kartoteegid on andmebaasid – olenemata sellest, milline on andmekandja selle kartoteegis (kartoteegikaart, kivitahvel, perfolint, perfokaart vms.).
 
@@ -108,6 +107,12 @@ Sellest hetkest alates on toimunud tehniliste vahendite stabiilne areng ilma suu
 
 #### Andmebaasiprogrammid jagunevad
 
+::: danger Puuduolev materjal
+
+Lisandunud on mitterelatsioonilised andmebaasid **NoSQL databases** ja mitmeid teisi andmebaasitüüpe https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37
+
+:::
+
 - **lameandmebaasideks** (hierarhilisteks andmebaasideks), kus andmed reastatakse puustruktuurina, s.t. allolevad andmed on seotud ülemistega ja neile pääseb ligi ainult ülemiste andmete kaudu
 - **relatsioonandmebaasideks** , kus andmeüksused on omavahel relatsioonidega (seostega) ühendatud. Neid relatsioone esitatakse põhimõtteliselt tabelitena, kusjuures veergudes kujutatakse andmevälju (näit. isikukood, nimi, eesnimi, haridus, perekonnaseis jne.) ja ridades andmeüksusi e. kirjeid (näit. töötaja isikuandmed).
 
@@ -151,14 +156,14 @@ Andmebaaside kasutamine tõstatab ka rea probleeme:
 
 ABHS täieliku usaldusvääruse klassikaliseks näiteks on jooksevkonto kontrollimise operatsioon. On vaja tagada, et igal elujuhtumil (ka katastroofiolukorras) andmete usaldusväärus ei kannataks ja iga online tehingu (ülekande) korral ei peaks liidetama saaja kontole summat ilma seda saatja kontolt maha võtmata ning vastupidi.
 
-Ülekannete vajalikku turvalisust iseloomustab lühend "ACID", mõnikord kasutatav ka kui "ACID test", mis tuleneb terminitest:
+Ülekannete vajalikku turvalisust iseloomustab lühend **_ACID_**, mõnikord kasutatav ka kui "ACID test", mis tuleneb terminitest:
 
-- atomaarsus _Atomicity_ ülekanne peab olema jagamatu, saabudes kehtivalt (juriidiliselt) lõpetatuna (soorita tehing=_commit_) ja vastasel korral tühistatuna (jäta tehing ära=_rollback_, viimane taastab andmete esialgse seisu (seis enne tehingu alustamist), mis loogikaterminites tähendab kõik või mitte midagi
-- kooskõlalisus _Consistency_ – sobivalt valitud andmete uuendamisreeglid peavad välistama vigade ja ebakõlade teket eristatavate ja kooskõlas olevate andmete haldamisel
-- eraldatus _Isolation_ – üheaegset juurdepääsu _concurrency_ andmetele erinevate protsesside poolt peab reguleerima, et vältida konflikte ja ABHS väärastumise/rippuma jäämise _deadlock_ situatsioonide vältimiseks
-- kestvus _Durability_ – andmete juhusikke kaotusi peab vältima või viima minimaalseks, lisades viimase kehtiva seisundi, milline süsteemil oli enne talitlushäiret, taastamisvõimaluse.
+- **atomaarsus** **_Atomicity_** ülekanne peab olema jagamatu, saabudes kehtivalt (juriidiliselt) lõpetatuna (soorita tehing, **_commit_**) ja vastasel korral tühistatuna (jäta tehing ära, **_rollback_**, viimane taastab andmete esialgse seisu (seis enne tehingu alustamist), mis loogikaterminites tähendab kõik või mitte midagi
+- **kooskõlalisus** **_Consistency_** – sobivalt valitud andmete uuendamisreeglid peavad välistama vigade ja ebakõlade teket eristatavate ja kooskõlas olevate andmete haldamisel
+- **eraldatus** **_Isolation_** – üheaegset juurdepääsu **_concurrency_** andmetele erinevate protsesside poolt peab reguleerima, et vältida konflikte ja ABHS väärastumise/rippuma jäämise situatsioonide vältimiseks
+- **kestvus** **_Durability_** – andmete juhusikke kaotusi peab vältima või viima minimaalseks, lisades viimase kehtiva seisundi, milline süsteemil oli enne talitlushäiret, taastamisvõimaluse.
 
-ABHS programm ei sisalda otseseid viiteid andmebaasis olevatele andmetele, kuna on võimatu eelnevalt defineerida, millised andmed tegelikult andmebaasi sisestatakse. See probleem on lahendatud selleks otstarbeks spetsiaalselt lisatud mäluruumiga, kuhu salvestatakse "andmesõnaraamat" _data dictionary_, mis kirjeldab tegelikku informatsiooni, mida saab andmebaasi sisestada.
+ABHS programm ei sisalda otseseid viiteid andmebaasis olevatele andmetele, kuna on võimatu eelnevalt defineerida, millised andmed tegelikult andmebaasi sisestatakse. See probleem on lahendatud selleks otstarbeks spetsiaalselt lisatud mäluruumiga, kuhu salvestatakse "andmesõnaraamat" **_data dictionary_**, mis kirjeldab tegelikku informatsiooni, mida saab andmebaasi sisestada.
 
 Andmete ja info salvestamine süstemaatiliselt arvuti mälus omab rea eeliseid, kuid toob kaasa ka riske, milliseid peab uurima ja lahendama. Need probleemid on andmete liiasus, terviklus, paindlikkus, turvalisus, millistest tuleb juttu lähemalt allpool.
 
@@ -182,7 +187,7 @@ Joonis 2. Andmete kordumine
 
 #### Käideldavus, terviklus, konfidentsiaalsus
 
-Andmete **käideldavus** _(availability_)on teabe õigeaegne ning mugav kättesaadavus ning kasutatavus selleks volitatud isikutele ning subjektidele.
+Andmete **käideldavus** **_availability_** on teabe õigeaegne ning mugav kättesaadavus ning kasutatavus selleks volitatud isikutele ning subjektidele.
 
 Käideldavus on reeglina andmete kõige olulisem omadus – halvim mis andmetega võib juhtuda, on see, et nad pole (volitatud isikutele) kättesaadavad.
 
@@ -191,7 +196,7 @@ Näiteid käideldavuse probleemidest:
 - Üliõpilasele antakse topelt diplom (rahvastikuregister pole kasutatav)
 - Abielluvad 2 abielus olevat isikut (Õnnepalee volitatud töötaja ei pääse ligi rahvastikuregistrile).
 
-Andmete **terviklus** (integrity) on andmete pärinemine autentsest allikast ning veendumine, et need pole hiljem muutunud ja/või neid pole hiljem volitamatult muudetud.
+Andmete **terviklus** **_integrity_** on andmete pärinemine autentsest allikast ning veendumine, et need pole hiljem muutunud ja/või neid pole hiljem volitamatult muudetud.
 
 Kompleksset mõistet, mis hõlmab andmete kehtivust, andmete kasutatavust, andmete õigsust ja andmete terviklust nimetakse **andmete kooskõlalisuseks.**
 
@@ -204,9 +209,9 @@ Tervikluse rikkumise näited:
 
 Tervikluseprobleemid võivad tekkida ka arvuti füüsiliste häirete korral – kas pole mingil põhjusel andmed loetavad või nad saavad rikutud mälu defektide tõttu. Kui näiteks on vaja salvestada arve andmed, siis need sisaldavad 3 informatsioonikillukest makse summa, käibemaks ja makse kuupäev. Kui üks nendest osadest on puudu või moondunud, võib see põhjustada hulga segadusi. Viimatitoodud probleemi saab lahendada tehingu tehnikaga: kui näiteks mingi osa vajalikust 3 infotükist on puudu, siis tehing tühistatakse.
 
-Teine terviklusprobleem tekkib infotükikeste funktsionaalse sõltuvuse korral nende vahel. Olgu näiteks arve, mille sisuks on mingid kaubad ja mille päises on kliendi info (tema aadress, arveldusarve number jms.). Need kliendi andmed on erineva olulisusega, kui arve sisu, sest tavaliselt on arve sisu olulisema tähtsusega ja kliendi andmed asuvad olemasolevas teises tabelis. Sündmus, mis tühistab päise lugemise võib tekitada andmerea kliendiandmeteta (_orphaned_). Selliste olukordade vältimiseks kasutatakse vahendit, mis tagab andmete "viitelise tervikluse" _(referential integrity_).
+Teine terviklusprobleem tekkib infotükikeste funktsionaalse sõltuvuse korral nende vahel. Olgu näiteks arve, mille sisuks on mingid kaubad ja mille päises on kliendi info (tema aadress, arveldusarve number jms.). Need kliendi andmed on erineva olulisusega, kui arve sisu, sest tavaliselt on arve sisu olulisema tähtsusega ja kliendi andmed asuvad olemasolevas teises tabelis. Sündmus, mis tühistab päise lugemise võib tekitada andmerea kliendiandmeteta **_orphaned_**. Selliste olukordade vältimiseks kasutatakse vahendit, mis tagab andmete "viitelise tervikluse" **_referential integrity_**.
 
-Andmete **konfidentsiaalsus** (confidentiality) ehk salastus on andmete kättesaadavus ainult selleks volitatud isikutele (ning kättesaamatus kõikidele ülejäänutele).
+Andmete **konfidentsiaalsus** **_confidentiality_** ehk salastus on andmete kättesaadavus ainult selleks volitatud isikutele (ning kättesaamatus kõikidele ülejäänutele).
 
 Konfidentsiaalsuse rikkumise näiteid:
 
@@ -217,9 +222,9 @@ Konfidentsiaalsuse rikkumise näiteid:
 
 Andmebaas võib olla suurepärane lahendus andmete paindlikuks muutmisele. On teada, et organisatsioonide andmevajadused arenevad aja möödudes ja see peegeldub hallatava info tüübis. Kui rakendusprogramm vastutab andmete juurdepääsu loogika eest, siis sisestatud uus info mõjutab otseselt vastutvat programmi ja kõiki teisi programme, mis haldavad kaasnevat (korreleeruvat) infot. Näiteks uue andmegrupi "kliendi elektronposti aadress" haldamine ei mõjuta ainult kliendiandmete haldusprogrammi vaid ka kõiki teisi programme, millistel on juurdepääs kliendiandmetele. Sellise olukorra parim lahendus on relatsiooniline andmebaas, milline annab infohalduses kõige suurema paindlikkuse.
 
-Suurte ettevõtete korral tekib andmetele üheaegse juurdepääsu probleem. Väikestes ettevõtetes on reeglina isik või osakond, kes vastutab kliendiandmete uuendamise eest, suurtel ettevõtetel on neid reeglina mitu. Näiteks võib tekkida olukord, kus arveldusosakond (raamatupidamine) tahab muuta kliendi arveandmeid (arveldusarve) ja turundusosakond tahab muuta kliendi aadressi. Kuna andmed paiknevad samas kirjes, siis tuleb vältida kattumise probleemi. See probleem on lahendatud **semaforide** (_semaphore_) või juurdepääsu reguleeriva tehnikaga, mis võimaldab andmete muutmist ühel ABHS kasutajal samal ajahetkel, teine lihtsalt peab senikaua ootama, kuni esimene on oma muudatused teinud.
+Suurte ettevõtete korral tekib andmetele üheaegse juurdepääsu probleem. Väikestes ettevõtetes on reeglina isik või osakond, kes vastutab kliendiandmete uuendamise eest, suurtel ettevõtetel on neid reeglina mitu. Näiteks võib tekkida olukord, kus arveldusosakond (raamatupidamine) tahab muuta kliendi arveandmeid (arveldusarve) ja turundusosakond tahab muuta kliendi aadressi. Kuna andmed paiknevad samas kirjes, siis tuleb vältida kattumise probleemi. See probleem on lahendatud **semaforide** **_semaphore_** või juurdepääsu reguleeriva tehnikaga, mis võimaldab andmete muutmist ühel ABHS kasutajal samal ajahetkel, teine lihtsalt peab senikaua ootama, kuni esimene on oma muudatused teinud.
 
-Tõsisem olukord tekib, kui kaks kasutajat tahavad uuendada kaht informatsioonitükki vastupidises järjekorras. Esimeses faasis saavad mõlemad juurdepääsu sellele infole, et seejärel määramatult oodata teise järgi, kes on blokeeritud (seda patiseisu nimetatakse ummikseisuks (_deadlock_)). Uued ABHS suudavad lahendada sellise olukorra jälgides blokeeritud operatsioone. Selliste olukordade parim lahendus on delegeerida kogu andmete uuendusprotsesside haldus andmebaasile.
+Tõsisem olukord tekib, kui kaks kasutajat tahavad uuendada kaht informatsioonitükki vastupidises järjekorras. Esimeses faasis saavad mõlemad juurdepääsu sellele infole, et seejärel määramatult oodata teise järgi, kes on blokeeritud (seda patiseisu nimetatakse ummikseisuks **_deadlock_**). Uued ABHS suudavad lahendada sellise olukorra jälgides blokeeritud operatsioone. Selliste olukordade parim lahendus on delegeerida kogu andmete uuendusprotsesside haldus andmebaasile.
 
 Samuti suudab juurdepääsu turvalisusust efektiivselt hallata ABHS, kes tegutseb läbitungimatu filtrina, kuna andmetele juurdepääs toimub ainult läbi ABHS. See tähendab, et kasutaja informatsioon ja õigused salvestatakse samuti (tavaliselt krüpteeritud kujul) andmebaasi.
 
@@ -253,7 +258,8 @@ Tuua välja erinevused failihaldussüsteemi ja andmebaaside haldussüsteemi vahe
 
 Iga kord kui püsiandmeid hallatakse, kasutatakse salvestusseadmeid, mis üldiselt põhinevad magnet või magnetoptilisel tehnoloogial. Üldjuhul kasutab neid seadmeid **operatsioonisüsteem** (OS) erinevate elementide salvestamiseks alates programmidest ja nende seadistustest kuni tegelike andmeteni.
 
-Iga OS kasutab oma **failhaldussüsteemi** _File Management System_ - _FMS_.
+Iga OS kasutab oma **failhaldussüsteemi** **_File Management System_**.
+
 FMS kasutab ära operatsioonisüsteemi teenused ligipääsuks salvestusseadmetele, mis on nähtavad, kui lehekülgede järjend, kus informatsioon on salvestatud.
 
 FMS struktureerib salvestusseadmed hierarhilisel viisil, jaotades nad **kaustadeks** või **kataloogideks** , mis võivad ise sisaldada teisi kaustu või arhiive ( **faile** ). FMS kasutamiseks ei pea teadma salvestusseadmete tehnilist struktuuri. Selle asemel, on piisav mäletada soovitud failinime ja rada või teed, mis kirjeldab kausta asukohta, kus fail asub.
@@ -264,7 +270,7 @@ Täpsemalt vaadates, avaldub FMS piiratus järgmistel juhtudel:
 
 - puudub optimiseerimisfunktsioon andmete jagamiseks, mis rakendaks vajaliku lukustuspoliitika ( **lukustus** ) kasutaja poolt kasutatavatele **failiosadele**
 - puudub üldine andmete manipuleerimise funktsioon, mis parima näitena on olemas mõne programmeerimiskeele (tavaliselt objektorienteeritud keelte) laiendusena nagu näiteks korraldus "cout" C++ keeles
-- puudub funktsioon terviklikkuse haldamiseks. See on peamiselt vajalik tehingute ja relatsioonide tervikluse tagamiseks, kuna madaltaseme lahendus nagu **sõltumatute ketaste liiane massiiv** ( **RAID** ) on olemas üldise tervikluse tagamiseks
+- puudub funktsioon terviklikkuse haldamiseks. See on peamiselt vajalik tehingute ja relatsioonide tervikluse tagamiseks, kuna madaltaseme lahendus nagu **sõltumatute ketaste liiane massiiv** **_RAID_** on olemas üldise tervikluse tagamiseks
 - puudub funktsioon suhete, linkide või objektide otsehalduseks.
 
 ### B.2.2.2 Andmebaasisüsteemi komponendid: andmefailid, andmesõnastik, indeksid, statistilised andmed
@@ -275,9 +281,9 @@ Kirjeldada andmebaasisüsteemi komponente: andmefailid, andmesõnastikud, indeks
 
 :::
 
-ABHS võib andmete halduseks kasutades operatsioonisüsteemi poolt pakutavaid failihaldussüsteemi funktsioone või otseselt ise tegeleda salvestusseadmetega. Teise variandi puhul kasutatakse **erilist\*\*** failisüsteemi\*\*, mille on kavandanud ABHS tootjad ise. Erinevused nende kahe viisi vahel võivad olla märkimisväärsed, nii teostuskiiruse, kui hinna poolest; siiski pole see erinevus mõju avaldanud salvestatud informatsioonile.
+ABHS võib andmete halduseks kasutades operatsioonisüsteemi poolt pakutavaid failihaldussüsteemi funktsioone või otseselt ise tegeleda salvestusseadmetega. Teise variandi puhul kasutatakse **erilist failisüsteemi**, mille on kavandanud ABHS tootjad ise. Erinevused nende kahe viisi vahel võivad olla märkimisväärsed, nii teostuskiiruse, kui hinna poolest; siiski pole see erinevus mõju avaldanud salvestatud informatsioonile.
 
-ABHS ei saa piirduda ainult nõutavate andmete salvestamisega, kuna ta peab kõigepealt salvestama kuhugi andmete struktuuri, kusjuures mõlemad loogilisel tasemel (nimed, suhted) ja füüsilisel tasemel (meeldejätmiseks vajalikud andmetüübid) säilitades vajalikku paindlikkuse: see informatsioon salvestatakse **andmesõnaraamatus** (_data dictionary - DD_)_._ Samuti on vaja andmesõnaraamatusse salvestada indeksid. Administratiivsetest nõuest tulenevalt on vaja salvestada ametlike kasutajate andmed ja nende profiil: neid andmeid kasutab ABHS ise veendumaks soovitud operatsioonide vastuvõetavuses. Kogu seda informatsiooni kokku nimetatakse mõnikord **süsteemi kataloogideks** (_system catalogues_)_._
+ABHS ei saa piirduda ainult nõutavate andmete salvestamisega, kuna ta peab kõigepealt salvestama kuhugi andmete struktuuri, kusjuures mõlemad loogilisel tasemel (nimed, suhted) ja füüsilisel tasemel (meeldejätmiseks vajalikud andmetüübid) säilitades vajalikku paindlikkuse: see informatsioon salvestatakse **andmesõnaraamatus** **_data dictionary_**. Samuti on vaja andmesõnaraamatusse salvestada indeksid. Administratiivsetest nõuest tulenevalt on vaja salvestada ametlike kasutajate andmed ja nende profiil: neid andmeid kasutab ABHS ise veendumaks soovitud operatsioonide vastuvõetavuses. Kogu seda informatsiooni kokku nimetatakse mõnikord **süsteemi kataloogideks** **_system catalogues_**.
 
 Indeksite ülesandeks on võimaldada mõnede tunnuste järgi kiiremat otsingut. Nii nagu raamatute indeksite juures saab märksõna järgi kiiresti leida selle paiknemise lehekülje ilma kogu teksti läbi lappamata nii ka elektroonilises andmebaasis õnnestub indeksi järgi sobiv koht leida. Kusjuures vahe on eriti tuntav suurte andmemahtude korral, kus minutitepikkune otsimine võib sobiva indeksi korral asenduda millisekunditega. Klasterdatud indeksi puhul sorteeritakse kogu andmestik vajaliku veeru järgi, neid saab iga tabeli kohta olla vaid üks.
 
@@ -353,11 +359,11 @@ Defineerida andmete abstraheerimine ja selgitada vahet füüsilise taseme, konts
 
 Andmete haldusprobleemid võib jagada kolmeks: salvestamine, modelleerimine ja juurdepääsemine. Juhtimise keerukust võib vähendada vaadeldes neid erinevaid aspekte eraldi. Selle eesmärgi saavutamiseks on kolmemõõtmeline mudel, mis eraldab füüsilise vaate, loogilise vaate ja kasutaja vaate saavutanud üldise tunnustuse.
 
-**Füüsiline vaade** \_physical level_t egeleb andmete salvestamise viisidega. Seda võib lihtsalt saavutada, delegeerides selle ülesande operatsioonisüsteemi failihaldussüsteemile või otsese ja optimaalse kettaseadmete haldusega.
+**Füüsiline vaade** **_physical level_** egeleb andmete salvestamise viisidega. Seda võib lihtsalt saavutada, delegeerides selle ülesande operatsioonisüsteemi failihaldussüsteemile või otsese ja optimaalse kettaseadmete haldusega.
 
-**Loogiline vaade** _conceptual level_ käsitleb, kuidas informatsioon struktureeritakse, defineerides seosed andmete vahel.
+**Loogiline vaade** **_conceptual level_** käsitleb, kuidas informatsioon struktureeritakse, defineerides seosed andmete vahel.
 
-**Kasutaja vaade** _view level_ käsitleb kasutajate juurdepääsu infole nii võimalike operatsioonide kui ka kasutajale kuvatava info struktuuri kontekstis. Lihtsamate rakenduste puhul võib see suuresti sarnaneda loogilisele vaatele, kuid kasutajamugavuse huvides saab kasutajavaadet vajadust mööda kohandada.
+**Kasutaja vaade** **_view level_** käsitleb kasutajate juurdepääsu infole nii võimalike operatsioonide kui ka kasutajale kuvatava info struktuuri kontekstis. Lihtsamate rakenduste puhul võib see suuresti sarnaneda loogilisele vaatele, kuid kasutajamugavuse huvides saab kasutajavaadet vajadust mööda kohandada.
 
 Nimetatud kolm vaadet on üksteisest sõltumatud ja võivad olla hallatavad erinevate isikute või subjektide poolt, muutes sellise käsitluse suhteliselt efektiivseks. Füüsiline vaade, näiteks on hallatav ABHS poolt ja kuulub seetõttu ABHS projekteerijate vastutusvaldkonda. Iga ABHS teostus põhineb igal konkreetsel juhul kompromissil teostuskiiruse, maksumuse ja stabiilsuse vahel. Loogilise ja kasutaja vaate teostus on otsustamise seisukohalt rohkem standardne, võimaldades andmebaasi projekteerijatel struktureerida andmebaasi vastavalt aja ja rakenduse nõuetele.
 
@@ -391,7 +397,7 @@ Kirjeldada kirjepõhise loogilise mudeli põhimõtet nt hierarhilise või võrkm
 
 :::
 
-**Kirjepõhine** loogiline mudel on sarnasem arhiveerimistegevusele, mida kasutati enne arvutiseerimise ajajärku. Võrreldes ER mudeliga, on kirje samaväärne olemiga, mis tagab, et ta esindab sama objektiga seotud informatsioonigruppi. Kui ER mudelis seda informatsioonigruppi kutsutakse atribuudiks (omaduseks), siis siin on tema nimi **andmeväli** _field_ erinevus on filosoofiline, kuna ER mudel teeb üldistuse defineerides olemi ja atribuudid.
+**Kirjepõhine** loogiline mudel on sarnasem arhiveerimistegevusele, mida kasutati enne arvutiseerimise ajajärku. Võrreldes ER mudeliga, on kirje samaväärne olemiga, mis tagab, et ta esindab sama objektiga seotud informatsioonigruppi. Kui ER mudelis seda informatsioonigruppi kutsutakse atribuudiks (omaduseks), siis siin on tema nimi **andmeväli** **_field_** erinevus on filosoofiline, kuna ER mudel teeb üldistuse defineerides olemi ja atribuudid.
 
 Teine erinevus on viisis, kuidas suhteid (seoseid) defineeritakse ja hallatakse.
 
@@ -413,30 +419,30 @@ Kirjeldada objektipõhise loogilise mudeli põhimõtet nt olem-relatsioonmudeli 
 
 Objektipõhised loogilise mudelid: olemi-seosemudel, objektorienteeritud mudel
 
-Esimene objektidega seotud mudel sai nimeks olemi-seosemudel või **objekti-seosemudel** _entity/relationship (E/R) model_ Mudel algab objekti (olemi, andmeühiku) määratlusega. Näiteks personalihalduse kontekstis oleks objektiks või andmeühikuks töötaja. Objektide gruppi (ettevõtte töötajad) nimetatakse **objektide hulgaks** (või andmeühikute hulgaks _entity set_. Igat objekti iseloomustavad atribuudid ehk omadused _attributes_, millised teda kirjeldavad. Töötaja omaduseks (atribuudiks) on näiteks tema töölevõtmise kuupäev.
+Esimene objektidega seotud mudel sai nimeks olemi-seosemudel või **objekti-seosemudel** **_entity / relationship model_** **_E / R model_** Mudel algab objekti (olemi, andmeühiku) määratlusega. Näiteks personalihalduse kontekstis oleks objektiks või andmeühikuks töötaja. Objektide gruppi (ettevõtte töötajad) nimetatakse **objektide hulgaks** (või andmeühikute hulgaks **_entity set_**. Igat objekti iseloomustavad atribuudid ehk omadused **_attributes_**, millised teda kirjeldavad. Töötaja omaduseks (atribuudiks) on näiteks tema töölevõtmise kuupäev.
 
 Konkreetse objektide või andmeühikute eristamiseks hulgas kasutatakse **võtit** , milleks on on üks objekti omadus. On olemas erinevaid võtmeid, kuid kõikide nende ülesandeks on objekti unikaalne eristamine objektide hulga sees.
 
-Esimene võtmetüüp on nn. **supervõti** _(superkey)._ Supervõti koosneb mitmest omadusest, mis muudab ta ülikülluslikuks, arvestades tema eesmärki. Supervõtme näiteks võiks olla omadustegrupist "kontonumber", "büroo nimetus" ja "sugu" koosnev võti. Kuna isiku kontonumber iseenesest on piisav isiku määratlemiseks, siis selline võti ongi ülikülluslik.
+Esimene võtmetüüp on nn. **supervõti**. Supervõti koosneb mitmest omadusest, mis muudab ta ülikülluslikuks, arvestades tema eesmärki. Supervõtme näiteks võiks olla omadustegrupist "kontonumber", "büroo nimetus" ja "sugu" koosnev võti. Kuna isiku kontonumber iseenesest on piisav isiku määratlemiseks, siis selline võti ongi ülikülluslik.
 
-Võtme, mis võimaldab objekti üheselt määratleda ilma omaduste ülemäärase kasutamiseta, võib supervõtmest eraldada ja ta muutub **primaarvõtme** _(primary key)_ **kandidaatvõtmeks** *(candidate key).*Ülaltoodud näites toodud kontonumber oleks hea kandidaatvõtme näide. Kui kandidaatvõtmeid on rohkem, kui üks, siis valitakse neist üks primaarvõtmeks. Töötaja näitel konstrueeritakse primaarvõti hoopis omadusest "töötaja number", sest ettevõtte sees on see omadus nagunii unikaalne ja iseloomustab töötajat rohkem, kui kontonumber, milline on aga parim primaarvõti pangaklientide eristamiseks.
+Võtme, mis võimaldab objekti üheselt määratleda ilma omaduste ülemäärase kasutamiseta, võib supervõtmest eraldada ja ta muutub **primaarvõtme** **_primary key_**, **kandidaatvõtmeks**. Ülaltoodud näites toodud kontonumber oleks hea kandidaatvõtme näide. Kui kandidaatvõtmeid on rohkem, kui üks, siis valitakse neist üks primaarvõtmeks. Töötaja näitel konstrueeritakse primaarvõti hoopis omadusest "töötaja number", sest ettevõtte sees on see omadus nagunii unikaalne ja iseloomustab töötajat rohkem, kui kontonumber, milline on aga parim primaarvõti pangaklientide eristamiseks.
 
-**Seos** , suhe või sõltuvus on link, mis loob loogilise seose objektide või objektide hulkade vahel. Näiteks on ettevõttes olemas seos töötajate hulga ja nende töötasupakettide vahel. Igat suhet kirjeldatakse omaduste grupiga. Eeltoodud näite puhul võib töötasupaketi ja töötaja vahelise seose omadusteks olla töötaja number, kuu number ja aasta number. Kaks seosega lingitud omadust võivad olla eritasandilised, näiteks üks on valitsev _(dominant)\_ja teine alluv _(subordinate)\__._ Toodud näitest on töötaja number valitsev, sest ei saa maksta palka, kui pole töötajat. On muidugi ka vastupidine võimalik, sest töötasu palga näol ei maksta reeglina enne, kui töötaja on kuu aega töötanud.
+**Seos** , suhe või sõltuvus on link, mis loob loogilise seose objektide või objektide hulkade vahel. Näiteks on ettevõttes olemas seos töötajate hulga ja nende töötasupakettide vahel. Igat suhet kirjeldatakse omaduste grupiga. Eeltoodud näite puhul võib töötasupaketi ja töötaja vahelise seose omadusteks olla töötaja number, kuu number ja aasta number. Kaks seosega lingitud omadust võivad olla eritasandilised, näiteks üks on valitsev ja teine alluv. Toodud näitest on töötaja number valitsev, sest ei saa maksta palka, kui pole töötajat. On muidugi ka vastupidine võimalik, sest töötasu palga näol ei maksta reeglina enne, kui töötaja on kuu aega töötanud.
 
-**Kardinaalsus** on seose või suhte oluline omadus ja ta määratleb, milline on seotud andmeväljade vastavus. Suhe töötaja ja töötasupaketi vahel on „üks-mitmega" tüüpi, mis näitab, et üldisele töötajale vastab mitu töötasupaketti. Suhe, mis seob töötasupaketi suhtelise väljamaksega on „üks-ühene" seos, mis näitab, et töötasupakett peab vastama ühele ja ainult ühele väljamaksele (konkreetse isiku palgasumma).
+**Kardinaalsus** **_cardinality_** on seose või suhte oluline omadus ja ta määratleb, milline on seotud andmeväljade vastavus. Suhe töötaja ja töötasupaketi vahel on „üks-mitmega" tüüpi, mis näitab, et üldisele töötajale vastab mitu töötasupaketti. Suhe, mis seob töötasupaketi suhtelise väljamaksega on „üks-ühene" seos, mis näitab, et töötasupakett peab vastama ühele ja ainult ühele väljamaksele (konkreetse isiku palgasumma).
 
-Eraldi peaks vaatama **„nõrku olemeid"** _weak entities_ või olemeid, millistel puudub oma primaarvõti. Selliste olemite näiteks võib tuua pangadeposiidi, mille atribuudid on kogus (summa) ja kuupäev/kellaeg ehk ajatempel _timestamp_ Pole võimalik määratleda primaarvõtit, kuna erinevad inimesed võivad teha samasuure hoiuse samal ajahetkel. Õigemini see olem omab mitu-ühega sõltuvust koos olemiga, mis kajastab pangkonto numbrit, millisele hoius paigutati, mis omakorda on konto primaarvõtmeks. Hoiuse primaarvõti koostataksegi atribuutidest hoiuse ajatempel ja olemi "konto" kontonumber.
+Eraldi peaks vaatama "nõrku olemeid" **_weak entities_** või olemeid, millistel puudub oma primaarvõti. Selliste olemite näiteks võib tuua pangadeposiidi, mille atribuudid on kogus (summa) ja kuupäev/kellaeg ehk ajatempel **_timestamp_** Pole võimalik määratleda primaarvõtit, kuna erinevad inimesed võivad teha samasuure hoiuse samal ajahetkel. Õigemini see olem omab mitu-ühega sõltuvust koos olemiga, mis kajastab pangkonto numbrit, millisele hoius paigutati, mis omakorda on konto primaarvõtmeks. Hoiuse primaarvõti koostataksegi atribuutidest hoiuse ajatempel ja olemi "konto" kontonumber.
 
-Olemi-seosemudel on esimene ja kõige laialdasemalt kasutatav mudel, kuid ta pole ainuke loogiline mudel, sest objektorienteeritud keelte pealetungiga on ka objektorienteeritud andmebaasid _object-oriented databases_ OODB, vastav eestikeelne lühend võiks olla OOAB)) laialt levinud. OOAB mõiste on tuletatud kasutades objektorienteeritud programmeerimise põhimõtteid koos andmete haldamise ja salvestamise võimega. OOAB kasutatakse andmehalduses keerukamate andmestruktuuride korral, kus ei piisa ainult omaduste loetelude haldusest, vaid kus on vaja sooritada **salvestatud andmetega seotud tegevusi** või toiminguid.
+Olemi-seosemudel on esimene ja kõige laialdasemalt kasutatav mudel, kuid ta pole ainuke loogiline mudel, sest objektorienteeritud keelte pealetungiga on ka objektorienteeritud andmebaasid **_object-oriented databases_** / **_OODB_**, vastav eestikeelne lühend võiks olla OOAB)) laialt levinud. OOAB mõiste on tuletatud kasutades objektorienteeritud programmeerimise põhimõtteid koos andmete haldamise ja salvestamise võimega. OOAB kasutatakse andmehalduses keerukamate andmestruktuuride korral, kus ei piisa ainult omaduste loetelude haldusest, vaid kus on vaja sooritada **salvestatud andmetega seotud tegevusi** või toiminguid.
 
 OOAB üldpõhimõtted on samad, mis objektorienteeritud programmeerimisel:
 
 - abstraktsioon ehk üldistus - omadus kirjeldada objektide funktsionaalseid külgi ja vältida tähelepanu pööramist detailide sisemisele teostusele
-- kapseldus _encapsulation_ või võime eraldada välised aspektid (funktsionaalsus) sisemisest esitlusest, kuna see pole ülemiste rakenduse kihtide seisukohalt oluline, on ta maskeeritud.
+- kapseldus **_encapsulation_** või võime eraldada välised aspektid (funktsionaalsus) sisemisest esitlusest, kuna see pole ülemiste rakenduse kihtide seisukohalt oluline, on ta maskeeritud.
 
-Mõlemad toodud aspektid võimaldavad selgitada (kasutada) abstraktse andmetüübi _abstract data types_ (ADT) mõistet.
+Mõlemad toodud aspektid võimaldavad selgitada (kasutada) abstraktse andmetüübi **_abstract data types_** **_ADT_** mõistet.
 
-Objekte iseloomustavad atribuudid (andmed) ja tegevused (kuidas objekte on võimalik manipuleerida). Näiteks "tekst" tüüpi objektil on võimalik defineerida teksti lisamise operatsioon tekstide liitmise teel või mingi lõigu otsimine sellest tekstist. Sarnaselt olemite või olemite hulkadega, võib objekt kuuluda objektide **klassi**. On samuti võimalik määratleda, et objektid on ainsad klassi **eksemplarid** (või **esindajad** ), mis esindavad mingit tuntud rakendust. Igal objektil on oma **tunnus** OID _object identifier_, mis on unikaalne kogu süsteemi ulatuses ja mis kujutab endast viidet objektile enesele.
+Objekte iseloomustavad atribuudid (andmed) ja tegevused (kuidas objekte on võimalik manipuleerida). Näiteks "tekst" tüüpi objektil on võimalik defineerida teksti lisamise operatsioon tekstide liitmise teel või mingi lõigu otsimine sellest tekstist. Sarnaselt olemite või olemite hulkadega, võib objekt kuuluda objektide **klassi**. On samuti võimalik määratleda, et objektid on ainsad klassi **eksemplarid** (või **esindajad** ), mis esindavad mingit tuntud rakendust. Igal objektil on oma **tunnus** **_OID_** / **_object identifier_**, mis on unikaalne kogu süsteemi ulatuses ja mis kujutab endast viidet objektile enesele.
 
 ### 2.3.5 Kordamisküsimused
 
@@ -636,7 +642,7 @@ Tuua välja vahe protesuursete ja mitteprotseduursete keelte vahel.
 
 :::
 
-Andmebaaside päringkeelte areng algas relatsioonalgebraga ja jõudis **struktureeritud päringukeeleni** _( **Structured Query Language - SQL** )._ Relatsioonalgebra on protsessidega seotud protseduurkeel: võib olla vajalik teostada rohkem järjestatud tegevusi soovitava tulemuse saamiseks nagu näidatud järgnevate näidetega paaril leheküljel. SQL on peamiselt **mitteprotseduuriline** keel: iga korraldus annab tulemuseks soovitud väljundi. Kuidas vastava väljundini jõutakse, see jääb suurelt jaolt andmebaasimootori ülesandeks. See kehtib eriti tõlgendatud SQL kohta, millist kasutavad andmebaaside administraatorid, kuid keeles on konstruktsioone, millised saab kasutada ainult programmeerimiskeele kaudu ja mis võimaldavad kasutada teatud protseduure, mis on olemas ainult standardse SQL sisemises määratluses ehk spetsifikatsioonis (põhiliselt on need käsurea korraldused).
+Andmebaaside päringkeelte areng algas relatsioonalgebraga ja jõudis **struktureeritud päringukeeleni** **_Structured Query Language - SQL_** Relatsioonalgebra on protsessidega seotud protseduurkeel: võib olla vajalik teostada rohkem järjestatud tegevusi soovitava tulemuse saamiseks nagu näidatud järgnevate näidetega paaril leheküljel. SQL on peamiselt **mitteprotseduuriline** keel: iga korraldus annab tulemuseks soovitud väljundi. Kuidas vastava väljundini jõutakse, see jääb suurelt jaolt andmebaasimootori ülesandeks. See kehtib eriti tõlgendatud SQL kohta, millist kasutavad andmebaaside administraatorid, kuid keeles on konstruktsioone, millised saab kasutada ainult programmeerimiskeele kaudu ja mis võimaldavad kasutada teatud protseduure, mis on olemas ainult standardse SQL sisemises määratluses ehk spetsifikatsioonis (põhiliselt on need käsurea korraldused).
 
 ### B.2.5.2 Relatsioonalgebra põhioperatsioonid
 
@@ -696,7 +702,7 @@ Et tõhusalt mõista andmete otsimist, on kasulik alustada relatsioonalgebra mõ
 | A02             | Maria | Geograafia |
 | A03             | Ella | Ajalugu |
 
-- **Konjunktsioon** ehk **Seotus** (liitumine, ühendamine – _join_). Liitumistehe on põhimõtteliselt otsekorrutis koos järgneva valikuga. Kui valik sisaldab ainult võrdseid tingimusi, siis on tehte nimi "ekvivalentne seos – _equi-join_". Ekvivalentse seose tulemus on eriline kahe tabeli vaheline liitumine. Kui sellele järgneb projektsioon, on sekke tehte nimeks "loomulik liitumine – natural join". Kaks viimast ülaltoodud näitest saadud tabelit on ekvivalentse seose ja loomuliku liitumise näited.
+- **Konjunktsioon** ehk **Seotus** (liitumine, ühendamine **_join_**. Liitumistehe on põhimõtteliselt otsekorrutis koos järgneva valikuga. Kui valik sisaldab ainult võrdseid tingimusi, siis on tehte nimi "ekvivalentne seos **_equi-join_**. Ekvivalentse seose tulemus on eriline kahe tabeli vaheline liitumine. Kui sellele järgneb projektsioon, on sekke tehte nimeks "loomulik liitumine – **_natural join_**. Kaks viimast ülaltoodud näitest saadud tabelit on ekvivalentse seose ja loomuliku liitumise näited.
 
 - **Ümbernimetamine**. Kasutatakse tabeli veergude ümbernimetamiseks. Näiteks "Tudengikood " veeru võib ümber nimetada "kood" veeruks.
 
@@ -718,9 +724,37 @@ Kirjeldada SQL keele komponente :andmete defineerimiskeel (DDL), andmete manipul
 
 Liikudes relatsioonalgebra juurest SQL juurde peab tähele panema, et see keel sisaldab mitmeid sisemisi osi (komponente). Eriti olulised on:
 
-- **Andmete defineerimiskeel** või **andmete määratluskeel** (_Data Definition Language – DDL_) on SQL osa, mis on mõeldud andmete defineerimiseks. Keel sisaldab korraldusi: _ **create** _– loo; _ **drop** _– pilla, kukuta, kaota ja **alter** – muuda. Need käsud võimaldavad tabelite, vaadete ja indeksite loomist, kõrvaldamist ja muutmist. Neid korraldusi tutvustame põgusalt järgmises lõigus.
-- **Andmete manipuleerimiskeel** (_Data Manipulation Language - DML_) on SQL osa, mis on mõeldud andmete manipuleerimiseks. Keel sisaldab korraldusi **_insert_** - pane vahele, sisesta, lisa; **delete** - kustuta ja **update** - uuenda. Need käsud võimaldavad ridasid lisada, kustutada või muuta. Lisaks on korraldus **Select** – vali, mis võimaldab andmeid pärida.
-- Toetavad korraldused on seotud turvalisuse ja kasutajate õigustega ( **grant** - andma, tagama; **revoke** - tühistama), andmetehingutega ( **commit** - soorita, teosta; **rollback** – keri tagasi; **rollforward** – keri edasi) või programmeerimiskeele korraldustega (tehted käsureal).
+**Andmete defineerimiskeel** või **andmete määratluskeel** **_Data Definition Language_** **_DDL_** on SQL osa, mis on mõeldud andmete defineerimiseks.
+
+Keel sisaldab korraldusi:
+
+```sql
+create  # loo;
+drop    # pilla, kukuta, kaota
+alter   # muuda
+```
+
+Need käsud võimaldavad tabelite, vaadete ja indeksite loomist, kõrvaldamist ja muutmist. Neid korraldusi tutvustame põgusalt järgmises lõigus.
+
+**Andmete manipuleerimiskeel** **_Data Manipulation Language_** **_DML_** on SQL osa, mis on mõeldud andmete manipuleerimiseks.
+
+Keel sisaldab korraldusi
+
+```sql
+insert    # pane vahele, sisesta, lisa
+delete    # kustuta
+update    # uuenda.
+select    # päri andmeid
+```
+
+**Toetavad korraldused** on seotud turvalisuse ja kasutajate õigustega või andmetehingutega:
+
+```sql
+grant       # andma, tagama
+revoke      # tühistama
+commit      # soorita, teosta
+rollback    # keri tagasi
+```
 
 ### 2.5.4 Andmete määratluskeele tähtsamad korraldused
 
@@ -858,19 +892,28 @@ CREATE UNIQUE INDEX koeraindeks ON koerad(kood)
 
 Ühiseks ja igalpool toimivaks standardiks on üljuhul SQL-92 (aastanumber). Andmebaasisüsteemid on hulgaliselt teinud täiendusi andmetüüpide ja käskude lisavõimaluste juures, samuti näiteks primaarvõtme ja automaatsete koodide loomisel. Nii et ühes keskkonnas kokku pandud vähegi keerukamate käskude üle viimine teise võib küllalt keeruliseks osutuda.
 
-### B.2.5.5 Kordamisküsimused
+::: danger Probleem
 
-::: warning Õppekava
+**Õppekava punkt 2.5.5:**
 
 Aru saada SQL andmete juhtkeele käskude toimimisest nt grant, revoke.
 
+**seostub hoopis hilisema materjaliga**
+
 :::
 
+### B.2.5 Kordamisküsimused
+
+::: tip Kordamisküsimused
+
 Tabelile veeru lisamiseks tuleb kasutada käsklust:
-– insert
-– update
-– select from
-– alter table X
+
+– `insert`
+– `update`
+– `select from`
+– `alter table` X
+
+:::
 
 ## B.2.6 SQL-päringud
 
@@ -926,17 +969,17 @@ Siin käsitletud tingimused on küllaltki lihtsad. Kõikvõimalikud **where** kl
 
 | **Tingimus** | **Tähendus**                                                                                                                                                                                        |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| =            | Tingimus on tõene, kui operaatori mõlemad pooled on võrdsed.                                                                                                                                        |
-| !=           | Tingimus on tõene, kui operaatori mõlemad pooled on erinevad.                                                                                                                                       |
-| > >= <= <    | Tingimus on tõene, kui operaatori mõlemad pooled vastavad näidatud võrratuse tingimusele.                                                                                                           |
-| like         | Tingimus on tõene, kui termini "like" vasak pool sisaldab parempoolseid tingimusi (sümboleid). Võib kasutada metamärke nagu "%" sümbol. Sümbolit % käsitletakse, kui sümbolite mistahes järjestust. |
-| matches      | Tingimus on tõene, kui vasak pool vastab parempoolsetele tingimustele (sümbolitele). Võib kasutada metamärke.                                                                                       |
+| `=`          | Tingimus on tõene, kui operaatori mõlemad pooled on võrdsed.                                                                                                                                        |
+| `!=`         | Tingimus on tõene, kui operaatori mõlemad pooled on erinevad.                                                                                                                                       |
+| `> >= <= <`  | Tingimus on tõene, kui operaatori mõlemad pooled vastavad näidatud võrratuse tingimusele.                                                                                                           |
+| `like`       | Tingimus on tõene, kui termini "like" vasak pool sisaldab parempoolseid tingimusi (sümboleid). Võib kasutada metamärke nagu "%" sümbol. Sümbolit % käsitletakse, kui sümbolite mistahes järjestust. |
+| `matches`    | Tingimus on tõene, kui vasak pool vastab parempoolsetele tingimustele (sümbolitele). Võib kasutada metamärke.                                                                                       |
 
 | **Suhteoperaator** | **Tähendus**                                                                           |
 | ------------------ | -------------------------------------------------------------------------------------- |
-| and                | Avaldis on tõene, kui operaatorile eelnevad ja järgnevad tingimused on mõlemad tõesed. |
-| or                 | Avaldis on tõene, kui vähemalt üks kahest tingimusest on tõene.                        |
-| not                | Eitab operaatorile järgnevat tingimust (vastab vastandväärtusele).                     |
+| `and`                | Avaldis on tõene, kui operaatorile eelnevad ja järgnevad tingimused on mõlemad tõesed. |
+| `or`                 | Avaldis on tõene, kui vähemalt üks kahest tingimusest on tõene.                        |
+| `not`                | Eitab operaatorile järgnevat tingimust (vastab vastandväärtusele).                     |
 
 Järgnev näide demonstreerib, kuidas tühistatakse kõik õpilane kirjed Juurikas perekonnanimega, kes on sündinud enne 1. jaanuari 1983. Rea tühistamiseks (kustutamiseks) peab see rahuldama mõlemaid tingimusi ja seepärast kasutatakse and operaatorit.
 
