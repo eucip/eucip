@@ -586,6 +586,12 @@ Deklaratsioonidega seotakse mingi sümbolitest koosnev nimi mõne andmeobjekti v
 
 Deklareerimise käigus seotakse tihti andmeobjektiga mingi koht mälus, kus siis seda konkreetset andmeobjekti iseloomustavaid väärtuseid hoitakse.
 
+::: danger Vananenud keel
+
+EPL keel pole koodinäidetes praktiline, mõistlikum on koodinäited ümber kirjutada rohkem levinumasse C-sarnasesse keelde nt Javascripti
+
+:::
+
 Kõige levinumad deklaratsioonid on muutujate deklaratsioonid, näiteks kasutades EPL (EUCIP Programming Language, baseerub C-keelel) pseudokeelt võime deklareerida muutujaid järgmiselt:
 
 ```c
@@ -706,7 +712,7 @@ else
 
 Kui a on suurem kolmest, siis b võrdustakse viiega ja kui a ei ole suurem kolmest, siis c omistatakse väärtus kuus.
 
-_If_-käsu keerulisemad versioonid on _case_ ja \_switc_h, need juhtkäsud võimaldavad rohkemaid jagunemisi vastavalt tingimustele, kui kuna EPL keel neid ei sisalda, siis siinkohal me neid ei käsitle.
+`if`-käsu keerulisemad versioonid on `case` ja `switch`, need juhtkäsud võimaldavad rohkemaid jagunemisi vastavalt tingimustele, kui kuna EPL keel neid ei sisalda, siis siinkohal me neid ei käsitle.
 
 Kordused võimaldavad mingisugust koodi osa vastavalt etteantud tingimusele korduvalt täita. Kordused jagunevad: eelkontrolliga ja järelkontrolliga ning määratud pikkusega ja määramata pikkusega kordusteks.
 
@@ -910,9 +916,9 @@ Kirjeldada testimise põhimõisteid: veavõimalus (fault), viga (error), tõrge 
 
 :::
 
-Testimiseks saab nimetada ka lihtsat kompileeri/käivita/paranda tsüklit, kuid testimine on tarkvara valmimise juures nõnda tähtis osa, et selle tarbeks on hulgaliselt erinevaid vahendeid ja võimalusi loodud.
+Testimiseks saab nimetada ka lihtsat kompileeri / käivita / paranda tsüklit, kuid testimine on tarkvara valmimise juures nõnda tähtis osa, et selle tarbeks on hulgaliselt erinevaid vahendeid ja võimalusi loodud.
 
-Arenduskeskkondade juurde kuuluvad silurid (debugger), mille abil on võimalik programmi sammu kaupa käivitada ning iga sammu järel kontrollida süsteemi seisu – muutujate väärtusi, väljundit failidesse ja ekraanile. Samuti võimaldavad silurid käivitada programmi kuni määratud koodireani ning valida, kas sammu kaupa astudes sisenetakse ka väljakutsutavatesse alamprogrammidesse või mitte – nõnda on ka suurema rakenduse puhul võimalik jõuda sobilikku kohta ning siis lähemalt uurida, kuidas parasjagu aktiivse koodi juures süsteem töötab.
+Arenduskeskkondade juurde kuuluvad silurid **_debugger_**, mille abil on võimalik programmi sammu kaupa käivitada ning iga sammu järel kontrollida süsteemi seisu – muutujate väärtusi, väljundit failidesse ja ekraanile. Samuti võimaldavad silurid käivitada programmi kuni määratud koodireani ning valida, kas sammu kaupa astudes sisenetakse ka väljakutsutavatesse alamprogrammidesse või mitte – nõnda on ka suurema rakenduse puhul võimalik jõuda sobilikku kohta ning siis lähemalt uurida, kuidas parasjagu aktiivse koodi juures süsteem töötab.
 
 Logimiste tarbeks on loodud eraldi abivahendeid. Lihtsaim ja vanadest aegadest levinuim on töö vahetulemuste trükkimine väljundaknasse. Suuremate rakenduste puhul aga võib neid teateid olla raske jälgida. Samuti peab ettevaatlik olema, et sellised programmeerijale mõeldud vaheteated lõppkasutajat häirima ei jääks. Selle tarbeks on mõeldud ka mitmeid abivahendeid nagu näiteks konstantide defineerimine C-keeles, kuid sellegipoolest kipuvad vaheväljatrükid mõnigikord segadust tekitama. Eri keskkondades on loodud logimiste tarbeks mitmesugused abivahendid – eri raskusastmega teadete saatmiseks logifailidesse või näiteks nende kättesaamiseks erilise aadressigaveebilehelt. Vigade raskusastmed arvutuslikest ebakõladest süsteemi tööd halvavate vigadeni.
 
@@ -924,7 +930,13 @@ Kirjeldada erinevate testimiste eesmärke ja ulatust: komponendi testimine, süs
 
 :::
 
-Vastuvõtutestid lepitakse tellija ja tegija vahel enne toote loomist kokku – siis on võimalik selle järgi otsustada, kas tehtu on nõuetele vastav. Funktsionaalsus- ehk süsteemitestide puhul vaadeldakse üksipulgi kasutajalugudes kirjas olevaid nõudeid. ";Musta kasti"; testide puhul piirdutakse juhuslike ja käepäraste andmetega mis võimaluse korral valitakse võimalike andmete koguskaalast, et saada tulemustest ülevaatlikumat pilti. ";Valge kasti"; testimise puhul analüüsitakse eelnevalt läbi süsteemi sisemine töö enamasti programmikoodi tasemel ning püütakse ka sealtkaudu kahtlasemad kohad üles leida.
+**Vastuvõtutestid** **_acceptance testing_** lepitakse tellija ja tegija vahel enne toote loomist kokku – siis on võimalik selle järgi otsustada, kas tehtu on nõuetele vastav.
+
+**Funktsionaalsustestide** ehk süsteemitestide puhul **_functional tests_** vaadeldakse üksipulgi kasutajalugudes kirjas olevaid nõudeid.
+
+"Musta kasti" testide puhul piirdutakse juhuslike ja käepäraste andmetega mis võimaluse korral valitakse võimalike andmete koguskaalast, et saada tulemustest ülevaatlikumat pilti.
+
+"Valge kasti" testimise puhul analüüsitakse eelnevalt läbi süsteemi sisemine töö enamasti programmikoodi tasemel ning püütakse ka sealtkaudu kahtlasemad kohad üles leida.
 
 Üldiselt soovitatakse järgmist:
 
@@ -932,7 +944,7 @@ Vastuvõtutestid lepitakse tellija ja tegija vahel enne toote loomist kokku – 
 - Proovitakse läbi kordused ka nulli läbimiskorra juures
 - Arvutuste juures pööratakse tähelepanu ka olukordadele, kus ei saagi sobivat vastust tulla. Hoolikalt katsetatakse läbi piirjuhud mõlemalt poolt andmetega.
 
-Unit-testid (üksusetestid) kontrollivad enamasti ühe klassi töö korrektsust. Mõne metoodika järgi soovitatakse testid kirjutada enne tegeliku koodi valmimist ning iga testi loomise järel kirjutada koodi juurde nõnda vähe kui võimalik, et see soovitud testi ära kataks. Sellisel juhul võib suhteliselt kindel olla, et tarkvaraüksuse enamik omadusi on testidega kaetud. Testidega kaetuse hea külg on, et siis võib suhteliselt kindel olla, et tarkvara muutmise korral jäävad vanad funktsionaalsused samamoodi toimima ning ei avaldu üllatuslikke anomaaliaid ootamatutes kohtades (mis muul juhul tarkvara muutmise korral suhteliselt kergesti juhtuma kipuvad).
+Üksusetestid **_unit tests_** kontrollivad enamasti ühe klassi töö korrektsust. Mõne metoodika järgi soovitatakse testid kirjutada enne tegeliku koodi valmimist ning iga testi loomise järel kirjutada koodi juurde nõnda vähe kui võimalik, et see soovitud testi ära kataks. Sellisel juhul võib suhteliselt kindel olla, et tarkvaraüksuse enamik omadusi on testidega kaetud. Testidega kaetuse hea külg on, et siis võib suhteliselt kindel olla, et tarkvara muutmise korral jäävad vanad funktsionaalsused samamoodi toimima ning ei avaldu üllatuslikke anomaaliaid ootamatutes kohtades (mis muul juhul tarkvara muutmise korral suhteliselt kergesti juhtuma kipuvad).
 
 ### B.3.6.3 Testimise metodoloogiad. Automaatsed testimisvahendid
 
@@ -1018,9 +1030,9 @@ Kirjeldada programmi väärtuse säilitamist hoolduse abil, nagu koodi ülevaata
 
 :::
 
-Kommenteerimise üldreegliks on, et ";piisavalt lühidalt kuid kindlasti arusaadavalt";. Samas selliste kommentaaride maht ja keerukus sarnaste rakenduste juures võib kordades erineda. Hea, kui sama rakenduse või ka firma piires on kommenteerimise suhtes ühised tavad – siis tulevad kokkupandud rakenduste dokumentatsioonid ühtlasemad ning samuti teab täpsemalt ette aimata, mida võib kommentaaridest leida, mida mitte. Lisaks on ka programmeerimiskeelte kaupa olemas ühtsed soovitused programmikoodi vormistamiseks – muutujate kirjeldamise reeglid, treppimise reeglid samuti automaatsete kommentaaride kirjutamise reeglid.
+Kommenteerimise üldreegliks on, et "piisavalt lühidalt kuid kindlasti arusaadavalt". Samas selliste kommentaaride maht ja keerukus sarnaste rakenduste juures võib kordades erineda. Hea, kui sama rakenduse või ka firma piires on kommenteerimise suhtes ühised tavad – siis tulevad kokkupandud rakenduste dokumentatsioonid ühtlasemad ning samuti teab täpsemalt ette aimata, mida võib kommentaaridest leida, mida mitte. Lisaks on ka programmeerimiskeelte kaupa olemas ühtsed soovitused programmikoodi vormistamiseks – muutujate kirjeldamise reeglid, treppimise reeglid samuti automaatsete kommentaaride kirjutamise reeglid.
 
-Programmikoodi aitab viisakama ning usaldatavamana hoida koodi läbivaatus ehk selle inspekteerimine teise asjatundja poolt. Võõras silm avastab vigu ja kahtlasi kohti, mis kirjutajal enesel kipuvad tähelepanuta jääma. Ekstreemprogrammeerimise juures on läbivaatus viidud ";ekstreemselt põhjalikuks";, ehk siis koodi kirjutataksegi kahekesi koos. Toimingut nimetatakse paarisprogrammeerimiseks. Kasulikuks osutub aga ka lihtsalt pärast valmimist koodi läbivaatus ja analüüs teise eksperdi poolt.
+Programmikoodi aitab viisakama ning usaldatavamana hoida koodi läbivaatus ehk selle inspekteerimine teise asjatundja poolt. Võõras silm avastab vigu ja kahtlasi kohti, mis kirjutajal enesel kipuvad tähelepanuta jääma. Ekstreemprogrammeerimise juures on läbivaatus viidud "ekstreemselt põhjalikuks", ehk siis koodi kirjutataksegi kahekesi koos. Toimingut nimetatakse paarisprogrammeerimiseks. Kasulikuks osutub aga ka lihtsalt pärast valmimist koodi läbivaatus ja analüüs teise eksperdi poolt.
 
 ### B.3.7.5 Kordamisküsimused
 
