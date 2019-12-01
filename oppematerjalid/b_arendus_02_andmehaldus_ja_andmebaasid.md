@@ -759,9 +759,7 @@ Tabeli loomise käsu juurde peab olema lisatud tabel nimi ja tabeli veergude nim
 
 **Null value** tähendab SQL puhul mitte väärtust "0" ( **zero value** ) vaid tühja, ilma sisuta välja! Programmeerimiskeeles on sellele sarnaseks vasteks tühiviit, tavaelus väärtuse mitteteadmine.
 
-| Näited: |
-| ------- |
-
+Näited:
 
 ```sql
 create table tudengid (tkood integer not null, eesnimi char(10) not null, perenimi char(15) not null, synnipaev date);
@@ -789,11 +787,13 @@ alter table tname add ( colname coltype [not null], ...);
 alter table tname delete ( colname, ...);
 ```
 
-Kus tname, colname, not null tähendus on toodud ülalpool (tabeli loomine)
+Kus `tname`, `colname`, `not null` tähendus on toodud ülalpool (tabeli loomine)
 
 Esimene korraldus muudab veeru/veergude andmetüüpe. Andmetüüpide muutmine on alati võimalik, kui tabel on tühi, kuid võib osutuda võimatuks, kui tabelis on andmed.
 Kas see on võimalik, või mitte see sõltub andmete "vahetatavusest": näiteks on alati võimalik muundada arv stringiks, aga vastupidine on võimalik ainult siis, kui string esindab arvu. Mõne teisendusega võib kaasneda andmete kaotus: näiteks stringi muutmine väiksema pikkusega stringiks või float tüüpi andmete muutmine smfloat tüüpi andmeteks.
+
 Teine korralduste rida võimaldab veeru/veergude lisamist tabelisse: see võib osutuda võimatuks, kui tabel sisaldab andmeid ja lisatav veerg ei luba null väärtust (mõni SQL versioon lubab lisamiseks kasutada niinimetatud "vaikeväärtust" sellise probleemi lahendamiseks).
+
 Kolmas korralduste rida võimaldab veeru tühistamist (kustutamist): kui see veerg sisaldab andmeid, kustutatakse nad samuti.
 
 Näited:
@@ -842,11 +842,11 @@ drop index tudenginimi;
 
 #### Ülesandeid
 
-Koosta tabel koerte andmete hoidmiseks (kood, koeranimi)
+1. Koosta tabel koerte andmete hoidmiseks (kood, koeranimi)
 
-Lisa tabelisse synniaeg.
+2. Lisa tabelisse synniaeg.
 
-Lisa koodi jaoks unikaalne indeks
+3. Lisa koodi jaoks unikaalne indeks
 
 Vihjeid
 
@@ -867,14 +867,10 @@ Aru saada SQL andmete juhtkeele käskude toimimisest nt grant, revoke.
 :::
 
 Tabelile veeru lisamiseks tuleb kasutada käsklust:
-
-a – insert
-
-b – update
-
-c – select from
-
-d – alter table X
+– insert
+– update
+– select from
+– alter table X
 
 ## B.2.6 SQL-päringud
 
@@ -904,33 +900,37 @@ kus on kasutatud tähiseid:
 
 Andmete lisamise operatsioon võib nurjuda mitmel põhjusel: lisatavad andmed dubleerivad unikaalse indeksi väärtusi või sisestatavad andmed ei vasta veeru määratud andmetüübile.
 
-| Näited:                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| **_Insert into tudengid (tkood, eesnimi, perenimi) values (12, "Juhan", "Juurikas");_** |
+Näited:
+
+```sql
+insert into tudengid (tkood, eesnimi, perenimi) values (12, "Juhan", "Juurikas");
+```
 
 #### Delete
 
 Ridade kustutusoperatsioon võimaldab lisada ka kustutamise tingimusi, tutvustades uut süntaksielementi klausel where.
 
-**delete from tname [where colname condition {colval|colname} [oprel ...]];**
+```sql
+delete from tname [where colname condition {colval|colname} [oprel ...]];
+```
 
 kus on kasutatud tähiseid
 
-Tname – tabelinimi, millisest andmeid kustutatakse;
-colname – veerunimi;
-condition – tingimusoperaator;
-colval – väärtus, mida võrreldakse colname veeru sisuga;
-oprel – suhteoperaator (relatsiooniline operaator).
+`tname` – tabelinimi, millisest andmeid kustutatakse;
+`colname` – veerunimi;
+`condition` – tingimusoperaator;
+`colval` – väärtus, mida võrreldakse colname veeru sisuga;
+`oprel` – suhteoperaator (relatsiooniline operaator).
 
 Siin käsitletud tingimused on küllaltki lihtsad. Kõikvõimalikud **where** klausli tingimused on palju laiemad ja jäävad käesolevast käsitlusest välja.
 
-| **Tingimus**              | **Tähendus**                                                                                                                                                                                        |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| =                         | Tingimus on tõene, kui operaatori mõlemad pooled on võrdsed.                                                                                                                                        |
-| !=                        | Tingimus on tõene, kui operaatori mõlemad pooled on erinevad.                                                                                                                                       |
-| \&gt; \&gt;= \&lt;= \&lt; | Tingimus on tõene, kui operaatori mõlemad pooled vastavad näidatud võrratuse tingimusele.                                                                                                           |
-| like                      | Tingimus on tõene, kui termini "like" vasak pool sisaldab parempoolseid tingimusi (sümboleid). Võib kasutada metamärke nagu "%" sümbol. Sümbolit % käsitletakse, kui sümbolite mistahes järjestust. |
-| matches                   | Tingimus on tõene, kui vasak pool vastab parempoolsetele tingimustele (sümbolitele). Võib kasutada metamärke.                                                                                       |
+| **Tingimus** | **Tähendus**                                                                                                                                                                                        |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| =            | Tingimus on tõene, kui operaatori mõlemad pooled on võrdsed.                                                                                                                                        |
+| !=           | Tingimus on tõene, kui operaatori mõlemad pooled on erinevad.                                                                                                                                       |
+| > >= <= <    | Tingimus on tõene, kui operaatori mõlemad pooled vastavad näidatud võrratuse tingimusele.                                                                                                           |
+| like         | Tingimus on tõene, kui termini "like" vasak pool sisaldab parempoolseid tingimusi (sümboleid). Võib kasutada metamärke nagu "%" sümbol. Sümbolit % käsitletakse, kui sümbolite mistahes järjestust. |
+| matches      | Tingimus on tõene, kui vasak pool vastab parempoolsetele tingimustele (sümbolitele). Võib kasutada metamärke.                                                                                       |
 
 | **Suhteoperaator** | **Tähendus**                                                                           |
 | ------------------ | -------------------------------------------------------------------------------------- |
@@ -1118,6 +1118,8 @@ Kui automaatne andmetehingute lõpetamine on välja lülitatud (autocommit=off),
    – `ORDER BY`
    – `GROUP BY`
 
+:::
+
 ## 2.7 Andmebaaside administreerimine ja turvalisus
 
 Selle alateema materjale läbi töötades saad teadmised andmebaaside administreerimise ja turvalisuse kohta.
@@ -1160,7 +1162,7 @@ Kasutatud tähised:
 `pwd` – salasõna (parool);
 `grant option` – võimaldab õigused saanud kasutajal samu õigusi, mis talle on antud teistele kasutajatele edasi anda (tagada)
 
-DBA roll on selgem, kui teiste AB kasutajate oma; kuigi nende osa on suhteliselt väiksema tegutsemisõigusega võrreldes DBA-ga. DBA võib teha kõike, kuigi ressursside loaga (_ **resource** _) kasutaja ei saa muuta skeemi ja nendel, kellel on ühendusluba ( **connect** ), ei saa muuta andmed. Oluline on mõista, et erinevaid rolle kirjeldavad märksõnad võivad olla erinevad erinevates ABHS; seepärast peab alati lugema hoolikalt kasutajajuhendit (käsiraamatut) enne õiguste andmise või tühistamise korralduste kirjutamist.
+DBA roll on selgem, kui teiste AB kasutajate oma; kuigi nende osa on suhteliselt väiksema tegutsemisõigusega võrreldes DBA-ga. DBA võib teha kõike, kuigi ressursside loaga _resource_ kasutaja ei saa muuta skeemi ja nendel, kellel on ühendusluba _connect_, ei saa muuta andmed. Oluline on mõista, et erinevaid rolle kirjeldavad märksõnad võivad olla erinevad erinevates ABHS; seepärast peab alati lugema hoolikalt kasutajajuhendit (käsiraamatut) enne õiguste andmise või tühistamise korralduste kirjutamist.
 
 Nagu oleme näinud on ABHS IT toode, mida kasutatakse andmete haldamiseks organisatsioonis. ABHS koosneb üldiselt:
 

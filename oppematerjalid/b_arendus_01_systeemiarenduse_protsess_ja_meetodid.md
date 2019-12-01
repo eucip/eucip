@@ -1,12 +1,18 @@
-# B1 Süsteemiarenduse protsess ja meetodid
+# B.1 Süsteemiarenduse protsess ja meetodid
 
 Selle teema materjale läbi töötades saad teadmised tarkvarasüsteemide tüüpidest, tööst, arendusest, testimisest ja haldamisest.
 
-## 1.1 Andmetöötlussüsteemide tarkvara
+## B.1.1 Tarkvara andmetöötlussüsteemides
 
 Selle alateema materjale läbi töötades saad teadmised tarkvarasüsteemide tüüpidest, kasutusvaldkondadest ja eripäradest.
 
-### 1.1.1 Andmetöötlussüsteem
+### B.1.1.1 Andmetöötlussüsteem
+
+::: warning Õppekava
+
+Kirjeldada andmetöötlust kui komplekti riistvarast, tarkvarast püsivarast, opsüsteemi tarkvarast, rakendusest.
+
+:::
 
 **Andmetöötlus** (data processing) on andmete manipuleerimine arvuti abil. See tegevus sisaldab toorandmete teisendamist masin-loetavale kujule, nende liikumist läbi protsessori (CPU) ja mälu väljundseadmetesse ning väljundi vormindamist ja teisendamist sobivale kujule. Üldisemalt nimetatakse andmetöötluseks alati arvutil toimuvat protsessi, kui see sisaldab nimetatud tegevusi. Andmetöötlust võib käsitleda ka kitsamalt kui mõnele organisatsiooni või äri tegevuseks vajalike andmete töötlemist (nt statistiline andmetöötlus).
 
@@ -20,7 +26,7 @@ Andmetöötlussüsteemi tarkvara omakorda sisaldab järgmist liiki osi:
 
 **Operatsioonisüsteem** (operating system software) on tähtsaim süsteemitarkvara hulka kuuluv programm, mis juhib arvuti tööd, haldab riistvararessursse, suhtleb perifeerseadmetega ja tagab rakendusprogrammide töötamise. Kasutajatel on võimalik suhelda vahetult operatsioonisüsteemiga, kasutades selleks käsukeelt või graafilist kasutajaliidest. Operatsioonisüsteemi ülesannete hulka kuulub ressursside jaotamine erinevate rakenduste vahel, mälu ühiskasutuse juhtimine, sisend- ja väljundseadmetega suhtlemine, kasutajate haldus jne.
 
-Tuntumad personaalarvutite operatsioonisüsteemid jagunevad kolme suurde gruppi: Windows&#39;i erinevad versioonid, Mac OS ja UNIX&#39;i-laadsed operatsioonisüsteemid
+Tuntumad personaalarvutite operatsioonisüsteemid jagunevad kolme suurde gruppi: Windows'i erinevad versioonid, Mac OS ja UNIX'i-laadsed operatsioonisüsteemid
 
 **Rakendustarkvara** (application software) on otseselt kasutaja eesmärkide täitmiseks loodud ja installeeritud tarkvara. Kõige olulisema erinevusena tulekski pidada meeles, et erinevalt süsteemitarkvarast on rakendustarkvara otseselt suunatud just kasutaja eesmärkide täitmisele.
 
@@ -28,14 +34,20 @@ Tuntumad personaalarvutite operatsioonisüsteemid jagunevad kolme suurde gruppi:
 
 **Kasutaja andmed** (user-defined data) on spetsiifilised rakendusele, mida kasutaja jaoks arvutisüsteemi salvestatakse.
 
-### 1.1.2 Süsteemitarkvara ja rakendustarkvara
+### B.1.1.2 Süsteemitarkvara ja rakendustarkvara
+
+::: warning Õppekava
+
+Määratleda ja loetleda süsteemitarkvara näiteid.
+
+:::
 
 Tarkvara liigitatakse kahte suurde gruppi:
 
 - süsteemitarkvara (system software)
 - rakendustarkvara (application software)
 
-Süsteemitarkvara alla kuuluvad programmid, millised toetavad rakenduste tööd, olemata ühegi rakenduse spetsiifiline. Kujutades piltlikult ette arvuti ehitust kihtidest või tasemetest koosnevana, paiknevad süsteemitarkvara alla liigituvad programmid „alumistes&quot; kihtides, lähemal füüsilisele kihile – riistvarale, mis jooksutab programme. Süsteemitarkvara toetab kogu arvutisüsteemi käitamist.
+Süsteemitarkvara alla kuuluvad programmid, millised toetavad rakenduste tööd, olemata ühegi rakenduse spetsiifiline. Kujutades piltlikult ette arvuti ehitust kihtidest või tasemetest koosnevana, paiknevad süsteemitarkvara alla liigituvad programmid "alumistes" kihtides, lähemal füüsilisele kihile – riistvarale, mis jooksutab programme. Süsteemitarkvara toetab kogu arvutisüsteemi käitamist.
 
 Toome näiteid süsteemitarkvara funktsioonidest:
 
@@ -46,7 +58,7 @@ Toome näiteid süsteemitarkvara funktsioonidest:
 
 Eelnevad näited seonduvad ennekõike operatsioonisüsteemi talitusega ja võibki väita, et operatsioonisüsteem on üks tüüpilisemaid süsteemitarkvara näiteid. Lisaks on süsteemitarkvara arvuti BIOS ja seadmete püsivara ning erinevad utiliidid, mis aitavad arvutit hallata.. Lisaks võib lugeda süsteemitarkvaraks ka nt erinevate seadmete draivereid, andmebaasimootoreid, tarkvara loomise abivahendeid, nagu interpretaatoreid-kompilaatoreid, silujad jms. Kuid seda arvamust ei tasu pidada ainuõigeks.
 
-**Rakendustarkvara** paigutub kihilise mudeli järgi „kõrgemale&quot; kihile – „eemale&quot; riistvarast ja lähemale arvutiga suhtlevale kasutajale. Rakendustarkvara ülesandeks on kasutaja soovide täitmine, &quot;kasutaja toetamine&quot; tema eesmärkide saavutamisel. Rakendustarkvara toetub süsteemitarkvarale. Rakendustarkvara võib olla avalikustatud eraldiseisvalt, kuid võib kaasa tulla ka operatsioonisüsteemiga. Igal juhul on kõige olulisem tema suunatus kasutaja abistamisele.
+**Rakendustarkvara** paigutub kihilise mudeli järgi "kõrgemale" kihile – "eemale" riistvarast ja lähemale arvutiga suhtlevale kasutajale. Rakendustarkvara ülesandeks on kasutaja soovide täitmine, "kasutaja toetamine" tema eesmärkide saavutamisel. Rakendustarkvara toetub süsteemitarkvarale. Rakendustarkvara võib olla avalikustatud eraldiseisvalt, kuid võib kaasa tulla ka operatsioonisüsteemiga. Igal juhul on kõige olulisem tema suunatus kasutaja abistamisele.
 
 Analoogiana võib ette kujutada elektrivalgust kui kasutajale vajalikku funktsiooni, ning elektrijaamu, ülekandeliine jm kui funktsiooni toetavad mehhanisme.
 
@@ -54,66 +66,72 @@ Süsteemitarkvara ja rakendustarkvara erisus ei ole absoluutne ja kindlapiirilin
 
 ### 1.1.3 Näited tarkvaradest
 
+::: warning Õppekava
+
+Määratleda ja loetleda rakendustarkvara näiteid.
+
+:::
+
 Toome näiteid mõlemast tarkvara alaliigist
 
 1. süsteemitarkvara:
-1. operatsioonisüsteemid, nt Linux, Windows Vista, Symbian OS – mobiilsetes seadmetes kasutatav operatsioonisüsteem, Unix
-1. draiverid, nt printeri draiver
-1. failihaldusprogrammid
-1. rakendustarkvara:
-1. nn kontoritööpaketid:
+  - operatsioonisüsteemid, nt Linux, Windows Vista, Symbian OS – mobiilsetes seadmetes kasutatav operatsioonisüsteem, Unix
+  - draiverid, nt printeri draiver
+  - failihaldusprogrammid
 
-- tekstitöötlusprogrammid
-- tabelarvutusprogrammid
-- esitlusprogrammid
-- jmt
+2. rakendustarkvara nn kontoritööpaketid:
+
+  - tekstitöötlusprogrammid
+  - tabelarvutusprogrammid
+  - esitlusprogrammid
+  - jmt
 
 2. arendusvahendid:
 
-- assemblerid
-- kompilaatorid
-- interpretaatorid
-- versioonihaldusprogrammid
-- jmt
+  - assemblerid
+  - kompilaatorid
+  - interpretaatorid
+  - versioonihaldusprogrammid
+  - jmt
 
 3. infohaldusrakendused :
 
-- ettevõtte ressursiplaneerimispaketid (ERP)
-- raamatupidamispaketid
-- kliendihalduspaketid (CRM)
-- otsustusi toetavad süsteemid (DSS)
-- projektihalduspaketid
-- jmt
+  - ettevõtte ressursiplaneerimispaketid (ERP)
+  - raamatupidamispaketid
+  - kliendihalduspaketid (CRM)
+  - otsustusi toetavad süsteemid (DSS)
+  - projektihalduspaketid
+  - jmt
 
 4. inseneri töövahendid:
 
-- CAD-programmid
-- statistilise analüüsi programmid
-- geoinfosüsteemid
-- jmt
+  - CAD-programmid
+  - statistilise analüüsi programmid
+  - geoinfosüsteemid
+  - jmt
 
 5. kirjastamine ja multimeedia:
 
-- trükiste kujundusprogrammid
-- videotöötlusprogrammid
-- õppematerjalide ettevalmistus- ja levitusprogrammid
-- jmt
+  - trükiste kujundusprogrammid
+  - videotöötlusprogrammid
+  - õppematerjalide ettevalmistus- ja levitusprogrammid
+  - jmt
 
 6. vabaajaveetmisel kasutatav tarkvara:
 
-- mängud
-- heli- ja video esitamise programmid
-- jmt
+  - mängud
+  - heli- ja video esitamise programmid
+  - jmt
 
 7. suhtlustarkvara:
 
-- e-maili kliendiprogrammid
-- veebipäevikute (blog) haldusprogrammid
-- wiki haldusprogrammid.
+  - e-maili kliendiprogrammid
+  - veebipäevikute (blog) haldusprogrammid
+  - wiki haldusprogrammid.
 
 Ülaltoodud tarkvara klassifikatsioon ei ole kindlasti ammendav – toodud on enamlevinud programmide tüübid.
 
-### 1.1.4 Kordamisküsimused
+### B.1.1 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -143,36 +161,62 @@ Pane vastavusse järgmised mõisted ja selgitused:
 
 Selle alateema materjale läbi töötades saad teadmised süsteemiarenduse elutsüklist.
 
-**Süsteemiarenduse elutsükkel** (Systems Development Life Cycle) (ka tarkvaraarenduse elutsükkel) on protsess, mille käigus luuakse uus või muudetakse vana tarkvarasüsteemi, samuti mudelid ja meetodid, mida inimesed kasutavad süsteemide arendamiseks. Tarkvara kui toode on süsteemiarenduse väljund. Süsteemiarenduse protsess koosneb nii toote projekteerimisest (disainist) kui toote valmistamisest. Süsteemiarenduse eesmärk on valmistada kõrgekvaliteetne toode ehk tarkvara, mis vastab kasutajate vajadustele ja ootustele, saab valmis kokkulepitud tähtajaks ja maksumuse piires, töötab efektiivselt ja tõhusalt praeguses ja planeeritavas IT infrastruktuuris ning ei ole kulukas hooldada ega laiendada.
+**Süsteemiarenduse elutsükkel** (Systems Development Life Cycle) (ka tarkvaraarenduse elutsükkel) on protsess, mille käigus luuakse uus või muudetakse vana tarkvarasüsteemi, samuti mudelid ja meetodid, mida inimesed kasutavad süsteemide arendamiseks. 
 
-### 1.2.1 Elutsükli faasid
+Tarkvara kui toode on süsteemiarenduse väljund. 
+
+Süsteemiarenduse protsess koosneb nii toote projekteerimisest (disainist) kui toote valmistamisest. Süsteemiarenduse eesmärk on valmistada kõrgekvaliteetne toode ehk tarkvara, mis vastab kasutajate vajadustele ja ootustele, saab valmis kokkulepitud tähtajaks ja maksumuse piires, töötab efektiivselt ja tõhusalt praeguses ja planeeritavas IT infrastruktuuris ning ei ole kulukas hooldada ega laiendada.
+
+### B.1.2.1 Elutsükli faasid
+
+::: warning Õppekava
+
+Kirjeldada süsteemiarenduse põhilisi etappe.
+
+:::
+
+::: danger 
+
+Õppekava punkt B.1.2.3 langeb selle õppematerjaliga kokku:
+
+Kirjeldada süsteemi elutsüklit süsteemi analüüsi, teostuse, kasutuse ja hoolduse ning kasutamise lõpetamise seostes.
+
+:::
 
 Käsitledes tarkvara justkui iga teist toodet, võib tarkvara elutsükli (arendusprotsessi) jagada faasidesse. Faaside nimed ja täpsem jaotus varieerub sõltuvalt autorist. Kuid see ei tähenda, et oluliste arendustegevuste loetelu kuidagi erineks. Tüüpilisteks elutsükli osadeks võib lugeda: analüüsi (analysis), projekteerimise / kavandamise (design), teostuse (implementation) ja hoolduse (maintenance).
 
 Järgnevalt sellest, milliseid tegevusi nimetatud arendusfaasid sisaldavad.
 
-**Analüüsi etapil** ja kogu arenduse käigus on tarkvarale esitatavate **nõuete väljaselgitamine** üks olulisemaid. Ilma selleta ei ole võimalik järgmisi samme astuda. Oma olulisuse tõttu käsitletakse tööd nõuetega tihti ka eraldi faasina. Nõuded annavad ettekujutuse sellest, mida kasutaja tarkvara abil teha tahab, milliseid eesmärke tal vaja saavutada. Teisisõnu on tegemist tarkvara funktsionaalsuse ( **funktsionaalsed nõuded** ) väljaselgitamisega. Lisaks on olulised ka **mittefunktsionaalsed nõuded**. Need on tihti piirangud või lisatingimused, millega süsteemi töötamisel arvestada tuleb.
+#### Analüüsi etapil
+
+ja kogu arenduse käigus on tarkvarale esitatavate **nõuete väljaselgitamine** üks olulisemaid. Ilma selleta ei ole võimalik järgmisi samme astuda. Oma olulisuse tõttu käsitletakse tööd nõuetega tihti ka eraldi faasina. Nõuded annavad ettekujutuse sellest, mida kasutaja tarkvara abil teha tahab, milliseid eesmärke tal vaja saavutada. Teisisõnu on tegemist tarkvara funktsionaalsuse ( **funktsionaalsed nõuded** ) väljaselgitamisega. Lisaks on olulised ka **mittefunktsionaalsed nõuded**. Need on tihti piirangud või lisatingimused, millega süsteemi töötamisel arvestada tuleb.
 
 **Näide** funktsionaalsete nõuete kohta: tavapärases õpiinfosüsteemis (ÕIS) tahab õpilane vaadata oma hindeid. Õpetajal on vaja näha, lisada, muuta ja kustutada kõigi õpetatavate õpilaste hindeid (muidugi oma aines). See ei ole ammendav loetelu ÕIS-i nõuetest. Küll aga tuleb siit välja veel oluline fakt, et tavaliselt on nõuded seotud rollidega - erinevatel süsteemi kasutajatel on erinevad soovid ja erinevad õigused. Mittefunktsionaalsed nõuded võivad näiteks sisaldada tingimust, et süsteem peab töötama pidevalt ning maksimaalne lubatud katkestuse pikkus on pool tundi.
 
-**Projekteerimine (kavandamine)** on vastavalt IEEE definitsioonile &quot;süsteemi või komponentide arhitektuuri, osade, liideste ja teiste omaduste määramine&quot; Inglisekeelne sõna design tähendab nii tegevust kui ka selle tegevuse produkti, eesti keeles võib tulemust nimetada kavand või projekt. Kavandamine on arendusprotsessi osa, kus analüüsitakse nõudeid, et luua tarkvara sisemine struktuur. Loodud kirjeldus on omakorda realisatsiooni aluseks. Tarkvara projekt peab kirjeldama süsteemi arhitektuuri, st kuidas süsteem on jaotatud osadeks (komponentideks) ning millised on nende liidesed (seostamisvõimalused teiste komponentidega). Komponendid peavad olema kirjeldatud sellise täpsusega, mis lubaks hakata neid realiseerima.
+#### Projekteerimine (kavandamine)
+
+on vastavalt IEEE definitsioonile "süsteemi või komponentide arhitektuuri, osade, liideste ja teiste omaduste määramine" Inglisekeelne sõna design tähendab nii tegevust kui ka selle tegevuse produkti, eesti keeles võib tulemust nimetada kavand või projekt. Kavandamine on arendusprotsessi osa, kus analüüsitakse nõudeid, et luua tarkvara sisemine struktuur. Loodud kirjeldus on omakorda realisatsiooni aluseks. Tarkvara projekt peab kirjeldama süsteemi arhitektuuri, st kuidas süsteem on jaotatud osadeks (komponentideks) ning millised on nende liidesed (seostamisvõimalused teiste komponentidega). Komponendid peavad olema kirjeldatud sellise täpsusega, mis lubaks hakata neid realiseerima.
 
 Klassikalises tarkvara elutsüklis vastavalt standardile ISO/IEC 12207 Software life cycle processes, on kavandamise osa jaotatud kahte etappi:
 
 - arhitektuuri kavandamine, millega määratakse kindlaks nö kõrgema taseme komponendid, seosed suuremate ja üldisemate tarkvara osade vahel;
 - detailsem kavandamine, millega täpsustatakse komponentide ülesehitus (protseduurid, objektid, algoritmid jms).
 
-**Realisatsiooni (teostuse) faasis** programmeeritakse tarkvara valmis lähtudes kavandamisetapil loodud tarkvaraprojektist. Komponentideks jagamine loob eeldused tööjaotuseks, st vähegi suurema süsteemi kodeerimiseks rakendatakse tööle programmeerijate meeskond. Realisatsiooni faasis toimub ka programmeeritud osade testimine ehk vigade otsimine. Esialgu komponentide kaupa loogika jms vigade leidmiseks.
+#### Realisatsiooni (teostuse) faasis
+
+programmeeritakse tarkvara valmis lähtudes kavandamisetapil loodud tarkvaraprojektist. Komponentideks jagamine loob eeldused tööjaotuseks, st vähegi suurema süsteemi kodeerimiseks rakendatakse tööle programmeerijate meeskond. Realisatsiooni faasis toimub ka programmeeritud osade testimine ehk vigade otsimine. Esialgu komponentide kaupa loogika jms vigade leidmiseks.
 
 Tegelikkuses ei toimu arendus nii sirgjooneliselt, et enne tehakse põhjalik projekt kogu süsteemi tarbeks ning seejärel asutakse programmeerima. Pigem põimuvad need faasid ning peale projekti tekkimist süsteemi osa kohta asutakse seda osa ka teostama. Samal ajal jätkub aga ülejäänud süsteemi projekteerimine.
 
 Realisatsiooni faasi viimaseks osaks on süsteemi valideerimine. See on samuti sisuliselt testimine, kuid põhieesmärgiks on teada saada, kas tekkinud süsteem vastab kasutaja nõuetele ehk lihtsamalt öeldes - kas süsteem teeb seda, mida kasutaja tahab.
 
-**Tarkvara hooldamiseks** nimetatakse tarkvara muutmist peale kliendile üleandmist, et parandada vigu, tõsta jõudlust või parandada muid omadusi. Hoolduse eesmärkideks on süsteemi kohandamine vastavalt muutunud keskkonnale ning muutunud kasutaja soovidele ja tarkvarasüsteemi töös hoidmine nii kaua kui võimalik. Hooldamise juures on oluliseks aspektiks teiste programmeerijate poolt kirjutatud tarkvaraga töötamine (parandamine, täiendamine, muutmine) ja sellest tulenevad omakorda seosed eelmistes faasides tehtud töö kvaliteediga. Hästi kavandatud, kodeeritud ja dokumenteeritud tarkvara on kergem, kiirem ja seega ka odavam hooldada.
+#### Tarkvara hooldamiseks
+
+nimetatakse tarkvara muutmist peale kliendile üleandmist, et parandada vigu, tõsta jõudlust või parandada muid omadusi. Hoolduse eesmärkideks on süsteemi kohandamine vastavalt muutunud keskkonnale ning muutunud kasutaja soovidele ja tarkvarasüsteemi töös hoidmine nii kaua kui võimalik. Hooldamise juures on oluliseks aspektiks teiste programmeerijate poolt kirjutatud tarkvaraga töötamine (parandamine, täiendamine, muutmine) ja sellest tulenevad omakorda seosed eelmistes faasides tehtud töö kvaliteediga. Hästi kavandatud, kodeeritud ja dokumenteeritud tarkvara on kergem, kiirem ja seega ka odavam hooldada.
 
 Tarkvara tootmine lõppeb kliendile tarkvara üleandmisega. Valminud tarkvara peab olema selline, mida klient tahtis. Kuid tarkvara peab edasi arenema. Töötamise käigus leitakse anomaaliaid, muutub töö keskkond, tekivad uued nõuded. Muudatuste vajadused logitakse, määratakse muudatuste mõju, kood muudetakse, tehakse testid, antakse välja tarkvara uus versioon ja vajadusel korraldatakse ka koolitus.
 
-Võrdluseks Ian Sommerville oma raamatus &quot;Software Engineering&quot; toob välja järgmised tegevused tarkvaraprotsessis. Järele mõeldes kattub nende sisu eespool toodud faaside kirjeldustega.
+Võrdluseks Ian Sommerville oma raamatus "Software Engineering" toob välja järgmised tegevused tarkvaraprotsessis. Järele mõeldes kattub nende sisu eespool toodud faaside kirjeldustega.
 
 1. **Tarkvara kirjeldamine** , mille käigus kliendid ja tarkvarainsenerid määratlevad koostöös loodava tarkvara funktsionaalsuse ja piirangud tema töötamisel.
 2. **Tarkvara arendamine** , mille käigus tarkvara projekteeritakse ja programmeeritakse
@@ -182,6 +226,12 @@ Võrdluseks Ian Sommerville oma raamatus &quot;Software Engineering&quot; toob v
 Süsteemiarenduse elutsüklisse peavad kuuluma kõik eelpool kirjeldatud tegevused, kuid need faasid ei pea tingimata olema kirjeldatud viisil lineaarselt ritta seatud.
 
 ### 1.2.2 Elutsükli üldised mudelid
+
+::: warning Õppekava
+
+Võrrelda omavahel klassikalisi süsteemiarenduse metoodikaid nt koskmudel, spiraalmudel, prototüüpimine, tsükliline (inkrementaalne) arendus.
+
+:::
 
 **Süsteemiarenduse elutsükli mudel** on arendusprotsessi üldistatud (abstraktne) kirjeldus. See on protsessi kirjeldus teatud vaatenurgast lähtudes. Protsessimudelite kirjeldustes räägitakse tavaliselt tegevustest nagu andmemudeli kavandamine, kasutajaliidese disain jne, kuid nad võivad sisaldada ka dokumentatsiooni ja rollide kirjeldusi.
 
@@ -202,7 +252,7 @@ Läbi ajaloo on pakutud mitmeid üldisi süsteemiarenduse mudeleid ja olulisemad
 
 Järgnevalt käsitleme eelpoolnimetatud süsteemiarenduse mudeleid lähemealt.
 
-#### 1.2.2.1 Koskmudel
+#### Koskmudel
 
 Koskmudel (ka klassikaline mudel) on esimene kirjeldatud tarkvarasüsteemi elutsükli mudel, mis lähtus tavalistest tootmisprotsessidest ehituses, mehhaanikas vms. Mudeli kirjeldas Winston W. Royce 1970. aastal. Koskmudel on kõige vanem ja kõige rohkem kritiseeritud protsessimudel
 
@@ -228,7 +278,7 @@ Kokkuvõte:
 - Projekti range jaotus faasideks ei luba kliendi muutunud nõuetele kergelt vastu tulla. Seega on mudel kasutatav siis, kui nõuded on selged ja nad muutuvad vähe.
 - Koskmudel on sobilik suurtele süsteemidele, mida arendatakse mitmes erinevas kohas korraga. Sel juhul lubab eelnev korralik planeerimine töid paremini koordineerida
 
-#### 1.2.2.2 Inkrementaalne arendusmudel
+#### Inkrementaalne arendusmudel
 
 Tarkvaraarenduse üks võtmeküsimusi on - kuidas tulla toime muudatustega, sest suurte tarkvaraprojektide puhul on muutused vältimatud. Äritegevus muutub ja see toob endaga kaasa muutunud nõuded, tekivad uued tehnoloogiad, mida oleks otstarbekas tarkvarasüsteemides nende täiustamiseks rakendada ning muutuvad platvormid, millele süsteem on rajatud. Nimetatud muutused nõuavad ümbertegemist ning maksab nii nõuete korduv analüüsimine koos teostusega kui ka uute funktsionaalsuste realiseerimine. Muudatuste maksumust tuleb hoida nii väiksena kui võimalik. Seega tuleb arendusprotsessi tuua sisse tegevused, mis aitavad muudatusi ette näha enne kui nende sisseviimine olulist tööd nõuab. Näiteks prototüüpimise abil saab kliendile näidata varakult süsteemi olulisi omadusi. Muudatusi on parem teha siis, kui nende sisseviimine on võimalikult odav. Sellest tulenevalt on mõistlik toote järk-järguline (inkrementaalne) arendus ja üleandmine. Nii saab muudatusi teha ka nendes osades, mida pole veel arendama asutud.
 
@@ -240,7 +290,7 @@ Mõistelist segadust tekitavad iteratiivne ja inkrementaalne arendus. Alistair C
 - **Iteratiivne arendus** on nö muutmisstrateegia, kus nähakse ette olemasolevate süsteemi osade ümbertegemine ja parandamine.
   Alternatiivne strateegia oleks planeerida tegevused selliselt, et kõik tehtaks õigesti esimesel katsel
 
-Ian Sommerville järgi on iteratiivne arendusmudel pigem üldine nimetus mitmele nn hübriidmudelile (sh inkrementaal- ja spiraalmudel). Sõna &quot;iteratiivne&quot; rõhutab seda, et tegevused selles mudelis korduvad.
+Ian Sommerville järgi on iteratiivne arendusmudel pigem üldine nimetus mitmele nn hübriidmudelile (sh inkrementaal- ja spiraalmudel). Sõna "iteratiivne" rõhutab seda, et tegevused selles mudelis korduvad.
 
 Sõltumata tähendusest, mis pannakse iteratiivse arenduse taha, on inkrementaalne arendus erinevates allikates üsna üheselt kirjeldatud.
 
@@ -248,7 +298,7 @@ Inkrementaalne arendus võib olla nii plaanipärane kui ka paindlik. Mudel näeb
 
 ![](data:image/png;base64,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)
 
-## 1-2. Inkrementaalne arendus
+#### Inkrementaalne arendus
 
 Tarkvara spetsifikatsioon, projekt ja teostus jaotatakse osadeks (increment), mida asutakse ükshaaval arendama. Sel viisil väheneb ümbertegemist vajavate süsteemi osade hulk ja kliendid saavad võimaluse oma soove pikema aja vältel ringi mõelda. Tüüpiliseks tuleks pidada veel seda, et valminud süsteemi osad on kasutatavad ning see aitab kliendil oma edasistes soovides paremat selgust saada.
 
@@ -265,30 +315,30 @@ Inkrementaalse arendused probleemid:
 1. Progress ei ole hästi jälgitav - haldurid vajavad pidevalt materjale progressi mõõtmiseks. Kiire arenduse korral ei ole tasuv tekitada dokumente iga pisikese versioonimuudatuse jaoks.
 2. Süsteemi struktuur kipub halvenema uute osade lisandumisel - pidev muutmine rikub süsteemi struktuuri. Selle vältimiseks ja tarkvara kvaliteedi parandamiseks on vaja kulutada lisaks aega ja raha refaktoreerimisele. Halb struktuur muudab tarkvara hilisema muutmise keerulisemaks ja kulukamaks.
 
-**Agiilsed arendusmeetodid**
+#### Agiilsed arendusmeetodid
 
-Agiilsete arendusmeetodite jaoks sobib kasutada inkrementaaset mudelit. Agiilse tarkvaraarenduse levimise algus läheb 2001 aastasse, kui senise üliplaanipärase arenduse vastased kirjutasid alla &quot;The Agile Manifesto&quot;-le, mille kõige olulisemates punktides rõhutakse inimesele ja inimeste vahelisele suhtlemisele:
+Agiilsete arendusmeetodite jaoks sobib kasutada inkrementaaset mudelit. Agiilse tarkvaraarenduse levimise algus läheb 2001 aastasse, kui senise üliplaanipärase arenduse vastased kirjutasid alla "The Agile Manifesto"-le, mille kõige olulisemates punktides rõhutakse inimesele ja inimeste vahelisele suhtlemisele:
 
 - Inimesed ja suhtlemine on tähtsamad kui protsessid ja tööriistad.
 - Töötav tarkvara on tähtsam kui dokumentatsioon.
 - Koostöö kliendiga on tähtsam kui läbirääkimised lepingu üle.
 - Muudatussoovidele vastutulek on tähtsam kui plaani järgmine.
 
-Enam arvestatakse tagasiside (koormustestimine, kasutajate arvamus jm) käigus saadud infoga kui loodetakse hoolika etteplaneerimise tehnikale. Põhitähelepanu on inimestel, sh kasutajatel, ja pideval testimisel. Öeldakse, et agiilmeetoditega saavutatakse parem tulemus sama raha eest, aga agiilmeetoditega on raskem ette planeerida, millal tarkvara mingi funktsioon valmis saab – „Agile process will provide the most bang for the buck, but won&#39;t say exactly when that bang will be&quot;.
+Enam arvestatakse tagasiside (koormustestimine, kasutajate arvamus jm) käigus saadud infoga kui loodetakse hoolika etteplaneerimise tehnikale. Põhitähelepanu on inimestel, sh kasutajatel, ja pideval testimisel. Öeldakse, et agiilmeetoditega saavutatakse parem tulemus sama raha eest, aga agiilmeetoditega on raskem ette planeerida, millal tarkvara mingi funktsioon valmis saab – "Agile process will provide the most bang for the buck, but won't say exactly when that bang will be".
 
 Tuntumad ja levinumad agiilsed arendusmeetodid on ekstreemprogrammeerimine (XP), Scrum, Feature Driven Development (FDD), Open Unified Process (OpenUP) jt
 
-**Ekstreemprogrammeerimine** ehk XP on tuntumaid agiilmeetoodeid. XP-s viiakse sammud läbi äärmuslikult (ekstreemselt – siit meetodi nimetus) lühikestena, võrreldes klassikaliste arendusmudelitega – esimene sammude läbimistsükkel võib olla päevad või nädal pikk, samas kui klassikalistes mudelites kestab see kuid ja aastaid. Enne kodeerimist kirjutatakse automatiseeritud testid, mida tarkvara peab läbima, seejärel programmeeritakse paarides (so kaks programmeerijat ühe arvuti taga kodeerivad ühte programmilõiku - nn &quot;paarisprogrammeerimine&quot;). Kui valminud kood läbib testid, on programmeerimise samm antud iteratsioonis lõpetatud.
+**Ekstreemprogrammeerimine** ehk XP on tuntumaid agiilmeetoodeid. XP-s viiakse sammud läbi äärmuslikult (ekstreemselt – siit meetodi nimetus) lühikestena, võrreldes klassikaliste arendusmudelitega – esimene sammude läbimistsükkel võib olla päevad või nädal pikk, samas kui klassikalistes mudelites kestab see kuid ja aastaid. Enne kodeerimist kirjutatakse automatiseeritud testid, mida tarkvara peab läbima, seejärel programmeeritakse paarides (so kaks programmeerijat ühe arvuti taga kodeerivad ühte programmilõiku - nn "paarisprogrammeerimine"). Kui valminud kood läbib testid, on programmeerimise samm antud iteratsioonis lõpetatud.
 
-#### 1.2.2.3 Spiraalmudel
+#### Spiraalmudel
 
 Spiraalmudel on samuti üks iteratiivseid arendusmudeleid.
 
 ![](data:image/png;base64,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)
 
-Spiraalmudelit kirjeldas esimest korda Barry Boehm oma 1986 a. artiklis. Protsessi kulgemist kujutab spiraal. Esimene kordus võib olla näiteks seotud süsteemi teostatavuse uurimisega, teine nõudmiste kirjeldamisega, järgmine kavandamisega jne. Mitu kordust on enamasti seotud tarkvara realiseerimisega, kus tema ehitamine toimub inkrementaalselt. Kuid kindlasti ei tohiks spiraali korduseid võrdsustada tavapäraste arendusprotsessi faasidega. Iga kordus on jaotatud 3 kuni 6 sektorisse (erinevad autorid jagavad erinevalt). Iga kordus algab lähema eesmärgi kavandamise ja riskide hindamisega ning lõppeb nö kliendiga - ehk eesmärk peab saama täidetud ja kontrollitud. Sektorite töömahukus ei pruugi olla ühesugune. Boehm&#39;i järgi on sektoreid neli (vt ka joonis 3):
+Spiraalmudelit kirjeldas esimest korda Barry Boehm oma 1986 a. artiklis. Protsessi kulgemist kujutab spiraal. Esimene kordus võib olla näiteks seotud süsteemi teostatavuse uurimisega, teine nõudmiste kirjeldamisega, järgmine kavandamisega jne. Mitu kordust on enamasti seotud tarkvara realiseerimisega, kus tema ehitamine toimub inkrementaalselt. Kuid kindlasti ei tohiks spiraali korduseid võrdsustada tavapäraste arendusprotsessi faasidega. Iga kordus on jaotatud 3 kuni 6 sektorisse (erinevad autorid jagavad erinevalt). Iga kordus algab lähema eesmärgi kavandamise ja riskide hindamisega ning lõppeb nö kliendiga - ehk eesmärk peab saama täidetud ja kontrollitud. Sektorite töömahukus ei pruugi olla ühesugune. Boehm';i järgi on sektoreid neli (vt ka joonis 3):
 
-Joonis 1-3. Spiraalmudel (Boehm 1988) (Allikas: I. Sommerville &quot;Software Engineering&quot; slaidid)
+Joonis 1-3. Spiraalmudel (Boehm 1988) (Allikas: I. Sommerville "Software Engineering" slaidid)
 
 1. Eesmärkide seadmine (Objective setting) – määratakse selle faasi ehk korduse eesmärgid, piirangud protsessis, tulemused, juhtimisplaan, võimalikud riskid ning alternatiivsed strateegiad lähtudes riskidest.
 2. Riskide hindamine ja maandamine (Risk assessment and reduction) – iga leitud riski jaoks tehakse analüüs, võetakse midagi ette riskide maandamiseks (nt risk, et nõudmised pole adekvaatsed: tehakse prototüüp)
@@ -299,9 +349,9 @@ Joonisel 3 on kujutatud üks näide spiraalmudelist. Tegelik arendusprotsess võ
 
 Selle mudeli kõige olulisem erinevus teistest on riskidega arvestamine. Risk – so võimalus, et midagi saab untsu minna. Riskide realiseerumise tõttu ületatakse tähtajad ja maksumus, seepärast peab riskidega arvestama ning võtma midagi ette nende maandamiseks.
 
-Sommerville&#39;i järgi täpselt sellist mudelit kasutatakse harva, kuid ta on aidanud mõista iteratiivse arenduse olemust ja juhtinud tähelepanu riskidega tegelemise vajalikkusele.
+Sommerville';i järgi täpselt sellist mudelit kasutatakse harva, kuid ta on aidanud mõista iteratiivse arenduse olemust ja juhtinud tähelepanu riskidega tegelemise vajalikkusele.
 
-#### 1.2.2.4 Prototüüpimine
+#### Prototüüpimine
 
 Prototüüp on süsteemi algne versioon, mida kasutatakse disaini võimaluste katsetamiseks ning ideede demonstreerimiseks. Prototüüpe saab kasutada erinevates arenduse faasides. Näiteks nõuete analüüsi etapil nende leidmiseks ja valideerimiseks; disaini etapil valikuvõimaluste uurimiseks ning kasutajaliidese kavandamiseks
 
@@ -325,11 +375,17 @@ Prototüüpimist võib teha erineval põhimõttel - näiteks **ühekordne protot
 
 Sellised prototüübid tuleb peale loomist likvideerida, sest nad ei ole heaks baasiks tegelikule süsteemile - näiteks ei pruugi nende alusel täita mittefunktsionaalseid nõudeid, prototüübi struktuur ei sobi edasiseks arenduseks ega vasta ka muudele kvaliteedi nõuetele.
 
-Kokkuvõtvalt, erinevalt koskmudelist ei koostata iteratiivsete arendusmudelite järgi esmalt kõikehõlmavat analüüsidokumenti, milline sisaldab muutumatuid kasutajate vajadusi ning „kirjutatakse verega alla&quot; süsteemi tellija ja realiseerija vahel – iteratiivsed mudelid võimaldavad lihtsamalt viia sisse muudatusi süsteemi, saada kasutajatelt varajast tagasisidet, testida arendusprojekti varajases faasis süsteemi arhitektuurilise lahenduse sobivust jmt.
+Kokkuvõtvalt, erinevalt koskmudelist ei koostata iteratiivsete arendusmudelite järgi esmalt kõikehõlmavat analüüsidokumenti, milline sisaldab muutumatuid kasutajate vajadusi ning "kirjutatakse verega alla" süsteemi tellija ja realiseerija vahel – iteratiivsed mudelid võimaldavad lihtsamalt viia sisse muudatusi süsteemi, saada kasutajatelt varajast tagasisidet, testida arendusprojekti varajases faasis süsteemi arhitektuurilise lahenduse sobivust jmt.
 
 Ei ole ühte, parimat süsteemiarenduse mudelit. Otsus, millist mudelit valida, tuleb langetada lähtuvalt konkreetsest tarkvaraprojektist: tulemist, meeskonna oskustest ja teadmistest, ajagraafikust, kliendi vajaduste selgusest ja stabiilsusest.
 
-### 1.2.3 Dokumentatsioon
+### B.1.2.4 Dokumentatsioon
+
+::: warning Õppekava
+
+Visandada spetsifikatsioonid nõuete ja projekteerimise tarbeks, nt organisatsiooniline, tehniline spetsifikatsioon.
+
+:::
 
 Lisaks eelnevalt vaadeldud tegevustele, vaatleme nüüd tegevuste tulemeid ja tegevuste sooritajaid.
 
@@ -367,7 +423,7 @@ Süsteemi nõuded ja arhitektuursed otsused peavad olema omavahel ristviidatud, 
 
 Arhitektuurse disaini dokumendi koostab arhitekt lähtudes nõuete dokumendis toodud nõuetest.
 
-**Kasutajajuhend** on dokument, milline käsitleb kasutaja vaadet süsteemile – milleks toodet saab kasutada, kuidas toodet kasutada, millised on võimalikud veasituatsioonid ning nende lahendamine. Kasutajajuhend ei vaatle süsteemi „sisemust&quot; vaid seda, mis on kasutajale nähtav.
+**Kasutajajuhend** on dokument, milline käsitleb kasutaja vaadet süsteemile – milleks toodet saab kasutada, kuidas toodet kasutada, millised on võimalikud veasituatsioonid ning nende lahendamine. Kasutajajuhend ei vaatle süsteemi "sisemust" vaid seda, mis on kasutajale nähtav.
 
 **Projektidokumentatsioon** käsitleb projektijuhtimisega seotud materjale.
 
@@ -426,15 +482,21 @@ Arhitektuurse disaini dokumendi koostab arhitekt lähtudes nõuete dokumendis to
 
 :::
 
-## 1.3 Süsteemiarenduse vahendid
+## B.1.3 Süsteemiarenduse vahendid
 
 Selle alateema materjale läbi töötades saad teadmised tarkvara loomise analüüsimisest ning teostusega seotud vahenditest.
 
-# 1.3.1 CASE-vahendite kasutuseesmärgid ja klassifikatsioon
+# B.1.3.1 CASE-vahendite kasutuseesmärgid ja klassifikatsioon
+
+::: warning Õppekava
+
+Tuua välja süsteemiarenduse erinevatel etappidel vajalike töövahendite kasutamine nt Upper ja Lower CASE, integreeritud CASE vahendid.
+
+:::
 
 Tarkvara arendusprotsess koosneb mitmetest eripalgelistest tegevustest ning on info kaardistamise, analüüsi, visualiseerimise ja kommunikeerumisrikas loomeprotsess. Arendusprotsessis loodud infoühikud peaksid olema omavahel seostatud – selline lähenemine võimaldab nt funktsionaalse nõude muutudes kergelt leida muutmist vajavad koodiosad ning nende muutmisel omakorda otsida ületestimist vajavad moodulid. Sellise töö lihtsustamiseks on kasutusel spetsiaalsed vahendid, milliseid tuntakse üldnimetuse CASE vahendid – Computer-Aided Software Engineering Tools - all. CASE-vahendid on programmid, mis toetavad tarkvara arendus- ja haldusprotsessi. CASE-tööriistad aitavad rakendada nii töövahendeid kui ka meetodeid kvaliteetsete süsteemide loomiseks. Seega võivad vahendid olla ülesehitatud selliselt, et nad toetavad ja soodustavad konkreetse arendusmeetodi kasutamist.
 
-Eestikeelse mõistena CASE jaoks pakub vallaste.ee välja t **arkvara raaltehnoloogia.** See on arenduskeskkond, mis võimaldab automatiseerida, hallata ja lihtsustada süsteemiarenduse protsessi. Siia hulka kuuluvad näiteks vahendid lähtetingimuste analüüsiks, vooskeemi ja arendustöö ajakava koostamiseks, dokumentatsiooni kirjutamiseks, programmiversioonide juhtimiseks, programmikoodi kirjutamiseks jne. Kitsamalt mõeldakse CASE all objektorienteeritud programmeerimist toetavaid süsteeme, kuid üldisemalt kuuluvad selle mõiste alla kõik tarkvaraarenduse keskkonnad.
+Eestikeelse mõistena CASE jaoks pakub vallaste.ee välja **tarkvara raaltehnoloogia.** See on arenduskeskkond, mis võimaldab automatiseerida, hallata ja lihtsustada süsteemiarenduse protsessi. Siia hulka kuuluvad näiteks vahendid lähtetingimuste analüüsiks, vooskeemi ja arendustöö ajakava koostamiseks, dokumentatsiooni kirjutamiseks, programmiversioonide juhtimiseks, programmikoodi kirjutamiseks jne. Kitsamalt mõeldakse CASE all objektorienteeritud programmeerimist toetavaid süsteeme, kuid üldisemalt kuuluvad selle mõiste alla kõik tarkvaraarenduse keskkonnad.
 
 CASE-vahendid aitavad automatiseerida tegevusi süsteemiarenduse elutsükli erinevates faasides. Näiteks prototüüpimise vajaduse korral on olemas spetsiaalsed tarkvaralised vahendid, millega mugavalt ja kiirelt luua rakenduse ekraanipiltide graafilisi mudeleid.
 
@@ -442,14 +504,26 @@ CASE-vahendeid võib nende konkreetse otstarbe järgi klassifitseerida mitmel vi
 
 Süsteemiarenduse elutsüklit toetavad CASE-vahendid jaotatakse näiteks kahte kategooriasse:
 
-- **„ülemise taseme&quot; CASE-vahendid** (upper CASE tools) toetavad analüüsi ja projekteerimist. Peamiselt on nad kasutusel kasutajanõuete analüüsimisel ja dokumenteerimisel. Nad on ennekõike mõeldud visualiseerimiseks, erinevate skeemide koostamiseks ja ka dokumentatsiooni genereerimiseks. nad toetavad traditsiooniliste diagrammikeelte kasutamist (olem-seos diagrammid, andmemudelid, UML-skeemid, jne).
-- **„alumise taseme&quot; CASE vahendid** (lower CASE tools)-keskenduvad teostusele, kus mudelitest saab tegelik tarkvaratoode. Nad toetavad andmebaasi struktuuri genereerimist, koodi genereerimist, testide läbiviimist, koodi versioonihaldust, konfiguratsioonihaldust, pöördprojekteerimist jms.
+- **"ülemise taseme" CASE-vahendid** (upper CASE tools) toetavad analüüsi ja projekteerimist. Peamiselt on nad kasutusel kasutajanõuete analüüsimisel ja dokumenteerimisel. Nad on ennekõike mõeldud visualiseerimiseks, erinevate skeemide koostamiseks ja ka dokumentatsiooni genereerimiseks. nad toetavad traditsiooniliste diagrammikeelte kasutamist (olem-seos diagrammid, andmemudelid, UML-skeemid, jne).
+- **"alumise taseme" CASE vahendid** (lower CASE tools)-keskenduvad teostusele, kus mudelitest saab tegelik tarkvaratoode. Nad toetavad andmebaasi struktuuri genereerimist, koodi genereerimist, testide läbiviimist, koodi versioonihaldust, konfiguratsioonihaldust, pöördprojekteerimist jms.
 
 CASE vahendid võivad olla mõne kitsa tegevuse toetuseks, kuid uuem suund on vahendid integreerida, et süsteemiarenduse erinevatel etappidel loodud dokumentatsioon, mudelid, kood, testid jne oleksid paremini omavahel seostatavad. Seetõttu on ühte tarkvarasse ühendatud ka alumise ja ülemise taseme CASE vahendid.
 
-Erinevad CASE-vahendid toetavad tarkvara arendusprotsessi eri ulatuses – mõnest üksikust arendussammust kuni integreeritud lahendusteni, st nõuete kogumisest kui tarkvara haldamiseni. CASE-vahendite eriliigi moodustavad programmid, mis võimaldavad läbida tarkvara arendusprotsessi „vastupidises suunas&quot;, st teha pöördprojekteerimist (reverse engineering), nt genereerida koodist süsteemi ülesehitust kirjeldavat arhitektuuriskeemi või genereerida kompileeritud koodist lähtekoodi. Selliseid vahendeid kasutatakse tihti tarkvara puuduoleva, ebatäieliku või vananenud dokumentatsiooni korral.
+Erinevad CASE-vahendid toetavad tarkvara arendusprotsessi eri ulatuses – mõnest üksikust arendussammust kuni integreeritud lahendusteni, st nõuete kogumisest kui tarkvara haldamiseni. CASE-vahendite eriliigi moodustavad programmid, mis võimaldavad läbida tarkvara arendusprotsessi "vastupidises suunas", st teha pöördprojekteerimist (reverse engineering), nt genereerida koodist süsteemi ülesehitust kirjeldavat arhitektuuriskeemi või genereerida kompileeritud koodist lähtekoodi. Selliseid vahendeid kasutatakse tihti tarkvara puuduoleva, ebatäieliku või vananenud dokumentatsiooni korral.
 
-### 1.3.2 CASE-vahendid elutsükli erinevatel etappidel
+### B.1.3.2 CASE-vahendid elutsükli erinevatel etappidel
+
+::: warning Õppekava
+
+Tuua esile erinevate tarkvaraarendusvahendite tugevad ja nõrgad kohad.
+
+:::
+
+::: danger
+
+Õppekava sõnastus ei vasta õppematerjali sisule
+
+:::
 
 Tarkvara arendusprotsessi etapid nõuavad erinevat tuge süsteemiarenduse vahenditelt:
 
@@ -465,7 +539,7 @@ Tarkvara arendusprotsessi etapid nõuavad erinevat tuge süsteemiarenduse vahend
   - andmemudeli ja sõnastiku koostamine, vältides nii mitmetimõistetavusi ja andmete kvaliteediprobleeme (sh dubleerimist)
   - olemasolevast, dokumenteerimata koodist, automaatselt dokumentatsiooni genereerimine
 - arhitektuurse disaini väljatöötamine:
-  - võimaldama visualiseerida arhitektuurset lahendust, toetama valitud metoodikat ja ülesmärkimisviisi, st skeemide koostamise „keelt&quot;, nt UMLi?
+  - võimaldama visualiseerida arhitektuurset lahendust, toetama valitud metoodikat ja ülesmärkimisviisi, st skeemide koostamise "keelt", nt UMLi?
   - kirjeldada tarkvara komponente ja nendevahelisi seoseid, liideseid
   - versioonihaldust, arhitektuuriotsuste seostamist nõuetega ja muudatustaotlustega
 - programmikoodi loomine, testimine:
@@ -478,6 +552,18 @@ Tarkvara arendusprotsessi etapid nõuavad erinevat tuge süsteemiarenduse vahend
   - koodi versioonihaldus.
 
 ### 1.3.3 CASE-vahendite probleemid
+
+::: warning Õppekava
+
+Refereerida lihtsa arendusvahendi kasutamist redigeerimiseks, kompileerimi- seks, testimiseks ja silumiseks.
+
+:::
+
+::: danger
+
+Õppekava sõnastus ei vasta õppematerjali sisule ja on arusaamatu.
+
+:::
 
 CASE-vahendid aitavad mugavamalt läbida süsteemiarenduse erinevaid etappe, kuid nende kasutamisega võivad olla seotud ka probleemid ja riskid.
 
@@ -497,26 +583,32 @@ Lihtsamaid **madala taseme CASE-vahendeid** , saab rakendada väikeste programmi
 
 Joonisel 1 on näha madala taseme CASE-vahendi Bloodshed DevC++ ekraanipilt. Redigeerimisaknas olevat programmi on kompileeritud ning ekraani all servas on süntaksivigade teated. Menüü pealkirjadest saab järeldada, millised funktsionaalsused sellel vahendil olemas on.
 
-### 1.3.4 Kordamisküsimused
+### B.1.3 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Millistes tarkvara elutsükli faasides saab kasutada CASE-vahendeid?
-1. analüüs X
-1. kavandamine X
-1. teostus X
-1. hooldus X
-1. Väikeste programmeerimistööde juures ei ole CASE-vahenditest mingit kasu.
-1. a)õige
-1. b)vale X
+  - analüüs X
+  - kavandamine X
+  - teostus X
+  -  hooldus X
+2. Väikeste programmeerimistööde juures ei ole CASE-vahenditest mingit kasu.
+  - õige
+  - vale X
 
 :::
 
-## 1.4 Süsteemi testimine ja juurutamine
+## B.1.4 Süsteemi testimine ja juurutamine
 
 Selle alateema materjale läbi töötades saad teadmised testimise tüüpidest, samuti muudest tarkvara kasutusse võtmise ja töökindluse tagamise juures vajalikest etappidest.
 
-### 1.4.1 Testimise mõiste
+### B.1.4.1 Testimise mõiste
+
+::: warning Õppekava
+
+Kirjeldada testimisviise ja loetleda need, mida saab kasutada süstemiarenduses.
+
+:::
 
 Toote kvaliteet sõltub eelkõige toote valmistamise protsessi (tarkvara korral seega tarkvara arendusprotsessi) kvaliteedist ning toote arendajate-valmistajate (analüütikute, arhitektide, programmeerijate, projektijuhtide jt) teadmistest, oskustest ning motivatsioonist. Seega tarkvara kvaliteedi tõstmise viisideks on protsesside parendamine, inimeste koolitamine jms. Tarkvara on vaja ka kontrollida vigade suhtes ehk testida.
 
@@ -534,14 +626,14 @@ Testjuhtumitele vastavalt valitakse testandmed (sisend) ja lisaks fikseeritakse,
 
 Tarkvara ja süsteemi ehk toote testimine on otseselt seotud toote kvaliteediga. Toode on kvaliteetne, kui ta rahuldab oma tööga vajadusi, millised motiveerisid toodet looma. Seega on vajalik vastavate testide läbiviimine tegemaks kindlaks, kas toode vastab täielikult kliendi nõuetele. Siiski, absoluutse kindluse, et toode ei sisalda vigu, saavutamine ei ole reaalsuses võimalik.
 
-### 1.4.2 Testimise eesmärgid
+#### Testimise eesmärgid
 
 Eelnevat kokkuvõttes võib öelda, et testimisel on kaks suuremat eesmärki:
 
 1. Näidata arendajale ja kliendile, et tarkvara vastab talle püstitatud nõuetele. Kliendi seisukohast tähendab see, et iga tema poolt soovitud ja nõuete dokumendis kirjas oleva funktsionaalsuse jaoks on läbi viidud vähemalt üks test (reeglina muidugi rohkem). Üldkasutatava tarkvara puhul aga seda, et testitud on kõiki tarkvaras ettenähtud põhiomadusi. Sellele eesmärgile vastavat testimist nimetatakse **valideerimiseks**. Edukas valideerimistest näitab, et süsteem töötab nii nagu vaja.
 2. Leida olukordi, kus tarkvara käitub vigaselt, ebasoovitavalt või ei vasta spetsifikatsioonile. Vigade otsimine on seega mõeldud selleks, et likvideerida süsteemist mittesoovitud käitumine, nagu näiteks kokku kukkumised, mittesoovitud interaktsioonid teiste süsteemidega, vigased arvutused või rikutud andmed. Seda eesmärki täitvat testimist nimetatakse **vigade testimiseks** (defect testing). Siin on edukas test selline, mis näitab süsteemi vigast funktsioneerimist ehk teisisõnu leiab süsteemist vea (mida siis edasi parandama asutakse).
 
-### 1.4.3 Testimise tüübid
+#### Testimise tüübid
 
 Pragmaatiliselt oodatakse tarkvaratootelt usaldusväärsust, st et tarkvara funktsioneerib soovitud viisil etteantud tingimustel. Funktsioneerimise viis ja opereerimise tingimused on vaja püstitada toote arenduse esimestel etappidel ning täpsustada kogu arendustsükli käigus. Praktikas on võimatu testida kõikvõimalike sisendparameetrite kombinatsioonidega ning võrrelda tarkvara väljundit oodatava väljundiga. Seega on väga oluline valida efektiivne komplekt testandmeid kombineerituna testimise tüüpidega. Tänapäeval on kasutusel ka automaattestid. Kõiki teste, näiteks kasutuskõlblikkuse teste, ei ole võimalik automatiseerida.
 
@@ -549,14 +641,14 @@ Testimise olemuseks on kontrolltegevused, et näidata kõikide tarkvarale esitat
 
 Kuna tarkvaratoote kvaliteet oleneb suures osas läbiviidavate testide tüübist, tuleb neid hoolikalt valida ja toote tellijaga kokku leppida. Osa testimist teeb programmeerija, osa testimist testijad ning lõpuks rakendatakse ka kliente-tellijaid. Järgnevalt lühike ülevaade erinevatest testimise tüüpidest.
 
-- **Moodultestimise** korral testitakse konkreetset tarkvaramoodulit – ühte alamsüsteemi kogu süsteemist. Testimist viib üldjuhul läbi moodulit realiseeriv arendaja. Moodulit tuleb kindlasti testida enne, kui moodul integreeritakse ülejäänud süsteemi. Mooduli testimisel tuleb jälgida, et moodul vastaks analüüsis püstitatud nõuetele. Mooduli testimise eesmärgiks on siiski vigade leidmine, mitte kasutajanõuetele vastavuse tõestamine. Näiteks kas moodulisse lisatud funktsioonid töötavad korrektselt ning tagastavad õigeid vastuseid. Mooduleid testitakse andmetepõhiselt: õigete, puudulike ja vigaste andmetega. Tüüpiliselt on siin tegemist nn „valge kast&quot; testimisega, st testija tunneb testitava tarkvara sisemist ülesehitust ja tööloogikat.
+- **Moodultestimise** korral testitakse konkreetset tarkvaramoodulit – ühte alamsüsteemi kogu süsteemist. Testimist viib üldjuhul läbi moodulit realiseeriv arendaja. Moodulit tuleb kindlasti testida enne, kui moodul integreeritakse ülejäänud süsteemi. Mooduli testimisel tuleb jälgida, et moodul vastaks analüüsis püstitatud nõuetele. Mooduli testimise eesmärgiks on siiski vigade leidmine, mitte kasutajanõuetele vastavuse tõestamine. Näiteks kas moodulisse lisatud funktsioonid töötavad korrektselt ning tagastavad õigeid vastuseid. Mooduleid testitakse andmetepõhiselt: õigete, puudulike ja vigaste andmetega. Tüüpiliselt on siin tegemist nn "valge kast" testimisega, st testija tunneb testitava tarkvara sisemist ülesehitust ja tööloogikat.
 - **Integratsioontestimise** korral testitakse moodulitevahelist koostööd - kontrollitakse, kas kokku pandud moodulid töötavad omavahel ja kas iseseisvalt vigadeta töötanud moodulid koos vigasid ei genereeri. Testijana kasutatakse üldjuhul sõltumatut testijat, st testijat, kes ise ei arendanud testitavaid mooduleid. Näide integratsioonitestist on igaöine kompileerimine, et kontrollida arendatava toote käivitatavust.
-- **Süsteemtestimise** korral testitakse süsteemi kui terviku töötamist. Süsteemi testimisel musta kasti meetodil vaadeldakse süsteemi kasutajale nähtavaid osi (kasutajaliidest), süvenemata koodi (siit nimetus „must kast&quot;). Testjuhtumid koostab testija (peamiselt kasutuslugude põhjal), kes testid ka läbi viib. Testijaid peab olema nii tellija kui täitja poolel. Seda laadi testimist nimetatakse ka funktsionaalsuse testimiseks.
+- **Süsteemtestimise** korral testitakse süsteemi kui terviku töötamist. Süsteemi testimisel musta kasti meetodil vaadeldakse süsteemi kasutajale nähtavaid osi (kasutajaliidest), süvenemata koodi (siit nimetus "must kast"). Testjuhtumid koostab testija (peamiselt kasutuslugude põhjal), kes testid ka läbi viib. Testijaid peab olema nii tellija kui täitja poolel. Seda laadi testimist nimetatakse ka funktsionaalsuse testimiseks.
 - **Regressioontestimine** on igat tüüpi tarkvara testimine, mida kasutatakse peale koodi/süsteemi viidud muudatusi. Näiteks uue funktsionaalsuse lisamisel, konfiguratsiooni muutmisel, paikamisel. Regressioontestimise eesmärk on veenduda, et muudatused ja veaparandused pole tekitanud süsteemi uusi vigu. Testitakse muudetud mooduleid (moodultestimine) ja nendega seotud mooduleid ning kogu süsteemi funktsionaalsust (funktsionaalsuse testimine). Peamiseks meetodiks on juba kasutatud testide taaskäivitamine veendumaks, et süsteem toimib, vanad vead ei avaldu uuesti ja ei ole tekkinud uusi. Regressioontestimist on kasulik automatiseerida üldise töökoormuse vähendamiseks.
 - **Jõudlus- ja koormustestid** on ette nähtud süsteemi tehniliste nõuetele vastavuse läbiproovimiseks. Jõudlustesti on võimalik läbi viia mitmel moel – iga komponendi jõudlust eraldi mõõtes või suure hulga testandmetega süsteemi tavakasutamist katsetades. Jõudlustesti eesmärk on tuvastada kriitilisemad kohad, kus võib tekkida ülekoormus ja kulutada aeg nende kohtade optimeerimiseks. Kui tavaliselt mõeldakse testandmed korralikult läbi ning valitakse sisendid eesmärgist lähtudes, siis selle testimisel puhul on võimalik testida ka juhusliku, arvuti poolt genereeritud suure andmehulgaga.
-- **Valideerimise** eesmärk on kinnitada, et tarkvara töö tulemid väljatöötatud kujul sobivad määratud kasutamiseks. &quot;Kas me teeme õiget tarkvarasüsteemi?&quot;
-- **Verifitseerimise** eesmärk on kinnitada, et protsessi või projekti iga tulem vastab spetsifitseeritud nõuetele. &quot;Kas me teeme tarkvarasüsteemi õigesti?&quot;
-- **Kasutatavuse testid** hindavad süsteemi kasutusmugavust kasutaja vaatenurgast: Kasutatavuse testi eesmärk on avastada vigu ja kohti, mida paremaks võiks teha, selleks jälgitakse inimesi toodet kasutamas. Kindlasti ei saa kasutatavuse testimiseks pidada seda, kui kliendile näidatakse tulevase toote prototüüpi / pilti ja küsitakse, kas on arusaadav. Testimiseks peab inimene täitma konkreetseid ülesandeid ja sel teel selguvad tarkvarasüsteemis või ka veebilehel halvasti arusaadavad kohad. Kasutatavuse testimiseks sobivad nö &quot;inimesed tänavalt&quot;, kes süsteemi esimest korda näevad. Aga ka eksperdid, kes oskavad kogemustest ja teooriatest lähtuvalt leida kasutusmugavuses nõrku kohti.
+- **Valideerimise** eesmärk on kinnitada, et tarkvara töö tulemid väljatöötatud kujul sobivad määratud kasutamiseks. "Kas me teeme õiget tarkvarasüsteemi?"
+- **Verifitseerimise** eesmärk on kinnitada, et protsessi või projekti iga tulem vastab spetsifitseeritud nõuetele. "Kas me teeme tarkvarasüsteemi õigesti?"
+- **Kasutatavuse testid** hindavad süsteemi kasutusmugavust kasutaja vaatenurgast: Kasutatavuse testi eesmärk on avastada vigu ja kohti, mida paremaks võiks teha, selleks jälgitakse inimesi toodet kasutamas. Kindlasti ei saa kasutatavuse testimiseks pidada seda, kui kliendile näidatakse tulevase toote prototüüpi / pilti ja küsitakse, kas on arusaadav. Testimiseks peab inimene täitma konkreetseid ülesandeid ja sel teel selguvad tarkvarasüsteemis või ka veebilehel halvasti arusaadavad kohad. Kasutatavuse testimiseks sobivad nö "inimesed tänavalt", kes süsteemi esimest korda näevad. Aga ka eksperdid, kes oskavad kogemustest ja teooriatest lähtuvalt leida kasutusmugavuses nõrku kohti.
 - **Vastuvõtutest** ehk **aktsepteerimistest** on kliendi poolt läbiviidav test valminud toote hindamiseks ja vastuvõtmiseks. Vastuvõtutesti testijuhtumid kirjeldavad üheselt projekti üleandmise ja vastuvõtmise kriteeriumid ning testijuhtumid peavad olema konkreetsed ja mõõdetavad ning nendes lepivad tellija ja teostaja projekti realiseerimise eel kokku;
 - **Koodi läbivaatus** – erinevalt eelnevalt käsitletud testi tüüpidest, koodi läbivaatuse puhul koodi ei käivitata vaid koodi inspekteeritakse testija poolt. Läbivaatus eeldab küsimustiku olemasolu, mille alusel koodi hinnata ning sealt vigu otsida, mis tavatingimustes testides ei pruugi avalduda. Läbivaatajad peavad olema väga kompetentsed ka näiteks kasutatava keele osas. Mida otsitakse? Näiteks algväärtustamata muutujaid, ebasobivalt valitud andmetüüpe, muutujate või massiiviindeksite väljumist lubatud piiridest, tehete järjekorda, erinevate muutujatüüpide kokkusobivust jne.
 
@@ -593,18 +685,22 @@ Toote kvaliteediga on – lisaks testimisele – seotud ka ülevaatused. Ülevaa
 - koodi läbivaatused;
 - auditid, mida üldjuhul viivad läbi sõltumatud, välise organisatsiooni esindajad. Hinnatakse muuhulgas toote ja/või arendusprotsessi vastavust nõuetele, standarditele, formaalsetele protseduuridele, lepingutele jm. Maailmas tuntuim IT-audiitorite organisatsioon on ISACA ([http://www.isaca.org](http://www.isaca.org/)), kelle poolt sertifitseeritud audiitorid kannavad CISA-tiitlit (Certified Information System Auditor – sertifitseeritud infosüsteemide audiitor).
 
-### 1.4.4 Tarkvarasüsteemi juurutamine
+### B.1.4.2 Tarkvarasüsteemi juurutamine
+
+::: warning Õppekava
+
+Kirjeldada peamisi süsteemi juurutusfaasi probleeme,näiteks kasutajatele paigaldamisel, andmete kolimisel, kasutajate koolitamisel ja neile esialgse toe osutamisel.
+
+:::
 
 Testitud tarkvaratoode tuleb võtta kasutusele. Süsteemi kasutusele võtt hõlmab kogu tarkvaraprotsessist juurutuse, andmeülekande vanast süsteemist, kasutajate ja süsteemi administraatorite koolituse, toe süsteemi kasutajatele ja paranduste sisseviimise juurutusjärgselt ilmnenud vigade parandamiseks.
 
 Tarkvaratoote kasutusele võtt sisaldab mitmeid erinevaid samme. Puudub täpne protsess, sest situatsioon, kus tarkvara juurutatakse, varieerub erinevate klientide juures oluliselt. Siiski järgmised tegevused on reeglina vajalikud:
 
 - **tarkvaratoote levitamine** , st installeerimine riistvarale. Keerukamate, hajutatud süsteemide on abiks UML levitusskeemid millised kirjeldavad tarkvara paiknemist erinevatel riistvara sõlmedes, sealhulgas:
-
 - **Avalikustamine** (release). Avalikustamine järgneb arendusprotsessile. See sisaldab kõiki tegevusi, et süsteem ette valmistada assembleerimiseks (masinkoodi viimiseks) ning kliendi juurde üleviimiseks. Selle tegevuse käigus määratakse ka ressursid, mis on vajalikud töötamiseks kliendi poolel.
 - **Tarkvara installeerimine ja aktiveerimine** - käivituvad komponendid paigutatakse arvutitele-serveritele, kus nad edasipidi töötama peavad. Keerulisemad süsteemid vajavad lisaks ka muu toetava tarkvara installeerimist (nt andmebaasimootori uus versioon jms). Tihti installeeritakse suurem süsteem mitmesse keskkonda - näiteks lisaks ka testserverile, mida saab hiljem kasutajakoolituseks ja muudeks katsetusteks kasutada.
 - **Kohandamine ja uuendamine** - uuendamise käigus installeeritakse uus versiooni süsteemist, kohandamine on samuti süsteemi muutmine, kuid põhjuseks on peamiselt muudatuse kliendipoolses keskkonnas.
-
 - **andmeülekanne vanast süsteemist** - varem kasutatud süsteemis on reeglina andmed, mida tuleb ka edaspidi kasutada. Soovitav on automaatülekandevahendi loomine, milline käivitatakse ühekordselt andmete ülekandeks vanast süsteemist uude. Ülekandemehhanism võib olla päris keerukas, eriti kui vana süsteemi ja uue süsteemi andmestruktuurid on oluliselt erinevad. Kui andmete kogus on väike ja/või automaatteisenduse algoritmi väljatöötamine liigselt keerukas, on võimalik andmeid ka käsitsi üle kanda. Sellisel juhul võib olla vajalik luua raportid vanast süsteemist andmete väljavõtmiseks ja sisestusvormid vm vahendid andmete käsitsi sisestamiseks kasutuselevõetavasse süsteemi;
 - **muudatuste tegemine teistesse rakendustesse** , millised peavad töötama koos ja/või kasutatakse koos arendatava tarkvaratootega;
 - **koolituse ettevalmistamine ja läbiviimine** tarkvaratootega kokkupuutuvatele inimestele, sh järgmistele rollidele:
@@ -612,8 +708,7 @@ Tarkvaratoote kasutusele võtt sisaldab mitmeid erinevaid samme. Puudub täpne p
   - administraatorid
   - kasutajatoe pakkujad.
 
-Koolitus peab hõlmama nii teoreetilist kui praktilist osa. Praktilise osa on soovitav läbi viia testimiseks ja/või koolituseks loodud keskkonnas (nii tarkvara kui andmed), seda eelkõige ennetamaks riske reaalsete andmete konfidentsiaalsuse, käideldavuse või tervikluse huvides;
-
+  Koolitus peab hõlmama nii teoreetilist kui praktilist osa. Praktilise osa on soovitav läbi viia testimiseks ja/või koolituseks loodud keskkonnas (nii tarkvara kui andmed), seda eelkõige ennetamaks riske reaalsete andmete konfidentsiaalsuse, käideldavuse või tervikluse huvides;
 - **valmisoleku loomist** kriisiolukorra juhtimiseks ja kriisiolukorras käitumiseks. Võimalikud kriisid tarkvaratoote kasutusele võtul on:
   - programmi mittetoimimine töökeskkonnas
   - vigade avastamine programmis
@@ -645,9 +740,31 @@ Seoses muudatustega ärikeskkonnas, seadusandluses, äri toimimises on vajadus t
 
 Ka suuremate muudatuste sisseviimisega tarkvarasse (nt uute funktsionaalsuste lisamisega) kaasnevad vähemalt osaliselt eespool kirjeldatud juurutusetapid.
 
-### 1.4.5 Kasutusjuhend ja tehnilised juhendid
+### B.1.4.3 Juurutusmeetodite tugevad ja nõrgad küljed
 
-**Kasutusjuhend** (user guide) on tehniline dokument, mis peab pakkuma tuge konkreetse süsteemi kasutajatele. Mõistena kasutatakse ka sõna **manuaal** (manual). Ka parimast tarkvarast ei ole kasu, kui kasutaja ei oska teda kasutada. Kogu kasutaja dokumentatsiooni kuuluvad lisaks kasutusjuhendile hooldusjuhised, töös hoidmise juhend, õppematerjal ja teised materjalid-juhendid süsteemi spetsiifikast lähtudes.
+::: warning Õppekava
+
+Tuua välja tugevad ja nõrgad küljed juurutusmeetoditel nt suur pauk, samm-sammult, pakettmudeliga (CORE mudel), üksuste kaupa (rollouts) meetodil.
+
+:::
+
+::: danger
+
+Nimetatud osa on õppematerjalist puudu
+
+:::
+ 
+### B.1.4.4 Kasutusjuhend ja tehnilised juhendid
+
+::: warning Õppekava
+
+Loetleda kasutajajuhendi ja tehnilise kirjelduse (reference) põhiosad.
+
+:::
+
+#### Kasutusjuhend
+
+(user guide) on tehniline dokument, mis peab pakkuma tuge konkreetse süsteemi kasutajatele. Mõistena kasutatakse ka sõna **manuaal** (manual). Ka parimast tarkvarast ei ole kasu, kui kasutaja ei oska teda kasutada. Kogu kasutaja dokumentatsiooni kuuluvad lisaks kasutusjuhendile hooldusjuhised, töös hoidmise juhend, õppematerjal ja teised materjalid-juhendid süsteemi spetsiifikast lähtudes.
 
 Kasutusjuhendi peab süsteemile kaasa andma arendaja. Hea on, kui juhendi kirjutab **tehniline kirjutaja** (technical writer), kellel on sellise materjali kirjutamise kogemus, mitte aga programmeerija. Väikesemas firmas tavaliselt eraldi kirjutaja puudub ning seda tööd peab tegema haldur või mõni teine tehnilise personali liige.
 
@@ -664,7 +781,7 @@ Tihti lisandub ka korduma kippuvate küsimuste osa (FAQ), mida on kergem pidada 
 
 Vaata näiteks Google Earthi kasutusjuhendit:
 
-http://earth.google.com/support/bin/static.py?page=guide\_toc.cs
+http://earth.google.com/support/bin/static.py?page=guide_toc.cs
 
 Juhend ise peab andma juhiseid lõppkasutajale tema töö tegemiseks ning sisaldama:
 
@@ -682,7 +799,9 @@ Et kasutusjuhendid on enamasti digitaalsed, siis aitab viimast rolli täita ka o
 
 Kasutusjuhendi üks olulisemaid tingimusi on aga see, et ta vastaks tegelikkusele. Tihti kipub ett tulema olukord, kus süsteemi esimesele versioonile on küll loodud juhend, kuid süsteemi täiendamisel jääb (ununeb?) juhend muutmata ja ebaadekvaatne juhend on päris parajaks segaduste allikaks.
 
-**Tehniline dokumentatsioon** (technical reference document)on dokumentide kogum, mida kasutatakse tehniliste objektide konstrueerimisel või projekteerimisel, tootmisel (valmistamisel) ja kasutamisel.
+#### Tehniline dokumentatsioon
+
+(technical reference document)on dokumentide kogum, mida kasutatakse tehniliste objektide konstrueerimisel või projekteerimisel, tootmisel (valmistamisel) ja kasutamisel.
 
 Tehniline dokumentatsioon sisaldab tarkvarasüsteemi tehnilist kirjeldust, sh dokumente, mis on tekkinud arendustegevuse käigus. Et erinevad arendusmetoodikad käsitlevad arenduse käigus toimuvat dokumenteerimist veidi erineval viisil, siis on raske anda ühest loetelu dokumentatsiooni osadest.
 
@@ -690,37 +809,41 @@ Kitsamalt peetakse tehnilise dokumentatsiooni all silmas dokumente, mis on abiks
 
 Süsteemi ülesehituse kirjeldusest on kasu nendele, kes süsteemist vigu otsima või muudatusi ning uusi funktsionaalsuseid lisama peavad.
 
-### 1.4.6 Kordamisküsimused
+### B.1.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Testimisega saab näidata vigade esinemist tarkvaras, kuid mitte kunagi ei saa testimisega näidata vigade puudumist
-1. jah X
-1. ei
-1. Hooldusetapp ehk toeetapp on tavaliselt kõige lühema kestvusega etapp tarkvara elutsüklis
-1. jah
-1. ei X
-1. Juurutusetapil tuleb:
-1. a)kasutajaid koolitada X
-1. b)tarkvara installeerida X
-1. c)andmeid ülekanda X
-1. d)toodet reklaamida
-
-1. Sea vastavusse järgmised mõisted ja selgitused:
-
-1. Verifitseerimine - &quot;Kas me teeme tarkvarasüsteemi õigesti?&quot;
-1. regressioontestimine - peale uue funktsionaalsuse lisamist kontrollitakse, kas seni töötav osa ei ole katki läinud
-1. valideerimine -&quot;Kas me teeme õiget tarkvarasüsteemi?&quot;
-1. moodultestimine - testitakse tarkvara osa tehniliste vigade suhtes
-1. koormustestimine - kontrollitakse suure hulga (juhuslike) andmetega kas süsteem tuleb toime piisavalt lühikese ajaga
+  - jah X
+  -  ei
+2. Hooldusetapp ehk toeetapp on tavaliselt kõige lühema kestvusega etapp tarkvara elutsüklis
+  - jah
+  - ei X
+3. Juurutusetapil tuleb:
+  - kasutajaid koolitada X
+  - tarkvara installeerida X
+  - andmeid ülekanda X
+  - toodet reklaamida
+4. Sea vastavusse järgmised mõisted ja selgitused:
+  - Verifitseerimine - "Kas me teeme tarkvarasüsteemi õigesti?"
+  - regressioontestimine - peale uue funktsionaalsuse lisamist kontrollitakse, kas seni töötav osa ei ole katki läinud
+  - valideerimine -"Kas me teeme õiget tarkvarasüsteemi?"
+  - moodultestimine - testitakse tarkvara osa tehniliste vigade suhtes
+  - koormustestimine - kontrollitakse suure hulga (juhuslike) andmetega kas süsteem tuleb toime piisavalt lühikese ajaga
 
 :::
 
-## 1.5 Süsteemi juhtimine ja turvalisus
+## B.1.5 Süsteemi juhtimine ja turvalisus
 
 Selle alateema materjale läbi töötades saad teadmised, millistes keskkondades milliseid tegevusi on mõistlik ette võtta ning tutvustatakse, milliseid toiminguid on tarvis rakendada süsteemi turvalisuse tagamiseks.
 
-### 1.5.1 Süsteemi loomise keskkonnad
+### B.1.5.1 Süsteemi loomise keskkonnad
+
+::: warning Õppekava
+
+Eristada arendus-, test- ja töökeskkondi ja mõista korrastatud süsteemipaigaldust sh versioonihaldust ja tarkvara levitamise meetodeid.
+
+:::
 
 **Arenduskeskkond** (development environment) on keskkond, kus on kasutatav kogu vajalik funktsionaalsus tarkvara süsteemi arendamiseks. Arenduskeskkonda võib mõista erinevatel tasanditel. Näiteks programmeerija põhitöövahendiks on integreeritud arenduskeskkond (nn IDE), kus on kõik vahendid mugavaks koodi loomiseks, kompileerimiseks jne. (Vt ka B1.3). Kõrgemal tasemel on arenduskeskkond seadistus koos arendusserveri, andmete, andmebaasimootorite ja muu vajalikuga, et katsetada ja testida arendatava süsteemi osade tööd. Sellisel keskkonnal on ka inglisekeelne nimetus sandbox.
 
@@ -728,7 +851,13 @@ Selle alateema materjale läbi töötades saad teadmised, millistes keskkondades
 
 **Töökeskkond** (production environment) on keskkond, kus toimub tegelik töö, st mida firma tarvitab oma igapäevases äritegevuses. Sarnaselt testimiskeskkonnale on ta täielik installatsioon kogu vajalikust riist- ja tarkvarast. Töökeskkonna peal ei ole õige katsetada süsteemi uuendusi, sest see võib halvata äritegevuse. Katsetamiseks on testimiskeskkond. Koolituse võimalikkus sõltub pigem sellest, mida konkreetselt tehakse ja kas see võib õppija kogenematuse tõttu mingeid kahjusid põhjustada.
 
-### 1.5.2 Konfiguratsioonihaldus
+#### Konfiguratsioonihaldus
+
+::: danger
+
+Õppekavas puudub vastab alljaotus
+
+:::
 
 Tarkvarasüsteemi loomisel ning tema hilisemal parandamisel ja muutmisel töötavad mitmed arendajad. See tegevus kestab aastaid ja selle aja jooksul tekib tarkvarast mitmeid variante - nn versioone. Et tarkvarauuenduste töösse andmine ja vajadusel vanemate versioonide taastamine sujuks, on tarvilik järgida mingeid protseduurireegleid, süstematiseerida kogu tekkinud koodi ja vastavat dokumentatsiooni: uuendusnõudeid, vearaporteid jne.
 
@@ -746,7 +875,13 @@ Versioonihaldusega on tihedalt seotud **järkude haldus**.
 
 **Süsteemi järk** on tarkvara versioon, mis tarnitakse kasutajale. Üldkasutatava tarkvara jaoks (kontoritarkvara jms) eristatakse kahte tüüpi järke: **peajärk** (major release) toob kaasa mõne olulise uue funktsionaalsuse ja **pisijärk** (minor release) parandab mõne vea või kasutaja teatatud probleemi. Eritarkvara puhul võivad erinevatel klientidel olla tarkvarast erinevad järgud/versioonid ning igaüks neist võib areneda omasoodu. Nii võib ühest süsteemist töötada samaaegselt mitu erinevat versiooni. Probleemi ilmnemisel tarkvara kasutamisel peab olema võimalik taastada täpselt selline tarkvara variant, nagu see on sellele kliendile antud. Seetõttu peab järkude info olema piisava detailsusega säilitatud ehk iga järk tuleb dokumenteerida selliselt, et see oleks hiljem taasesitatav.
 
-### 1.5.3 Andmeturve
+### 1.5.2 Andmeturve
+
+::: warning Õppekava
+
+Tuua välja süsteemi tõrgetega seotud riskid ja pakkuda meetmed, et kaitsta firmataseme olulisi andmeid mitmel sh füüsilisel ja menetlustasemel (procedural level).
+
+:::
 
 Igasugusel andmetena talletataval või edastataval informatsioonil, sh ka tarkvaratoote koodil, on väärtus tarbija (inimese või tehnilise süsteemi) jaoks. Seetõttu on vajalik andmeturve, mis peab tagama andmete väärtuse säilimise, st **andmete turvalisuse**. Traditsiooniliselt on andmete turvalisuseks peetud eelkõige nende konfidentsiaalsust ehk salastatust. Tänapäevalgi kiputakse tihti samastama andmeturvet salastusega, kuigi andmeturbe ulatus on tunduvalt laienenud. Andmete turvalisus kui üldeesmärk on mitmemõõtmeline ja koosneb osaeesmärkidest.
 
@@ -760,7 +895,7 @@ Mitmesuguste turbemetoodikate aluseks võivad olla erinevad turvamudelid, mis h�
 
 Avalike andmete turbe korral peavad olema tagatud käideldavus ja terviklus.
 
-1. 1. 1. 1.5.4Riskid
+#### Riskid
 
 **Risk** on võimalus, et millegi tegemisel või tegemata jätmisel tekib ebasoodne olukord, mille tulemuseks on kaotus. Riske tuleb ette näha ja püüda nende mõju vähendada. Riskiga tegelemise vajalikkuse üle saab otsustada peale vastavat analüüsi. Iga riski kohta saab määrata tema **esinemistõenäosuse** (madal, keskmine kõrge) ning milline on riski **realiseerumise tagajärg** (ebaoluline, talutav, tõsine, katastroofiline).
 
@@ -768,9 +903,15 @@ Iga süsteemi (sh tarkvarasüsteemi) tööga kaasnevad riskid. Kaasaegsed tarkva
 
 Üheski praktilises süsteemis ei ole olemas täielikku turvet, st täielikku käideldavust, täielikku terviklust ja täielikku konfidentsiaalsust. Millistele infoturbe aspektidele tuleb konkreetsete andmete korral tähelepanu pöörata, oleneb konkreetsest infosüsteemist ja selle otstarbest, st käideldavate andmete väärtusest. Enamasti tuleb arvesse võtta turvalisuse kõiki kolme komponenti, kuid erinevate kaaludega. Organisatsioonis nõutav infoturbe tase sõltub organisatsiooni ülesannetest, õigusaktidest ja eeskirjadest, organisatsiooni tegevuse sisemisest korraldusest, infosüsteemide ja ka teenuseandjate ja koostöö- või lepingupartnerite tagatud või nõutud turvatasemest jms. Niisiis tähendab **andmete turvalisus** , et on saavutatud kolm eesmärki: teabe käideldavus, teabe terviklus, teabe konfidentsiaalsus.
 
-1. 1. 1. 1.5.5Süsteemide turvalisuse tagamine
+### B.1.5.3 Süsteemide turvalisuse tagamine
 
-Süsteemide turvalisuse aspekte tuleb arvestada alates arendusprotsessi esimestest sammudest – kasutaja vajaduste, süsteemi visiooni ja süsteemi nõuete püstitamisel. Efektiivsem ja majanduslikult odavam on vajalikud turvameetmed projekteerida ja realiseerida süsteemis loomise ajal, mitte käsitleda turvalisust kui midagi tülikat ja otseselt tulu mittetoovat ning lisada turvameetmed peale toote kasutuselevõttu ja esimest tõsist turvaintsidenti. Turvalisus ei ole „pealisehitus&quot;, turvalisus on toote omadus
+::: warning Õppekava
+
+Kirjeldada igapäevaseid infoturbe alaseid tegevusi, näiteks varundus, juurdepääsu tagamine.
+
+:::
+
+Süsteemide turvalisuse aspekte tuleb arvestada alates arendusprotsessi esimestest sammudest – kasutaja vajaduste, süsteemi visiooni ja süsteemi nõuete püstitamisel. Efektiivsem ja majanduslikult odavam on vajalikud turvameetmed projekteerida ja realiseerida süsteemis loomise ajal, mitte käsitleda turvalisust kui midagi tülikat ja otseselt tulu mittetoovat ning lisada turvameetmed peale toote kasutuselevõttu ja esimest tõsist turvaintsidenti. Turvalisus ei ole "pealisehitus", turvalisus on toote omadus
 
 Oluline on mõista, et turvalisus ei ole saavutatav üksnes tehniliste vahenditega, või veel kitsamalt, turvalist koodi kirjutades. Turvalisus on olulises osas tõstetav vajalikule tasemele organisatoorsete, protseduuriliste, kasutajat harivate koolituste, motivatsiooniga, füüsiliste turvameetmetega jm.
 
@@ -778,9 +919,9 @@ Oluline on mõista, et turvalisus ei ole saavutatav üksnes tehniliste vahendite
 
 Järgnevalt mõned näited võimalikest meetmetest, mis peaksid aitama kaitsta firma andmeid mittevolitatud ligipääsu eest:
 
-**Füüsiline tase** - kontoriruumide turvalisus, sülearvutid ja kodused arvutid. Kodustesse arvutitesse võib jõuda delikaatseid andmeid, kui on lubatud kodus tööd teha. Sülearvutid võidakse varastada nii tänaval kui ka kodus ning need võidakse välismaal arestida. Selle eest kaitseks võib firma keelata sülearvutitega ringi liikumise ning kodus töötamise. Ning töökohal peaksid arvutid paiknema &quot;luku ja riivi taga&quot;. samuti võidakse keelata mitmesuguse salvestusmeediaga (CDd ja DVDd, mälupulgad, välised kõvakettad) liikumise kontorisse ja kontorist välja. Kodune töö toob igal juhul kaasa riskid, ka siis, kui töötaja on aus. Sest kodune arvutivõrk (eriti traadita kohtvõrk) ei pruugi olla piisaval määral turvatud.
+**Füüsiline tase** - kontoriruumide turvalisus, sülearvutid ja kodused arvutid. Kodustesse arvutitesse võib jõuda delikaatseid andmeid, kui on lubatud kodus tööd teha. Sülearvutid võidakse varastada nii tänaval kui ka kodus ning need võidakse välismaal arestida. Selle eest kaitseks võib firma keelata sülearvutitega ringi liikumise ning kodus töötamise. Ning töökohal peaksid arvutid paiknema "luku ja riivi taga". samuti võidakse keelata mitmesuguse salvestusmeediaga (CDd ja DVDd, mälupulgad, välised kõvakettad) liikumise kontorisse ja kontorist välja. Kodune töö toob igal juhul kaasa riskid, ka siis, kui töötaja on aus. Sest kodune arvutivõrk (eriti traadita kohtvõrk) ei pruugi olla piisaval määral turvatud.
 
-**Protseduuriline tase** - kokkulepitud &quot;mängureeglid&quot; andmete käitlemisel, erinevatele töötajatele füüsilise ja loogilise juurdepääsu tagamisel, andmete varundamisel jms tegevuste jaoks. Päris selget joont eelmise tasemega on raske tõmmata. Näide sellest, et töö sülearvutiga ei tohi koju minna, võiks liigitada ka siia alla.
+**Protseduuriline tase** - kokkulepitud "mängureeglid" andmete käitlemisel, erinevatele töötajatele füüsilise ja loogilise juurdepääsu tagamisel, andmete varundamisel jms tegevuste jaoks. Päris selget joont eelmise tasemega on raske tõmmata. Näide sellest, et töö sülearvutiga ei tohi koju minna, võiks liigitada ka siia alla.
 
 **Tarkvaraline tase** - piiratakse kasutajate juurdepääsu ning tehakse andmed-süsteemid kättesaadavaks vaid selleks volitatud isikutele. Andmetele ja kogu arvutile ligipääsuks peab kasutaja end autentima. Selleks on paroolid, kuid turvalisemad on sõrmejälje ja silma võrkkesta lugejad. Siiski ei taga see päris kindlat kaitset, sest tarkvara vigu saab ära kasutada kõrvalisi teid mööda süsteemi sissemurdmiseks (back door). Tundlikke süsteeme arendades tuleb turvalisuse probleemidele juba süsteemi arendades suurt tähelepanu pöörata ning tarkvara konkreetsete ründevõimaluste suhtes hoolikalt kontrollida. Kõikvõimalike ründevariantide käsitlemine ei mahu käesolevasse materjali.
 
@@ -809,62 +950,61 @@ Igale turbeastmele vastab kindel ISKE turvameetmete komplekt, mille abil andmeid
 
 Kõiki olulisi andmeid tuleb **regulaarselt varundada**. On väljatöötatud skeemid näiteks väiksema varundamise tegemiseks iga päev ja suuremaks varundamiseks üks kord nädalas. Milline skeem täpselt sobib, seda saab otsustada juba andmete olulisuse alusel (liigne varundamine läheb liiga kalliks ja ressurssi nõudvaks). Kui varundamine on tehtud piisavalt automaatseks, tuleb siiski süsteemi perioodiliselt kontrollida, et kõik jätkuvalt töötaks. Ning oluline on ka see, kus hoida varukoopiaid. Kui nad seisavad näiteks serveri kõrval laua peal, siis tulekahju korral ei ole hiljem koopiatest suuremat kasu.
 
-**Inimfaktor** : _turvapoliitikatest on kasu vaid siis kui neid järgitakse ja kasutatakse igapäevaselt. Töötajaid tuleb koolitada igapäevaselt turvanõudeid täitma, kuni see muutub harjumuseks. Kuid samas tuleb arvestada, et ka kõige läbimõeldum turvapoliitika ei suuda ette näha kõiki ohte ja neid ennetada. Tuleb jälgida, kus on konfidentsiaalsed andmed ja vajadusel hävitada välised andmekandjad. Igapäevaselt andmeid kasutades on otstarbekas neid krüpteerida. Korralik krüpteerimise võimalus peab olema infosüsteemi sisseehitatud._
+**Inimfaktor** - turvapoliitikatest on kasu vaid siis kui neid järgitakse ja kasutatakse igapäevaselt. Töötajaid tuleb koolitada igapäevaselt turvanõudeid täitma, kuni see muutub harjumuseks. Kuid samas tuleb arvestada, et ka kõige läbimõeldum turvapoliitika ei suuda ette näha kõiki ohte ja neid ennetada. Tuleb jälgida, kus on konfidentsiaalsed andmed ja vajadusel hävitada välised andmekandjad. Igapäevaselt andmeid kasutades on otstarbekas neid krüpteerida. Korralik krüpteerimise võimalus peab olema infosüsteemi sisseehitatud.
 
 **Juurdepääsu kontroll** - kasutada tuleb hoolikalt valitud turvalisi paroole. Halvad paroolid on jätkuvalt turvalisuse puudujääkide pingereas kõrgel kohal. Ka töökohalt ajutisel lahkumisel tuleb takistada ligipääs oma arvutile - kas parooliga kaitsta ekraanikaitse või end süsteemist välja logida.
 
 Igapäevaselt tuleb hoolitseda, et igasugused tarkvarauuendused saaksid süsteemile lisatud. Kui need ei puuduta ka tarkvarasüsteemi ennast, siis uuendused operatsioonisüsteemile, viirusetõrje tarkvarale jms on hädavajalikud.
 
-### 1.5.6 Kordamisküsimused
+### B.1.5 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia arenduskeskkonnas:
-1. koodi kirjutamine X
-1. kasutajatega testimine
-1. kasutajate koolitus
-1. koodi kompileerimine X
-1. moodulite testimine X
-1. kliendipoolne igapäevatöö
-1. projektdokumentatsiooni koostamine X
-1. regressioontestimine
-1. koormustestimine
-1. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia testimiskeskkonnas:
-1. koodi kirjutamine;
-1. kasutajatega testimine X
-1. kasutajate koolitus X
-1. koodi kompileerimine
-1. moodulite testimine
-1. kliendipoolne igapäevatöö
-1. projektdokumentatsiooni koostamine
-1. regressioontestimine X
-1. koormustestimine X
-1. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia töökeskkonnas:
-1. koodi kirjutamine
-1. kasutajatega testimine
-1. kasutajate koolitus X
-1. koodi kompileerimine
-1. moodulite testimine
-1. kliendipoolne igapäevatöö X
-1. projektdokumentatsiooni koostamine
-1. regressioontestimine
-1. koormustestimine
-1. Millistel andmete omadustel põhineb andmete turvamudel? Andmete turvamudel põhineb andmete:
-1. käideldavusel X
-1. terviklusel X
-1. konfidentsiaalsusel X
+  - koodi kirjutamine X
+  - kasutajatega testimine
+  - kasutajate koolitus
+  - koodi kompileerimine X
+  - moodulite testimine X
+  - kliendipoolne igapäevatöö
+  - projektdokumentatsiooni koostamine X
+  - regressioontestimine
+  - koormustestimine
 
-5.Tarkvarasüsteemi turvalisuse tagamisega tuleb alustada:
-
-1. kliendiga nõudeid arutades
-2. tarkvara projekteerides X
-3. tarkvarasüsteemi programmeerides
-4. vajalikku riistvara ja tugisüsteeme seadistades
-5. peale tarkvarasüsteemi töösse andmist
+2. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia testimiskeskkonnas:
+  - koodi kirjutamine;
+  - kasutajatega testimine X
+  - kasutajate koolitus X
+  - koodi kompileerimine
+  - moodulite testimine
+  - kliendipoolne igapäevatöö
+  - projektdokumentatsiooni koostamine
+  - regressioontestimine X
+  - koormustestimine X
+3. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia töökeskkonnas:
+  - koodi kirjutamine
+  - kasutajatega testimine
+  - kasutajate koolitus X
+  - koodi kompileerimine
+  - moodulite testimine
+  - kliendipoolne igapäevatöö X
+  - projektdokumentatsiooni koostamine
+  - regressioontestimine
+  - koormustestimine
+4. Millistel andmete omadustel põhineb andmete turvamudel? Andmete turvamudel põhineb andmete:
+  - käideldavusel X
+  - terviklusel X
+  - konfidentsiaalsusel X
+5. Tarkvarasüsteemi turvalisuse tagamisega tuleb alustada:
+  - kliendiga nõudeid arutades
+  - tarkvara projekteerides X
+  - tarkvarasüsteemi programmeerides
+  - vajalikku riistvara ja tugisüsteeme seadistades
+  - peale tarkvarasüsteemi töösse andmist
 
 :::
 
-6. Süsteemiarenduse arengujooned
+## B.1.6 Süsteemiarenduse arengujooned
 
 Selle alateema materjale läbi töötades saad teadmised süsteemiarenduse suundumustest.
 
@@ -876,13 +1016,19 @@ Ajalooliselt on tarkvaraarendusprotsessi parendamisega enim tegeletud sellistes 
 
 ### 1.6.1 Kvaliteedi juhtimine ja standardid
 
+::: warning Õppekava
+
+Kirjeldada standardseid ja uuenduslikke süsteemiaren- duse meetodeid nt ISO 12207, SEI/CMMI, agiilmeetod.
+
+:::
+
 **Standardid** tegelevad peamiselt kvaliteedikindlustamise probleemidega, hinnangu andmisega kriitiliste äriprotsesside haldamisele ja juhtimisele. Järgnevalt mõned näited süsteemiarenduse standarditest
 
-#### 1.6.1.1 ISO 9000.
+#### ISO 9000
 
 ISO 9000 on **ISO** (International Organization for Standardization) standardite osa, mis on rakendatav projekteerimise ja tootmisega tegelevas ettevõtluses. Viimane versioon standardist on piisavalt üldine, et sobida äri ja teenindusega seotud ettevõtetesse ning on enam suunatud klientide rahulolu saavutamisele. ISO9000 reguleerib toodete hankimise, kavandamise, dokumenteerimise, tarnimise, väljatöötamise, testimise ja hoolduse. ISO 9000 kvaliteedistandardite sari on kehtestatud ka Eesti standarditena. ISO9000 lähenemine ei ole normatiivne vaid nõutakse, et standardit rakendav ettevõte tuvastaks oma võtmeprotsessid ning valiks meetodid ja tehnikad nende protsesside efektiivseks läbiviimiseks. Tähelepanu pööratakse protsesside pidevale parendamisele ning mõõdikutele, mille abil saab kontrollida protsesside ja toodete kvaliteeti.
 
-#### 1.6.1.2 ISO 12207
+#### ISO 12207
 
 **ISO 12207 on tarkvara elutsükli protsessi standard**.
 
@@ -900,7 +1046,7 @@ Standard toob välja 5 põhiprotsessi:
 
 Standard on vastuvõetud ka Eesti standardina **(\*\***EVS-ISO/IEC 12207)\*\*. Jälgides Eesti tarkvaraarendajate veebilehti võib leida viiteid, et oma arendusprotsessis peetakse kinni just sellest standardist. See peaks omakorda tõstma usaldust vastavate ettevõtete vastu.
 
-#### 1.6.1.3 SEI/CMMI
+#### SEI/CMMI
 
 Aastal 1986 kirjeldas Watts Humphrey **tarkvara küpsuse mudelit** (Software Maturity Framework), mille abil on võimalik hinnata tarkvara arendusfirma küpsustaset. Sellest algsest mudelist on erinevate firmade tarbeks ajapikku välja arenenud rida küpsusmudeleid, millest tarkvara alal kaks tuntumat on **CMM-SW** , mille andis välja Software Engineering Institute(SEI) 1993. aastal, ning Capability Maturity Model Integration (CMMI), mis anti välja 2000. aastal.
 
@@ -910,25 +1056,31 @@ Aastal 1986 kirjeldas Watts Humphrey **tarkvara küpsuse mudelit** (Software Mat
 
 SEI/CMMI on suunatud (arendus)protsessi parandamisele ning annab organisatsioonidele efektiivse protsessi olulised elemendid.
 
-### 1.6.2 Agiilmeetodid
+#### Agiilmeetodid
 
-Arendusmetoodikates on vanade nn **tardmeetodite** (raskete meetodite) asemel tulnud **kerged** ehk **agiilsed** ehk **paindmeetodid** (vt ka B1.2). Agiilmeetodite tuleku üheks põhjuseks oli tardmeetodite sobimatu paljude tarkvaraprojektide läbiviimiseks. Erinevalt muust tööstusest osutus tarkvaraprojekti läbiviimine algselt paika pandud põhjalike plaanide järgi väga keeruliseks. Eriti sel juhul, kui toodet tehti kliendi soovide kohaselt ning need soovid ei olnud väga selgelt välja kujunenud. 2001 aastal koostatud Agile Manifesto&#39;s toodi muuhulgas välja, et planeerimisse põhjaliku panustamise asemel tuleks siiski teha &quot;asja ennast&quot;, kuid see ei tähenda samal ajal plaanipärasest tegevusest lahti ütlemist. Agiilsete arendusmeetodite puhul on protsess ja iganädalased tegevused väga selgelt reglementeeritud.
+Arendusmetoodikates on vanade nn **tardmeetodite** (raskete meetodite) asemel tulnud **kerged** ehk **agiilsed** ehk **paindmeetodid** (vt ka B1.2). Agiilmeetodite tuleku üheks põhjuseks oli tardmeetodite sobimatu paljude tarkvaraprojektide läbiviimiseks. Erinevalt muust tööstusest osutus tarkvaraprojekti läbiviimine algselt paika pandud põhjalike plaanide järgi väga keeruliseks. Eriti sel juhul, kui toodet tehti kliendi soovide kohaselt ning need soovid ei olnud väga selgelt välja kujunenud. 2001 aastal koostatud Agile Manifesto';s toodi muuhulgas välja, et planeerimisse põhjaliku panustamise asemel tuleks siiski teha "asja ennast", kuid see ei tähenda samal ajal plaanipärasest tegevusest lahti ütlemist. Agiilsete arendusmeetodite puhul on protsess ja iganädalased tegevused väga selgelt reglementeeritud.
 
-Siinkohal võib näiteks tuua **Scrum&#39;i** , mis on Eestiski levinud.
+Siinkohal võib näiteks tuua **Scrum'i** , mis on Eestiski levinud.
 
-„Scrumi raamistik aitab meeskondadel saada ülitõhusaks. See võimaldab arendajail teostada suuri projekte vaid murdosa jooksul ajast, mis kulub tavaarenduspraktikas&quot; – ütles Jim Cundiff, Scrum Alliance&#39;i tegevjuht. „Samuti teeb Scrum defektid meeskonnale koheselt nähtavaks&quot;, lisab Cundiff. „Lihtsalt öeldes – Scrum parendab tõhusust ja aitab organisatsioonil ülesannetega toime tulla.&quot; Scrumi kasvavat populaarsust võib seletada tema suutlikkusega tõsta ja võimendada investeeringult teenitavat tulusust ning võimega ühendada juhtkonda ja arendajaid firma ärieesmärkide saavutamise nimel. Scrumi on lihtne mõista ja rakendada, koolitusprogrammid on olemas ja töötavad. Scrum pakub paindlikku raamistikku, mis aitab suurtel meeskondadel keskenduda sihile, et ühiselt, kogu meeskonnaga, saavutada iga sprindi ülesanded. SCRUM-töö põhineb tsüklilisusel, mille etappe nimetakse **sprintideks**. Sprindi kestus on tavaliselt kaks kuni neli nädalat. Igaks sprindiks võtavad meeskonnad töösse tähtsuse põhjal järjestatud ülesanded, lähtudes kliendi vajadustest. Ülesandeid nimetatakse **kasutuslugudeks** (user story), nii et funktsioonid, mida arendatakse eelkõige, on kliendile kõige suurema väärtusega. Iga sprindi lõpus tarnitakse kliendile potentsiaalselt kasutatav toode.
+"Scrumi raamistik aitab meeskondadel saada ülitõhusaks. See võimaldab arendajail teostada suuri projekte vaid murdosa jooksul ajast, mis kulub tavaarenduspraktikas" – ütles Jim Cundiff, Scrum Alliance';i tegevjuht. "Samuti teeb Scrum defektid meeskonnale koheselt nähtavaks", lisab Cundiff. "Lihtsalt öeldes – Scrum parendab tõhusust ja aitab organisatsioonil ülesannetega toime tulla." Scrumi kasvavat populaarsust võib seletada tema suutlikkusega tõsta ja võimendada investeeringult teenitavat tulusust ning võimega ühendada juhtkonda ja arendajaid firma ärieesmärkide saavutamise nimel. Scrumi on lihtne mõista ja rakendada, koolitusprogrammid on olemas ja töötavad. Scrum pakub paindlikku raamistikku, mis aitab suurtel meeskondadel keskenduda sihile, et ühiselt, kogu meeskonnaga, saavutada iga sprindi ülesanded. SCRUM-töö põhineb tsüklilisusel, mille etappe nimetakse **sprintideks**. Sprindi kestus on tavaliselt kaks kuni neli nädalat. Igaks sprindiks võtavad meeskonnad töösse tähtsuse põhjal järjestatud ülesanded, lähtudes kliendi vajadustest. Ülesandeid nimetatakse **kasutuslugudeks** (user story), nii et funktsioonid, mida arendatakse eelkõige, on kliendile kõige suurema väärtusega. Iga sprindi lõpus tarnitakse kliendile potentsiaalselt kasutatav toode.
 
 Kuigi Scrum on enimlevinud tarkvaraarenduses, sobib see metoodika väga hästi igasuguste agiilsete (olud ja lähteandmed muutuvad sageli) arendusprojektide teostamiseks.
 
-Scrum sisaldab pea ainult töö organiseerimisega (projekti juhtimisega) seotud tegevusi, nähes ette võimalikud igapäevased / iganädalased tegevused. Näiteks ei alustata esmaspäeva hommikul mitte usina koodikirjutamisega, vaid kulutatakse päevast märkimisväärne osa nädala tegevuste planeerimisele (nt &quot;planning poker&quot; - tegemist vajavate tööde jaotamine sprintidesse). Peetakse hommikusi lühikesi nn &quot;püstijala koosolekuid&quot; (stand-up), kus igaüks saab öelda nii seda, mida ta eelmisel päeval tegi kui ka seda, mis teda töötamast segab. Peetakse tagasivaate koosolekuid (retrospective), et toimunut kokku võtta ning avaldatakse arvamust oma meeskonna liikmete kohta, kui nende tegevus näiteks teiste töötamist segab. Seinal hoitaks tööde edenemise graafikut, kus on jooksvalt kõigile näha, kui kaugele erinevate funktsionaalsustega ollakse jõudnud.
+Scrum sisaldab pea ainult töö organiseerimisega (projekti juhtimisega) seotud tegevusi, nähes ette võimalikud igapäevased / iganädalased tegevused. Näiteks ei alustata esmaspäeva hommikul mitte usina koodikirjutamisega, vaid kulutatakse päevast märkimisväärne osa nädala tegevuste planeerimisele (nt "planning poker" - tegemist vajavate tööde jaotamine sprintidesse). Peetakse hommikusi lühikesi nn "püstijala koosolekuid" (stand-up), kus igaüks saab öelda nii seda, mida ta eelmisel päeval tegi kui ka seda, mis teda töötamast segab. Peetakse tagasivaate koosolekuid (retrospective), et toimunut kokku võtta ning avaldatakse arvamust oma meeskonna liikmete kohta, kui nende tegevus näiteks teiste töötamist segab. Seinal hoitaks tööde edenemise graafikut, kus on jooksvalt kõigile näha, kui kaugele erinevate funktsionaalsustega ollakse jõudnud.
 
-&quot;Agiilsetest tegevustest&quot; Eestis vaata agile.ee ja scrum.ee.
+"Agiilsetest tegevustest" Eestis vaata agile.ee ja scrum.ee.
 
-1. 1. 1. 1.6.3IT arhitektuur
+### B.1.6.2 IT arhitektuur
+
+::: warning Õppekava
+
+Aru saada kaasaegsetest tehnilise arhitektuuri arengutest nt kahe või kometasemeline klient-server variandid, n-tasemeline veebipõhine, teenusepõhine arhitektuur, suurarvuti laiendused ja liidesed.
+
+:::
 
 Veel mõned aastad tagasi oli üks levinumaid viise struktureerida rakendusi kaheks komponendiks: **klient** ja **server**. Sellist lähenemist tuntakse nimetuse **kahekihiline arhitektuur** all. Klient on komponent, mis vahendab kasutaja ja serveri vahel infot. Server osutab ühele või enamale kliendile teenuseid. Tüüpiliselt paiknes serveris tsentraalne andmebaas ja üks osa äriloogikast, klientides aga äriloogika ja kasutajaliides. Sellise arhitektuuri puuduseks on, et äriloogika muutudes on vaja tarkvara uuendada tihti kümnetes ja sadades kliendiarvutites, samuti nõuab see suurte andmemahtude liigutamist kliendi ja serveri vahel ning suurt arvutusvõimsust kliendi poolel.
 
-#### 1.6.3.1 Mitmekihiline arhitektuur
+#### Mitmekihiline arhitektuur
 
 **Mitmekihiline arhitektuur** (n-tier client-server architecture) on klient-server arhitektuur, kus esituse, töötlemise ja andmete haldamise protsessid on üksteisest loogiliselt eraldatud protsessid. Mitmekihiline arhitektuurimudel aitab luua paindlikku ja korduvalt kasutatavat tarkvara. Muudatuste puhul on vajalik need teha vaid üksikutes kihtides, mitte kogu rakenduses korraga. See lubab hakkama saada vähema töö, lühema aja ja väiksema potentsiaalse vigade hulgaga.
 
@@ -944,11 +1096,11 @@ Praegu laialt levivatel veebirakendustel on reeglina sarnane arhitektuur. Sel ju
 
 **Mitmekihiline arhitektuur** (n-tier architcture) on üldistus. Siin võivad vastavalt vajadusele lisanduda erinevad kihid (või jaotuda kirjeldatud kihid omakorda osadeks). Olukorras, kus järjest enam on väärtust mitte üksikul rakendusel või andmebaasil, vaid koosvõimelistel infosüsteemidel, on arenduses pudelikael liikunud süsteemide liidestamisele-integratsioonile. Oluline on kasutada läbiproovitud praktikaid (nt mustreid sarnaste probleemide lahendamiseks), teenusorienteeritud lähenemist, infosüsteemide semantilist kirjeldamist.
 
-#### 1.6.3.2 Teenusorienteeritud arhitektuur
+#### Teenusorienteeritud arhitektuur
 
 **Teenusorienteeritud arhitektuur** (SOA - Service Oriented Architecture) on samuti olemuselt mitmekihiline ja seda kasutatakse veebirakenduste loomisel. Arhitektuur moodustub üksteisega suhtlevatest (veebi)teenustest, mis ei sõltu üksteise kontekstist ega olekust ning töötavad hajussüsteemide mudelil. Teenuste vahel puuduvad tugevad seosed ning ükski teenus pole teadlik teise teenuse tehnilistest detailidest nagu näiteks andmestruktuurid, tarkvaraline platvorm, operatsioonisüsteem, kasutatav andmebaasisüsteem jne. SOA-d võib käsitleda kui rakenduste väljatöötamise kõrgeimat tasandit, kus kasutajate eest on peidetud kogu tehnilise keskkonna keerukus.
 
-**SOA** **eelised\*\*** :\*\*
+SOA **eelised:
 
 - SOA abil on võimalik integreerida erinevaid infosüsteeme. Arendajad ei pea töötama välja uusi lahendusi erinevate süsteemide kasutamiseks. Oluline on kasutada standardseid protokolle (nt andmevahetusprotokollid). Standardeid mittejärgivaid teenuseid on raske juurutada.
 - Liidesed on taaskasutatavad. Liidest, mida kasutati ühe konkreetse süsteemi arendamisel, saab kasutada ka kõikide teiste analoogsete süsteemide arendamisel.
@@ -958,13 +1110,19 @@ SOA on asendamatu veebiportaalide ehitamisel. Portaal võib hankida uudiseid ja 
 
 Erinevad SOA-tehnoloogiad on ellu kutsutud selleks, et lihtsustada eri süsteemide omavahelist suhtlust. (kirjeldus firma DT veebilehelt)
 
-#### 1.6.3.3 Süsteemide keerukus
+#### B.1.6.3 Süsteemide keerukus
+
+::: warning Õppekava
+
+Kirjeldada kaasaegse süsteemide süsteemi keerukust ja kuidas sellega toime tulla, näiteks autonoomsed süsteemid.
+
+:::
 
 **Pärandtarkvara** (legacy software) töös hoidmine ja integreerimine uute tarkvarasüsteemidega on üks 21. sajandi tarkvaraarenduse väljakutsetest. Firmad, mis on investeerinud suurarvutitesse (mainframe), on huvitatud oma investeeringu ehk suurarvuti jätkuvast kasutamisest. Tekib küsimus, kas suurarvuti saab olla tänapäevase paindliku integreeritud IT-süsteemi osa ning kas pärandtarkvara ja pärandandmeid saab jätkuvalt kasuta? Vastuseks on, et peab saama, kasvõi juba sellepärast, et kogu arvutiparki ega rakendusi ei ole võimalik korraga välja vahetada. Samas suurarvuteid võikski nende võimsuse tõttu rahulikult edasi kasutada. Suurarvutite ja nendel töötavate süsteemide jätkuvaks kasutamiseks ning uute süsteemidega integreerimiseks on vaja spetsiaalseid **tarkvaralisi laiendusi** (legacy mainframe extension). Laiendused töötavad ka selliselt, et neid on võimalik liidestada SOA-arhitektuuri. Laiendusi toodavad ja lisavad oma tarkvarasse ka suurte andmebaasisüsteemide ja arendustarkvara loojad (nt Oracle, IBM)
 
 Arvutisüsteemid on oma kasvamise ja arenemisega toonud kiiruse ja automatiseerituse läbi palju kasu mitmesuguse inimtegevuse valdkondadesse ja nüüd jõuab kätte aeg, kus arvutisüsteemid peaksid iseend automaatselt hooldama. Praegu kulub nende hooldamise peale palju oskustööjõudu. Kaasaegsete hajussüsteemide suurimaks probleemiks on nende endi keerukus ja nende haldamise keerukus. Keerukus ei piirdu ainult tarkvaraga, vaid süsteemis tahetakse koos kasutada erinevaid seadmeid alates serveritest ja lõpetades mobiiltelefonidega. See kõik peab suutma võrgus suhelda. Kasvavast keerukusest saab peagi süsteemide edasiarengut piirav faktor.
 
-Artiklis &quot;The Vision of Autonomic Computing&quot; hoiatavad Kephart ja Chess, et unistus kõigi tarkvarasüsteemide ja seadmete ühendamisest muutub lausandmetöötluse õudusunenäoks, kus arhitektid ei ole enam võimelised ettenägema, kavandama ja hooldama kõigi süsteemide vastastikuse toime keerukust. Nad märgivad, et **autonoomse andmetöötluse** (autonomic computing) olemus on süsteemi **enesehooldus** (self-management), kus süsteemi parema toimimise läbi vabastatakse administraatorid madala taseme tegevusest. Autonoomse andmetöötluse idee on inspireeritud inimese autonoomsest närvisüstemist. Sellises süsteemis omandab administraator uue rolli - tema ülesandeks on kirjeldada üldsuunad ja haldamisreeglid, mille alusel enesehooldus toimima peab. On välja toodud 4 peamist kasutusala/omadust, kus esialgu autonoomse andmetöötlusega tegeletakse:
+Artiklis "The Vision of Autonomic Computing" hoiatavad Kephart ja Chess, et unistus kõigi tarkvarasüsteemide ja seadmete ühendamisest muutub lausandmetöötluse õudusunenäoks, kus arhitektid ei ole enam võimelised ettenägema, kavandama ja hooldama kõigi süsteemide vastastikuse toime keerukust. Nad märgivad, et **autonoomse andmetöötluse** (autonomic computing) olemus on süsteemi **enesehooldus** (self-management), kus süsteemi parema toimimise läbi vabastatakse administraatorid madala taseme tegevusest. Autonoomse andmetöötluse idee on inspireeritud inimese autonoomsest närvisüstemist. Sellises süsteemis omandab administraator uue rolli - tema ülesandeks on kirjeldada üldsuunad ja haldamisreeglid, mille alusel enesehooldus toimima peab. On välja toodud 4 peamist kasutusala/omadust, kus esialgu autonoomse andmetöötlusega tegeletakse:
 
 - **isekonfigureeruv** - automaatne komponentide konfigureerimine;
 - **iseparanev** - vigade automaatne avastamine ja parandamine;
@@ -973,62 +1131,79 @@ Artiklis &quot;The Vision of Autonomic Computing&quot; hoiatavad Kephart ja Ches
 
 End ise hooldavate süsteemideni on siiski veel hulk maad minna.
 
-### 1.6.4 Kordamisküsimused
+### B.1.6 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Tarkvaraarenduse kergetele (agile) meetoditele on omane:
-1. testimise alustamine esimestel protsessi etappidel X
-1. tihe suhtlemine kasutajatega X
-1. dokumentatsiooni puudumine
-1. arendusprotsessi juhtimise puudumine
+  - testimise alustamine esimestel protsessi etappidel X
+  - tihe suhtlemine kasutajatega X
+  - dokumentatsiooni puudumine
+  - arendusprotsessi juhtimise puudumine
 
-1. Tarkvaraarenduse rasketele (heavy) meetoditele on omane:
-1. põhjalik planeerimine X
-1. tihe klientidega suhtlemine kogu protsessi vältel
-1. tarkvara tarnimine osade kaupa
-1. pikk ettemääratus X
+2. Tarkvaraarenduse rasketele (heavy) meetoditele on omane:
+  - põhjalik planeerimine X
+  - tihe klientidega suhtlemine kogu protsessi vältel
+  - tarkvara tarnimine osade kaupa
+  - pikk ettemääratus X
 
-1. Mitmekihilise arhitektuuri oluline eesmärk on eraldada üksteisest rakenduse andmed ja nende esitamine kasutajale ning teha seeläbi võimalikuks rakenduse erinevate osade muutmise vajaduseta kogu rakenduse koodi ringi kirjutada:
-1. jah X
-1. ei
+3. Mitmekihilise arhitektuuri oluline eesmärk on eraldada üksteisest rakenduse andmed ja nende esitamine kasutajale ning teha seeläbi võimalikuks rakenduse erinevate osade muutmise vajaduseta kogu rakenduse koodi ringi kirjutada:
+  - jah X
+  - ei
 
-4.Pane omavahel õigesti kokku:
-
-1. Standardid - jagavad soovitusi äriprotsesside juhtimiseks ja seeläbi kvaliteedi kindlustamiseks, samuti annavad soovitusliku sõnavara
-2. ISO12207 - kirjeldab tarkvara elutsükli protsesse, tuues välja viis põhiprotsessi
-3. CMM/SW - sisaldab nõudeid tarkvara kvaliteetsele arendamisele, tuues välja ettevõttes kasutatava arendusprotsessi küpsuse hindamiseks 5 taset
-4. CMMI - on paindlik mudel, lubades hinnata iga protsessi küpsuse taset eraldi
+4. Pane omavahel õigesti kokku:
+  - Standardid - jagavad soovitusi äriprotsesside juhtimiseks ja seeläbi kvaliteedi kindlustamiseks, samuti annavad soovitusliku sõnavara
+  - ISO12207 - kirjeldab tarkvara elutsükli protsesse, tuues välja viis põhiprotsessi
+  - CMM/SW - sisaldab nõudeid tarkvara kvaliteetsele arendamisele, tuues välja ettevõttes kasutatava arendusprotsessi küpsuse hindamiseks 5 taset
+  - CMMI - on paindlik mudel, lubades hinnata iga protsessi küpsuse taset eraldi
 
 :::
 
 ## 1.7 Kasutatud materjalid ja lisalugemist
 
-- EUCIP programmi materjal: http://ecdl.ee/EUCIP\_eksami\_sooritajale.html
-- Tauno Hanni materjal e-uni repositooriumis &quot;Infosüsteemi elutsükkel&quot;:
-  http://www.e-ope.ee/repositoorium/otsing?@=6wob#euni\_repository\_10895
-- Natalia Prishvitsyna materjal e-uni repositooriumis &quot;Infosüsteemi elutsükkel&quot;:
-  http://www.e-ope.ee/repositoorium/otsing?@=6x0f#euni\_repository\_10895
+- EUCIP programmi materjal: http://ecdl.ee/EUCIP_eksami_sooritajale.html
+
+- Tauno Hanni materjal e-uni repositooriumis "Infosüsteemi elutsükkel":
+  http://www.e-ope.ee/repositoorium/otsing?@=6wob#euni_repository_10895
+
+- Natalia Prishvitsyna materjal e-uni repositooriumis "Infosüsteemi elutsükkel":
+  http://www.e-ope.ee/repositoorium/otsing?@=6x0f#euni_repository_10895
+
 - Ian Sommerville. Software Engineering 9th EditionPearson Education, 2010
+
 - Sama raamatu veebilehel olevad slaidid ja joonised:
   http://www.cs.st-andrews.ac.uk/~ifs/Books/SE9/
+
 - Jaak Tepandi. Tarkvara kvaliteet ja standardid (IDX5721, IDX5722)
   http://deepthought.ttu.ee/users/tepandi/pdf/tks-loeng.pdf
+
 - Sense foorum Scrumist:
   [http://www.illimar.com/foorum/viewtopic.php?t=148](http://www.illimar.com/foorum/viewtopic.php?t=148)
+
 - ISKE- tutvustav materjal: http://www.ria.ee/iske
+
 - Jones, Capers. Software Engineering Best Practices McGraw-Hill Professional Publishing, 2009
+
 - Alistair Cockburn. Using both incremental and iterative development:
   http://alistair.cockburn.us/Using+both+incremental+and+iterative+development
+
 - Computer Aided Software Engineering (CASE Tools):
-  http://www.theecommercesolution.com/usefull\_links/case\_tools.php
+  http://www.theecommercesolution.com/usefull_links/case_tools.php
+
 - Computer-aided software engineering:
-  http://www.enotes.com/topic/Computer-aided\_software\_engineering
+  http://www.enotes.com/topic/Computer-aided_software_engineering
+
 - John W. Horch. Practical Guide to Software Quality Management:
   http://site.ebrary.com/lib/tallinn/docDetail.action?docID=10081955&amp;p00=horch
+
 - Terminid: http://vallaste.ee/, http://en.wikipedia.org
+
 - Artiklid ajakirjas Arvutustehnika ja andmetöötlus (http://deepzone0.ttu.ee/aa/):
+
 - M. Lepmets. Mis on tarkvaraprotsesside parandamine ehk Software Process Improvement
+
 - G. Piho. Eesti tarkvaraarendajate kogemused arendusmetoodikate kasutamisel
+
 - P. Leis. Agiilse projektijuhtimise karkass
+
 - P. Leis. CMM on suremas, elagu CMMI!
