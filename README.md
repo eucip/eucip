@@ -2,14 +2,6 @@
 sidebar: none
 ---
 
-# Õppekava
-
-### A [Juhtimine](./oppekava/a_juhtimine.md)
-
-### B [Arendus](./oppekava/b_arendus.md)
-
-### C [Haldus](./oppekava/c_haldus.md)
-
 # Õppematerjalid
 
 ### A Juhtimine
@@ -39,3 +31,11 @@ sidebar: none
 #### C1 [Arvutite komponendid ja arhitektuur](./oppematerjalid/c_haldus_01_arvutite_komponendid_ja_arhitektuur.md)
 
 > C2, C4... jne tulekul
+
+# Õppekava
+
+### A [Juhtimine](./oppekava/a_juhtimine.md)
+
+### B [Arendus](./oppekava/b_arendus.md)
+
+### C [Haldus](./oppekava/c_haldus.md)
