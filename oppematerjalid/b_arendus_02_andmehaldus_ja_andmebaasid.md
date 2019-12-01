@@ -1314,7 +1314,7 @@ Tuua välja andmeaida tööpõhimõtted.
 
 :::
 
-::: danger
+::: danger Probleem
 
 Õppekava ja õppematerjali sisu ei lähe kokku
 

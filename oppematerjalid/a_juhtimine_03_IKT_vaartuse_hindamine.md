@@ -8,7 +8,7 @@ Selle alateema materjale läbi töötades saad teadmised sidusrühma ja erinevat
 
 ### A.3.1.1 Kliendi mõiste erinevad tähendused
 
-::: warning
+::: warning Õppekava
 
 **A.3.1.1**
 
@@ -20,7 +20,7 @@ Tuua välja erinevus klientide erinevate tähenduste - väline ostja, projekti t
 
 :::
 
-::: danger
+::: danger Probleem
 
 Õppematerjalis puuduvad õppekava alajaotused
 
@@ -57,7 +57,7 @@ Sõltumata kasutaja kuuluvusest on tarvilik teada tema vajadusi ning sellel vast
 
 ### A.3.1.2 IT personal
 
-::: danger
+::: danger Probleem
 
 Õppekavas puudub vastav alamjaotus
 
@@ -105,7 +105,7 @@ Selle alateema materjale läbi töötades saad teadmised:
 
 ### A.3.2.1 Äriplaan ja selle struktuur
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada infosüsteemi teostatavuse mõõtmist planeerimisel ja vastavusse seadmist ariplaani ja –vajadustega.
 
@@ -321,7 +321,7 @@ Iseloomulikumad jooned on:
 
 ### A.3.2.3 Tegevusstrateegia ja IT-strateegia
 
-::: warning
+::: warning Õppekava
 
 Määratleda majandusliku teostatavuse mõiste.
 
@@ -353,13 +353,13 @@ Planeerimise turu valmisoleku hindamise etapil vaadeldakse kolme seisundit:
 
 ### A.3.2.4 Projekti planeerimine
 
-::: warning
+::: warning Õppekava
 
 Määratleda tehnilise teostatavuse mõiste.
 
 :::
 
-::: danger
+::: danger Probleem
 
 Õppekava alajaotus ei vasta õppematerjalid sisule
 
@@ -381,7 +381,7 @@ Iga tehnoloogiline rakenduse tekkimise tõukejõuks on reeglina mittetehniline p
 
 ### A.3.2.5 IT strateegia elluviimine
 
-::: warning
+::: warning Õppekava
 
 Määratleda organisatsioonilise teostatavuse mõiste.
 
@@ -457,7 +457,7 @@ Selle alateema materjale läbi töötades saad teadmised kulude ja tulude planee
 
 ### A.3.3.1 Kulud ja tulud
 
-::: warning
+::: warning Õppekava
 
 Tuua välja peamised investeeringute hindamise meetodid, näiteks **investeeringute tulukus** **_Return on Investment_**, **sisemine kasuminorm** **_Internal Rate of Return_**, **varade tulevikuväärtus** **_Net Present Value_**.
 
@@ -523,7 +523,7 @@ Tulu IT investeeringutelt on reeglina raske mõõta ning kokkuarvamise viisid on
 
 ### A.3.3.2 IK rakendamisest saadav otsene ja kaudne tulu
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada IKT rakendamisest saadava tulu hindamist otseste tulude (kulude vähenemine, tähtaegade lühenemine jne.) ja kaudsete tulude (töötajate rahulolu, parem kuvand jne.).
 
@@ -555,7 +555,7 @@ Olgu siinkohaltoodud mõned võimalikud tulu saamise kohad.
 
 **Rahulolevamad töötajad**. Investeeringud kontori- ja töökorraldussüsteemidesse ning uusima tehnoloogia kasutamine. Siin uusim tehnoloogia ei pea tähendama alati kõige uuema tarkvara versiooni kiiret kasutuselevõttu, kui see ei vii uuele kvalitatiivsele tasemele.
 
-::: danger
+::: danger Probleem
 
 Puudub järgmine õppekava alampunkt
 
@@ -595,7 +595,7 @@ Selle alateema materjale läbi töötades õpid hindama infotehnoloogilisi lahen
 
 ### A.3.4.1 Infotehnoloogiliste lahenduste hindamine
 
-::: warning
+::: warning Õppekava
 
 **A.3.4.1**
 Selgitada saada infosüsteemi maksumuse ja kasude hindamise strateegilisest tähtsusest enne ja pärast uue lahenduse rakendamist.
@@ -608,7 +608,7 @@ Loetleda hõlpsasti ja raskesti määratletavaid tulusid ja kulusid.
 
 :::
 
-::: danger
+::: danger Probleem
 
 Õppematerjal pole alampunktide järgi stuktureeritud
 

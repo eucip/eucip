@@ -175,7 +175,7 @@ Kirjeldada süsteemiarenduse põhilisi etappe.
 
 :::
 
-::: danger 
+::: danger Probleem 
 
 Õppekava punkt B.1.2.3 langeb selle õppematerjaliga kokku:
 
@@ -519,7 +519,7 @@ Tuua esile erinevate tarkvaraarendusvahendite tugevad ja nõrgad kohad.
 
 :::
 
-::: danger
+::: danger Probleem
 
 Õppekava sõnastus ei vasta õppematerjali sisule
 
@@ -559,7 +559,7 @@ Refereerida lihtsa arendusvahendi kasutamist redigeerimiseks, kompileerimi- seks
 
 :::
 
-::: danger
+::: danger Probleem
 
 Õppekava sõnastus ei vasta õppematerjali sisule ja on arusaamatu.
 
@@ -748,7 +748,7 @@ Tuua välja tugevad ja nõrgad küljed juurutusmeetoditel nt suur pauk, samm-sam
 
 :::
 
-::: danger
+::: danger Probleem
 
 Nimetatud osa on õppematerjalist puudu
 
@@ -853,7 +853,7 @@ Eristada arendus-, test- ja töökeskkondi ja mõista korrastatud süsteemipaiga
 
 #### Konfiguratsioonihaldus
 
-::: danger
+::: danger Probleem
 
 Õppekavas puudub vastab alljaotus
 

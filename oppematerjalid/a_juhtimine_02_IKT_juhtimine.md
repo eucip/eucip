@@ -107,7 +107,7 @@ Kõikehõlmavat edu valemit ei ole olemas, kuid firma edukus aitab kaasa alltood
 
 Ülaltoodud põhimõtted aitavad kvaliteetsemalt koostada firma äriinfosüsteemi plaani, moderniseerida äriinfosüsteemi ennast.
 
-::: danger
+::: danger Probleem
 
 Puuduvad järgmised õppekava alampunktid
 
@@ -214,7 +214,7 @@ Seega oleks firma huvides säilitada tolerantsus töötajate tööharjumuste ja 
 
 Kokkuvõtteks võiks märkida, et firma töötajate hoiak ja firma organisatsioonilisele struktuur oleksid nagu eri poolused. Võib öelda, et firmade range ülesehitus eeldab teatud korrapärasust ja see võib tunduda töötajatele nende vabadusastmete piiramisena. Samas võib töötajate tegutsemine vabamas õhkkonnas olla küllaltki oluliseks faktoriks kui soovitakse tehnoloogia efektiivse ärakasutamise tulemusena saavutada parimaid tulemusi.
 
-::: danger
+::: danger Probleem
 
 Puuduvad järgmised õppekava alampunktid
 
@@ -413,7 +413,7 @@ Järgnevas tabelis toome lühivõrdluse kulude osas oma spetsialisti poolt arend
 | Juhtimine                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                      |
 | Probleemideks on IT spetsialisti värbamine ja valik, motiveerimine, arendamine, juhtimine, täiendkoolitamine jne.                                                                                                                                                                                                                           | Kõik vastavad probleemid on IT firma probleemid                                                                                                                                                                                                                                                                                                                      |
 
-::: danger
+::: danger Probleem
 
 Puuduvad järgmised õppekava alampunktid
 
@@ -527,7 +527,7 @@ Reeglina vajavad tippjuhid suurema üldistusastmega infomatsiooni, kuna nende t�
 
 Infosüsteem, nagu igasugune tehnoloogia, on pidevas arengus, sest meie teadmised ümbritsevast keskkonnast pidevalt suurenevad. Lõputu arendustegevus nõuab ka lõpptarbija oskuste kasvu. Selleks, et infosüsteemi kasutegur oleks võimalikult kõrge peavad lõpptarbijad hästi tundma kõiki süsteemi võimalusi. Siit ka vajadus pidevale koolitusele ja täiendõppele. Eriti suurt tähelepanu tuleb pöörata uutele kasutajatele, kes ei puugi tunda ka elementaarseid põhitõdesid. Põhitõdede mitteteadmine ei võimalda aga süsteemi täies mahus kasutada ning uutel lõpptarbijatel võib tekkida hirm või vastumeelsus infosüsteemi enda vastu, mis ettevõtte seisukohalt on äärmiselt ebasoovitav ilming.
 
-::: danger
+::: danger Probleem
 
 Puuduvad järgmised õppekava alampunktid
 
@@ -703,7 +703,7 @@ Kui vaadelda eraldi omandi üldkulusid, siis neid saaks jaotada:
 
 Kokkuvõtteks võib öelda, et omandi kogukulude hindamine on oluline etapp infosüsteemide väljaarendamisel ja kuigi nende kulude arvutamine pole lihtne, võimaldab see kontrollida tegevus- ja väljatöötamiskulusid ning hinnata ka sisulisi põhjuseid, mis on kulutuste või ebaefektiivsuse taga.
 
-::: danger
+::: danger Probleem
 
 Puuduvad (või on ebapiisavalt õppematerjaliga seostatud) järgmised õppekava alampunktid
 
