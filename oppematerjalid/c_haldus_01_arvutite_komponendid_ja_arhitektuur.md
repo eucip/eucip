@@ -1,8 +1,8 @@
-# C1 Arvutite komponendid ja arhitektuur
+# C.1 Arvutite komponendid ja arhitektuur
 
 Selle teema materjale läbi töötades saad teadmised arvuti riistvarakomponentidest, arvutite arhitektuurist ja protsessori tööpõhimõtetest.
 
-## 1.1 Arvuti riistvarakomponendid
+## C.1.1 Arvuti riistvarakomponendid
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -10,7 +10,7 @@ Selle alateema materjale läbi töötades õpid:
 - Tooma välja lihtsa arvutisüsteemi peamised perifeeriaseadmed ja nende parameetrid
 - Eristama põhilisi mälutehnoloogiaid.
 
-### 1.1.1 Arvutisüsteemi põhikomponendid
+### C.1.1.1 Arvutisüsteemi põhikomponendid
 
 **Personaalarvuti** (PC – Personal Computer edaspidi arvuti) on arvutusseade, mis koosneb erinevaid funktsioone täitvatest elektroonikaplokkidest, mis koos funktsioneerides teostavad mingit kasutaja poolt määratud ülesannet.
 
@@ -39,7 +39,7 @@ Põhitsükkel, mida protsessor järjest täidab on:
 
 **Püsimälu** (ROM – Read Only Memory) on on kasutusel erinevate arvuti riistvarakomponentide **püsivara** (firmware) programmikoodi ja andmete salvestamiseks. Esmane programm arvuti käivitumisel loetakse protsessorisse spetsiaalsest püsimälust **BIOS** (Basic Input Output System). BIOS&#39;i otstarve on varustada arvuti käivitumiseks vajaliku programmikoodiga, sisaldab driverid suhtlemiseks riistvarakomponentidega ja infot arvuti riistvarakonfiguratsiooni kohta ning kasutajaliidese (BIOS SETUP) arvutitootja riistvaraseadete muutmiseks või taastamiseks. Arvuti käivitamisel täidab protsessor püsimälust loetud käske riistvara testimiseks (POST – Power On Self Test) ja esmase käivitusseadme poole pöördumiseks, et laadida arvuti muutmällu operatsioonisüsteem. Viimane mõiste hõlmab tarkvarakeskkonda, mille kaudu hallatakse süsteemiressursse ja jagatakse kasutajale juurdepääsu erinevatele riistvarakomponentidele ning võimaldatakse käivitada erinevaid programme ehk rakendusi, et panna arvuti teostama kasutajale vajalikke ülesandeid.
 
-### 1.1.2 Arvutisüsteemi põhikomponentidevahelised seosed
+### C.1.1.2 Arvutisüsteemi põhikomponentidevahelised seosed
 
 Arvutisüsteemi põhikomponentide omavaheline andmevahetus toimub mööda füüsilisi meediumeid ehk **siine** (Bus): mööda andmesiini liiguvad andmed, aadressisiinil olev info näitab kuhu andmed liiguvad ja juhtsiini seisuga määratakse mis suunaliselt ja mille vahel andmed parajasti liiguvad.
 
@@ -53,7 +53,7 @@ Arvuti põhikomponendid on ümbritsetud **arvutikorpusega**. Arvutikorpuse üles
 
 Teine väga oluline põhjus arvuti põhikomponentide koondamiseks korpusesse on elektriohutus, sest arvutis on sees toitesüsteem ja elektrikaabeldus, millega kokkupuude võib olla eluohtlik. Eelpoolmainitud elektromagnetiliste häirete vastavuse aluseks on elektromagnetilise ühilduvuse (EMC – Electormagnetic Compatibility) direktiiv. Arvuti elektriohutusele vastavust reguleerib madalpingedirektiiv (LVD – Low Voltage Directive). Iga arvuti peab vastama nii EMC kui LVD direktiivile ja selle kinnituseks on arvutikorpusel vastav märgistus – CE. Kolmas põhjus, miks arvuti põhikomponendid on korpuses on vajadus arvutikomponente jahutada ja selleks tekitatakse arvutikorpuses suunatud õhuvool, millega tagatakse põhikomponentide nõuetele vastav temperatuur.
 
-### 1.1.3 Peamised perifeeriaseadmed ja nende funktsionaalsus
+### C.1.1.3 Peamised perifeeriaseadmed ja nende funktsionaalsus
 
 Arvuti **perifeeriaseadmed** on seadmed, mida saab täiendavalt lisada arvuti peamistele riistvarakomponentidele aga mille olemasolu ei ole hädavajalik arvuti toimimiseks. Perifeeriaseadmed ühendatakse arvutiga kasutades arvuti tugikiibistikku sisseehitatud sisend-väljundmoodulit ja selles sisalduvaid erinevaid kontrollereid, mis pakuvad valiku siinidest ja portidest perifeeriaseadmete ühendamiseks. Kõige olulisemad perifeeriaseadmed, mis teevad võimalikuks inimese suhtlemise arvutiga on **klaviatuur** andmete sisestamiseks ja **monitor** , et näha arvutuse tulemust. Monitori ühendamiseks peab arvutis olema **graafikakaart**.
 
@@ -94,7 +94,7 @@ Täiendavate perifeeriaseadmete funktsionaalsus võib olla väga erinev ja allpo
 - Sensorid ja automaatikaseadmed mingite protsesside jälgimiseks, automatiseerimiseks ja kaugjuhtimiseks.
 - Raadioühendus ehk juhtmevaba side. Traadita seadmete ühendamiseks on saadaval mitmesuguseid erinevaid tehnoloogiaid. IrDA (ehk infrapuna) ühendust kasutati algselt personaalarvutite ühendamiseks mobiiltelefonide ja pihuarvutitega. Tänaseks on kasutusele võetud siiski üha rohkem muid raadioühenduse tehnoloogiaid, nagu näiteks WiFi ja Bluetooth, mis tagavad parema töökindluse ja sooritusvõime.
 
-### 1.1.4 Perifeeriaseadmete parameetrid
+### C.1.1.4 Perifeeriaseadmete parameetrid
 
 Perifeeriaseadme parameetrid kirjeldavad seadme toimimist. Arvuti klaviatuuri puhul on parameetriteks klahvide arv, toetatud keel, lisafunktsiooniklahvid ja ühendusliides. Tähemärkide paigutuse järgi nimetatakse kaasaegset klaviatuuri ka QWERTY, mis on esimesed 5 klaviatuuri tähemärki. Eesti klaviatuuri eripäraks on „Õ&quot; sümbol ja selle olemasolu järgi saab kontrollida, kas klaviatuur on eesti keele jaoks kohandatud.
 
@@ -135,12 +135,12 @@ Salvestustehnoloogia:
 - Optiline salvestustehnoloogia on kasutusel CD-, DVD- ja Blu-Ray seadmetes. Neid seadmeid iseloomustab andmete salvestusmaht ja andmevahetuse kiirus, mis võib erineda lugemisel ja kirjutamisel. Kiirust mõõdetakse kordades baasühikust.
 - Magnetiline salvestustehnoloogia on kasutusel kõvaketastel - HDD (Hard Disk Drive). Kõvakettal kasutatakse andmete salvestamisel pöörlevat magnetplaati, mille kohal paikneb lugemis/kirjutamis pea. Suurim viivitus on seotud lugemispea juhtimisega kõvakettal soovitud sektorini. Viivitus on seda väiksem, mida suurem on ketta pöörlemise kiirus RPM (Revolutions Per Minute).
 - Mälukiipide baasil massmäluseadmed on välkmäluseadmed ehk SSD (Solid-state Drive), mis kasutavad andmete salvestamiseks mälukiipe. Nende seadmete suureks eeliseks on liikuvate osade puudumine ja suurepärane pöördusaeg suvalises mälupesas hoitavate andmete poole. Kiire pöördusaeg koos hea andmevahetuse kiirusega, mis ulatub juba 3Gbit/s on teinud need massmäluseadmed populaarseks ja ka SSD seadmete mälumaht kasvab kiirelt.
-- --Maht – kui palju andmeid seade salvestada võimaldab
-- --Ühendatavus – PATA, SATA, eSATA, USB, Firewire, RJ45
+- Maht – kui palju andmeid seade salvestada võimaldab
+- Ühendatavus – PATA, SATA, eSATA, USB, Firewire, RJ45
 
 Kui arvutiporti ühendatud seade ei käivitu siis tuleb veaotsingut alustada füüsilisest pistikust, millel ei tohi olla vigastusi. Port peab olema lubatud arvuti BIOS&#39;is ja port peab olema lubatud ka operatsioonisüsteemi seadmete all ning seadme jaoks installeeritud vastavad driverid.
 
-### 1.1.5 Mäluseadmed
+### C.1.1.5 Mäluseadmed
 
 ![](data:image/png;base64,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)
 
@@ -200,40 +200,47 @@ Püsimälud jagunevad omakorda:
 
 **Mälude veakontroll** on kasutusel kriitilistes kontrollerites või serverarvutites. Veakontroll võib olla realiseeritud kas paarsuskontrolliga, kus teatud arvu bittide kohta arvutatakse kontrollsumma ning andmete mälust lugemisel kontrollitakse, kas summa on sama. Sellise lahenduse korral on võimalik avastada 1-bitiseid mäluvigu. Teine mälukiipides tuntud veakontrollimeetod on ECC (Error detection and correction). Selle kontrollimeetodi puhul on iga mälumoodulil eraldi kontrollbit ja selle kontrollimehanism ka mälukontrollerile sisse ehitatud. ECC mälude korral on võimalik korrigeerida 1-bitiseid mäluvigu ja avastada 2-bitiseid mäluvigu.
 
-### 1.1.6 Kordamisküsimused
+### C.1.1.6 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Milline komplekt komponente on kõige sobivam funktsioneeriva arvuti koostamiseks?
-1. Protsessor, mälu, mikrokood
-1. Protsessor, mälu, sisend-väljund seade
-1. Protsessor, emaplaat, mälu, BIOS, toiteplokk X
 
-1. Millise valemi järgi on õige teisendada 2 bitine kahendkood kümnendkoodiks?
-1. Kõrgem bitt×22+madalam bitt×21
-1. Kõrgem bitt×21+madalam bitt×20 X
-1. Kõrgem bitt×20+madalam bitt×21
+- Protsessor, mälu, mikrokood
+- Protsessor, mälu, sisend-väljund seade
+- Protsessor, emaplaat, mälu, BIOS, toiteplokk X
 
-1. Millises funktsioonis ei kasutata püsimälu arvuti koosluses?
-1. BIOS
-1. Vahemälu X
-1. Mikrokood
-1. Millised parameetrid iseloomustavad DDR2 SDRAM mälu jõudlust?
-1. RPM
-1. SPD
-1. Veeruviivitus X
-1. POST
-1. Millisel massmäluseadmel on kõige väiksem viivitus andmete poole pöördumisel?
-1. USB
-1. LVD
-1. HDD
-1. SSD X
-1. ODD
-1. DVD
+2. Millise valemi järgi on õige teisendada 2 bitine kahendkood kümnendkoodiks?
+
+- Kõrgem bitt×22+madalam bitt×21
+- Kõrgem bitt×21+madalam bitt×20 X
+- Kõrgem bitt×20+madalam bitt×21
+
+3. Millises funktsioonis ei kasutata püsimälu arvuti koosluses?
+
+- BIOS
+- Vahemälu X
+- Mikrokood
+
+4. Millised parameetrid iseloomustavad DDR2 SDRAM mälu jõudlust?
+
+- RPM
+- SPD
+- Veeruviivitus X
+- POST
+
+5. Millisel massmäluseadmel on kõige väiksem viivitus andmete poole pöördumisel?
+
+- USB
+- LVD
+- HDD
+- SSD X
+- ODD
+- DVD
 
 :::
 
-## 1.2 Arvuti arhitektuur
+## C.1.2 Arvuti arhitektuur
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -242,7 +249,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama mälu hierarhia mõistet
 - Tuvastama erineva otstarbega arvutisüsteeme.
 
-### 1.2.1 Arvuti arhitektuuriskeem
+### C.1.2.1 Arvuti arhitektuuriskeem
 
 Kaasaegse arvutiarhitektuuri plokkskeem on kirjeldatud allpooltoodud joonisel.
 
@@ -252,7 +259,7 @@ Joonis 1‑10. Arvuti arhitektuur Inteli Q67 tugikiibistiku baasil
 
 Joonisel on toodud kaasaegse arvuti arhitektuuri plokkskeem, kus on näha arvutisüsteemi põhikomponendid eesotsas protsessoriga, milles sisaldub nii graafikakontroller kui ka mälukontroller. Protsessor on ühenduses teiste süsteemikomponentidega läbi kiire DMI (Direct Memory Interface) liidese. Viimane asendab varem tuntud protsessori süsteemisiini (FSB – Front Side Bus) ja sarnaneb ülesehituselt PCI Express siinile. Protsessoris sisalduv graafikakiirendi on ühenduses väljundportidega FDI (Flexible Display Interface) liidese abil. Tugikiibistiku komponent (PCH –Platform Controller Hub) võimaldab arvutisüsteemil erinevad siinid suhtlemiseks välismaailmaga. Sealhulgas graafikapordid, PCIe ja PCI siinid, SATA liidese ja pordid, USB liidese ja pordid, helikaardi ja helipordid, võrgukaardi ja RJ-45 pordi. Joonisel on toodud ka SPI (Serial Peripheral Interface Bus) liides BIOS&#39;i poole pöördumiseks ja LPC (Low Pin Count) liides, mille kaudu ühendatakse tugikiibistikuga järjestik- ja paralleelpordid ning pääseb juurde teistele funktsionaalsetele moodulitele (DMA kontroller, katkestuste kontrollerid, süsteemi timer, võimsussäästu režiimide haldus, süsteemi kell, jne).
 
-### 1.2.2 Tugikiibistiku mõiste ja erinevate siinitüüpide otstarve
+### C.1.2.2 Tugikiibistiku mõiste ja erinevate siinitüüpide otstarve
 
 **Tugikiibistik** on täiendav integraalskeemide komplekt, mis seob omavahel erinevad arvuti riistvarakomponendid ja sisaldab vajalikud kontrollerid erinevate sisend-väljundseadmete ühendamiseks nii arvuti sees kasutades siine ja porte kui ka arvutist väljaspool kasutades arvutikorpusele väljatoodud porte.
 
@@ -286,11 +293,11 @@ Erinevad pordid, mida võib leida kaasaegsetest arvutitest on:
 - Helipordid (analoogsed või digitaalsed) mõeldud kasutamiseks mikrofoni, kõlarite ühendamiseks
 - Monitori pordid:
 
-- --DVI-I – mõeldud nii analoog-, kui digitaalse monitori ühendamiseks
-- --DVI-D – ainult digitaalse monitori ühendamiseks
-- --VGA – analoogmonitori ühendamiseks,
-- --DisplayPort – digitaalsete monitoride või olmeelektroonikaseadmete ühendamiseks
-- --HDMI (High Definition Media Interface) – võimaldab ühendada arvuti otse teleriga ja kanda üle nii digitaalse telepildi kui ka digitaalse heli SP/DIF (Sony-Philips Digital Interface)vormingus
+- DVI-I – mõeldud nii analoog-, kui digitaalse monitori ühendamiseks
+- DVI-D – ainult digitaalse monitori ühendamiseks
+- VGA – analoogmonitori ühendamiseks,
+- DisplayPort – digitaalsete monitoride või olmeelektroonikaseadmete ühendamiseks
+- HDMI (High Definition Media Interface) – võimaldab ühendada arvuti otse teleriga ja kanda üle nii digitaalse telepildi kui ka digitaalse heli SP/DIF (Sony-Philips Digital Interface)vormingus
 
 - Arvutivõrgu port RJ-45
 - Järjestikport ehk RS-232 järjestikport andmevahetuseks vanemate seadmetega. Oli enimkasutatav port kuni USB liidese kasutuselevõtmiseni. Reeglina ei ole see port uuematel arvutitel vaikimisi välja toodud aga see on tugikiibistikku endiselt integreeritud ja võimalik arvutikorpusele välja tuua.
@@ -298,15 +305,17 @@ Erinevad pordid, mida võib leida kaasaegsetest arvutitest on:
 
 Infovahetus protsessori ja seadmete vahel saab toimuda kas programmeeritud sisend-väljundoperatsioonina (Programmed I/O), katkestuse kaudu (Interrupt Driven I/O) või otsemälupöörduse abil (DMA – Direct Memory Access):
 
-- Andmevahetus programmeeritud sisend-väljundoperatsioonina toimub täielikult protsessori juhtimisel. Protsessor annab seadme kontrollerile määratud aadressi kaudu käsu andmevahetusoperatsiooniks, kontrollib, kas andmed on saadaval ja siis loeb andmed. Juhul kui seadme andmevahetusoperatsioon sisaldab viivitusi peab protsessor ootama seadme reageerimist ja protsessori kasutus on ebaefektiivne. \_ \_
+- Andmevahetus programmeeritud sisend-väljundoperatsioonina toimub täielikult protsessori juhtimisel. Protsessor annab seadme kontrollerile määratud aadressi kaudu käsu andmevahetusoperatsiooniks, kontrollib, kas andmed on saadaval ja siis loeb andmed. Juhul kui seadme andmevahetusoperatsioon sisaldab viivitusi peab protsessor ootama seadme reageerimist ja protsessori kasutus on ebaefektiivne.
+
 - Katkestuste kaudu andmevahetuse puhul ei jää protsessor ootama seadme andmevahetusoperatsiooni täitmist vaid peale seadmele andmevahetusoperatsiooniks käsu edastamist jätkab tööd teiste protsessidega ning seade kutsub peale andmete kättesaadavaks tegemist ise esile andmevahetuse protsessoriga kasutades riistvaralist katkestust. Protsessor katkestab seejärel käimasoleva rakenduse teostamise, et käivitada katkestuste haldur. Katkestuste haldur teeb kindlaks seadme, kust katkestussignaal tuli, ning loeb seadmest andmed.
+
 - Otsemälupöörduse puhul saab seade kasutada otseühendust suuremate andmeplokkide mällu kirjutamisel, et vältida protsessori koormamist üksikute andmevahetusoperatsioonidega. Sel juhul saab protsessor delegeerida andmevahetusoperatsiooni DMA kontrollerile, saates DMA moodulile andmevahetusoperatsiooni liigi, seadme aadressi, mäluaadressi kuhu andmed kopeerida ja andmete mahu ning naasta siis muude protsesside täitmisele. Kui DMA kontroller teostab andmevahetuse saadab ta katkestuse protsessorile.
 
 Seadmed saavad juurdepääsu ressurssidele läbi kontrolleri, millele on määratud oma IRQ, I/O ja DMA aadressid.
 
 Andmevahetus protsessori ja perifeeriaseadmete vahel toimub sünkroonse või asünkroonse andmevahetuse põhimõttel. Sünkroonse andmevahetuse korral juhib andmevahetust protsessor ning perifeeriaseade töötab sünkroonselt taktigeneraatoriga. Enamik perifeeriaseadmeid töötab autonoomselt ning pole sünkroniseeritud arvuti või mikrokontrolleri taktigeneraatoriga.
 
-### 1.2.3 Mälu hierarhia
+### C.1.2.3 Mälu hierarhia
 
 Arvutisüsteemis on tavaliselt mitut tüüpi mälusid, mis moodustavad omamoodi mälude hierarhia. Seda võiks ette kujutada püramiidina. Kõrgema taseme mälud on kiiremad, väiksemad ja kallimad. Alamate tasemete mälud on aeglasemad, suuremad ja odavamad. Alama taseme mäludeks on suure mahuga mälud, mida kasutatakse andmekogumite püsivaks salvestamiseks.
 
@@ -316,7 +325,7 @@ Joonis 1‑12. Mälu hierarhia (Allikas: Learning Materials for Information Tech
 
 Kõrgema taseme mälud on registrid, protsessori vahemälu ja täiendav vahemälu ja alama taseme mäludeks on põhimälu ja massmälu. Kõrgema taseme mälus tuleb hoida andmeid, mis on vajalikud jooksva töö tegemiseks ja ülejäänud andmed püütakse hoida alama taseme mälus.
 
-### 1.2.4 Arvutisüsteemide erinevused sõltuvalt kasutusotstarbest
+### C.1.2.4 Arvutisüsteemide erinevused sõltuvalt kasutusotstarbest
 
 Arvutisüsteemid võivad väga erineda sõltuvalt kasutusotstarbest.
 
@@ -334,35 +343,44 @@ Suurepäraselt sobib kontoritöö tegemiseks ka näiteks **mobiilne arvuti**. Vi
 
 **Serverarvutit** kasutatakse teatud teenuste pidevaks käigushoidmiseks ettevõtte võrgus või avalikus võrgus. Serverarvuti eripära on kõrge käideldavus, mis tagatakse erinevate süsteemsete osade dubleerimisega. Seetõttu kui näiteks serverarvutis lakkab töötamast üks toiteplokk siis võtab tema töö üle dubleeritud toiteplokk ja server töötab edasi. Serverarvuti omadusteks on võimalus jälgida erinevate riistvaramoodulite tervislikku seisundit ja teavitada süsteemiadministraatorit kohe kui mingi komponendiga veaolukord avaldub. Kaasaja serverilahendused ei saa üle ega ümber virtualiseerimisest. See aeg, kus iga teenuse jaoks oli eraldi füüsiline server on möödas ja kaasaegsed virtualiseerimiskeskkonnad võimaldavad käivitada ühel füüsilisel serverarvutil kümneid virtuaalseid servereid. Selline lähenemine aitab oluliselt paremini ära kasutada serverarvuti ressursid, vähendab energiakulu, lihtsustab andmete varundamist ja erinevate serverite transportimist ühelt füüsiliselt masinalt teisele, kuna virtuaalse serveri puhul on vaja serveri transportimiseks üle kanda vaid üks fail arvuti kõvakettalt teise arvutisse.
 
-### 1.2.5 Kordamisküsimused
+### C.1.2.5 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Tugikiibistik sisaldab:
-1. Protsessori käsustiku
-1. Protsessori registrid
-1. Protsessori pingeregulaatori X
-1. Millise valemiga saab arvutada PCI siini läbilaskevõimet megabaiti/sekundis?
-1. Siini laius baitides×ülekandekiirus [MHz]/106
-1. Siini laius baitides×ülekandekiirus [MHz] X
-1. Siini laius bittides×ülekandekiirus [MHz]/8
-1. Millised ei ole PCIe siini omadused?
-1. Kahesuunaline infovahetus
-1. Kahe seadme vahel võib olla mitu ühenduskanalit (lane)
-1. Punktist-punktini topoloogia
-1. Siinil on vajalik tsentraliseeritud arbitreerimine X
-1. Terminali funktsioon on:
-1. Ühendada palju arvuteid koos tööle
-1. Ühendada palju servereid koos tööle
-1. Võimaldab üle kanda kasutajakeskkonda serverist arvutitöökohale X
-1. Virtualiseerimine võimaldab:
-1. Käivitada palju servereid samaaegselt
-1. Käivitada terminali-serveri seansse
-1. Paremini ära kasutada ühe füüsilise serveri ressurssi X
+
+- Protsessori käsustiku
+- Protsessori registrid
+- Protsessori pingeregulaatori X
+
+2. Millise valemiga saab arvutada PCI siini läbilaskevõimet megabaiti/sekundis?
+
+- Siini laius baitides×ülekandekiirus [MHz]/106
+- Siini laius baitides×ülekandekiirus [MHz] X
+- Siini laius bittides×ülekandekiirus [MHz]/8
+
+3. Millised ei ole PCIe siini omadused?
+
+- Kahesuunaline infovahetus
+- Kahe seadme vahel võib olla mitu ühenduskanalit (lane)
+- Punktist-punktini topoloogia
+- Siinil on vajalik tsentraliseeritud arbitreerimine X
+
+4. Terminali funktsioon on:
+
+- Ühendada palju arvuteid koos tööle
+- Ühendada palju servereid koos tööle
+- Võimaldab üle kanda kasutajakeskkonda serverist arvutitöökohale X
+
+5. Virtualiseerimine võimaldab:
+
+- Käivitada palju servereid samaaegselt
+- Käivitada terminali-serveri seansse
+- Paremini ära kasutada ühe füüsilise serveri ressurssi X
 
 :::
 
-## 1.3 Protsessorid
+## C.1.3 Protsessorid
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -372,7 +390,7 @@ Selle alateema materjale läbi töötades õpid:
 - Defineerima kaasprotsessori roll
 - Kirjeldama protsessori omadusi.
 
-### 1.3.1 Protsessori arhitektuur
+### C.1.3.1 Protsessori arhitektuur
 
 ![](data:image/png;base64,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)
 
@@ -386,8 +404,8 @@ Protsessori erinevate osade kirjeldus:
 - Töötlemisplokk (Processing Unit) sisaldab aritmeetikaseadme (ALU – Arithmetic Logic Unit), mis suudab teostada arvutustehteid etteantud andmetega ehk liita, teostada loogikatehteid ja korrutada ning kombineerida neid tegevusi ning ujukoma seadme (FPU – Floating Point Unit) keeruliste arvutuste jaoks, mis ei ole sooritatavad ALU abil. Töötlemisplokk kasutab spetsiaalseid registreid: olekuregister (Status Register) ja akuregister (Accumulator Register).
 - Registrid on protsessori sisemiseks töömäluks ja jagunevad järgmiselt:
 
-- --Üldotstarbelised registrid. Need on mõeldud käskude poolt kasutatavate andmete ja/või operandide hoidmiseks.
-- --Spetsiaalsed registrid, millel on täita spetsiaalsed funktsioonid protsessori töös. Spetsiaalsed registrid on järgmised:
+- Üldotstarbelised registrid. Need on mõeldud käskude poolt kasutatavate andmete ja/või operandide hoidmiseks.
+- Spetsiaalsed registrid, millel on täita spetsiaalsed funktsioonid protsessori töös. Spetsiaalsed registrid on järgmised:
 
 - Akuregister (A – Accumulator Register) hoiab käskude täitmise vahetulemusi
 - Käsuloendur (PC - Program Counter) sisaldab järgmise käsu mäluaadressi. Seda suurendatakse automaatselt iga käsutsükli jaoks. Alamprogrammid ja katkestused muudavad selle registri tavalist töötsüklit, sisestades käsuloendurisse uue väärtuse
@@ -397,7 +415,7 @@ Protsessori erinevate osade kirjeldus:
 
 Pinumälu kasutatakse protsessori registrite seisu salvestamiseks. Näiteks on see vajalik katkestust teenindava alamprogrammi käivitamise eel, et salvestada protsessori jooksev tööseis ja taastada see peale katkestuse alamprogrammi lõpetamist, et naasta põhiprogrammi täitmise juurde. Pinumälu töötab viimasena sisse esimesena välja (LIFO – Last In First Out) struktuurina.
 
-### 1.3.2 Protsessori käsustik
+### C.1.3.2 Protsessori käsustik
 
 Protsessori käsustiku arhitektuur (ISA – Instruction Set Architecture) hõlmab protsessori käsustikku ja registreid, mille kaudu pääseb protsessori funktsionaalsust kasutama programmeerija.
 
@@ -423,14 +441,14 @@ Programmi täitmine protsessoris koosneb järgmistest põhietappidest:
 
 Programmi täitmisel võivad esineda erandjuhtumid, kus süsteem peab reageerima välistele sündmustele, mis pole programmile teada. Tüüpilisteks näideteks on suhtlemine operatsioonisüsteemiga, andmevahetus perifeeriaseadmetega, silumise operatsioonid, viga, käsu viga, jne. Selliseid erandeid nimetatakse katkestusteks. Katkestuste korralikuks haldamiseks on vaja spetsiaalseid käske, mis suudavad katkestada protsessorit (st. ajutiselt peatada programmi rakendamist), käivitada alamprogrammi, mis seda haldab ning kui katkestusrutiin on lõpetanud, taastada katkestatud programmi täpselt samas punktis, kus see oli peatatud.
 
-### 1.3.3 Protsessorite jagunemine käsustiku alusel RISC ja CISC arhitektuurideks
+### C.1.3.3 Protsessorite jagunemine käsustiku alusel RISC ja CISC arhitektuurideks
 
 Protsessorid jagunevad lähtuvalt käsustiku keerukuselt:
 
 - Komplekskäsustikuga arhitektuur ehk CISC (Complex Instruction Set Computer). Selle arhitektuuri puhul on protsessori käsustik keerukam ja iga käsk täidab mitmeid madalama taseme operatsioone. Seetõttu saab ühe käsuga täita keerukamaid ülesandeid. Samas võtab käsu täitmine rohkem aega. Selle arhitektuuri baasil on toodetud tänapäeva personaalarvutite protsessorid.
 - Kärbitud käsustikuga arhitektuur ehk RISC (Reduced Instruction Set Computer). Selle arhitektuuri puhul on käskude arv piiratud ja käsu täitmine kiirem aga ülesande täitmiseks kulub rohkem käske. RISC arhitektuuri baasil käsud on sobivamad konveierrakendustes
 
-### 1.3.4 Käsukonveierid, käsutaseme paralleelsus, dünaamiline ajastamine ja spekulatiivne käivitamine
+### C.1.3.4 Käsukonveierid, käsutaseme paralleelsus, dünaamiline ajastamine ja spekulatiivne käivitamine
 
 Protsessoris on erinevate käsutäitmisetappide jaoks erinevad osad ning kui käskude täitmine toimuks protsessoris ükshaaval tuleb iga käsu alustamiseks oodata ära eelneva käsu täitmise tulemus ja protsessori erinevad osad peavad ootama jõudeolekus mitu takti kuni eelmise käsu täitmine on lõpetatud.
 
@@ -458,11 +476,11 @@ Võimalikud tehnoloogiad käsukonveierite seisakute vältimiseks:
 - **Dünaamiline ajastamine** (Dynamic Sceduling), mille puhul riistvara korraldab programmi koodi käivitamise ümber, et vähendada seisakuid. See tehnoloogia aitab lahendada juhtumeid, kus käsutäitmise sõltuvused üksteisest on teadmata programmi kompileerimisel ja lihtsustab kompileerimise protsessi ning lubab ühe konveieri jaoks kirjutatud koodi efektiivselt käivitada mitmel konveieril.
 - **Spekulatiivne käivitamine** (Speculative Execution), mille puhul käivitatakse koodi enne kui on teada, kas selle koodi tulemusi üldse vaja läheb. Seda saab teha juhul kui protsessoril on vabu ressursse. Näiteks täidavad kaasaegsed protsessorid selle meetodiga tingivuslikele hargnevustele järgnevat koodi. See meetod võimaldab paremini ära kasutada konveieri jõudeolekus seisva ressursi.
 
-### 1.3.5 Kaasprotsessori mõiste
+### C.1.3.5 Kaasprotsessori mõiste
 
 Protsessori jõudlust aitab suurendada kaasprotsessori (Coprocessor) kasutamine, mis täiendab põhiprotsesori funktsionaalsust. Operatsioonid, mida võivad täita kaasprotsessorid on ujukomaarvutused, graafikatöö, signaalitöötlus, kodeerimine/dekodeerimine, krüpteerimine. Kaasprotsessorid aitavad vabastada põhiprotsessori spetsiifilistest toimingutest ja tõsta nii süsteemi jõudlust. Selline lähenemine aitab kohandada arvuteid paremini kasutajate vajadustega, nii et kasutaja, kes ei vaja ekstra jõudlust, ei pea ka selle eest maksma. Näiteks võimaldab spetsiaalsel graafikakaardil olev protsessor vabastada põhiprotsessori Blu-Ray video dekodeerimisega seotud koormusest ja põhiprotsessor saab samal ajal pühenduda teistele operatsioonisüsteemi hooldustegevustele või muude kasutajarakenduste käivitamisele, mis töötavad koos filmi kuvamisega.
 
-### 1.3.6 Protsessorite tehnoloogiad ja parameetrid
+### C.1.3.6 Protsessorite tehnoloogiad ja parameetrid
 
 Protsessorite omadusi iseloomustavad laiemalt järgmised parameetrid:
 
@@ -497,43 +515,52 @@ Vahemälu parameetrid:
 
 - Virtualiseerimise tugi sisaldab spetsiaalsed täiendused protsessorile koos eraldi käsustikuga protsessoriressursi virtualiseerimiseks. Selle abil on võimalik jagada ühe füüsilise protsessori ressursid kasutamiseks erinevatele operatsioonisüsteemidele. Selline lähenemine aitab paremini ära kasutada vaba arvutusvõimsuse ja koondada ühele arvutile töötama mitmeid erinevaid servereid või tööjaamu. See on suurepärane vahend õppe- või testimiskeskkonna loomiseks, et näiteks õppida tundma erinevaid operatsioonisüsteeme samas arvutis või testida klient-server lahendusi ühel füüsilisel arvutil. Virtualiseerimine on kahtlemata võimalik ka ilma riistvaralise toetuseta aga kui kogu virtualiseerimiskeskkond on emuleeritud tarkvaraliselt langeb oluliselt sellise süsteemi jõudlus.
 
-### 1.3.7 Kordamisküsimused
+### C.1.3.7 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
 1. Protsessori masinkäskudega ei saa teostada järgmist funktsiooni:
-1. Protsessori andmevahetuse sünkroniseerimine X
-1. Paremnihutus
-1. Eranditöötlus
-1. Millises järjekorras täidab protsessor programmi
-1. Tulemuse salvestamine, käsu täitmine, käsu lugemine, käsu dekodeerimine
-1. Käsu dekodeerimine, käsu lugemine, käsu täitmine, tulemuse salvestamine
-1. Käsu lugemine, käsu dekodeerimine, käsu täitmine, tulemuse salvestamine X
-1. Milline protsessori omadus võimaldab riistvara tasemel samaaegselt käivitada mitut operatsioonisüsteemi?
-1. Käsukonveier
-1. Superskalaarne arhitektuur
-1. Mitmetuumalisus
-1. Virtualiseerimise tugi X
-1. SIMD
-1. Kuidas taastakse protsessori käsuloendur katkestuse programmist naasmisel?
-1. Vahemälust
-1. Mikrokoodist
-1. Pinumälust X
-1. Püsimälust
-1. Käsutaseme paralleelsus viitab võimalusele
-1. Kasutada samas protsessoris mitut erinevat käsustikku paralleelselt
-1. Käivitada samaaegselt mitu operatsioonisüsteemi
-1. Käivitada samaaegselt mitut erinevat käsku X
+
+- Protsessori andmevahetuse sünkroniseerimine X
+- Paremnihutus
+- Eranditöötlus
+
+2. Millises järjekorras täidab protsessor programmi
+
+- Tulemuse salvestamine, käsu täitmine, käsu lugemine, käsu dekodeerimine
+- Käsu dekodeerimine, käsu lugemine, käsu täitmine, tulemuse salvestamine
+- Käsu lugemine, käsu dekodeerimine, käsu täitmine, tulemuse salvestamine X
+
+3. Milline protsessori omadus võimaldab riistvara tasemel samaaegselt käivitada mitut operatsioonisüsteemi?
+
+- Käsukonveier
+- Superskalaarne arhitektuur
+- Mitmetuumalisus
+- Virtualiseerimise tugi X
+- SIMD
+
+4. Kuidas taastakse protsessori käsuloendur katkestuse programmist naasmisel?
+
+- Vahemälust
+- Mikrokoodist
+- Pinumälust X
+- Püsimälust
+
+5. Käsutaseme paralleelsus viitab võimalusele
+
+- Kasutada samas protsessoris mitut erinevat käsustikku paralleelselt
+- Käivitada samaaegselt mitu operatsioonisüsteemi
+- Käivitada samaaegselt mitut erinevat käsku X
 
 :::
 
-## 1.4 Soovitatavad praktilised harjutused
+## C.1.4 Soovitatavad praktilised harjutused
 
 - Tuvastada protsessori ja mälu parameetrid utiliidiga CPU-Z
 - Tuvastada arvuti kiibistik, BIOS ja süsteemikomponendid kasutades utiliiti msinfo32 (Microsoft Windows)
 - Koostada arvutimängurile vajaliku arvuti plokkskeem ja teha selle jaoks nimekiri reaalselt saadaolevatest arvutikomponentidest
 
-## 1.5 Lisamaterjalid
+## C.1.5 Lisamaterjalid
 
 - EUCIP programmi materjal: Learning Materials for Information Technology Professionals (EUCIP-Mat)
 - Mike Meyers, Comptia A+ Certification Exam Guide, 7th Edition, McGraw-Hill, 2010

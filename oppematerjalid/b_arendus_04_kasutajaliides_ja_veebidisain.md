@@ -72,7 +72,7 @@ Selles peatükis tutvud info edastamise võimalustega tsüklilise protsessina.
 
 #### Osgood-Shramm'i mudel
 
-![](../images/osgood.png)
+![](../images/b4_osgood.png)
 
 Joonis 4-1. Osgood-Shramm&#39;i kommunikatsioonimudel
 
@@ -84,7 +84,7 @@ Mudeli kriitikat võimaldab asjaolu, et see jätab mulje kommunikatsioonipoolte 
 
 #### Info edastamine internetis
 
-![](../images/infoedastamine.png)
+![](../images/b4_infoedastamine.png)
 
 Joonis 4-2. Kommunikatsioon internetis
 
@@ -122,7 +122,7 @@ Arvutisüsteemidel on mitmeid erinevaid tüüpi liideseid. Tehnilised liidesed v
 
 Tänapäeva arvutites on enimlevinud kasutajaliidese tüübiks graafiline kasutajaliides, kuna see lihtsustab programmide kasutamist ning võimaldab kuvada graafikat. GUI komponendid on kuvaril liikuv kursor, osutusseade (harilikult hiir), klaviatuur, ikoonid, aknad ja rippmenüüd. Uuemat tüüpi kasutajaliidese seadmed on veel puutetundlik ekraan, puutelaud, krihvel (stylus), teleripult, millega saab teksti töödelda, joonistada, navigeerida. Viimased on aga praeguse tehnoloogiaga halvasti integreeritud ja võimalused alles kasutamata. Tuntumad graafilise kasutajaliidesega operatsioonisüsteemid on Windows ja Macintosh.
 
-![](../images/osx.png)
+![](../images/b4_osx.png)
 
 Joonis 4-3. Mac OS X operatsioonisüsteemi graafiline kasutajaliides
 
