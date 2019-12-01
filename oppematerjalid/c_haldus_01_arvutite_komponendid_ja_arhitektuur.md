@@ -135,8 +135,8 @@ Salvestustehnoloogia:
 - Optiline salvestustehnoloogia on kasutusel CD-, DVD- ja Blu-Ray seadmetes. Neid seadmeid iseloomustab andmete salvestusmaht ja andmevahetuse kiirus, mis võib erineda lugemisel ja kirjutamisel. Kiirust mõõdetakse kordades baasühikust.
 - Magnetiline salvestustehnoloogia on kasutusel kõvaketastel - HDD (Hard Disk Drive). Kõvakettal kasutatakse andmete salvestamisel pöörlevat magnetplaati, mille kohal paikneb lugemis/kirjutamis pea. Suurim viivitus on seotud lugemispea juhtimisega kõvakettal soovitud sektorini. Viivitus on seda väiksem, mida suurem on ketta pöörlemise kiirus RPM (Revolutions Per Minute).
 - Mälukiipide baasil massmäluseadmed on välkmäluseadmed ehk SSD (Solid-state Drive), mis kasutavad andmete salvestamiseks mälukiipe. Nende seadmete suureks eeliseks on liikuvate osade puudumine ja suurepärane pöördusaeg suvalises mälupesas hoitavate andmete poole. Kiire pöördusaeg koos hea andmevahetuse kiirusega, mis ulatub juba 3Gbit/s on teinud need massmäluseadmed populaarseks ja ka SSD seadmete mälumaht kasvab kiirelt.
-- --Maht – kui palju andmeid seade salvestada võimaldab
-- --Ühendatavus – PATA, SATA, eSATA, USB, Firewire, RJ45
+- Maht – kui palju andmeid seade salvestada võimaldab
+- Ühendatavus – PATA, SATA, eSATA, USB, Firewire, RJ45
 
 Kui arvutiporti ühendatud seade ei käivitu siis tuleb veaotsingut alustada füüsilisest pistikust, millel ei tohi olla vigastusi. Port peab olema lubatud arvuti BIOS&#39;is ja port peab olema lubatud ka operatsioonisüsteemi seadmete all ning seadme jaoks installeeritud vastavad driverid.
 
@@ -205,31 +205,38 @@ Püsimälud jagunevad omakorda:
 ::: tip Kordamisküsimused
 
 1. Milline komplekt komponente on kõige sobivam funktsioneeriva arvuti koostamiseks?
-1. Protsessor, mälu, mikrokood
-1. Protsessor, mälu, sisend-väljund seade
-1. Protsessor, emaplaat, mälu, BIOS, toiteplokk X
 
-1. Millise valemi järgi on õige teisendada 2 bitine kahendkood kümnendkoodiks?
-1. Kõrgem bitt×22+madalam bitt×21
-1. Kõrgem bitt×21+madalam bitt×20 X
-1. Kõrgem bitt×20+madalam bitt×21
+- Protsessor, mälu, mikrokood
+- Protsessor, mälu, sisend-väljund seade
+- Protsessor, emaplaat, mälu, BIOS, toiteplokk X
 
-1. Millises funktsioonis ei kasutata püsimälu arvuti koosluses?
-1. BIOS
-1. Vahemälu X
-1. Mikrokood
-1. Millised parameetrid iseloomustavad DDR2 SDRAM mälu jõudlust?
-1. RPM
-1. SPD
-1. Veeruviivitus X
-1. POST
-1. Millisel massmäluseadmel on kõige väiksem viivitus andmete poole pöördumisel?
-1. USB
-1. LVD
-1. HDD
-1. SSD X
-1. ODD
-1. DVD
+2. Millise valemi järgi on õige teisendada 2 bitine kahendkood kümnendkoodiks?
+
+- Kõrgem bitt×22+madalam bitt×21
+- Kõrgem bitt×21+madalam bitt×20 X
+- Kõrgem bitt×20+madalam bitt×21
+
+3. Millises funktsioonis ei kasutata püsimälu arvuti koosluses?
+
+- BIOS
+- Vahemälu X
+- Mikrokood
+
+4. Millised parameetrid iseloomustavad DDR2 SDRAM mälu jõudlust?
+
+- RPM
+- SPD
+- Veeruviivitus X
+- POST
+
+5. Millisel massmäluseadmel on kõige väiksem viivitus andmete poole pöördumisel?
+
+- USB
+- LVD
+- HDD
+- SSD X
+- ODD
+- DVD
 
 :::
 
@@ -286,11 +293,11 @@ Erinevad pordid, mida võib leida kaasaegsetest arvutitest on:
 - Helipordid (analoogsed või digitaalsed) mõeldud kasutamiseks mikrofoni, kõlarite ühendamiseks
 - Monitori pordid:
 
-- --DVI-I – mõeldud nii analoog-, kui digitaalse monitori ühendamiseks
-- --DVI-D – ainult digitaalse monitori ühendamiseks
-- --VGA – analoogmonitori ühendamiseks,
-- --DisplayPort – digitaalsete monitoride või olmeelektroonikaseadmete ühendamiseks
-- --HDMI (High Definition Media Interface) – võimaldab ühendada arvuti otse teleriga ja kanda üle nii digitaalse telepildi kui ka digitaalse heli SP/DIF (Sony-Philips Digital Interface)vormingus
+- DVI-I – mõeldud nii analoog-, kui digitaalse monitori ühendamiseks
+- DVI-D – ainult digitaalse monitori ühendamiseks
+- VGA – analoogmonitori ühendamiseks,
+- DisplayPort – digitaalsete monitoride või olmeelektroonikaseadmete ühendamiseks
+- HDMI (High Definition Media Interface) – võimaldab ühendada arvuti otse teleriga ja kanda üle nii digitaalse telepildi kui ka digitaalse heli SP/DIF (Sony-Philips Digital Interface)vormingus
 
 - Arvutivõrgu port RJ-45
 - Järjestikport ehk RS-232 järjestikport andmevahetuseks vanemate seadmetega. Oli enimkasutatav port kuni USB liidese kasutuselevõtmiseni. Reeglina ei ole see port uuematel arvutitel vaikimisi välja toodud aga see on tugikiibistikku endiselt integreeritud ja võimalik arvutikorpusele välja tuua.
@@ -298,8 +305,10 @@ Erinevad pordid, mida võib leida kaasaegsetest arvutitest on:
 
 Infovahetus protsessori ja seadmete vahel saab toimuda kas programmeeritud sisend-väljundoperatsioonina (Programmed I/O), katkestuse kaudu (Interrupt Driven I/O) või otsemälupöörduse abil (DMA – Direct Memory Access):
 
-- Andmevahetus programmeeritud sisend-väljundoperatsioonina toimub täielikult protsessori juhtimisel. Protsessor annab seadme kontrollerile määratud aadressi kaudu käsu andmevahetusoperatsiooniks, kontrollib, kas andmed on saadaval ja siis loeb andmed. Juhul kui seadme andmevahetusoperatsioon sisaldab viivitusi peab protsessor ootama seadme reageerimist ja protsessori kasutus on ebaefektiivne. \_ \_
+- Andmevahetus programmeeritud sisend-väljundoperatsioonina toimub täielikult protsessori juhtimisel. Protsessor annab seadme kontrollerile määratud aadressi kaudu käsu andmevahetusoperatsiooniks, kontrollib, kas andmed on saadaval ja siis loeb andmed. Juhul kui seadme andmevahetusoperatsioon sisaldab viivitusi peab protsessor ootama seadme reageerimist ja protsessori kasutus on ebaefektiivne. 
+
 - Katkestuste kaudu andmevahetuse puhul ei jää protsessor ootama seadme andmevahetusoperatsiooni täitmist vaid peale seadmele andmevahetusoperatsiooniks käsu edastamist jätkab tööd teiste protsessidega ning seade kutsub peale andmete kättesaadavaks tegemist ise esile andmevahetuse protsessoriga kasutades riistvaralist katkestust. Protsessor katkestab seejärel käimasoleva rakenduse teostamise, et käivitada katkestuste haldur. Katkestuste haldur teeb kindlaks seadme, kust katkestussignaal tuli, ning loeb seadmest andmed.
+
 - Otsemälupöörduse puhul saab seade kasutada otseühendust suuremate andmeplokkide mällu kirjutamisel, et vältida protsessori koormamist üksikute andmevahetusoperatsioonidega. Sel juhul saab protsessor delegeerida andmevahetusoperatsiooni DMA kontrollerile, saates DMA moodulile andmevahetusoperatsiooni liigi, seadme aadressi, mäluaadressi kuhu andmed kopeerida ja andmete mahu ning naasta siis muude protsesside täitmisele. Kui DMA kontroller teostab andmevahetuse saadab ta katkestuse protsessorile.
 
 Seadmed saavad juurdepääsu ressurssidele läbi kontrolleri, millele on määratud oma IRQ, I/O ja DMA aadressid.
@@ -339,26 +348,35 @@ Suurepäraselt sobib kontoritöö tegemiseks ka näiteks **mobiilne arvuti**. Vi
 ::: tip Kordamisküsimused
 
 1. Tugikiibistik sisaldab:
-1. Protsessori käsustiku
-1. Protsessori registrid
-1. Protsessori pingeregulaatori X
-1. Millise valemiga saab arvutada PCI siini läbilaskevõimet megabaiti/sekundis?
-1. Siini laius baitides×ülekandekiirus [MHz]/106
-1. Siini laius baitides×ülekandekiirus [MHz] X
-1. Siini laius bittides×ülekandekiirus [MHz]/8
-1. Millised ei ole PCIe siini omadused?
-1. Kahesuunaline infovahetus
-1. Kahe seadme vahel võib olla mitu ühenduskanalit (lane)
-1. Punktist-punktini topoloogia
-1. Siinil on vajalik tsentraliseeritud arbitreerimine X
-1. Terminali funktsioon on:
-1. Ühendada palju arvuteid koos tööle
-1. Ühendada palju servereid koos tööle
-1. Võimaldab üle kanda kasutajakeskkonda serverist arvutitöökohale X
-1. Virtualiseerimine võimaldab:
-1. Käivitada palju servereid samaaegselt
-1. Käivitada terminali-serveri seansse
-1. Paremini ära kasutada ühe füüsilise serveri ressurssi X
+
+- Protsessori käsustiku
+- Protsessori registrid
+- Protsessori pingeregulaatori X
+
+2. Millise valemiga saab arvutada PCI siini läbilaskevõimet megabaiti/sekundis?
+
+- Siini laius baitides×ülekandekiirus [MHz]/106
+- Siini laius baitides×ülekandekiirus [MHz] X
+- Siini laius bittides×ülekandekiirus [MHz]/8
+
+3. Millised ei ole PCIe siini omadused?
+
+- Kahesuunaline infovahetus
+- Kahe seadme vahel võib olla mitu ühenduskanalit (lane)
+- Punktist-punktini topoloogia
+- Siinil on vajalik tsentraliseeritud arbitreerimine X
+
+4. Terminali funktsioon on:
+
+- Ühendada palju arvuteid koos tööle
+- Ühendada palju servereid koos tööle
+- Võimaldab üle kanda kasutajakeskkonda serverist arvutitöökohale X
+
+5. Virtualiseerimine võimaldab:
+
+- Käivitada palju servereid samaaegselt
+- Käivitada terminali-serveri seansse
+- Paremini ära kasutada ühe füüsilise serveri ressurssi X
 
 :::
 
@@ -386,8 +404,8 @@ Protsessori erinevate osade kirjeldus:
 - Töötlemisplokk (Processing Unit) sisaldab aritmeetikaseadme (ALU – Arithmetic Logic Unit), mis suudab teostada arvutustehteid etteantud andmetega ehk liita, teostada loogikatehteid ja korrutada ning kombineerida neid tegevusi ning ujukoma seadme (FPU – Floating Point Unit) keeruliste arvutuste jaoks, mis ei ole sooritatavad ALU abil. Töötlemisplokk kasutab spetsiaalseid registreid: olekuregister (Status Register) ja akuregister (Accumulator Register).
 - Registrid on protsessori sisemiseks töömäluks ja jagunevad järgmiselt:
 
-- --Üldotstarbelised registrid. Need on mõeldud käskude poolt kasutatavate andmete ja/või operandide hoidmiseks.
-- --Spetsiaalsed registrid, millel on täita spetsiaalsed funktsioonid protsessori töös. Spetsiaalsed registrid on järgmised:
+- Üldotstarbelised registrid. Need on mõeldud käskude poolt kasutatavate andmete ja/või operandide hoidmiseks.
+- Spetsiaalsed registrid, millel on täita spetsiaalsed funktsioonid protsessori töös. Spetsiaalsed registrid on järgmised:
 
 - Akuregister (A – Accumulator Register) hoiab käskude täitmise vahetulemusi
 - Käsuloendur (PC - Program Counter) sisaldab järgmise käsu mäluaadressi. Seda suurendatakse automaatselt iga käsutsükli jaoks. Alamprogrammid ja katkestused muudavad selle registri tavalist töötsüklit, sisestades käsuloendurisse uue väärtuse
@@ -502,28 +520,37 @@ Vahemälu parameetrid:
 ::: tip Kordamisküsimused
 
 1. Protsessori masinkäskudega ei saa teostada järgmist funktsiooni:
-1. Protsessori andmevahetuse sünkroniseerimine X
-1. Paremnihutus
-1. Eranditöötlus
-1. Millises järjekorras täidab protsessor programmi
-1. Tulemuse salvestamine, käsu täitmine, käsu lugemine, käsu dekodeerimine
-1. Käsu dekodeerimine, käsu lugemine, käsu täitmine, tulemuse salvestamine
-1. Käsu lugemine, käsu dekodeerimine, käsu täitmine, tulemuse salvestamine X
-1. Milline protsessori omadus võimaldab riistvara tasemel samaaegselt käivitada mitut operatsioonisüsteemi?
-1. Käsukonveier
-1. Superskalaarne arhitektuur
-1. Mitmetuumalisus
-1. Virtualiseerimise tugi X
-1. SIMD
-1. Kuidas taastakse protsessori käsuloendur katkestuse programmist naasmisel?
-1. Vahemälust
-1. Mikrokoodist
-1. Pinumälust X
-1. Püsimälust
-1. Käsutaseme paralleelsus viitab võimalusele
-1. Kasutada samas protsessoris mitut erinevat käsustikku paralleelselt
-1. Käivitada samaaegselt mitu operatsioonisüsteemi
-1. Käivitada samaaegselt mitut erinevat käsku X
+
+- Protsessori andmevahetuse sünkroniseerimine X
+- Paremnihutus
+- Eranditöötlus
+
+2. Millises järjekorras täidab protsessor programmi
+
+- Tulemuse salvestamine, käsu täitmine, käsu lugemine, käsu dekodeerimine
+- Käsu dekodeerimine, käsu lugemine, käsu täitmine, tulemuse salvestamine
+- Käsu lugemine, käsu dekodeerimine, käsu täitmine, tulemuse salvestamine X
+
+3. Milline protsessori omadus võimaldab riistvara tasemel samaaegselt käivitada mitut operatsioonisüsteemi?
+
+- Käsukonveier
+- Superskalaarne arhitektuur
+- Mitmetuumalisus
+- Virtualiseerimise tugi X
+- SIMD
+
+4. Kuidas taastakse protsessori käsuloendur katkestuse programmist naasmisel?
+
+- Vahemälust
+- Mikrokoodist
+- Pinumälust X
+- Püsimälust
+
+5. Käsutaseme paralleelsus viitab võimalusele
+
+- Kasutada samas protsessoris mitut erinevat käsustikku paralleelselt
+- Käivitada samaaegselt mitu operatsioonisüsteemi
+- Käivitada samaaegselt mitut erinevat käsku X
 
 :::
 

@@ -12,7 +12,13 @@ sidebar: none
 
 #### A3 [IKT väärtuse hindamine](./oppematerjalid/a_juhtimine_03_IKT_vaartuse_hindamine.md)
 
-> A4, A5... jne tulekul
+#### A4 [Ülemaailmne majandusvõrgustik](./oppematerjalid/a_juhtimine_04_ylemaailmne_majandusvorgustik.md)
+
+#### A5 [Projektijuhtimine](./oppematerjalid/a_juhtimine_05_projektijuhtimine.md)
+
+#### A6 [Koostöö ja kommunikatsioon](./oppematerjalid/a_juhtimine_06_koostoo_ja_kommunikatsioon.md)
+
+#### A7 [Juriidilised ja eetilised küsimused](./oppematerjalid/a_juhtimine_07_juriidilised_ja_eetilised_kysimused.md)
 
 ### B Arendus
 
@@ -33,6 +39,8 @@ sidebar: none
 #### C3 [Side ja Võrgud](./oppematerjalid/c_haldus_03_side_ja_vorgud.md)
 
 #### C4 [Võrguteenused](./oppematerjalid/c_haldus_04_vorguteenused.md)
+
+#### C5 [Traadita ja kaasaskantavad arvutusseadmed](./oppematerjalid/c_haldus_05_traadita_ja_kaasaskantavad_arvutusseadmed.md)
 
 # Õppekava
 
