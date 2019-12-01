@@ -59,7 +59,7 @@ Tihti on kasulik lähteülesanne jagada "alt-üles"; lähenemise abil alammoodul
 
 **Objektorienteeritud** (OO) **projekteerimise** korral lähtutakse sellest, et arendus hakkab toimuma objektorienteeritud arendusvahenditega. Seega teostatakse analüüsi ja disainimise etapid vahenditega, mis toetavad hilisemat lahenduse teostamist objektorienteeritud vahenditega. Suured lahendused jagatakse väiksemateks eraldiseisvateks lahendusteks, mida on võimalik arendada iseseisvalt.
 
-OO projekteerimise korral kasutatakse analüüsi ja disaini etapis lahenduse kirjeldamisel sageli UML (Unified Modeling Language) vahendeid.
+OO projekteerimise korral kasutatakse analüüsi ja disaini etapis lahenduse kirjeldamisel sageli **_Unified Modeling Language_** / **_UML_** vahendeid.
 
 ### B.3.1.2 Abstraktsioon probleemide lahendamise ja tarkvara loomise meetodina
 
@@ -79,8 +79,8 @@ Näiteks võib tuua abstraktse mõiste arv, millel on tähendus nii matemaatikas
 
 Üldistades võib abstraktsioonid programmeerimiskeeltes jagada kahte gruppi:
 
-1. juhtimisabstraktsioon (ingl. k. control abstraction)
-2. andmeabstraktsioon (ingl. l. data abstraction)
+1. **juhtimisabstraktsioon** **_control abstraction_**
+2. **andmeabstraktsioon** **_data abstraction_**
 
 Struktuurprogrammeerimise korral mõistetakse juhtimisabstraktsiooni all süstemaatilist alammoodulite ning juhtimisvoo käskude (iteratsioon, valik, jne.) kasutamist. Andmeabstraktsiooni all mõeldakse reaalmaailma andmete adekvaatset peegeldamist programmeerimiskeele andmestruktuurides (vektorid, kirjed jne).
 
@@ -96,7 +96,7 @@ Tuua välja vanemate süsteemide projeteerimise erivajadused ja -nüansid, näit
 
 #### Pärandsüsteemid
 
-Pärandsüsteemi (ingl k legacy system) all mõeldakse vananenud, varem kasutusel olnud rakendusprogrammi või riistvaraseadet, mida ka tänapäeval kasutatakse.
+**Pärandsüsteemi** **_legacy system_** all mõeldakse vananenud, varem kasutusel olnud rakendusprogrammi või riistvaraseadet, mida ka tänapäeval kasutatakse.
 
 Pärandsüsteemidega seonduvad järgnevad võimalikud probleemid:
 
@@ -216,39 +216,49 @@ kasutaja.sex = 1;
 kasutaja.weight = 80.0;
 ```
 
-##### Ahelloendid ja puud
+#### Ahelloendid
 
-Kaasajal kasutatakse tihti andmete hoidmiseks loendeid (list). Kui iga listi liige viitab järgmisele, siis on tegemist ahelloendiga, ahelloendi lõppu märgib tühiliige (_null)_. Ahelloend, kus iga liige viitab järgmisele nimetatakse ühesuunaliseks loendiks, ahelloend, kus iga liige viitab eelmisele ja järgmisele nimetatakse kahesuunaliseks loendiks. Ahelloend, kus puudub esimene ja viimane liige ning iga liige viitab järgmisele nimetatakse ringloendiks. Ahelloendi pikkus on loendi liikmete arv. Loendi esimene liige on pea (_head_) ja ühejäänud liikmed saba (tail).
+Kaasajal kasutatakse tihti andmete hoidmiseks loendeid **_list_**.
 
-Pinu (stack) on ahelloend, kus viimasena lisatud liige loetakse välja esimesena ( LIFO – Last In First Out).
+Kui iga listi liige viitab järgmisele, siis on tegemist **ahelloendiga** **_linked list_**, ahelloendi lõppu märgib tühiliige `null`.
 
-Järjekord (_queue_) on ahelloend, kus esimesena lisatud liige loetakse välja esimesena ( FIFO – First In First Out)
+Ahelloend, kus iga liige viitab järgmisele nimetatakse ühesuunaliseks loendiks, ahelloend, kus iga liige viitab eelmisele ja järgmisele nimetatakse kahesuunaliseks loendiks.
+
+Ahelloend, kus puudub esimene ja viimane liige ning iga liige viitab järgmisele nimetatakse **ringloendiks**. Ahelloendi pikkus on loendi liikmete arv. Loendi esimene liige on **pea** **_head_** ja ühejäänud liikmed **saba** **_tail_**.
+
+**Pinu** **_stack_** on ahelloend, kus viimasena lisatud liige loetakse välja esimesena ( LIFO – Last In First Out).
+
+**Järjekord** **_queue_** on ahelloend, kus esimesena lisatud liige loetakse välja esimesena ( FIFO – First In First Out)
 
 **Lisalugemist:** [http://www.cs.tlu.ee/~inga/alg_andm/linked_list_C_2011.pdf](http://www.cs.tlu.ee/~inga/alg_andm/linked_list_C_2011.pdf)
 
-Puu on andmestruktuur, kus andmed on paigutatud puukujuliselt, koosneb tippudest (nodes) ja kaartest (edges), mis ühendab tippe (viited). Tipud, mis on ühendatud kaarega üleval asuva tipu külge on lapsed (childs) ja üleval asuv tipp on sellisel juhul vanem (parent). Kõige ülemine tipp on juur (root). Tippu, millel ei ole lapsi, nimetatakse leheks (leaf).
+#### Puu
+
+Puu on andmestruktuur, kus andmed on paigutatud puukujuliselt, koosneb **tippudest** **_nodes_** ja kaartest **_edges_**, mis ühendab tippe.
+
+Tipud, mis on ühendatud kaarega üleval asuva tipu külge on **lapsed** **_childs_** ja üleval asuv tipp on sellisel juhul **vanem** **_parent_**. Kõige ülemine tipp on **juur** **_root_**. Tippu, millel ei ole lapsi, nimetatakse **leheks** **_leaf_**.
 
 ![](data:image/png;base64,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)
 
-Liikudes tipust vanemasse, sealt vanemasse jne jõuame Juurde. Esivanemad on kõik tipud mis jäävad vaadeldava tipu ja juure vahepeale. Puu kõrgus (tree height) on pikim tee lehest juureni.
+Liikudes tipust vanemasse, sealt vanemasse jne jõuame Juurde. Esivanemad on kõik tipud mis jäävad vaadeldava tipu ja juure vahepeale. **Puu kõrgus** **tree height** on pikim tee lehest juureni.
 
-Järjestatud puu korral on defineeritud juur ja otse juurega ühendatud tipud on esimese taseme tipud (first level nodes, juure lapsed), esimese taseme tippudega otse ühendatud tipud on teise taseme tipud (esimese taseme tippude lapsed) jne ning laste järjekord vasakut paremale on oluline.
+Järjestatud puu korral on defineeritud juur ja otse juurega ühendatud tipud on esimese taseme tipud, juure lapsed), esimese taseme tippudega otse ühendatud tipud on teise taseme tipud (esimese taseme tippude lapsed) jne ning laste järjekord vasakut paremale on oluline.
 
-**Lisalugemist:** [http://www.cs.tlu.ee/~inga/alg_andm/tree_gen_2011.pdf](http://www.cs.tlu.ee/~inga/alg_andm/tree_gen_2011.pdf)
+**Kahendpuu** **_binary tree_** on selline puu, kus igal vanemal võib olla mitteühtegi, üks või kaks last ja laste järjekord on oluline.
 
-Kahendpuu on selline puu, kus igal vanemal võib olla mitteühtegi, üks või kaks last ja laste järjekord on oluline.
-
-Kahend-otsingupuu (binary search tree) on kahendpuu, mis on järjestatud. Tipust vasakul on alati väiksem suurus ja tipust paremal suurem suurus.
+**Kahend-otsingupuu** **_binary search tree_** on kahendpuu, mis on järjestatud. Tipust vasakul on alati väiksem suurus ja tipust paremal suurem suurus.
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUcAAAFYCAMAAAD3F84XAAAAGXRFWHRTb2Z0d2FyZQBNaWNyb3NvZnQgT2ZmaWNlf+01cQAAAYBQTFRFAAAAAAAATmIowtab2OS/1+S+1+S91uO83+nM3ujK3efI3OfG2+fF2ubE2ubD2eXC2eXB2OTA3+jL3ejJ3OfH2+fG2+bF2ubC3ujL2+bE6vHe6PDc5+/a5u7X5O3V4+zT4uvR4erP4OnN6/Hf6fDd6O/b5u7Z5e7X5O3U4+zS4uvQ5+/b5u7Y5e3W5OzU4erO4OnM6vHf4uvS/v/+/v/9/f79/f78/P37/P36/P35+/z5+vv4+vv3+fr1+Pr09/nz9vjx9fjv9Pft8/br8vXq8PTo7/Tm7vPk7fLi6/Lg/f77+/z4+fv2+Pr19/n09/ny9vjw9ffu9Pfs8vbr8fXp8PTn7/Pl7fPj7PLh+fr29vny9fjw8vbq9Pfu8/fs8fXo7vPl////AQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDWvkX9AAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAAAEAAAABAAGJDY1sAAAAMY21QUEpDbXAwNzEyAAAAA0gAc7wAABJ/SURBVHhe7Z0LnyU1EcX7bnZFfMAivl0fwAqKAioL4hPfL0ARRVYUge//JUy/pruTSlJVOcntvjflz7kzPcmpqn8n3XeYnT5d16IRaAQagT0SMEvssbxj1GQZfryE/eoYZe+sSmNedqOhFJ8jguJAta1JEUrzIBRtdwtAmlci0ZYkl6R5NRoNJAukSWB89dUGkgPS/DgZDWQapHmNEQ1kCqT5CSsayDhI81NmNJBRkOZnzGgcYxzNz9nRQEZAml+wo3EMczS/FEQDGQRpXhdE4xjiaH4licYxyPHXTpxsDIf6T6ZPlyENZACk+c02Bnj9oeFl+nwZ0jiGOP52E+Mi7A8NL/MXN2MaR5qj+Z0Xlp09Nn6cX24GmVupHzKv8/vm915YgvbY+HF+WQa1BUkuFPMHLyxBe2z8OL8sgxpHmuMfvbAE7bHx4/yyDGocaY5/8sIStMfGj/PLMqhxpDn+2QtL0B4bP84vy6DGkeb4VS8sQXusf8czf1wPaRxpjl/zwgLsjw0v0+erMe2ND83x3jbG9+E27t2bX7cD2nqkOX5dFqZrb8QpkOYbsmjbOvTz9TdF0bZ1iOO3RNHWY4jjU5JoGMO/V3haEO02E+b4SUG09Rjm+Cg/GsbY768/xY62raP/oOLTzGgY4/++5zPMaNs68Q/OPsuKhjH1uyfzGCMsxvazdWJBPp6OhjG1Gu33zd1U2L+haasxTfL0RDxObVOnIXbd6ZYxtyNhThZkixSB08luWnMnGPbaeEpptO/b5ThAMOYTZJjhFtNAJlfKjMhubh/kcIOxm7pxTHFcCNnNbcwjq7Bf9hCHa2MDmQC5AtQjWz1XYYI43WIayChIB8+4/tb/m2c3jjGOBB0KYtvZ8V1t3/LQQbxfDI5NXYGv4PuizSoafAXwlhaFZITDrwaldKdKx18LSPH6Ek+4CpIKKoopF49Sw6TtbG9Z6JBo4F/2ilQSUU67WJZaHtp5FwpSt6vbj4fucshYVhlTL25R5rDImXthIPNQ5M2+JJR5JPTX1ktiCPgdQd5puBiY+RjyFS4AJmBbAiSODxKxmBAaByeJQYBROTBK0JZsHEFr4MpB4trHKYHObE0ZYPNAqZoEILlAF8exlisGCW0delIgy6SWCBTj9S5I+AICn5dayyk3D7xt+InJ7bD4fPv0kxL3BSt6XSz7p8iUOFmldEvUitAcn8aDUFprlFFFV4nUmx5vhJS09+tr5YjF2L8VL7HK4VUCBUv1W0oX2DpUCn9tnMsrpwwFoBRzPN7gd5hgWRdjLjf+/cvHH4+vytOgmXa2xJpiE3NsL1tHzFooz5a4AET7p1ier2gdP8yzJS5BsSMp9iBL7+6zJS6B0YSNRR8UBXm2xCUodlFf0VcKLsmzJS6DMe4rWs4Q87KcOM1fklFmb58tcZnVmLQVtQNKgGQYmpZJXAYjw1b0tdcKcGQZmpZIXARjx3TExIM8W+IiHM0bzECDPFviMhjP5YfJd+JEn8AyHN9kB7Yfw877JjZxGYxv8QPajuHnfQuauAjGzvxVEMh+zpa4EMe/CQLK0clrf8Vgjwy/sfErQiYuwtG8vY4b35PN0eULYDvbxG8Pmd/uX4b/uwFMXARjZ/7uh22EODocwvXjJB44Tlmp9LjEhTi+44ftiDg6HMK1Y9wUS1YqPS5xEY7mH37Yhoij4yFYO37im7RkfljiIhg7808/bB/E0fEQ7OHVfuI5LZ1+7xzf9aK/UPlH5yOofgyVdzgWSI9KXGg9/ssL24d/8OYIqh0TyhtKj0pciON7bvTL0Tu4HEC1Y6jE9lgwOypxIY4P3bCNeMdWB1DtGCfJzTvX8RO/BFTiQhyfccM24R1bHUDdaEwsCfW9nXO874TF6B7afI1qx0SzEN9EncBC6/HbTliO7qHN16h2TDQL8U3UCSzE8VlhoNoxwrzPok5gIY7PyQKFsTOyvM/tG6N9Cv13RIFrR5q4zDqCqZrvigK2Hjtp4p0bXZjnRQFcj6K8z+NOIGwJboSMxFf0KRzGTph49zZARuAr+jTS1UiWeOfb2t5oPicI4HoUJi6zG5Gq5kl2IDHaM8jO+yRyHyDZrbXM59mBbUeSePfb2hI1X2AGFqMk8REwduaLvEBj5Cc+iNscyw/zscewV8f+0sJNvPs3PdN10nyJESUcMXmJj4KRY4h5twTG7lbaifMu/HJS6oY97LCEIeYTRTB2FmQy8XFWIwNkIYxpkIdajQPIqLFouTvmrXji2bav5GbEapugs+joQlgqrH1kyNH0mC7Ft2hj0dkRsxTH3vMwYmhaLG05YbsyvI5WjpjFEg/mkS7K4qevWDv2om/vn2tn0f6v2G+MRQvm7TO7ievkxTc1PYJiRDnFDcTyz6eYLE1PY2b71UGtx29Ikcai5TnahTHDGys45nNUNlX7xqJVOPaPRbpxhj3o0yEToGpx3FyuKiVFXiJTJae+j6nFyXK8nZ3ElByAAOklqZIVUfmkwTjxFVoiqqiQFYiR86DRCh0RKSpkBXLkVMsZk1cSmaF82ryi17MZu7rCm5BAFQcCySqVNSjn3AYSFM+bU7PiXVrpfoL6pROjODLrZA7TVhWWZ111tGmB85iAmMO0hUXkC2fWVuzM41bJHacrK6peNrWuYHcWv0b+SHllce0D7GxBiQU5pqoomFp+zskZggoFQ6XFJaWTA6QZweMl9UnGyspMK6cWrCwffLSovHS3yvo4VRRLrqx5O01UnWiwpDyWMGuQJCtwrKw22Wh+mTxd3ih+VuBIYWnC4dxCubLccdy8sHGcy9I6WZlG2FWwB8IAMYXEXMQTOIXwRfkjOXlhY+RlyWeki5VoSsamM4NGKLZJgT5EVYgGgzAlZRRQFFNSZcgkZaNTuSHf15SkmRMvVqooHQ9BFRNRFaSaBK1idztbhUQ1CcqR8/vh4mtwlUBHRDcr3JdGTzOnGFllMcppoTZUcqpJhUCqrzLQJpRVQGvIA6wuRT2Rqlcrpp2Xx4yYrS9EP9MvQ62lnggGqdxPfRXAFvZRRQ7aDBh2asbsTdEZOv0pyDgNOeymufYJcHoQ0+MZ88vIqmLcFr3EGaNHoU6P5KivYuCY1YcawDJxRKEVypq8/iEgUyivC23363mZSyrnJHgc806nfjXAOOqFkBz1VexkX+c1kDN7ngs4HRlXJ0wHmSrqzbi9umRWMdxq8jUEClsD6/zcCENshEb/p7EFjVI3hEcvcBugnAg9hMbAENlYbF2iTbkRegiNHmI9m/OAKbf6gZ4IPYRGyOZc3Vj8Ehky5X5ZmQ+hh9AI2pxrG4tijJpyK0gi9BAadjE+CAb+ppNwkxaDROghNDqICPu9DtqUG6GH0EhhBNuco025EXoIjQ4iwl+NYDdwhMk3QqODiPAxgt3AESbfCI0OIsLGCHcDR5h8IzTgjSXeNzLNwN9g3rQRJt8IjQ4iwl6OaFNuhB5Co4OIsDF25t/sYC1IhB5CA95YYleDTbkRJt8IjQ4iIliOrwuCsSCNQO71gB5Co4OICDi+LwgOR4Hc+yGOAI3OIETYHM1/NjGbKm6PLl8lQTp6IZ35OKnnafRVjTOWz1I1BUXoFpONJYj6ptwhI3CeG7jrLj5WHdSkOTrDFwlSjEZAFtIL0+Vkc9yactskISNwnhu4Y/LdN/7O8IEOmqNX0yQwnhRXKcAxIkLUksnR/HcbtkznyPbLVDpHr2/bCoRVKT23po0AIUWfC7+NaSpdTKqx1LZ2fL9tkqAT+OAGLtPrOdpZYVWSY8ygnJCiOQZF6GIyrTRcU+7pIqx2A3f0ernR4DtkME5A8I3CVw7hlBJ5Mkib88ltnKontUIS78Ip42+bJugHnkjnmHz3BVup6YUSpTjGHMqp2kiOcZtzXyaTI2X8bZME/cBTHJ2Jo1TPMaBIcfSHLvMpJZJjTIQyHc/kSDl/922HHMFTHAlz8fFaERCkOPpDl/mUEskxJvLwoV9RJkfKeNsmCXp1pziSEyOCFEdfYxGgpEiOMZFnnvFl8m40jim3lb9/vz9XQa/uRDra5DsiSOgRGosAJUXVFBQJtZi5Hr+3jXEPnpyjqy9T65GaGVOk1iNdk61qqs6tj1yPKRG30Mz1+H1ZpMxxDCHXdx/KQulRGrEqyZrEInn2LuYFWaTOmqs3rqBwDnJLykp6gaxJ3Bj7v+zQA82LokheRRB6CI1OKpK3HuGm3AiTb4SGuLHc9Qg25Za6i1PlIzQ6qUjuenxJEqnbjDU9k8i9ROshNKSFZGK0jf9AEKnbjF1dCD2EhrCQbDs282V+MDB2CD2EhqyQbIx4U26EyTdCQ+Q2nr2tLUewGThCD6EhaQzissh3A+edNYQeQqO2zbn5Ci+43pgIPYRGxxYBXB37929oU26EHkKD3Rhvn6XfqZvHGZF+73iTCKGH0Oh4IpCr49A82pQboYfQYDWGwwg35UaYfCM0qtucx72kb98WbOphgSP0EBoJd27bGHA1JhtXuElHITD1EBpxkAX8uWOm3JpzhtBDaFiQYbfxEp7tvQEy5cqtPWcIPYRGf5EJNFYC4+Rh7ZCcfazT7538EYORc6YeQmP0yPYLKeiTPZhym0emyDcDR+hhNAZv7lVjBSH2T64a5B0z8OndvuoxFRE99hJHaAy7bXw8xWg2XmZLjz2NpFw78Llf7bNGQnpsjpGaamuw8i0Lbml9PVG1IJ1TwyqEHETXJNNDaKQzJjklB6RzXMGINCXtzr4CeEuLaYy4p2FeMFjeWuPAvmBIjNZ4hHi0GekudQgPY9vZifPPxdhAxkE2jpALDR9jW5AR4BKMDWQQpPAmLKMO2S/HEJGCkY4/BoXsKsVYhOs3u8BjCCioiMkfg0RelRoomjl5Ve5+tgqJYg3vHkRegSqM7b2PB13JUW+jknfa9zpbi7H2g+H3ym+qS42x7ez1mc26XWScg52vLnF5WSiyJotL3fOETBKZ0/dMRlRb1q62mXLni4rd8eDs9ZQtsGM4/NIAFAAS/Hp3OhLBoO1s0MUNcTJ2us6YZYEIgGSYRe9vGKr/K9/ZuPZRJ2R/S41TEbB7oBSn8l2NQfaO1NoVpHQx2Naxaunq9zGi7xrb+fntuc9A1j4jC4xxB/bc5+GIXY3Df6/oz851xfjYNmjPBSSh9RURmx6gCNTGKwKLKyaFX45Xu68LnCP0paJAiWBJ8LVxrq6QLLj5HLnx7xJv+s2RSs3dpkqNPs73h74G4+zBErxk4RVTlWyD0vZ8o8uhrJjq7BQHM/IiixJi9F2bDy8f3dpAkifAH1UxFb8o0MiIb/YD8JKsmAoEhy9T0Ti7Yip+/6CREPdtXi0VU/EKAo6qaJxdMRUQEE+qonF2xVS83oGjKhpnV0wFBMSUgrhv83JVTMUrCDiqonF2xVRAQDypisbZFVPxekeOgrhv8wqqmIpXEHBURePsiqmAgJhSFY2zK6ZiNo8b5vhmD7+KCVtpZ/0XC5FFd8gsHNc5VmlrnG0h9qbbYR/vHJCkR3c4WU4qLCOOmvnAi9PJPzYfyWnOTWVPWDjRBx/kpOJ0jh1j/ufF6eQfm4/kNOekshjDeex3clJhGTHUou7bhDd4RnNo83FGd/WGmA/dsMvEO7Yc4HgbBap3UvU3tEiiDz/MOGX1+M2ZfPdt217YD/zdd/XdEWbhw7uDYDZ9qjNw/MgJ25h7aPO1vjmz1e0RfvTR+JEOfaozcCQdvIN+4O+9p2/ObFUtwP7A9EJl1Kc6A8etcfb078CCfuAPH+qbM34qe8RmVJqP14cVyWh+KAz9jcZNZQna3ONHMvSnrD5i2sE76Ad+/76+OTeVJTi4j2vNx+vDiq3He8LIWI9upvEiEs6vP2X1EVc0zhanAvmxVYFa0ThbnArlx1YHpMgQ/EX9trbOOMJUVfpHJTE/EkXONUua6ljrUegIntGc1KMbtVSq6AjdtzMwSj26j3SbsadK5r6d1ZwsVc4pq7IEt0nMo/yQ+hE67YhSHQyjzBE8szmI0fcZ1horpcB9W+NIuK5BkCrrAsLqGz6I776d3Rw/VebKh0PiCDKdszOvjkMl3FS5K5/TNnwMz30bgZHp0Y22oYUTCwhWNM7mpcq+gNQi574juZsM1BqBGH2fCVM6rXkiESiMcPPxdG9VR5jb0YBhxJiFV0UjSxa0e75z547WhJmu4FY81VGvjXOz9YyzMUbfsmVScXQ942yM0XdFNLJU9YyzMUbfsu4qjp5drEfn7MXzuUQJk6/0kqqsu3SJFmKaK/vtG0/rMjWMdshbi+4j/lQdoIMw8OaCr5mLWxN0XGEL91WtdUy6oXCaWCOwZwL/B3gLs+xU8UWKAAAAAElFTkSuQmCC)
 
 Sellisest puust otsides võrreldakse otsitavat väärtust juurega, kui otsitav väärtus võrdub juure väärtusega, siis väärtus eksisteerib, kui aga juure väärtus ei võrdu otsitavaga, siis võrreldakse väärtust edasi, vastavalt kas vasaku või parema tippude hulgast kuni jõutakse leheni. Kui otsitav väärtus on võrdne mõne tipu väärtusega, siis on otsitav element olemas, kui aga ei leidu võrdset väärtust, siis otsitavat elementi ei ole. Selline otsimise viis on kordi kiirem kui oleks näiteks ahelloendi või massiivi läbivaatamine.
 
-B-puu (B tree )on otsingupuu, milles iga tipu tütarde arv asub vahemikus (t-1) kuni (2t-1) , kus t on suvaline konstant
+**B-puu** **_B-tree_** on otsingupuu, milles iga tipu tütarde arv asub vahemikus (t-1) kuni (2t-1), kus t on suvaline konstant
 
-B\*-puu on B-puu, kus tippude täituvus hoitakse 2/3 juures, täites kaks tütartippu võtmete ümberjaotamise teel ja tükeldades nad seejärel kolmeks tipuks.
+**B\*-puu** on B-puu, kus tippude täituvus hoitakse 2/3 juures, täites kaks tütartippu võtmete ümberjaotamise teel ja tükeldades nad seejärel kolmeks tipuks.
 
 B-puu võimaldab nõnda hoida puu sügavust kahendpuust väiksemana. Täituvust piirates on võimalik vahetasemetel hoida kindlaksmääratud suurusega mälumahtu ning samas pääseb sinna sobivasse kohta kohe andmeid lisama.
+
+**Lisalugemist:** [http://www.cs.tlu.ee/~inga/alg_andm/tree_gen_2011.pdf](http://www.cs.tlu.ee/~inga/alg_andm/tree_gen_2011.pdf)
 
 **Lisalugemist:** http://enos.itcollege.ee/~jpoial/algoritmid/puustruktuurid.html
 
@@ -262,9 +272,9 @@ Hinnata tüüpiliste otsi- ja sortimisalgritmide sobivust erinevate andmestruktu
 
 Märgatav osa arvutite tööajast kulub andmete otsimisele ja sortimisele, ehkki on ka muid vajalikke algoritme (graafidega seonduv näiteks). Sõltuvalt andmete ülesehitusest, eelnevast järjestusest, andmekandjast, päringute sagedusest ja tüübist ning kasutatavast mäluhulgast on sortimiseks ja otsimiseks loodud kümneid algoritme.
 
-Mullsortimise puhul vahetatakse järjest ära kõrvuti asetsevad väärtused sobivasse suunda. Sobib juhul, kui andmestik on peaaegu sorditud, on ainult üksikud erinevused lähestikku seisvate väärtuste seas. Segamini suurema andmestiku puhul tegemist väga aeglase algoritmiga. Lihtne programmeerida.
+**Mullsortimise** **_bubble sort_** puhul vahetatakse järjest ära kõrvuti asetsevad väärtused sobivasse suunda. Sobib juhul, kui andmestik on peaaegu sorditud, on ainult üksikud erinevused lähestikku seisvate väärtuste seas. Segamini suurema andmestiku puhul tegemist väga aeglase algoritmiga. Lihtne programmeerida.
 
-Valiksortimise puhul otsitakse iga ringi puhul olemasolevate hulgast välja vähim ning tõstetakse ta sobivale kohale. Algoritmi tööaeg ei sõltu andmete eelnevast.
+**Valiksortimise** **_selection sort_** puhul otsitakse iga ringi puhul olemasolevate hulgast välja vähim ning tõstetakse ta sobivale kohale. Algoritmi tööaeg ei sõltu andmete eelnevast.
 
 Põhilisteks programmeerimise juures kasutatavateks tüüpideks on tekst (string), täisarv ning reaalarv (komaga arv). Kusjuures näiteks telefoninumber on sageli mõistlik talletada tekstina, sest täisarvul on pikkusepiirang. Struktuurtüüpi on põhjust kasutada siis, kui väärtus ise jaguneb alamosadeks ning neid võib olla vajadust eraldi kasutada. Näiteks aadress võiks olla kirje, kus eraldi väljadeks indeks, linn, tänav. Massiivis on andmed üldjuhul ühte tüüpi, näiteks aadresside loetelu võib olla massiiv. Massiivide puhul on üldjuhul hea teada elementide maksimaalarv. Kui vaja väärtusi keskele või lõppu lisada, siis on paindlikuma ülesehitusega ahelloendid selle tarbeks paremad.
 
@@ -275,6 +285,8 @@ Kahe väärtuse vahetamiseks on üldjuhul tarvis kolmandat kohta vahepealseks ho
 http://www.cs.tlu.ee/~inga/alg\_andm/sorting\_Python.pdf
 
 ### B.3.2 Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 1. Massiivi puhul:
    – on elemendi poole võimalik pöörduda massiivi nime ning järjekorranumbri kaudu X
@@ -288,6 +300,8 @@ http://www.cs.tlu.ee/~inga/alg\_andm/sorting\_Python.pdf
    – lehtede väärtused saab süstemaatiliselt läbi käia X
    – on kasutatav vaid üksikute programmeerimiskeeltega
 
+:::
+
 ## B.3.3 Programmeerimiskeeled
 
 Selle alateema materjale läbi töötades õpid tundma programmeerimiskeelte tüüpe, eripärasid ja ajaloolist kujunemist, samuti programmeerimise käigus esile tulevad põhikonstruktsioone.
@@ -300,49 +314,55 @@ Tuua välja programmeerimiskeelte liikide erinevused ja eelised: funktsionaalsed
 
 :::
 
-#### Programmeerimiskeelte põlvkonnad
-
 Programmeerimise vajadus tekkis juba enne programmeeritavaid arvuteid. Nii on teada näiteks 18. sajandist kangasteljed, mis olid programmeeritavad puuliistude, kuhu oli tehtud õigetesse kohtadesse augud, abil.
 
 Programmeerimise arengule andis hoo John von Neumanni poolt 1945. aastal avaldatud idee, kus ta kirjeldas arvutit, kus mälus hoitakse lisaks andmetele ka käske.
 
-Esimese põlvkonna programmeerimiskeelteks nimetatakse masinkoodi keeli. Masinkood koosneb käskudest, mida arvuti (protsessor) täita oskab ( ning nende käskude juurde kuuluvatest andmetest). Masinkoodis programmeerimisel pidi programmeerija kirjutama oma programmi kahendkoodis, nii et see oleks protsessorile arvusaadav ja täidetav. Sisuliselt nõuab selline programmeerimine häid teadmisi ja arusaamist riistvarast, sest programmeerimise käigus peab teadma mida protsessor teha oskab, kus asuvad sisend-väljundseadmed (I/O- Input-Output) ning kuidas nendega suhelda tuleb ja kui kaua aega mingi tegevuse tarvis kulub. Niisiis on masinkood väga tugevasti seotud riistvaraga, mille peal vastav programm tööle hakkab. Masinkood ei ole tänapäeva arvutitest kuhugi kadunud, kogu tegevus madaltasemel (riistvara tasemel) toimub endiselt masinkoodis ehk siis ükskõik millises programmeerimiskeeles kirjutatud programm teisendatakse lõpuks ikkagi riistavarale arusaadavasse masinkoodi.
+#### Programmeerimiskeelte põlvkonnad
 
-Teise põlvkonna programmeerimiskeeled on assembler-keeled. Kui masinkoodis programmeerimisel toimus kogu programmeerimine kahendkoodis ja selle lugemine ning silumine oli tänu sellele väga keeruline, siis assembler-keeles programmeerimisel on käsud inimesele sobivamal kujul. Kogu programmeerimine on üsna sarnane masinkoodis programmeerimisele, sest käsud on samad, mis masinkoodis (ainult teisel kujul, sõnadena). Assembler-keeles kirjutatud programm näeb välja tavaliselt midagi sarnast:
+**Esimese põlvkonna programmeerimiskeelteks** nimetatakse masinkoodi keeli. Masinkood koosneb käskudest, mida arvuti (protsessor) täita oskab ( ning nende käskude juurde kuuluvatest andmetest). Masinkoodis programmeerimisel pidi programmeerija kirjutama oma programmi kahendkoodis, nii et see oleks protsessorile arvusaadav ja täidetav. Sisuliselt nõuab selline programmeerimine häid teadmisi ja arusaamist riistvarast, sest programmeerimise käigus peab teadma mida protsessor teha oskab, kus asuvad sisend-väljundseadmed **_I/O_** **_Input-Output_** ning kuidas nendega suhelda tuleb ja kui kaua aega mingi tegevuse tarvis kulub. Niisiis on masinkood väga tugevasti seotud riistvaraga, mille peal vastav programm tööle hakkab. Masinkood ei ole tänapäeva arvutitest kuhugi kadunud, kogu tegevus madaltasemel (riistvara tasemel) toimub endiselt masinkoodis ehk siis ükskõik millises programmeerimiskeeles kirjutatud programm teisendatakse lõpuks ikkagi riistavarale arusaadavasse masinkoodi.
+
+**Teise põlvkonna** programmeerimiskeeled on **assembler-keeled**, **_assembly_**. Kui masinkoodis programmeerimisel toimus kogu programmeerimine kahendkoodis ja selle lugemine ning silumine oli tänu sellele väga keeruline, siis assembler-keeles programmeerimisel on käsud inimesele sobivamal kujul. Kogu programmeerimine on üsna sarnane masinkoodis programmeerimisele, sest käsud on samad, mis masinkoodis (ainult teisel kujul, sõnadena). Assembler-keeles kirjutatud programm näeb välja tavaliselt midagi sarnast:
 
 ```asm6502
 MOV AL,19
-ADD AL, 4
+ADD AL,4
 OUT 2
 ```
 
-Antud koodijupp paneb AL registrisse väärtuse 19 (tavaliselt on väärtused antud 16nd arvusüsteemi arvudena), liidab AL registris olevale väärtusele 4 ning saadab selle seejärel väljundliidesele 2. Selliselt kirjutatud programm tõlgitakse assembleri masinkoodi ning seejärel on võimalik protsessor seda masinkoodi täitma panna.
+Antud koodijupp paneb `AL` registrisse väärtuse `19` (tavaliselt on väärtused antud 16nd arvusüsteemi arvudena), liidab `AL` registris olevale väärtusele `4` ning saadab selle seejärel väljundliidesele `2`. Selliselt kirjutatud programm tõlgitakse assembleri masinkoodi ning seejärel on võimalik protsessor seda masinkoodi täitma panna.
 
-Masinkoodi- ja assembler-keeled on madaltaseme programmeerimiskeeled.
+Masinkoodi- ja assembler-keeled on madaltaseme programmeerimiskeeled **_low level languages_**.
 
-Kolmanda põlvkonna programmeerimiskeelteks nimetatakse juba kõrgtaseme programmeerimiskeeli. Sellised programmeerimiskeeled ei ole enam nii väga seotud riistvaraga. See tähendab, et programmeerija ei pea enam teadma väga täpselt riistvara ehitust ja omapära, vaid saab kirjutada programmi riistvarast võrdlemisi sõltumatult ning hiljem tõlgitakse kirjutatud programm mitmesuguste erinevate vahendite abil konkreetsele riistvarale arusaadavale kujule. Kuidas seda täpselt tehakse selgitame hiljem.
+**Kolmanda põlvkonna** programmeerimiskeelteks nimetatakse juba kõrgtaseme programmeerimiskeeli **_high level languages_**. Sellised programmeerimiskeeled ei ole enam nii väga seotud riistvaraga. See tähendab, et programmeerija ei pea enam teadma väga täpselt riistvara ehitust ja omapära, vaid saab kirjutada programmi riistvarast võrdlemisi sõltumatult ning hiljem tõlgitakse kirjutatud programm mitmesuguste erinevate vahendite abil konkreetsele riistvarale arusaadavale kujule. Kuidas seda täpselt tehakse selgitame hiljem.
 
 Kolmanda põlvkonna keelte hulka kuulub enamik tuntumaid ja kasutatavaid keeli, näiteks:
 
-FORTRAN (The IBM Mathematical FORmula TRANslating System) – 1950ndatel aastatel loodud arvutuste ja teaduslikeks eesmärkideks loodud programmeerimiskeel
+**_FORTRAN_** / **_The IBM Mathematical FORmula TRANslating System_** – 1950ndatel aastatel loodud arvutuste ja teaduslikeks eesmärkideks loodud programmeerimiskeel
 
-COBOL (COmmon Business Oriented Language) – 1959. aastal loodud objekt-orienteeritud programmeerimiskeel, peamiselt ärivajadusele suunatud rakenduste kirjutamiseks.
+**_COBOL_** / **_COmmon Business Oriented Language_** – 1959. aastal loodud objekt-orienteeritud programmeerimiskeel, peamiselt ärivajadusele suunatud rakenduste kirjutamiseks.
 
-BASIC (Beginner's All-purpose Symbolic Instruction Code) – 1963. aastal väljatöötatud programmeerimiskeel, mis algselt loodi selleks, et inseneride oleks võimalik teostada arvutitel erinevaid simulatsioone.
+**_BASIC_** / **_Beginner's All-purpose Symbolic Instruction Code_** – 1963. aastal väljatöötatud programmeerimiskeel, mis algselt loodi selleks, et inseneride oleks võimalik teostada arvutitel erinevaid simulatsioone.
 
-Pascal – 1970ndatel loodud programmeerimiskeel, mis loodi programmeerimise õpetamiseks.
+**_Pascal_** – 1970ndatel loodud programmeerimiskeel, mis loodi programmeerimise õpetamiseks.
 
-C – nimi tuleneb sellest, et keel baseerus paljuski B nimelisel programmeerimiskeelel, loodi operatsioonisüsteemide kirjutamiseks (paljud Unixi –laadsed operatsioonisüsteemid on enamikus kirjutatud C keeles), pikka aega üks populaarsemaid programmeerimiskeeli.
+**_C_** – nimi tuleneb sellest, et keel baseerus paljuski B nimelisel programmeerimiskeelel, loodi operatsioonisüsteemide kirjutamiseks (paljud Unixi –laadsed operatsioonisüsteemid on enamikus kirjutatud C keeles), pikka aega üks populaarsemaid programmeerimiskeeli.
 
-C++ - objektorienteeritud C.
+**_C++_** - objektorienteeritud C.
 
-Java – C++ põhjal arendatud programmeerimiskeel
+**_Java_** – C++ põhjal arendatud programmeerimiskeel
 
-Visual Basic, Delphi, Python, C# jne on kõik kolmanda põlvkonna programmeerimiskeeled. Paljud kolmanda põlvkonna programmeerimiskeeled on nooremad (uuemad) kui mitmed neljanda ja viienda põlvkonna programmeerimiskeeled.
+**_Visual Basic_**, **_Delphi_**, **_Python_**, **_C#_** jne on kõik kolmanda põlvkonna programmeerimiskeeled. Paljud kolmanda põlvkonna programmeerimiskeeled on nooremad (uuemad) kui mitmed neljanda ja viienda põlvkonna programmeerimiskeeled.
 
-Neljanda põlvkonna programmeerimiskeeled on loodud eesmärgiga lihtsustada nende õppimist ja kasutamist. Neljanda põlvkonna programmeerimiskeeled on tavaliselt mitte-protseduurilised ja ühe rakenduse kesksed. Üheks neljanda põlvkonna programmeerimiskeeleks on näiteks SQL (Structured Query Language). Seal öeldakse pigem ";mida"; teha ning vähem, ";kuidas"; teha.
+::: danger Puudulik info
 
-Viienda põlvkonna programmeerimiskeeled on loodud tehisintelligentsete süsteemide loomiseks ja tehisintelligentsusega seotud probleemide lahendamiseks.
+Nimistust on puudu enamus populaarseimad skriptimiskeeli **_Javascript_**, **_Typescript_**, **_Ruby_**, **_PHP_** ja **_Lua_** ning uuemad süsteemiprogrammeerimiskeeled nagu **_Go_** ja **_Rust_**.
+
+:::
+
+**Neljanda põlvkonna** programmeerimiskeeled on loodud eesmärgiga lihtsustada nende õppimist ja kasutamist. Neljanda põlvkonna programmeerimiskeeled on tavaliselt mitte-protseduurilised ja ühe rakenduse kesksed. Üheks neljanda põlvkonna programmeerimiskeeleks on näiteks **_SQL_** (Structured Query Language). Seal öeldakse pigem "mida" teha ning vähem, "kuidas" teha.
+
+**Viienda põlvkonna** programmeerimiskeeled on loodud tehisintelligentsete süsteemide loomiseks ja tehisintelligentsusega seotud probleemide lahendamiseks.
 
 #### Programmeerimiskeelte põhitüübid
 
@@ -352,7 +372,7 @@ Protseduurilistes programmeerimiskeeltes kirjeldatakse programmeerimiskeeltes te
 
 Funktsionaalsetes programmeerimiskeeltes kirjeldatakse kogu lahendus funktsioonide abil.
 
-Objektorienteeritud programmeerimiskeeltes teostatakse lahendus klassides (_class_) kirjeldatud funktsioonide ja andmestruktuuride abil. Igast klassist on võimalik moodustada objekte, millel on mingi hulk omadusi ja/või meetodeid.
+Objektorienteeritud programmeerimiskeeltes teostatakse lahendus klassides `class` kirjeldatud funktsioonide ja andmestruktuuride abil. Igast klassist on võimalik moodustada objekte, millel on mingi hulk omadusi ja/või meetodeid.
 
 Omadused on väärtused, mida objekt suudab hoida ja mis võivad mõjutada objekti käitumist. Näiteks klassi "konsooliaken"; põhjal saab moodustada objekti "konsool1"; mis kasutajale paistab lihtsalt ühe konsooliaknana. Sellel objektil on mitmeid omadusi (nähtav, mittenähtav, laius, kõrgus, teksti värv konsooliaknas, taustavärv jne), neid omadusi muutes muutub konkreetsel juhul objekti välimus.
 
@@ -366,9 +386,9 @@ Selliselt klasse kirjeldades ning objektidega manipuleerides on võimalik koosta
 
 Enne seda kui arvuti saab kõrgkeeles kirjutatud programmi täita, tuleb see "tõlkida"; talle arusaadavasse keelde e. masinkoodi. Seda tõlkimisprotsessi nimetatakse transleerimiseks ja tõlkeprogrammi translaatoriks. Translaatorid jagunevad kahte klassi: kompilaatorid ja interpretaatorid.
 
-Kompileerimine seisneb selles, et masinkoodis programm (nimetatakse kompilaatoriks) teisendab mingis programmeerimiskeeles kirjutatud programmi masinkoodi. Seejärel täidetakse saadud masinkoodis programm. Näidetena kompileeritavatest keeltest võib nimetada C, Fortran, Pascal..
+**Kompileerimine** seisneb selles, et masinkoodis programm (nimetatakse kompilaatoriks) teisendab mingis programmeerimiskeeles kirjutatud programmi masinkoodi. Seejärel täidetakse saadud masinkoodis programm. Näidetena kompileeritavatest keeltest võib nimetada C, Fortran, Pascal..
 
-Interpreteerimine seisneb selles, et masinkoodis programm (interpretaator) loeb sisemällu programmifaili ja asub seda rida-realt täitma. Näitena võib tuua vana BASIC-keele.
+**Interpreteerimine** seisneb selles, et masinkoodis programm (interpretaator) loeb sisemällu programmifaili ja asub seda rida-realt täitma. Näitena võib tuua vana BASIC-keele.
 
 Programmi interpreteerimine on ca 10-200 korda aeglasem, kui kompileeritud koodi täitmine. Vastukaaluks on interpreteeritava programmi silumine (vigade eemaldamine programmist) reeglina lihtsam kui transleeritava programmi korral. Sobivates oludes ning abivahendite olemasolul võivad aga need vahed ka märgatavalt väiksemad olla. Heaks näiteks on Java oma vahetasemele kompileeritud ja optimeeritud koodiga, mida siis käivitamise ajal Just-In-Time kompilaator veel omakorda konkreetse riistvaraga kohandab.
 
@@ -384,7 +404,7 @@ Kirjeldada protseduuride ja funktsioonide kasutamist ja tuua välja vahe väljak
 
 #### Protseduurid ja funktsioonid
 
-Programmi struktuuri lihtsustamiseks on otstarbekas jagada suurem programmeerimisülesanne väiksemateks alamülesanneteks. Alamülesannete lahendamine jäetakse väiksemate terviklike alammoodulite – protseduuride ja funktsioonide ülesandeks. Selline lähenemisviis lihtsustab programmi silumist ja haldamist. Alammoodulite korduvkasutuse võimaluse tõttu vähendab selline meetod ka programmeerimistööd.
+Programmi struktuuri lihtsustamiseks on otstarbekas jagada suurem programmeerimisülesanne väiksemateks alamülesanneteks. Alamülesannete lahendamine jäetakse väiksemate terviklike alammoodulite – **protseduuride** ja **funktsioonide** ülesandeks. Selline lähenemisviis lihtsustab programmi silumist ja haldamist. Alammoodulite korduvkasutuse võimaluse tõttu vähendab selline meetod ka programmeerimistööd.
 
 Protseduurid ja funktsioonid erinevad nende kasutusviisi poolest. Funktsiooni kasutatakse funktsiooniviite abil, protseduuri aga protseduurilause abil. Erinevalt protseduurist tagastab funktsioon alati väärtuse – mille võib küll mõnel puhul kasutanata jätta. Näiteks kui veakoodi ei kontrollita.
 
@@ -392,24 +412,24 @@ Protseduurid ja funktsioonid erinevad nende kasutusviisi poolest. Funktsiooni ka
 
 Seos alammoodulite ja neid väljakutsuva mooduli vahel organiseeritakse mooduli parameetrite abil. Parameetrite edastamisviisi poolest jagatakse nad kahte gruppi:
 
-- aadresskutse (ingl. k. call by reference) puhul saab kutsutav moodul muuta kutsuva mooduli salvestatud parameetrite väärtusi. Tehniliselt on selline kutse realiseeritud nii, et kutsuv moodul annab kutsutavale moodulile talle üleantavate parameetrite aadressid.
+- **aadresskutse**, **_call by reference_** puhul saab kutsutav moodul muuta kutsuva mooduli salvestatud parameetrite väärtusi. Tehniliselt on selline kutse realiseeritud nii, et kutsuv moodul annab kutsutavale moodulile talle üleantavate parameetrite aadressid.
 
-- kutse väärtusega e. väärtuskutse (ingl. k. call by value)- kutsuv moodul annab kutsutavale moodulile talle üleantavate parameetrite tegelikud väärtused (nende koopiad). Väärtuskutses ei saa kutsutav moodul muuta kutsuva mooduli salvestatud või tema jaoks salvestatud parameetrite väärtusi.
+- **väärtuskutse** e kutse väärtusega, **_call by value_** - kutsuv moodul annab kutsutavale moodulile talle üleantavate parameetrite tegelikud väärtused (nende koopiad). Väärtuskutses ei saa kutsutav moodul muuta kutsuva mooduli salvestatud või tema jaoks salvestatud parameetrite väärtusi.
 
 Aadresskutse eeliseks on, et ka mahukate andmete puhul ei tule kopeerimisest tingitud lisakulu. Väärtuskutse puhul pole jälle karta, et keegi alamprogrammis etteantud muutujate sisu soovimatult muudaks.
 
 Näide­:
 
-Kui meil on defineeritud kahe parameetriga protseduur _myproc_ ja ühe parameetriga funktsioon _myfunc_, siis on võimalik neid käivitada nii:
+Kui meil on defineeritud kahe parameetriga protseduur `myproc` ja ühe parameetriga funktsioon `myfunc`, siis on võimalik neid käivitada nii:
 
 ```java
 myproc (a, b);
-d = myfunc( e/f );
+d = myfunc( e / f );
 ```
 
-Esimeses neist lausetest täidetakse protseduur _myproc_, teises aga arvutatakse funktsiooni _myfunc_ väärtus ja salvestatakse see muutujasse d.
+Esimeses neist lausetest täidetakse protseduur `myproc`, teises aga arvutatakse funktsiooni `myfunc` väärtus ja salvestatakse see muutujasse d.
 
-Protseduure ja funktsioone nimetatakse sageli ka alamprogrammideks (ingl. k. routine). Programmi, millest pöördutakse alamprogrammide poole, mis aga ise alamprogramm ei ole, nimetatakse põhiprogrammiks (ingl. k. main program) või siis väljakutsuvaks alamprogrammiks (sest mõnes keeles nt Java ongi kõik koodilõigud alamprogrammid).
+Protseduure ja funktsioone nimetatakse sageli ka alamprogrammideks **_routine_**. Programmi, millest pöördutakse alamprogrammide poole, mis aga ise alamprogramm ei ole, nimetatakse põhiprogrammiks **_main program_** või siis väljakutsuvaks alamprogrammiks (sest mõnes keeles nt Java ongi kõik koodilõigud alamprogrammid).
 
 **Lisalugemist:** http://enos.itcollege.ee/~jpoial/java/i200loeng2.html
 
@@ -455,7 +475,7 @@ Objektorienteeritud disaini puhul jagatakse süsteem arusaadavateks ja hallatava
 
 **Lisalugemist:**
 
-[http://www.tud.ttu.ee/material/vladimir/PROGRAMMEERIMINE/Program_II_11/lisamat/Mikli_AB_konspekt/OODisain.pdf](http://www.tud.ttu.ee/material/vladimir/PROGRAMMEERIMINE/Program_II_11/lisamat/Mikli_AB_konspekt/OODisain.pdf)
+[http://www.tud.ttu.ee/../Mikli_AB_konspekt/OODisain.pdf](http://www.tud.ttu.ee/material/vladimir/PROGRAMMEERIMINE/Program_II_11/lisamat/Mikli_AB_konspekt/OODisain.pdf)
 
 ### B.3.4.2 Objektorienteeritud programmeermise põhimõtted
 
@@ -477,7 +497,7 @@ Kirjeldada mõisteid klass, objekt, eksemplar, meetod ja nende seost objektorien
 
 :::
 
-Klassis kirjeldatakse ära loodava üksuse omadused ja oskused. Objektid luuakse klassi kirjelduse põhjal. Üldjuhul on sama klassi eri objektidel (eksemplaridel) samad väljad (tunnused), kuid nende väärtused erinevad. Klassi oskused kirjeldatakse meetodites – ehk üldjuhul alamprogrammides. Eri keeltes sellele põhisuunale ka mõningaid täiendusi. Java ja C# puhul näiteks kirjeldatakse ühiseid oskusi ka liideste (Interface) abil. Javaskriptis luuakse uued samatüübilised objektid prototüüpobjekti põhjal.
+Klassid **_classes_** kirjeldatakse ära loodava üksuse omadused ja oskused. Objektid **_objects_** luuakse klassi kirjelduse põhjal. Üldjuhul on sama klassi eri objektidel (eksemplaridel) samad väljad (tunnused), kuid nende väärtused erinevad. Klassi oskused kirjeldatakse meetodites – ehk üldjuhul alamprogrammides. Eri keeltes sellele põhisuunale ka mõningaid täiendusi. Java ja C# puhul näiteks kirjeldatakse ühiseid oskusi ka liideste (Interface) abil. Javaskriptis luuakse uued samatüübilised objektid prototüüpobjekti põhjal.
 
 ### B.3.4.4 Päriluse ülesehitus ning selle tarvilikkus programmeerijale
 
@@ -487,7 +507,13 @@ Kirjeldada pärimise mõistet ja selle vajalikkust programmeerijale.
 
 :::
 
-Pärilus aitab programmeerijal vältida tarbetult korduva koodi kirjutamist. Nagu reaalmaailmas nii ka siin saab ühiste tunnustega seotud koodi ja andmed ühes kohas kogu vastava grupi jaoks kirja panna ning hiljem spetsialiseeritumal tasemel lisada täiendusi ja täpsustusi. Ilma selle võimaluseta oleks suuremate süsteemide kirjapanek palju mahukam ning veaohtlikum. Üksteisest pärinevad üldjuhul klassid ehk objektitüübid. Päriluse puhul luuakse ülemklassile (baasklass, super class) alanejaks alamklass (subclass). Lihtsamal juhul võib pärilus piirdudagi vaid alamklassi loomisega. Eraldi piirangute puudumisel on loodud klassil kõik samad oskused mis ülemklassilgi. Samas programmeerijal enesel on teada, mis kontekstis ta kummagi klassi eksemplari kasutab. Näiteks Punkti ja Vektori puhul mõlemal on tarvis meeles pidada kaht koordiaati. Punkti puhul tähendavad need absoluutset asukohta, vektori puhul aga nihet. Vektori puhul on tähtsaks omaduseks tema pikkus, punkti puhul paljalt koordinaatide märkimiseks pole selle valemiga kuigi palju peale hakata – seega saab vektori teha punkti alamklassiks ning ühes pärilusega sinna vastava pikkusfunktsiooni juurde liita. Pärilusahel võib mõnigikord päris pikaks kasvada – paljude sarnaste klasside puhul viis-kuus taset kus igal pool mõned omadused ja oskused juurde tulevad, see ei ole mingi ime.
+Pärilus **_inheritance_** aitab programmeerijal vältida tarbetult korduva koodi kirjutamist. Nagu reaalmaailmas nii ka siin saab ühiste tunnustega seotud koodi ja andmed ühes kohas kogu vastava grupi jaoks kirja panna ning hiljem spetsialiseeritumal tasemel lisada täiendusi ja täpsustusi. Ilma selle võimaluseta oleks suuremate süsteemide kirjapanek palju mahukam ning veaohtlikum. Üksteisest pärinevad üldjuhul klassid ehk objektitüübid.
+
+Päriluse puhul luuakse ülemklassile (baasklass, super class) alanejaks alamklass (subclass). Lihtsamal juhul võib pärilus piirdudagi vaid alamklassi loomisega. Eraldi piirangute puudumisel on loodud klassil kõik samad oskused mis ülemklassilgi.
+
+Samas programmeerijal enesel on teada, mis kontekstis ta kummagi klassi eksemplari kasutab. Näiteks Punkti ja Vektori puhul mõlemal on tarvis meeles pidada kaht koordiaati. Punkti puhul tähendavad need absoluutset asukohta, vektori puhul aga nihet. Vektori puhul on tähtsaks omaduseks tema pikkus, punkti puhul paljalt koordinaatide märkimiseks pole selle valemiga kuigi palju peale hakata – seega saab vektori teha punkti alamklassiks ning ühes pärilusega sinna vastava pikkusfunktsiooni juurde liita.
+
+Pärilusahel võib mõnigikord päris pikaks kasvada – paljude sarnaste klasside puhul viis-kuus taset kus igal pool mõned omadused ja oskused juurde tulevad, see ei ole mingi ime.
 
 ### B.3.4.5 Abstrahheerimine ja kapseldamine (teabe peitmine)
 
@@ -610,23 +636,23 @@ Tingimusteta hüpete abil on võimalik "hüpata" koodis ringi ja muuta nii kirju
 
 Tingimustega juhtlausete korral kasutatakse tingimuse realiseerimiseks kasutatakse võrdlusoperaatoreid:
 
-== võrdus, tulemus on tõene, kui võrreldavad väärtused on võrdsed
+`==` võrdus, tulemus on tõene, kui võrreldavad väärtused on võrdsed
 
-!= mittevõrdsus, tulemus on tõene, kui võrreldavad väärtused ei ole võrdsed
+`!=` mittevõrdsus, tulemus on tõene, kui võrreldavad väärtused ei ole võrdsed
 
-\&gt; suurem kui, tulemus on tõene kui operaatorist vasakul olev väärtus on suurem kui paremal olev väärtus
+`>` suurem kui, tulemus on tõene kui operaatorist vasakul olev väärtus on suurem kui paremal olev väärtus
 
-\&lt; väiksem kui, tulemus on tõene kui operaatorist vasakul olev väärtus on väiksem kui paremal olev väärtus
+`<` väiksem kui, tulemus on tõene kui operaatorist vasakul olev väärtus on väiksem kui paremal olev väärtus
 
-\&gt;= suurem või võrdne, tulemus on tõene kui operaatorist vasakul olev väärtus on suurem kui paremal olev väärtus ning ka siis, kui vastavad väärused on võrdsed
+`>=` suurem või võrdne, tulemus on tõene kui operaatorist vasakul olev väärtus on suurem kui paremal olev väärtus ning ka siis, kui vastavad väärused on võrdsed
 
-\&lt;= väiksem või võrdne, tulemus on tõene kui operaatorist vasakul olev väärtus on väiksem kui paremal olev väärtus ning ka siis, kui vastavad väärused on võrdsed
+`<=` väiksem või võrdne, tulemus on tõene kui operaatorist vasakul olev väärtus on väiksem kui paremal olev väärtus ning ka siis, kui vastavad väärused on võrdsed
 
 Tingimusi on võimalik omavahel kombineerida kasutades järgmisi loogikatehteid
 
-&amp;&amp; ja, tingimus on tõene kui mõlemad tingimused on tõesed
+`&&` tingimus on tõene kui mõlemad tingimused on tõesed
 
-|| või, tingimus on tõene, kui üks tingimustest on tõene
+`||` või, tingimus on tõene, kui üks tingimustest on tõene
 
 Nii võiks näiteks tingimuse
 
@@ -710,9 +736,9 @@ while(a < 10) {
 
 Kordust täidetakse kuni a on väiksem kümnest, kusjuures iga korduse täitmise jooksul liidetakse muutuja a väärtus muutuja b väärtusele juurde, järelikult `b=1+2+3+4+5+6+7+8+9+10=55`.
 
-3.5.2.3 Do while
+#### Do while
 
-_do-while_-kordus on järelkontrolliga kordus, kordus, see tähendab, et korduse jätkamiseks vajalikku tingimust kontrollitakse pärast korduse täitmist.
+`do while` kordus on järelkontrolliga kordus, kordus, see tähendab, et korduse jätkamiseks vajalikku tingimust kontrollitakse pärast korduse täitmist.
 
 ```c
 do
@@ -766,11 +792,11 @@ do  {
 while(a<10)
 ```
 
-Tulemuseks on, et a=11 ja b=11, sest korduse sees olevat tegevust tehti üks kord, tingimust kontrolliti alles pärast seda.
+Tulemuseks on, et `a=11` ja `b=11`, sest korduse sees olevat tegevust tehti üks kord, tingimust kontrolliti alles pärast seda.
 
-3.5.2.3 For
+#### For
 
-for-kordus on aga eelkontrolliga ning määratud pikkusega kordus.
+`for`-kordus on aga eelkontrolliga ning määratud pikkusega kordus.
 
 ```c
 for(muutuja, tingimus, muutuja muutmise kord) {
@@ -778,7 +804,7 @@ for(muutuja, tingimus, muutuja muutmise kord) {
 }
 ```
 
-for-kordus erineb eelpool käsitletud kordustest eelkõige selle poolest, et korduse jätkamise tingimusega seotud muutuja väärtuse muutmine kirjeldatakse korduse sees.
+`for`-kordus erineb eelpool käsitletud kordustest eelkõige selle poolest, et korduse jätkamise tingimusega seotud muutuja väärtuse muutmine kirjeldatakse korduse sees.
 
 Näiteks:
 
@@ -792,7 +818,7 @@ for(int a=0; i<10; i++) {
 }
 ```
 
-Tulemus on sarnane do kordusele, muutuja a väärtus pannakse alguses võrduma nulliga, seejärel kontrollitakse korduse täitmise tingimust ja kui see on tõene, siis liidetakse muutujale b muutuja a väärtus, seejärel muudetakse muutuja a väärtust vastavalt etteantud reeglile (antud juhul a++, ehk suurendatakse a väärtust ühe võrra), kontrollitakse jätkamise tingimust, ning kui see on tõene, siis tehakse uuesti korduse sees olev tegevus jne. Tulemuseks on, et a=10 ja b=0+1+2+3+4+5+6+7+8+9=45.
+Tulemus on sarnane do kordusele, muutuja a väärtus pannakse alguses võrduma nulliga, seejärel kontrollitakse korduse täitmise tingimust ja kui see on tõene, siis liidetakse muutujale b muutuja a väärtus, seejärel muudetakse muutuja a väärtust vastavalt etteantud reeglile (antud juhul a++, ehk suurendatakse a väärtust ühe võrra), kontrollitakse jätkamise tingimust, ning kui see on tõene, siis tehakse uuesti korduse sees olev tegevus jne. Tulemuseks on, et `a=10` ja `b=0+1+2+3+4+5+6+7+8+9=45`.
 
 ### B.3.5.3 Aritmeetika- ja loogikatehted
 
@@ -806,31 +832,51 @@ Peamiselt läheb meil vaja viit aritmeetikatehet:
 
 #### Liitmine
 
-kasutatakse märki "+"; ja liidab kokku kaks väärtust, näiteks c=a+b liidab muutujate a ja b väärtused ja paneb muutuja c väärtuse võrduma tehte tulemusega (c=3+2, järelikult c=5).
+kasutatakse märki `+`; ja liidab kokku kaks väärtust, näiteks `c = a+ b liidab muutujate a ja b väärtused ja paneb muutuja c väärtuse võrduma tehte tulemusega
+
+```c
+c = 3 + 2 // järelikult c = 5
+```
 
 #### Lahutamine
 
-kasutatakse märki "-"; ja lahutab esimesest väärtusest teise , näiteks c=a-b lahutab muutuja a väärtusest muutuja b väärtuse ja paneb muutuja c väärtuse võrduma tehte tulemusega(c=3-2, järelikult c=1).
+kasutatakse märki "-"; ja lahutab esimesest väärtusest teise , näiteks c=a-b lahutab muutuja a väärtusest muutuja b väärtuse ja paneb muutuja c väärtuse võrduma tehte tulemusega
+
+```c
+c = 3 - 2 // järelikult c = 1
+```
 
 #### Korrutamine
 
-kasutatakse märki "\*"; ja korrutab kaks väärtust, näiteks c=a\*b korrutab muutujate a ja b väärtused ja paneb muutuja c väärtuse võrduma tehte tulemusega(c=3\*2, järelikult c=6).
+kasutatakse märki `*`; ja korrutab kaks väärtust, näiteks `c = a * b` korrutab muutujate a ja b väärtused ja paneb muutuja c väärtuse võrduma tehte tulemusega
+
+```c
+c = 3 * 2 // järelikult c = 6
+```
 
 #### Jagamine
 
-kasutatakse märki "/"; ja jagab ühe väärtuse teisega, näiteks c=a/b jagab muutuja a väärtuse muutuja b väärtusega ja paneb muutuja c väärtuse võrduma tehte tulemusega (c=3/2, järelikult c=1,5 või c=1, oleneb keelest ja andmetüüpidest).
+kasutatakse märki `/`; ja jagab ühe väärtuse teisega, näiteks `c = a / b` jagab muutuja a väärtuse muutuja b väärtusega ja paneb muutuja c väärtuse võrduma tehte tulemusega
+
+```c
+c = 3 / 2 // järelikult c=1,5 või c=1, oleneb keelest ja andmetüüpidest).
+```
 
 #### Jagamise jääk
 
-kasutatakse märki "%"; ja jagab ühe väärtuse teisega, näiteks c=a%b jagab muutuja a väärtuse muutuja b väärtusega ja paneb muutuja c väärtuse võrduma jagamise jäägiga. (c=5%3 järelikult c=2).
+kasutatakse märki "%"; ja jagab ühe väärtuse teisega, näiteks c=a%b jagab muutuja a väärtuse muutuja b väärtusega ja paneb muutuja c väärtuse võrduma jagamise jäägiga.
 
-EPL keeles ei ole tõeväärtus tüüpi muutujat, seetõttu on loogikatehteid ainult juhtlausetes. Keeltes, kus on tõeväärus tüüpi muutujad on võimalik kasutada ja loogikatehteid, näiteks c= a &amp;&amp; b, c=true kui a ja b on võrdsed ja c=false kui a ja b ei ole võrdsed. Loogikatehetest tuleb pikemalt juttu juhtlausete käsitlemisel.
+```c
+c = 5 % 3 // järelikult c = 2
+```
 
-Tehete järjekord on osades programmeerimiskeeltes erinev ja osades samataoline: osad keeled teevad kõigepealt korrutamis- ja jagamistehted ning seejärel liitmis- ja lahutamistehted. Tehteid täidetakse vasakult paremale. Tehete järjekorda on võimalik määrata sulgudega (sulgude sees olevad tehted tehakse kõigepealt). Näiteks c=a+a\*b on erinev tehtest c=(a+a)\*b.
+EPL keeles ei ole tõeväärtus tüüpi muutujat, seetõttu on loogikatehteid ainult juhtlausetes. Keeltes, kus on tõeväärus tüüpi muutujad on võimalik kasutada ja loogikatehteid, näiteks `c = a & b`, `c = true` kui a ja b on võrdsed ja `c = false` kui a ja b ei ole võrdsed. Loogikatehetest tuleb pikemalt juttu juhtlausete käsitlemisel.
+
+Tehete järjekord on osades programmeerimiskeeltes erinev ja osades samataoline: osad keeled teevad kõigepealt korrutamis- ja jagamistehted ning seejärel liitmis- ja lahutamistehted. Tehteid täidetakse vasakult paremale. Tehete järjekorda on võimalik määrata sulgudega (sulgude sees olevad tehted tehakse kõigepealt). Näiteks `c= a + a * b` on erinev tehtest `c = (a + a) * b`.
 
 Erinevad programmeerimiskeeled lubavad erinevate aritmeetikaoperaatorite kasutamist:
 
-Näiteks c += a liidab muutuja c väätusele juurde muutuja a väärtuse (ehk c = a + c), a++ on muutuja iteratsioon ehk väärtuse suurendamine ühe võrra (ehk a=a+1) jne.
+Näiteks `c += a` liidab muutuja c väätusele juurde muutuja a väärtuse (ehk `c = a + c`), a++ on muutuja iteratsioon ehk väärtuse suurendamine ühe võrra (ehk `a = a + 1` jne.
 
 ### B.3.5 Kordamisküsimused
 
