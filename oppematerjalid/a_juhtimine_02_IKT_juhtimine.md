@@ -1,4 +1,4 @@
-# A2 IKT juhtimine
+# A.2 IKT juhtimine
 
 ## Selle teema materjale läbi töötades saad teadmised:
 
@@ -10,9 +10,15 @@
 
 ## 2.1 IT strateegia
 
-Selle teema materjale läbi töötades sõpid tundma IT strateegia põhimõtteid.
+Selle teema materjale läbi töötades õpid tundma IT strateegia põhimõtteid.
 
 ### 2.1.1 IT strateegia põhimõtted
+
+::: warning Õppekava
+
+Tuua välja IKT strateegia vajalikkus ja selle eesmärk.
+
+:::
 
 Firma jätkusuutlikus on paljuski määratud mõistliku tulevikuvisiooniga. Sisuliselt peab firma ette nägema oma arengu aastate taha ja selle realiseerimiseks on kasulik välja töötada strateegiline plaan. Strateegia peab tagama, et firma tegeleks õigete asjadega. Pikaajaliste eesmärkide realiseerimiseks peab aga tegema palju lühikesi samme, e. firmal tuleb koostada ka taktikalised plaanid, mis tagavad seda, et õigeid asju tehakse ka õigel viisil.
 
@@ -26,11 +32,11 @@ IT valdkonna juhtimine on tänu oma kõikehõlmavale iseloomuline äärmiselt ke
 
 Hinnates ülaltoodud IT strateegia kujundamise erinevad valdkondi tuleks esile tuua erilist tähelepanu nõudvad alad:
 
-1. a)üldise informatsiooni kogumise, töötlemise ja jaotamise süsteemi väljatöötamine
-2. b)tagada äriorganisatsiooni struktuuri loogiline ühilduvus infosüsteemiga
-3. c)tagada tootmis-, müügi-, finants-, jne. süsteemide omavaheline koostöö strateegilise planeerimise käigus
-4. d)kooskõlastada omavahel investeerimis- ja juhtimisplaanid, hoida kulutused lubatud piires
-5. e)uute tehnoloogiliste IT lahenduste väljatöötamisega pakkuda võimalusi parimate majandusnäitajate saavutamiseks (ROI, ROE, IIR jne.).
+1. üldise informatsiooni kogumise, töötlemise ja jaotamise süsteemi väljatöötamine
+2. tagada äriorganisatsiooni struktuuri loogiline ühilduvus infosüsteemiga
+3. tagada tootmis-, müügi-, finants-, jne. süsteemide omavaheline koostöö strateegilise planeerimise käigus
+4. kooskõlastada omavahel investeerimis- ja juhtimisplaanid, hoida kulutused lubatud piires
+5. uute tehnoloogiliste IT lahenduste väljatöötamisega pakkuda võimalusi parimate majandusnäitajate saavutamiseks (ROI, ROE, IIR jne.).
 
 IT lahenduste kavandamine kõikides mainitud valdkondades võimaldab saavutada konkurentsieeliseid kõrgema tootlikkuse, efektiivsuse ja juhtimise kvaliteedi tõusu arvelt. Lisaks sellele võib firma maandada olulisi äririske ja parandada kvaliteedijuhtimist. Kõik see kokku võib olla otsustava tähtsusega firma püsimajäämisel majanduslanguste ja firma jaoks ebasoodsatel majandusperioodidel. Seega, firma juhtimise seisukohalt peaks tasemel infosüsteem kindlasti sisaldama kahte omavahel seotud osa. Esimene nendest arvestaks firma võimalusi ja kujutaks strateegilise planeerimise ülesannet ja teine tagaks sobiliku juhtimise strateegia kasutamise.
 
@@ -76,7 +82,7 @@ Joonis 2-2. Informatsiooni liikumine eri tasandite lõikes ja selle mahu vähene
 
 Joonisel 2-2 on iseloomustatud operatiivinfo paneeli toimimise printsiipe. Näeme, missugune info liigub ja muutub üldisemaks (koondub) erinevate otsustamistasandite lõikes. Nagu näha võimaldab toodud mudel juhtimise ja kontrolli funktsiooni realiseerimist firma kõikidel tasanditel.
 
-Konkreetsete rakenduste paneel sisaldab vahendeid firma üldise struktuuri ja infosüsteemide struktuuri „läbikasvamiseks&quot; e. ühiseks kasutamiseks. Samas võib puutepunkte nende kahe süsteemi vahel eksiteerida ka osaliselt. Firma IT süsteemi lõplik versioon peaks varustama kõiki tasandeid kõikvõimaliku informatsiooniga firma üldiste eesmärkide (missiooni) saavutamiseks.
+Konkreetsete rakenduste paneel sisaldab vahendeid firma üldise struktuuri ja infosüsteemide struktuuri "läbikasvamiseks" e. ühiseks kasutamiseks. Samas võib puutepunkte nende kahe süsteemi vahel eksiteerida ka osaliselt. Firma IT süsteemi lõplik versioon peaks varustama kõiki tasandeid kõikvõimaliku informatsiooniga firma üldiste eesmärkide (missiooni) saavutamiseks.
 
 Järelikult, äriinfosüsteem peab olema suuteline hankima, töötlema ja kättesaadavaks tegema vajaliku informatsiooni seotuna konkreetse tootmisvaldkonnaga. Antud juhul oleks tegemist ettevõttesisese infoga.
 
@@ -101,7 +107,29 @@ Kõikehõlmavat edu valemit ei ole olemas, kuid firma edukus aitab kaasa alltood
 
 Ülaltoodud põhimõtted aitavad kvaliteetsemalt koostada firma äriinfosüsteemi plaani, moderniseerida äriinfosüsteemi ennast.
 
-### 2.1.2 Kordamisküsimused
+::: danger Probleem
+
+Puuduvad järgmised õppekava alampunktid
+
+**A.2.1.2**
+
+Kirjeldada infotehnoloogia strateegia ja äristrateegia ühildamise tähtsus.
+
+**A.2.1.3**
+
+Kirjeldada kuidas IKT kasutamine võib toetada ärivaldkonda, kui seostada IKTs infosüsteemid vastavate äriprotsessidega, mida need teenindavad.
+
+**A.2.1.4**
+
+Kirjeldada IKT kasutamist organisatsiooni paindlikumaks toimimiseks, sealhulgas IT kui teenuste ekspordi võimaldaja (offshoring), tarkvara kui teenuse kasutamist (Software as a Service (SaaS)), tegevusvaldkonnapõhiseid IT kasutamissuundi.
+
+**A.2.1.5**
+
+Kirjeldada IKT personali rolli ärivaldkonna, sealhulgas ITjuhi (CIO), turvajuhi (CSO), teabejuhi (Chief Knowledge Officer CKO) töö toetamisel.
+
+:::
+
+### 2.1 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -134,11 +162,19 @@ Kõikehõlmavat edu valemit ei ole olemas, kuid firma edukus aitab kaasa alltood
 
 :::
 
-## 2.2 Erinevate organisatsiooniliste struktuuride IT alased vajadused
+## 2.2 IKT vajadused erinevates organisatsioonides
+
+ehk "Erinevate organisatsiooniliste struktuuride IT alased vajadused"
 
 Selle alateema materjale läbi töötades õpid tundma organisatsiooniliste struktuuride IT alaseid vajadusi.
 
 ### 2.2.1 Organisatsiooniliste struktuuride IT alased vajadused
+
+::: warning Õppekava
+
+Kirjeldada info edastamise meetodeid - näiteks hierarhiline, hajutatud ja sellest tingitud nõudeid organisatsioonile.
+
+:::
 
 Organisatsioonid võivad olla oma eesmärkidelt ja ülesehituselt küllaltki erinevad, kuid nagu eelmises osas mainitud on neil terve rida ühiseid jooni, mis võimaldab neid ühiste tunnuste alusel ka klassifitseerida.
 
@@ -178,7 +214,25 @@ Seega oleks firma huvides säilitada tolerantsus töötajate tööharjumuste ja 
 
 Kokkuvõtteks võiks märkida, et firma töötajate hoiak ja firma organisatsioonilisele struktuur oleksid nagu eri poolused. Võib öelda, et firmade range ülesehitus eeldab teatud korrapärasust ja see võib tunduda töötajatele nende vabadusastmete piiramisena. Samas võib töötajate tegutsemine vabamas õhkkonnas olla küllaltki oluliseks faktoriks kui soovitakse tehnoloogia efektiivse ärakasutamise tulemusena saavutada parimaid tulemusi.
 
-### 2.2.2 Kordamisküsimused
+::: danger Probleem
+
+Puuduvad järgmised õppekava alampunktid
+
+**A.2.2.2**
+
+Loetleda stsenaariume, mis toovad esile vastavuse organisatsiooni vajaduste ja IKT vahel.
+
+**A.2.2.3**
+
+Tuua välja ärikriitilised IKT teenused ja vastavad süsteemikonponendid.
+
+**A.2.2.4**
+
+Selgitada isikliku teabehalduri (PIM) mõistet ja eeliseid info hankimiseks, salvestamiseks, kättesaamiseks ja kasutamiseks.
+
+:::
+
+### 2.2 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -192,11 +246,19 @@ Kokkuvõtteks võiks märkida, et firma töötajate hoiak ja firma organisatsioo
 
 :::
 
-## 2.3 Tüüpilised IT ülesanded ja tehnoloogilised lahendused
+## 2.3 IKT lahenduste kaardistamine
+
+ehk "Tüüpilised IT ülesanded ja tehnoloogilised lahendused"
 
 Selle alateema materjale läbi töötades saad teadmised tüüpilistest IT ülesannetest ja tehnoloogilistest lahendustest.
 
 ### 2.3.1 Tüüpilised IT ülesanded ja tehnoloogilised lahendused
+
+::: warning Õppekava
+
+Tuua välja transaktsioonide töötlemise süsteemide, protsessijuhtimissüsteemide, planeerimissüsteemide, automatiseermissüsteemide ja otsuste toetamise süsteemide põhiomadused.
+
+:::
 
 Strateegiliste eesmärkide realiseerimiseks peaks paljudest alamsüsteemidest koosnev äriinfo süsteem olema kasutatav erinevate vastutusastmega äritegevuse tasanditel. Reeglina võimaldabki IT süsteemide ülesanded ja tehnoloogiliste lahenduste kooskõla anda reaalsuses parimaid tulemusi.
 
@@ -210,7 +272,7 @@ Tootmistasandil vajavad firmad infosüsteeme, mis jälgiks põhiparameetreid too
 
 Informatsiooni loomise tasandil jälgitakse vahetult kauba või teenuse tootmist, kauba või teenuse liikumist firmade vahel või nende jõudmist tarbijani. Tegevusvaldkondi võib olla väga palju alates konkreetse toote valmistamisest ja lõpetades kaubandusega.
 
-Kui üritada neid tegevusvaldkondi mingil moel süstematiseerida ja leida neile andmebaasi mõttes „ühine nimetaja&quot;, siis võiks lähtuda alljärgnevast klassifikatsioonist:
+Kui üritada neid tegevusvaldkondi mingil moel süstematiseerida ja leida neile andmebaasi mõttes "ühine nimetaja", siis võiks lähtuda alljärgnevast klassifikatsioonist:
 
 - juhtimisinfosüsteemid
 - kontorirakendused
@@ -227,7 +289,7 @@ Läheinfot valmistatakse firma enda IT süsteemi abil ette nii juhtimistasandi j
 
 Teadmusjuhtimissüsteem tagab ettvõtte majandustegevuse analüüsi, lihtsustab prognooside koostamist, kindlustab infovahetuse tarbijate ja arendusüksuste vahel ja annab tagasisidet firmale oluliste küsimuste osas. Teadmusjuhtimissüsteem annab töötajatele infot üldistatud ja tihtipeale ka kommenteeritud kujul ning võimaldab kõikidel võtmeisikutel kõikide ettevõtte jaoks oluliste probleemide ja lahendustega kursis olla.
 
-Analüüsi- ja planeerimissüsteem on suunatud firma juhtkonna vajaduste rahuldamisele ja reeglina sisaldab erinevaid aruandeid, mis võimalik võiks olla reaalajas. Aruanded ja analüüsid võiksid lähtuda klassikalistest majandusanalüüsi tõekspidamistest, seega peaks kasutama nii vertikaal- kui horisontaalanalüüsi (aegread), samuti ka mõnevõrra keerulisemat kompleksanalüüsi (näit. Du Pont analüüs) (http://en.wikipedia.org/wiki/Du\_Pont\_analysis).
+Analüüsi- ja planeerimissüsteem on suunatud firma juhtkonna vajaduste rahuldamisele ja reeglina sisaldab erinevaid aruandeid, mis võimalik võiks olla reaalajas. Aruanded ja analüüsid võiksid lähtuda klassikalistest majandusanalüüsi tõekspidamistest, seega peaks kasutama nii vertikaal- kui horisontaalanalüüsi (aegread), samuti ka mõnevõrra keerulisemat kompleksanalüüsi (näit. Du Pont analüüs) (http://en.wikipedia.org/wiki/Du_Pont_analysis).
 
 Tegelikkuses vajavad sellist informatsiooni kõige rohkem keskastme juhid, kes üldjuhul kõik plaaniülesannete esialgsed variandid ka koostavad. Lisaks sellele peaks süsteem võimaldama erinevate varustus-turustusplaanide koostamist, reeglina materjalide vajaduse arvutamise tarkvara väga suure paindlikkusega ei hiilga.
 
@@ -238,6 +300,14 @@ Hea infosüsteem peaks sobima kõikidele juhtimis- ja majandustegevuste tasandit
 Infosüsteemi infrastruktuur tagab infosüsteemide kasutajate, pakutavate teenuste ja kõikvõimalike infotehnoloogiliste ressursside sidususe. Infosüsteemi kasutajad on firma töötajad, kellel on ligipääs andmebaasile ja kes kasutavad infosüsteemi poolt pakutavaid teenuseid oma igapäevases töös. Kasutajad on süsteemis kasutajakontode kaudu kirjeldatud ja nende ligipääs infole on mõnikord valikuline. Teenused on infosüsteemi poolt pakutav funktsionaalsus ning üldjuhul oleks selleks andmebaasid, printimine, failijagamine, kommunikatsioon jne.. Ressursiks on tark- ja riistvara (arvutid, printerid, modemid, rakendustarkvara, opsüsteemid, utiliidid jne.).
 
 Firmadele vajalikku informatsiooni säilitatakse andmebaasides struktureeritud kujul. Enamlevinud infosüsteemid oleksid raamatupidamistarkvara või finantsinfosüsteem koos oma andmebaasiga. Kõrgkoolides on erilisel kohal õppeinfosüsteem (ÕIS). Firmades, sõltuvalt nende tegevusvaldkonnast, võib olla väga erinevaid andmebaasiprogramme erinevate registrite pidamiseks ja firma põhitegevuse kajastamiseks. Väga tuntud on internetipangandusega seonduvad infosüsteemid, linna bussiliikluse graafikuid kajastavad infosüsteemid, kõikvõimalikud toodangu arvestusega seonduv tarkvara jne..
+
+### A.2.3.2 Andmebaasid ja andmeaidad
+
+::: warning Õppekava
+
+Kirjeldada andmebaaside olulisust transaktsioonide salvestamiseks, andmeaitadena ja ärianalüüsi vahendina.
+
+:::
 
 Firmas olevat suuremahulist informatsiooni võib säilitada eraldiseisvates osades e. mingite oluliste tunnuste alusel moodustatud andmeaitades. Selle on teinud võimalikuks infosüsteemide ja andmebaasisüsteemide eraldatus teineteisest. Sellesuunalise tõuke on andnud ka juhtimistegevuseks vajaliku info mahu kasv, mis on oluliselt ületanud tavalise igapäevase tegevuse mahu.
 
@@ -254,7 +324,7 @@ Andmebaasi loomise protsessi ennast võib jaotada etappideks:
 
 Pärast andmebaasi loomist on võimalik andmeid kasutada. Loomulikult tekib väga palju võimalusi ka selle info töötlemiseks firma majandustegevuse analüüsil, prognooside koostamisel jne. sest andmebaasi kasutusvaldkondi on lõputult.
 
-### 2.3.2 Kordamisküsimused
+### 2.3 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -272,11 +342,19 @@ Pärast andmebaasi loomist on võimalik andmeid kasutada. Loomulikult tekib väg
 
 :::
 
-## 2.4. IT süsteemide soetamise võimalused
+## 2.4. Süsteemiarendus vastandina süsteemi sisseostmisele või teenusepakkuja kasutamisele
+
+ehk "IT süsteemide soetamise võimalused"
 
 Selle alateema materjale läbi töötades õpid tundma IT süsteemide soetamise põhimõtteid.
 
 ### 2.4.1 IT süsteemide soetamise võimalustest
+
+::: warning Õppekava
+
+Tuua välja inimlike, tehniliste ja rahaliste aspektide roll süsteemiarenduses.
+
+:::
 
 Organisatsioonil on tihtipeale keeruline langetada selliseid strateegilisi otsuseid nagu kuidas organiseerida tarkvara komponentide või rakenduste haldust. Valikud on palju alates eritellimuse peale väljatöötatud ja ainult konkreetsele firmale sobivast lahendusest ning lõpetades teenuse sisseostmisega (outsourcing). Lisaks nendele võimalustele võib ju ka mingi tüüplahenduse, millesse on sisse viidud mõningad parandused ja muudatused. Lahendusi on loomulikult võimalik osta erinevatelt pakkujatelt ning koostada integreeritud tarkvaralahendus, mis mingite firma jaoks oluliste kriteeriumide järgi oleks optimaalne.
 
@@ -290,7 +368,7 @@ Nagu igasuguse strateegilise otsustuse juures, tuleks selgitada:
 - kuhu välja tahetakse jõuda (funktsionaalsed rakendused)
 - millised on organisatsioonilised, rahalised võimalused (majanduslik aspekt).
 
-Järelikult selleks, et üldse asuda infosüsteemi projekteerima tuleb omada ülevaadet organisatsiooni struktuurist, kuidas see toimib ja millised on ametikohtade ülesanded. Seejärel tuleks selgitada, kuidas informatsioon liigub ja kas selles valdkonnas on tekkinud probleeme. Alles seejärel tuleks mõelda lahendusvariantidele. Lahendused võivad olla firma enda poolt välja töötatud või siis tellitud lähtudes siis põhimõtetest, leida sobiv „hinna ja kvaliteedi&quot; vahekord. Ülesande püstitusega (kus ollakse ja kuhu tahetakse jõuda) võib firma ka ise oma jõududega hakkama saada, kuid kui on tegemist piisavalt suure firmaga siis võib osutuda mõistlikumaks kasutada spetsiaalse firma abi. Selliste projektide koostamine allub ikkagi teatud seaduspärasustele ja nõuab professionaalseid teadmisi.
+Järelikult selleks, et üldse asuda infosüsteemi projekteerima tuleb omada ülevaadet organisatsiooni struktuurist, kuidas see toimib ja millised on ametikohtade ülesanded. Seejärel tuleks selgitada, kuidas informatsioon liigub ja kas selles valdkonnas on tekkinud probleeme. Alles seejärel tuleks mõelda lahendusvariantidele. Lahendused võivad olla firma enda poolt välja töötatud või siis tellitud lähtudes siis põhimõtetest, leida sobiv "hinna ja kvaliteedi" vahekord. Ülesande püstitusega (kus ollakse ja kuhu tahetakse jõuda) võib firma ka ise oma jõududega hakkama saada, kuid kui on tegemist piisavalt suure firmaga siis võib osutuda mõistlikumaks kasutada spetsiaalse firma abi. Selliste projektide koostamine allub ikkagi teatud seaduspärasustele ja nõuab professionaalseid teadmisi.
 
 Kui firma tegevus on korrektselt kirja pandud, siis peaks see selgelt peegeldama ka firma erilisi vajadusi ja pakkuma suuremaid integreerimise võimalusi teiste äriinfo süsteemidega. Võimalikest kuludest rääkides ei tohiks piirduda sisseostu või arenduskuludega, vaid tuleks lisada ka prognoosid hooldus- ja modifitseerimiskulude osas. Need kulud võiks põhimõtteliselt lisada ka omaniku kogukulude hulka, mida täpsemalt vaadeldakse juba järgmises osas.
 
@@ -335,7 +413,29 @@ Järgnevas tabelis toome lühivõrdluse kulude osas oma spetsialisti poolt arend
 | Juhtimine                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                      |
 | Probleemideks on IT spetsialisti värbamine ja valik, motiveerimine, arendamine, juhtimine, täiendkoolitamine jne.                                                                                                                                                                                                                           | Kõik vastavad probleemid on IT firma probleemid                                                                                                                                                                                                                                                                                                                      |
 
-### 2.4.2 Kordamisküsimused
+::: danger Probleem
+
+Puuduvad järgmised õppekava alampunktid
+
+**A.2.4.2**
+
+Tuua tüüpnäiteid IKT hangetest või välise teenusepakkuja kasutamisest.
+
+**A.2.4.3**
+
+Loetleda äri eisukohalt kõige olulisemad põhjused välise teenusepakkuja kasutamiseks.
+
+**A.2.4.4**
+
+Loetleda süsteemiarenduse vastandina teenusepakkuja kasutamisele eelised ja puudused.
+
+**A.2.4.5**
+
+Tuua välja süsteemi arendamise või sisseostmise otsustamist mõjutavad tegurid.
+
+:::
+
+### 2.4. Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -354,6 +454,12 @@ Järgnevas tabelis toome lühivõrdluse kulude osas oma spetsialisti poolt arend
 Selle alateema materjale läbi töötades õpid tundma personali valiku põhimõtteid.
 
 ## 2.5.1 Personali valimine
+
+::: warning Õppekava
+
+Kirjeldada IS arenduses ja halduses süsteemianalüütiku, ärianalüütiku, tarkvaraarendaja, võrguadministraatori, andmebaasi administraatori rolle.
+
+:::
 
 IT kasulikkuse ettevõtte jaoks määravad lõppkokkuvõttes just inimesed, sest nemad loovad, haldavad ja kasutavad kõiki IT rakendusi.
 
@@ -393,17 +499,17 @@ Firmades, kus IT omab strateegilist tähtsust juhib reeglina infosüsteemide ala
 
 IT valdkond koosneb erinevatest juhtidest ja spetsialistidest, kelle jaotamist on laialt uuritud.
 
-Spetsialiste võiks jaotada sel juhul alljärgnevalt (http://www.eits.ee/index.php?section=ws\_eits\_est&amp;ws\_id=14):
+Spetsialiste võiks jaotada sel juhul alljärgnevalt (http://www.eits.ee/index.php?section=ws_eits_est&ws_id=14):
 
 - **IT juhid.** Spetsialistid, kellel on juhtimisalased oskused ja kes organiseerib ja hoiab silma peal kogu infosüsteemi büroo tegevusel. Siia alla võib tinglikult paigutada ka projektijuhid.
 - **Programmeerijad. ** Tegemist on spetsialistidega, kes valdab programmeerimiskeeli ja tehnikaid. Nemad kirjutavad ka tarkvara kasutusjuhendeid ja osalevad infosüsteemide tarkvara arendamisel ja hooldamisel.
 - **Süsteemianalüütikud.** Tegemist on spetsialistidega suudavad ärijuhtimises ja infosüsteemide kasutajatel tekkivaid probleeme ja vajadusi formaliseerida ja kirjeldada infosüsteemi nõuete kohaselt, nii et programmeerijad saaksid viia vajalikud arendused või muudatused infosüsteemi.
-- **Tarkvara testijad. ** Spetsialistid, kes tegelevad tarkvara vigade, võimalike turvaaukude jne. otsimisega. \*\* \*\*
+- **Tarkvara testijad. ** Spetsialistid, kes tegelevad tarkvara vigade, võimalike turvaaukude jne. otsimisega.
 - **Administraatorid.** Tegemist on tehnikutega, kes plaanivad, teostavad ja hooldavad firma andmebaasi, rakendusi, võrke.
-- **Help desk&#39;i** **spetsialistid.** Spetsialistid, kes vahendavad infot ja võimalusel annavad hädalistele IT alast abi.
-- **Tehnosuhtlejad.** Uus spetsialistide grupp, kes vahendavad infotehnoloogia spetsialiste ja ärijuhte. Näiteks reklaamis „šeeri kama&quot; vanaisa ja lapselapse dialoogi lahtiseletaja.
+- **Helpdeski spetsialistid.** Spetsialistid, kes vahendavad infot ja võimalusel annavad hädalistele IT alast abi.
+- **Tehnosuhtlejad.** Uus spetsialistide grupp, kes vahendavad infotehnoloogia spetsialiste ja ärijuhte. Näiteks reklaamis "šeeri kama" vanaisa ja lapselapse dialoogi lahtiseletaja.
 
-„Hallidel muinasaegadel&quot;, kui selleks pidada aastaid enne 1990-daid, jaotati arvutitega töötajaid projekteerijateks, programmeerijateks, arvutiinsenerideks ja arvutioperaatoriteks. Projekteerijad töötasid tihtipeale omaette asutustes ja koostasid lähteülesandeid programmeerijatele. Arvutiinsener tegeles valdavalt riistvaraga, mille käigushoidmine oli küllaltki töömahukas protsess.
+"Hallidel muinasaegadel", kui selleks pidada aastaid enne 1990-daid, jaotati arvutitega töötajaid projekteerijateks, programmeerijateks, arvutiinsenerideks ja arvutioperaatoriteks. Projekteerijad töötasid tihtipeale omaette asutustes ja koostasid lähteülesandeid programmeerijatele. Arvutiinsener tegeles valdavalt riistvaraga, mille käigushoidmine oli küllaltki töömahukas protsess.
 
 Ajapikku hakkas toimuma spetsialiseerumine, mille tulemusena hakkasid eristuma otseselt arvutiga tegelevad ja administreerimisega tegelevad spetsialistid. Samal ajal kasvas IT valdkonnas pidevalt vajadus kõrge kvalifikatsiooniga erialaspetsialistide järele. Tänu selliste spetsialistide tekkimisele saigi võimalikuks firmade terviklike strateegiate loomine ja infovajaduse kindlaks tegemine, mille alusel hakatigi looma infosüsteeme. Sel perioodil eraldusid ka projektijuhid, kelle ülesanne oli programmeerijatele ette valmistada projektid, mille põhjal oli võimalik pakkuda reaalseid, omavahel haakuvaid lahendusi infosüsteemidele.
 
@@ -420,6 +526,24 @@ Lõpptarbijate hulk erinevates ettevõtetes võib kõikuda väga suurtes piiride
 Reeglina vajavad tippjuhid suurema üldistusastmega infomatsiooni, kuna nende töökoormus üksikasjadesse ei võimalda süveneda. Seetõttu on oluline, et tippjuhid omaksid selget ettekujutust loodava infosüsteemi võimalustest ja esitaksid ka oma infovajadused. Peab märkima, et tippjuhi roll infosüsteemide loomisel on ülioluline, kuna just tema peab tagama ka võimalike tagasilöökide ja/või häirete operatiivse kõrvaldamise infosüsteemi väljatöötamise käigus.
 
 Infosüsteem, nagu igasugune tehnoloogia, on pidevas arengus, sest meie teadmised ümbritsevast keskkonnast pidevalt suurenevad. Lõputu arendustegevus nõuab ka lõpptarbija oskuste kasvu. Selleks, et infosüsteemi kasutegur oleks võimalikult kõrge peavad lõpptarbijad hästi tundma kõiki süsteemi võimalusi. Siit ka vajadus pidevale koolitusele ja täiendõppele. Eriti suurt tähelepanu tuleb pöörata uutele kasutajatele, kes ei puugi tunda ka elementaarseid põhitõdesid. Põhitõdede mitteteadmine ei võimalda aga süsteemi täies mahus kasutada ning uutel lõpptarbijatel võib tekkida hirm või vastumeelsus infosüsteemi enda vastu, mis ettevõtte seisukohalt on äärmiselt ebasoovitav ilming.
+
+::: danger Probleem
+
+Puuduvad järgmised õppekava alampunktid
+
+**A.2.5.2**
+
+Määratleda lõppkasutajapõhise arenduse (end-user computing) mõiste ja tuua välja lõppkasutaja ja IT personali rollid ja vastutus.
+
+**A.2.5.3**
+
+Tuua välja eelised ja puudused personalile teenusepakkujalt süsteemiarenduse hankimise korral.
+
+**A.2.5.4**
+
+Selgitada kvalifitseeritud personali hoidmisega seotud küsimusi, näiteks personalipoliitika, töö liikuvus, töökeskkond, töötasustamine, arenguvõimalused, karjääriplaneerimine.
+
+:::
 
 ### 2.5.2 Kordamisküsimused
 
@@ -454,12 +578,17 @@ Selle alateema materjale läbi töötades õpid tundma kvaliteedijuhtimise põhi
 
 ### 2.6.1 Kvaliteedijuhtimine organisatsioonis
 
+::: warning Õppekava
+
+Kirjeldada mõningaid kvaliteedinäitajaid infosüsteemide kvaliteedi hindamisel.
+
+:::
+
 Organisatsiooni kvaliteedijuhtimise all peetakse tavaliselt silmas juhtimise kvaliteeti. Firma juhtimisalaste eesmärkide realiseerimine peab tagama firma toodangu kavandatud ja püsivad kvaliteedinäitajad.
 
 Mainitud eesmärkide hulka võib lugeda:
 
 - ettevõtte jätkusuutlikkust
-
 - klientide rahulolu
 - tööohutust
 - toodangu omaduste optimeerimine
@@ -529,7 +658,7 @@ Vähene usaldusväärsus võib põhjustada möödalaskmisi firma tegevuse arengu
 
 Infosüsteemi jäikus, klientide arvu suurendamise keerukus ning muudatuste sisseviimise raskused e. teisaldamisvõimaluste puudumine võivad samuti pidurdada infosüsteemi arendamist või suurendada kulusid. Lisaks eelnevale võivad kõrged kogukulud võivad olla tingitud tööviljakuse langusest ja toimivad analoogselt ettenägematute kuludega.
 
-Firmad peavad infosüsteemide täiustamiseks kasutama kõiki võimalusi. Üks nendest ja ilmselt kõige põhjalikum on tarkvaraarenduse metoodikate kasutamine. Neid on palju ja valik nende vahel on raske. Valikukriteeriumiks võiks olla kõigepealt nn. „parasjagu&quot;-nõuetele vastavus: piisav riskide maandamine, korrektne IT ja äripoole koostöö, piisav dokumentatsioon nii sisemiseks kasutamiseks kui klientide-audiitorite vajadusteks.
+Firmad peavad infosüsteemide täiustamiseks kasutama kõiki võimalusi. Üks nendest ja ilmselt kõige põhjalikum on tarkvaraarenduse metoodikate kasutamine. Neid on palju ja valik nende vahel on raske. Valikukriteeriumiks võiks olla kõigepealt nn. "parasjagu"-nõuetele vastavus: piisav riskide maandamine, korrektne IT ja äripoole koostöö, piisav dokumentatsioon nii sisemiseks kasutamiseks kui klientide-audiitorite vajadusteks.
 
 Teised metoodika valiku hindamise alused võiksid olla sobivalt valitud standardid, protseduurid ja arhitektuur, kuid kindlasti riskide juhtimise keskne koht kogu metoodikas. Olulised metoodikad on näiteks Capability Maturity Model (CMM), Rational Unified Process (RUP), Agile Unified Process (AUP), OpenUP/Basic jpt. Omaette IT standardite, juhtimis- ja auditeerimismeetodite kogu moodustab CobIT.
 
@@ -574,7 +703,29 @@ Kui vaadelda eraldi omandi üldkulusid, siis neid saaks jaotada:
 
 Kokkuvõtteks võib öelda, et omandi kogukulude hindamine on oluline etapp infosüsteemide väljaarendamisel ja kuigi nende kulude arvutamine pole lihtne, võimaldab see kontrollida tegevus- ja väljatöötamiskulusid ning hinnata ka sisulisi põhjuseid, mis on kulutuste või ebaefektiivsuse taga.
 
-### 2.6.2 Kordamisküsimused
+::: danger Probleem
+
+Puuduvad (või on ebapiisavalt õppematerjaliga seostatud) järgmised õppekava alampunktid
+
+**A.2.6.2**
+
+Tuua välja peamised kvaliteedijuhtimise meetodid nagu Terviklik kvaliteedijuhtimine (TQM), CMMI (Capability Maturity Model Integration ) tootearenduse küpsuse mudel, ISO standardid, Euroopa Kvaliteedijuhtimise Sihtasutuse EFQM mudel, Üldine hindamisraamistik (CAF).
+
+**A.2.6.3**
+
+Määratleda peamised infosüsteemi kvaliteedi puudustega seotud riskid.
+
+**A.2.6.4**
+
+Selgitada IKT investeeringute jälgimise ja hindamise vajadust.
+
+**A.2.6.5**
+
+Kirjeldada omamise kogukulu (TCO) mõistet ja loetleda tüüpilisemad kuluartiklid.
+
+:::
+
+### 2.6 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -592,7 +743,7 @@ Kokkuvõtteks võib öelda, et omandi kogukulude hindamine on oluline etapp info
 - väljaminevate kirjade korrektse vormistamisega
 - firma image kujundamisega
 
-1. Kas firma üldkulud sisaldavad saamata jäänud kasumit?
+3. Kas firma üldkulud sisaldavad saamata jäänud kasumit?
 
 - ei,
 - jah X

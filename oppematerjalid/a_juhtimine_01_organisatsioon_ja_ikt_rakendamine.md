@@ -2,11 +2,23 @@
 
 Selle teema materjale läbi töötades saad teadmised organisatsioonide ülesehituse, tomimise ja koostööpõhimõtete kohta, lisaks tutvud äriplaani ja äriprotsesside põhimõtetega. Samuti saad teada riigi rollist infosüsteemide loomisel.
 
-## 1.1 Organisatsioonid
+## A.1.1 Organisatsioonide tüübid ja struktuurid
 
 Selle alateema materjale läbi töötades saad teadmised organisatsioonide vormidest, struktuurist ja arenguvõimalustest.
 
-### 1.1.1 Organisatsioonide vormid
+### A.1.1.1 Organisatsioonide vormid
+
+::: warning Õppekava
+
+Kirjeldada organisatsioone ja olulisemaid struktuure nt puustruktuur, kammstruktuur, juriidiline vorm nt mittetulundusühing, partnerlus; suurus nagu väikese ja keskmise suurusega ettevõte, korporatsioon.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Organisatsiooniteooria kohaselt luuakse organisatsioonid mingite kindlate eesmärkide realiseerimiseks, kusjuures organisatsioon realiseerib oma eesmärke inimeste kaudu. Seega kujutab organisatsioon endast sobiva struktuuriga süsteemi, kus inimesed tegutsevad väljatöötatud plaanide alusel eelnevalt püstitatud eesmärkide saavutamiseks.
 
@@ -28,7 +40,19 @@ Loomulikult tuleb silmas pidada kõikvõimalike efektiivsusnäitajaid, kui lisak
 
 Tulu mittetaotlevad organisatsioonid kasutavad oma kasumi põhikirjajärgsete eesmärkide realiseerimiseks ja omanikele dividende ei maksa. Tulu mittetaotlevate firmade hulka kuuluvad mittetulunduslikud sihtasutused (näit. EITSA), kirikud ja mitmesugused heategevusliku suunitlusega ettevõtted.
 
-### 1.1.2 Organisatsioonide jaotus
+### A.1.1.2 Organisatsioonide jaotus
+
+::: warning Õppekava
+
+Kirjeldada info tähtsust organisatsiooni põhitegevuse (operational) taktikalise ja strateegilise otsuste tegemisel.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Käesolevas peatükis vaadeldakse tulutaotlevaid organisatsioone. Seega lähtudes tulutaotluse aspektist täidab ettevõte ühest küljest ärilisi ülesandeid.
 
@@ -68,7 +92,19 @@ Tänapäevases globaliseeruvas maailmas toimub kahesugune areng, ühelt poolt n�
 
 Kuigi majanduse arengutrendid viitavad selgesti suufirmade üha laiemale domineerimisele on kõik firmad alustanud kunagi väiksena. Väikefirma eelisteks on paindlikkus ja suhteliselt kiire reageerimisvõime muutuvatele turutingimustele. Samas on väikefirmade vajadus infosüsteemide järele tagasihoidlik piirdudes tihtipeale ainult raamatupidamise ja laoseisude arvestusega. Koos firmade arenguga kasvavad ka nõudmised infosüsteemide sisulisele ja tehnoloogilisele kvaliteedile. Keskmise suurusega firmade vajadused infosüsteemide järele on juba oluliselt suuremad. Suurfirmad, keda arvuliselt on oluliselt vähem kui väikeseid ja keskmisi ettevõtteid on muutuste suhtes palju jäigemad, samas on nende stabiilsus jälle oluliselt kõrgem ja nende vajadus infosüsteemide järgi on väga kõrge.
 
-### 1.1.3 Ettevõtete ülesehitus
+### A.1.1.3 Ettevõtete ülesehitus
+
+::: warning Õppekava
+
+Anda töövoo skemaatiline esitus mitme erineva organisatsioonili- se struktuuri puhul.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Ettevõtte suurus määrab ära ka hierarhilise ülesehituse. Väga suurt tähelepanu pööratakse ettevõtte struktuuri ja ülesehituse probleemidele just suurtes ettevõtetes, kus korralduste ja aruandluse liikumise liinid püütakse väga selgelt paika panna.
 
@@ -83,7 +119,19 @@ Tänapäeval on ettevõtte äärmiselt huvitatud paindlikkuse suurendamisest, õ
 - toote- või projektijärgne liinijuhtimissüsteem
 - maatriksorganisatsioon.
 
-### 1.1.4 Info liikumine organisatsioonis
+### A.1.1.4 Info liikumine organisatsioonis
+
+::: warning Õppekava
+
+Kirjeldada info tähtsust organisatsiooni põhitegevuse (operational) taktikalise ja strateegilise otsuste tegemisel.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Kui vaadelda firma tegevust ostu-müügi tegevuse juures, siis iseloomustab seda suur infoliikumine ja kiirete logistiliste lahenduste vajadus. Suuri erinevusi pole ka siis kui ostetakse seadmeid või tellitakse projekte, olgu siis selleks kas või IT süsteemi projekteerimine. Vaatleme algul firma seisukohalt olulisemat tegevust e. oma toodangu müüki. Müügitegevus algab müügiosakonnast, mille töötajad on kas siis oma initsiatiivil (aktiivne müük) leidnud ostja või on ostja ise langetanud otsuse antud firma toodete kasuks. Selleks, et kaup vajalikus koguses, tähtajaks ja nõutud kvaliteediga jõuaks ostjani peab müügiosakond ostjapoolsete tellimuste alusel koostama müügikorralduse. Müügikorraldus edastatakse suuremate partiide korral laoteenistusele, väiksemate partiide korral võib korraldus liikuda tootmisega tegeleva allüksuse toodangu väljastamisega tegeleva töötajani. Saadud korralduse alusel valmistatakse kaup ette väljasaatmiseks (pakendatakse, purunemise või riknemise vältimiseks valitakse sobilik taara jne.).
 
@@ -95,7 +143,19 @@ Selleks, et nii ostjad kui ka müüjad saaksid üheselt aru, mis kaubaga ostu-m�
 
 Tegelikkuses võivad kõik kaubavahetusega seotud protsessid olla oluliselt pikemad ja keerulisemad, kuna kasutatakse pankade teenuseid riskide maandamiseks (akreditiivid) ja ka erinevaid transpordivorme. Üldjuhul tuleb isegi kõige lihtsamate tehingute realiseerimiseks suhteliselt palju infot vahetada nii firma siseselt kui ka partneritega. Järelikult võimaldaks infosüsteemide kasutamine firmas kaasa tuua olulise efektiivsuse tõusu nii juhtimise kui ka igapäevase töö (planeerimine, raamatupidamine jne.) valdkonnas. Tulemuseks oleks varustuse kvaliteedi tõus, firma töötajate vabastamine rutiinsest tegevusest ja nende huvi kasv töö vastu. Kiirem reageerimine muutustele aga võimaldab tõsta juhtimise kvaliteeti ja seda nii operatiivsete kui ka strateegiliste otsuste langetamisel.
 
-### 1.1.5 IT arengustaadiumid
+### A.1.1.5 IT arengustaadiumid
+
+::: warning Õppekava
+
+Ülevaade sellest, kuidas erinev organisatsioonikultuur kajastub IKT toimimise põhimõtetes.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Konkurentsis püsimiseks on enamik firmasid aastate jooksul kasutusele võtnud üha uusi infotehnoloogilisi rakendusi.
 
@@ -104,13 +164,13 @@ Kui üritada hinnata IT erinevad arengustaadiume, siis võiks neid klassifitseer
 1. **Arvutite loomine.** Üksikute arvutite katseeksemplarid 1940-1950 aastad, analoogarvutid, radarsüsteemide väljatöötamine.
 2. **Arvutite kasutusvaldkonna laienemine, esimeste arvutuskeskuste tekkimine.** Iseloomulik aastatele 1960-1975, teadusasutuste kõrval alustati arvutite kasutamist tootmises, üldine eufooria, tekkisid väga kõrged ootused seoses infotehnoloogiaga.
 3. **Lokaalne arvutikasutus**. Iseloomulik 1975-1980-ndatele aastatele, kus ettevõtete juurde tekkisid arvutuskeskused, Tootmise automatiseerimisel kasutati arvutite abi kas konkreetsete protsesside suunamisel ja optimeerimisel (energiasüsteemid, transpordiülesanded) või tööpinkide, konveierite jm. juhtimiseks Raamatupidamises kasutati infotehnoloogiat põhiliselt andmetöötluseks.
-4. **„Automatiseeritud" töökohad**. 1980-ndatel aastatel hakkasid tekkima personaalselt kasutatavad arvutid. Tõsi küll, arvutuskeskused ja IT osakonnad jätkasid igati oma tegevust ja mahukamad arvutustööd tehti ikka seal, tekkisid uued võimalused esialgu tekstitöötluses, aga ka projekteerimise ja konstrueerimise valdkondades.
+4. **"Automatiseeritud" töökohad**. 1980-ndatel aastatel hakkasid tekkima personaalselt kasutatavad arvutid. Tõsi küll, arvutuskeskused ja IT osakonnad jätkasid igati oma tegevust ja mahukamad arvutustööd tehti ikka seal, tekkisid uued võimalused esialgu tekstitöötluses, aga ka projekteerimise ja konstrueerimise valdkondades.
 5. **Ettevõttesisene integreerimine**. 1990-ndatel aastatel hakati laialdaselt kasutama personaalarvuteid ja arvestataval tasemel olevate operatsioonisüsteemide olemasolu koos suhteliselt töökindlate sidekanalitega võimaldasid alustada mitmekihilise arvutisüsteemi mudeli kasutuselevõtmist.
-6. **Globaliseerumine**. Interneti ja digitaalse sidetehnika kiire areng on olnud aluseks uute loogiliste seostevõrgustike realiseerumiseni. Arvutustehnika on muutunud lokaalsest tööriistast globaalses süsteemis tegutsemise hädavajalikuks elemendiks. Tänu uutele võimalusele räägime nn. „uuest majandusest", kus on oma kindla koha leidnud uued ärimudelid (IT firma, kodus töötamine, e-äri, „pilvetehnoloogia" jne.).
+6. **Globaliseerumine**. Interneti ja digitaalse sidetehnika kiire areng on olnud aluseks uute loogiliste seostevõrgustike realiseerumiseni. Arvutustehnika on muutunud lokaalsest tööriistast globaalses süsteemis tegutsemise hädavajalikuks elemendiks. Tänu uutele võimalusele räägime nn. "uuest majandusest", kus on oma kindla koha leidnud uued ärimudelid (IT firma, kodus töötamine, e-äri, "pilvetehnoloogia" jne.).
 
-Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral nende „visiitkaartideks". Suured multinatsionaalsed kontsernid eelistavad konservatiivsemaid integreeritud juhtimissüsteeme, mis nõuavad jäigemat, kuid samas ka süsteemset lähenemist. Väiksemad firmad, mis juba oma olemuselt on dünaamilisemad, rõhutavad pigem mitmekesisust ja kasutavad üldotstabelist tehnoloogiat. Selline lähenemine võimaldab saavutada suuremat paindlikkust ja kohanemisvõimet välis- ja/või sisetingimuste muutumisel, ehkki see võib tuua kaasa mõningaid probleeme kui kasutada neid pelgalt juhtimissüsteemidena.
+Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral nende "visiitkaartideks". Suured multinatsionaalsed kontsernid eelistavad konservatiivsemaid integreeritud juhtimissüsteeme, mis nõuavad jäigemat, kuid samas ka süsteemset lähenemist. Väiksemad firmad, mis juba oma olemuselt on dünaamilisemad, rõhutavad pigem mitmekesisust ja kasutavad üldotstabelist tehnoloogiat. Selline lähenemine võimaldab saavutada suuremat paindlikkust ja kohanemisvõimet välis- ja/või sisetingimuste muutumisel, ehkki see võib tuua kaasa mõningaid probleeme kui kasutada neid pelgalt juhtimissüsteemidena.
 
-### 1.1.6 Kordamisküsimused
+### A.1.1.6 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -149,15 +209,21 @@ Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral n
 
 :::
 
-## 1.2 Infotehnoloogia mõju organisatsioonide infotöötlusele
+## A.1.2 (Infotöötlus) Infotehnoloogia mõju organisatsioonide infotöötlusele
 
 Selle alateema materjale läbi töötades õpid tundma, kuidas infotehnoloogia mõjutab infotöötlust organisatsioonides.
 
-### 1.2.1 Infotehnoloogia mõju infotöötlusele organisatsioonides
+### A.1.2.1 Infotehnoloogia mõju infotöötlusele organisatsioonides
+
+::: warning Õppekava
+
+Näidata vahe andmete ja informatsiooni vahel.
+
+:::
 
 Infomatsioon on igasuguse majandustegevuse aluseks ning infosüsteemid on olnud ühel või teisel moel kasutusel juba ammu enne arvutustehnika kasutuselevõtmist. Arvutustehnika ilmumine on andnud võimaluse oluliselt suurema infohulga kasutamiseks, selle kiireks töötlemiseks, mitmesuguste analüüsi- ja prognoosimudelite laialdase kasutamiseks, kuna tulemused saadakse suhteliselt kiiresti ja seetõttu saab neid operatiivse otsustusprotsessi käigus kasutada. Peale operatiivse juhtimistegevuse kasutatakse infosüsteemi ka strateegiliste plaanide väljatöötamisel, raamatupidamise aruannete koostamisel, laoseisude kontrollimisel, logistikaülesannete lahendamisel (transpordiülesanded) jne..
 
-Ülaltoodu põhjal saab järeldada, et informatsiooni töötlemiseks olgu seda siis kas arvuti abil või ilma selleta on vaja eriomaste oskustega töötajaid, kes on võimelised olemasoleva informatsiooni baasil jõudma uute teadmisteni. Arvutustehnika kasutusele võtmine on tekitanud vajaduse väga erineva ettevalmistusega nn. „patsiga poiste" järele, kuna hooldada on vaja nii arvutit ennast e. riistvara, kui ka infotöötlemiseks vajalikke programme e. tarkvara. Ettevõtte tasandil on tihtipeale suuremaks probleemiks tarkvaraga seonduvad küsimused ja reeglina sõltuvalt sellest, kas tarkvara on valmis kujul sisseostetud, arendajalt tellitud või ise välja töötatud.
+Ülaltoodu põhjal saab järeldada, et informatsiooni töötlemiseks olgu seda siis kas arvuti abil või ilma selleta on vaja eriomaste oskustega töötajaid, kes on võimelised olemasoleva informatsiooni baasil jõudma uute teadmisteni. Arvutustehnika kasutusele võtmine on tekitanud vajaduse väga erineva ettevalmistusega nn. "patsiga poiste" järele, kuna hooldada on vaja nii arvutit ennast e. riistvara, kui ka infotöötlemiseks vajalikke programme e. tarkvara. Ettevõtte tasandil on tihtipeale suuremaks probleemiks tarkvaraga seonduvad küsimused ja reeglina sõltuvalt sellest, kas tarkvara on valmis kujul sisseostetud, arendajalt tellitud või ise välja töötatud.
 
 Igasugune lähteinformatsioon kujutab endast andmete kogu, mis asjatundmatule pilgule ei pruugi midagi tähendada. Teadmata lähteinformatsiooni esitamise põhimõtteid ja omamata nende lugemiseks ja töötlemiseks sobivat tarkvara võib informatsioon olla täiesti kasutu. Selleks, et mingist numbrite ja/või tähtede näiliselt kaootilisest kogumist midagi mõistlikku välja lugeda tuleb neid töödelda spetsiaalse tarkvara abil, mis ongi infosüsteemide oluliseks osaks. Reeglina tarkvara ja kõikvõimalikud funktsionaalsed seosed, mis andmete kõrval on infosüsteemi põhiliseks osaks oleksid lõpptarbija jaoks suhteliselt väheolulised ja seetõttu võib neid vaadelda süsteemiteooriast tuntud mõiste "musta kastina". Lõpptarbija jaoks on kõige tähtsam lõpptulemus, tõsi küll, mida see tulemus näitab ja kuidas lähteinformatsiooni muutmine seda mõjutab on vaja teada.
 
@@ -181,33 +247,62 @@ Loomulikult on ka tarbijate ligipääs erineva tasandi infole erinev, teatud osa
 
 Lõppjäreldusena peab märkima, et infosüsteemid mängivad ettevõtte reaalses tegevuses keskset rolli ja halvasti või lõpuni läbimõtlemata infosüsteemide kasutamine toob kaasa ka kogu ettevõtte majandusliku tegevuse efektiivsuse vähenemise.
 
-### 1.2.2 Kordamisküsimused
+::: danger Probleem
+
+Puuduvad järgmised õppekava alampunktid
+
+**A.1.2.2**
+
+Anda ülevaade kuidas diagrammid võivad esitada infotöötlussüsteemide kohta infot sisendite, töötluse ja väljundite tasemel.
+
+**A.1.2.3**
+
+Kirjeldada organisatsioonis infotöötlussüsteemide kasutamist, näiteks ettevõtte juhtimises, transaktsioonide töötluses, tööprotsessi juhtimises.
+
+:::
+
+### A.1.2 Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 1. Infotehnoloogiat on ettevõttele vaja selleks, et:
 
-1. seda kasutavad teised ettevõtted
-1. kontoripersonal saaks kirju saata
-1. ettevõtte saaks oma äriülesandeid paremini täita X
-1. infotehnoloogiaalase teenuse pakkumiseks
+- seda kasutavad teised ettevõtted
+- kontoripersonal saaks kirju saata
+- ettevõtte saaks oma äriülesandeid paremini täita X
+- infotehnoloogiaalase teenuse pakkumiseks
 
 1. Miks liigub info otsustusvoos kahesuunaliselt:
+   korraldused tuleb mitu korda edastada
 
-1. korraldused tuleb mitu korda edastada
-1. ülesanded lähevad suuliselt, aruanded tulevad kirjalikult
-1. otsused liiguvad juhtimistasandilt täitjatele ja aruandlus täitjatelt otsustajatele X
-1. ühes suunas liikumisel tekib palju infomüra
+- ülesanded lähevad suuliselt, aruanded tulevad kirjalikult
+- otsused liiguvad juhtimistasandilt täitjatele ja aruandlus täitjatelt otsustajatele X
+- ühes suunas liikumisel tekib palju infomüra
 
-1. Kas kõikidel tarbijatel peab alati olema õigus sisestsda, muuta või kustutada informatsiooni?
+3. Kas kõikidel tarbijatel peab alati olema õigus sisestsda, muuta või kustutada informatsiooni?
 
-a. jah
+- a. jah
+- b. ei X
 
-b. ei X
+:::
 
-## 1.3 Sise- ja väliskeskkond
+## A.1.3 Strateegiline positsioneerumine (Sise- ja väliskeskkond)
 
 Selle alateema materjale läbi töötades tutvud ettevõtte konkurentsivõime tagamise, turundusmeetmete ja logistika planeerimise põhimõtetega.
 
-### 1.3.1 Ettevõtete konkurentsivõime tagamine
+### A.1.3.1 Ettevõtete konkurentsivõime tagamine
+
+::: warning Õppekava
+
+Selgitada organisatsiooni paiknemist tööstusharude klassifikatsioonis, selle rolli väärtusahelas, turuküpsust ja –rivaliteeti, toodete-teenuste valikut, tööprotsesse.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Käesolevas osas pöörame tähelepanu kasumit taotlevatele ettevõtetele. Kuigi väga olulist sisulist vahet eri tüüpi ettevõtete vahel ei ole, mistõttu paljud probleemid, mida me analüüsime kasumit taotlevate ettevõtete juures on ülekantavad oma võimalike lahenduste osas ka kasumit mittetaotlevatele ettevõtetele.
 
@@ -249,7 +344,19 @@ Turustamise eesmärgid võivad olla vägagi erinevad alates soovist:
 
 Need sihtülesanded peavad sisaldama mõõtühikut (näit. käibe suurendamine), arvväärtust (näit. 7%) ja ajalist kriteeriumi (näit. aasta). Sellised eesmärgipüstitused on marketingistrateegia väljatöötamise lähtepunktiks.
 
-### 1.3.2 Turundusmeetmed
+### A.1.3.2 Turundusmeetmed
+
+::: warning Õppekava
+
+Selgitada, kuidas organisatsioon saab määratleda teenuste strateegiat, näiteks projekteerimine tellimuse alusel (Engineer To Order), tootmine tellimuse alusel (Make To Order), koostamine tellimuse alusel (Assemble To Order), tootmine lattu (Make To Stock).Tuua välja teenuste strateegia mõju planeerimisele ja juhtimisele.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 See, kuidas ettevõttel õnnestub oma toodangut või teenuseid turul müüa, ei olene mitte ainult toodangu või teenuste kvaliteedist ja hinnast, mida meil sageli võetakse enesestmõistetava tõena, vaid väga paljudest teguritest, mida kokkuvõtvalt nimetatakse "turundusmeetmeteks".
 
@@ -265,7 +372,19 @@ Kontrolli objektiks on turundusmeetmed tervikuna. Nii on tüüpilisteks kontroll
 
 Praktikas peavad need kontrollnäitajad olema muidugi konkretiseeritud. Kontroll peab puudutama ka allstruktuure (toode, hind, jaotus, suhtlus). Näitena võib nimetada reklaami ja üksikuid konkreetseid abinõusid.
 
-### 1.3.3 Toote elutsükkel
+### A.1.3.3 Toote elutsükkel
+
+::: warning Õppekava
+
+Loetleda ettevõtte tööd mõjutavad välis- ja sisetegurid, näiteks rahvusvaheline konkurents, sidusrühmade (stakeholders) huvid, keskkond.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Tootepoliitika üks keskseid küsimusi on tootmisprogrammi muutmise ulatus ja ajastamine. Nendele küsimustele vastamiseks saab kasutada mitut meetodit, kuid kindlasti tuleb arvestada toote elutsükli mudeliga. Selle mudeli puhul lähtutakse eeldusest, et iga toote eluiga on piiratud ja toode läbib elutsükli jooksul kindlaid faase. Erinevate toodete elutsüklid pikkused on erinevad, kuid lihtsustatult võib toote elutsüklit esitada nii nagu joonisel 1-4.
 
@@ -279,9 +398,15 @@ Konkreetse toote kasulikkust firma jaoks ehk tema kohta turul saab graafiliselt 
 
 Joonis 1-5. Toote turupositsiooni iseloomustus (allikas Boston Consulting Group)
 
-### **1.3.4 Logistika koht ettevõtetes**
+### A.1.3.4 Logistika koht ettevõtetes
 
-**Logistika on tarneahela protsessi osa, kus osategevuste efektiivne planeerimine, elluviimine ja kontroll hõlmab toodete liikumist ja ladustamist ning sellega seotud teenuste ja teabevoogude juhtimist tarnepunktist lõpptarbijani täimaks klientide nõudmisi.**
+::: danger Probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
+
+Logistika on tarneahela protsessi osa, kus osategevuste efektiivne planeerimine, elluviimine ja kontroll hõlmab toodete liikumist ja ladustamist ning sellega seotud teenuste ja teabevoogude juhtimist tarnepunktist lõpptarbijani täimaks klientide nõudmisi.
 
 Tootmisega seonduvad logistika probleemid ulatuvad alates katkematutest tootmisprotsessidest (naftatööstus, klaasitööstus jne) kuni väike- ja individuaaltootmiseni. Reeglina tulevad konkreetsed logistikaalased probleemid lahendada lähtudes juba konkreetsest tootmistegevusest.
 
@@ -319,51 +444,50 @@ Selliseks viieks analüüsitavaks jõuks on:
 - asendustooted
 - turule sisenemise barjäärid.
 
-### 1.3.5 Kordamisküsimused
+### A.1.3 Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 1. Kaudne turundus tähendab seda, et firma:
 
-a. müüb toodangut võõra firma nime all
-
-b. kasutab oma toodangu müügil vahendajat X
-
-c. müüb oma toodangut ainult välisturul
-
-d. müüb piraatkaupa
+- müüb toodangut võõra firma nime all
+- kasutab oma toodangu müügil vahendajat X
+- müüb oma toodangut ainult välisturul
+- müüb piraatkaupa
 
 2. Turundusmeetmete hulka kuuluvad:
 
-a. konkurentidega seotud meetmed
-
-b. hinnaga seonduvad meetmed X
-
-c. riigiga seonduvad meetmed
-
-d. suhtlusmeetmed X
+- konkurentidega seotud meetmed
+- hinnaga seonduvad meetmed X
+- riigiga seonduvad meetmed
+- suhtlusmeetmed X
 
 3. Toote eluea mudelis tähendab toote küpsusfaas seda, et:
 
-a. toote läbimüük kasvab hüppeliselt
+- toote läbimüük kasvab hüppeliselt
+- toote läbimüük hakkab ilmselt langema X
+- toodet hakatakse kopeerima, kuna patendiga kaitstavad õigused kaovad
+  -midagi ei juhtu
 
-b. toote läbimüük hakkab ilmselt langema X
+4. Logistika on:
 
-c. toodet hakatakse kopeerima, kuna patendiga kaitstavad õigused kaovad
+- kehva e. logiseva töökorraldusega firmasid iseloomustav väljend\*\*
+- tarneahela protsessi osa X
+- ettevõtte loogilise ülesehituse alused
 
-d. midagi ei juhtu
-
-4. **Logistika on:**
-
-**a. kehva e. logiseva töökorraldusega firmasid iseloomustav väljend**
-
-**b. tarneahela protsessi osa** **X**
-
-**c. ettevõtte loogilise ülesehituse alused**
+:::
 
 ## 1.4 Äriplaan
 
 Selle alateema materjale läbi töötades õpid tundma äriplaani koostamise põhimõtteid.
 
-### 1.4.1 Äriplaani põhimõtted
+### A.1.4.1 Äriplaani põhimõtted
+
+::: warning Õppekava
+
+Tuua välja äriplaani põhiosad ja olulisus ning asjakohasus investoritele.
+
+:::
 
 Turumajanduse kõige olulisemaks alustalaks on tootmine, mis peab turu vajaduste muutumisel ka ise väga kiiresti reageerima. Kõige mobiilsemateks ja turuvajadustele dünaamiliselt reageerivateks ettevõteteks on läbi aegade olnud väikeettevõtted. Alates möödunud sajandi lõpust räägitakse üha rohkem uuel tasemel loodavatest väikeettevõtetest, mida nimetatakse kvalifitseeritud ettevõtluseks või iseloomustatakse väljendiga entrepreneurship. Selle all peetakse silmas kaasaegset, arenguvõimalusi ettenägevat firmat, kes saab tuule tiibadesse tänu Internetile, või laiemas mõttes tänu kommunikatsiooni- ja infotehnoloogia kiirele arengule. Ettekujutus, et ettevõtluses on rahalis-majanduslikud aspektid teisejärgulised, lisaks sellele veel laialdased riskikapitali kasutamise ja ettevõtlusinkubaatori poolt pakutavad võimalused võivad viia nii mõnegi ettevõtmise, mida pole hoolikalt juhitud, kokkuvarisemiseni.
 
@@ -399,31 +523,57 @@ Ideid äristrateegia koostamiseks võib saada firma loomise algfaasis, ajurünna
 
 Kokkuvõtteks võib öelda, et innovaatilised lahendused on alati olnud tulevase edu aluseks. Kahjuks pole alati võimalik väga lennukaid ideid ratsionaalselt kirjeldada.
 
-### 1.4.2 Kordamisküsimused
+::: danger Probleem
+
+Õppematerjalide hulgas puuduvad järgnevad õppekava alamosad
+
+**A.1.4.2**
+
+Kirjeldada tulemuslikkuse näitajaid ja analüüsitehnikaid nagu SWOT seoses turu- ja keskkonnamõjuritega äristrateegias.
+
+**A.1.4.3**
+
+Kirjeldada antud äriplaaniga sobivat IKT lahendust.
+
+:::
+
+### A.1.4.2 Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 1. Äriplaani on vaja:
-1. ettevõtte juhatusele aruandluseks valdkonnajuhtidelt
-1. börsiettevõtteks saamiseks
-1. ettevõtte ees seisvate strateegiliste ülesannete täitmise kavandamiseks X
-1. finantsosakonna töö paremaks korraldamiseks
 
-1. Äriplaani kõige olulisem osa on:
-1. toote elutsükli analüüs
-1. hea äriidee X
-1. kavandatava firma struktuur
-1. pole mõeldud firmale pakutava kontorimööbli kvaliteedile
+- ettevõtte juhatusele aruandluseks valdkonnajuhtidelt
+- börsiettevõtteks saamiseks
+- ettevõtte ees seisvate strateegiliste ülesannete täitmise kavandamiseks X
+- finantsosakonna töö paremaks korraldamiseks
 
-## 1.5 Äriprotsessid
+2. Äriplaani kõige olulisem osa on:
+
+- toote elutsükli analüüs
+- hea äriidee X
+- kavandatava firma struktuur
+- pole mõeldud firmale pakutava kontorimööbli kvaliteedile
+
+:::
+
+## A.1.5 Äriprotsessid
 
 Selle alateema materjale läbi töötades õpid tundma äriprotsesside põhimõtteid.
 
-### 1.5.1 Äriprotsesside põhimõtted
+### A.1.5.1 Äriprotsesside põhimõtted
+
+::: warning Õppekava
+
+Mõista äriprotsessi termini sisu ja eristada põhi- ja tugiprotsesse.
+
+:::
 
 Äritegevust, mille eesmärgiks on kasumi teenimine õnnestub edukalt korraldada siis, kui omatakse majandusalaseid teadmisi ja vastavas valdkonnas tegutsemise kogemusi. Igasugune eesmärkide saavutamine nõuab teatud grupi inimeste suunamist, nende mõtestatud tegevust kavandatu ellu viimisel, ehk tuleb tagada tasemel juhtimine. Juhtimisteoorias on olulise probleemina alati välja toodud töötajate valiku küsimused, nende motiveerimine, kuna reeglina saavutatakse parimaid tulemusi juhul, kui inimesed on hästi motiveeritud, kasutavad loovalt juhtkonna poolt väljatöötatud juhendmaterjale ja ametijuhendeid ning nende erialased oskused on kõrged. Loomulikult on selline soov ideaalilähedane, sest oma ala tippspetsialistide värbamine on väga kulukas, mõnevõrra odavam on noorte arenemisvõimeliste talentide leidmine ja nende enda ettevõtte huvides väljakoolitamine.
 
 Sõltuvalt töötajate ettevalmistuse tasemest võivad ametijuhendid olla kas konkreetsemad või üldisemad, kuigi tööalaste juhendmaterjalide ettevalmistamisel ei ole mõistlik lähtuda üksikute töötajate võimetest või oskustest, kuna sel juhul tuleb töötaja lahkumisel või isegi tema edutamise korral kogu juhendmaterjal ümber teha lähtudes juba uue töötaja isikuomadustest ja oskustest.
 
-Vahete-vahel kujutatakse äriprotsessi nn. „musta kastina", millel on sisend ja väljund. Reaalsuses oleks äriprotsessi sisendiks kõik faktorid, mida firma kasutab lõpptulemuse valmistamiseks alustades tööjõust, toorainest, seadmetest jne.. Väljundina saab vaadelda aga klientidele suunatud lõpptoodet või teenust.
+Vahete-vahel kujutatakse äriprotsessi nn. "musta kastina", millel on sisend ja väljund. Reaalsuses oleks äriprotsessi sisendiks kõik faktorid, mida firma kasutab lõpptulemuse valmistamiseks alustades tööjõust, toorainest, seadmetest jne.. Väljundina saab vaadelda aga klientidele suunatud lõpptoodet või teenust.
 
 Äriprotsesse on võimalik kirjeldada ka mõnevõrra täpsemalt, tuues olulisemad äriprotsessi komponendid eraldi välja ja lisades skeemi mõningad tugitegevused. Sel juhul võiks äriprotsessi kirjeldada joonisel 1-6 toodud skeem.
 
@@ -457,37 +607,72 @@ Kõrvuti ettevõtte ressursside juhtimissüsteemi põhiülesannete kasutamisest 
 
 Infosüsteemid ja laiemas mõttes kogu infotehnoloogia kasutamine on aja märk ja võimaldavad ettevõtetel oma äritegevuses jõuda kvalitatiivselt uutele tasanditele.
 
-### 1.5.2 Kordamisküsimused
+::: danger Probleem
+
+Õppematerjalide hulgas puuduvad järgnevad õppekava alamosad
+
+**A.1.5.3**
+
+Tuua välja äriprotsessid mida kasutatakse erinevate majandusharude organisatsioonides nagu ehitus, tootmine, rahandus, müük, avalik haldus, teadus- ja arendustegevus
+
+**A.1.5.4**
+Teha ülevaade organisatsiooni konkurentsivõimet parandavatest peamistest strateegiatest, sh teadmiste jagamine sisemiste valdkondade vahel ja klienditugi ning näidata, kuidas IKT süsteemid võivad seda toetada.
+
+:::
+
+### A.1.5. Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 1. Äriprotsess on:
 
-1. 1. tegevuse detailne kirjeldus ettenähtud tulemuse saavutamiseks X
-   2. arvutiprogramm
-   3. toodete müük pikaajalisele kliendile
-   4. kahe ettevõtte vaheline kohtuprotsess
+- tegevuse detailne kirjeldus ettenähtud tulemuse saavutamiseks X
+- arvutiprogramm
+- toodete müük pikaajalisele kliendile
+- kahe ettevõtte vaheline kohtuprotsess
 
-1. Firmadel on oma majandustegevuses parimate resultaatide saavutamiseks silmas pidada:
+2. Firmadel on oma majandustegevuses parimate resultaatide saavutamiseks silmas pidada:
 
-1. kulude vähendamist X
-1. reklaami suurendamist
-1. firma esinduskulude suurendamist
-1. oma eriomaste oskuste ära kasutamist X
+- kulude vähendamist X
+- reklaami suurendamist
+- firma esinduskulude suurendamist
+- oma eriomaste oskuste ära kasutamist X
 
-## 1.6. Infosüsteemi roll organisatsioonide halduses
+:::
+
+## A.1.6. (IT tugi organisatsiooni juhtimisele) Infosüsteemi roll organisatsioonide halduses
 
 Selle alateema materjale kläbi töötades õpid tundma infosüsteemi rolli organisatsioonide tegevuse haldamisel.
 
-### 1.6.1 Infosüsteem organisatsioonides
+### A.1.6.1 Infosüsteem organisatsioonides
+
+::: warning Õppekava
+
+Kirjeldada juhtkonna rolli ja vastutust strateegilisel, taktikalisel ja tegevtasandil (operational level).
+
+:::
 
 Infosüsteemi kasutamise all mõistetakse erinevate tööülesannete täitmist infotehnoloogiliste vahendite abil. Normaalses, tänapäevases, organisatsioonis vormistatakse juhiabi poolt dokumente, müügiosakond analüüsib kliendibaasi, varustusosakond uurib toorainete pakkumisi jne.. Iga sellise tegevuse käigus kasutatakse ja töödeldakse informatsiooni eesmärgiga leida parimaid lahendusi ettevõtte ärieesmärkide realiseerimiseks. Juhtkonna seisukohalt on infosüsteemi vaja ettevõtte juhtimistegevuse korraldamiseks vajaliku info olemasolu e. õige info, õigel ajal, õigel kujul ja õiges kohas.
 
 Ettevõtte juhtimistasandid erinevad otsustus- ja vastutusastme järgi. Ettevõtte eesotsas on tippjuhtkond, kes vastutab terve ettevõtte tegevustulemuste eest ja kelle ülesandeks on välja töötada ja realiseerida strateegilisi plaane ja strateegiliste otsuste realiseerimiseks välja töötada taktikalisi plaane. Strateegilised otsused peavad garanteerima, et tehakse õigeid asju ja taktikalised otsused peavad garanteerima, et neid õigeid asju tehakse ka parimal moel. Tippjuhtkond oleks seega vastutav ka valitud strateegia sobivuse ja realiseerimise eest.
 
-Kõige keerulisem valdkond kuulub keskastme juhtide pädevusse, kuna nemad on sisuliselt „kahe tule vahel". Ühelt poolt esitab tippjuhtkond neile oma korraldused ja teiselt poolt peavad nemad esitama korraldused juba konkreetsetele töötegijatele, kellel võivad tekkida omapoolsed probleemid ja küsimused. Samas on keskastmejuhid tahes-tahtmata tippjuhtkonna käepikendus ja kaasvastutaja, kuna planeerimise käigus on nende poolt tippjuhtkonnale esitatud informatsioon alusel koostatud ettevõtte taktikalised plaanid. Seega vastutavad ka nemad nende plaanide reaalsuse eest. Lisaks igapäevase juhtimistegevusele vastutavad nad alates tööjõu valiku ja värbamise protsessist kuni töötajate sisulise juhtimiseni välja.
+Kõige keerulisem valdkond kuulub keskastme juhtide pädevusse, kuna nemad on sisuliselt "kahe tule vahel". Ühelt poolt esitab tippjuhtkond neile oma korraldused ja teiselt poolt peavad nemad esitama korraldused juba konkreetsetele töötegijatele, kellel võivad tekkida omapoolsed probleemid ja küsimused. Samas on keskastmejuhid tahes-tahtmata tippjuhtkonna käepikendus ja kaasvastutaja, kuna planeerimise käigus on nende poolt tippjuhtkonnale esitatud informatsioon alusel koostatud ettevõtte taktikalised plaanid. Seega vastutavad ka nemad nende plaanide reaalsuse eest. Lisaks igapäevase juhtimistegevusele vastutavad nad alates tööjõu valiku ja värbamise protsessist kuni töötajate sisulise juhtimiseni välja.
 
 Ettevõtte ja juhtkonna jaoks määrab infotehnoloogiliste lahenduste väärtuse selle loomiseks tehtud investeeringute maht (riistvara jne.) ja infosüsteemi enda (tarkvara) loomiseks tehtud kulutustest, kusjuures kuludes ei arvestata lahenduste kaasaegsust ja vajalikkust. **Ühest küljest** on neid aspekte lihtsalt keeruline kulutuste kaudu kirjeldada. **Teisest küljest** oleks aga vajalik hinnata infosüsteemi kasutamisest tekkivat lisaväärtusväärtust, kuna infosüsteemid võimaldavad kiiremini reageerida muudatustele ärikeskkonnas. Samuti võimaldab infosüsteem väga kiiresti mahukate majandusanalüüside läbiviimist. Siit ka võimalus saada kvaliteetset lähteinformatsiooni nii operatiivtegevuse korraldamisel kui ka strateegiliste otsuste tegemisel. Kuigi tippjuhtkond ja keskastme juhtide tegevusvaldkonnad on üldistatuse astme järgi mõnevõrra vastandlikud tuleb infosüsteemide väljatöötamisel arvestada mõlemate vajadustega.
 
-### 1.6.2 Infosüsteemide kasutusvaldkonnad
+### A.1.6.2 Infosüsteemide kasutusvaldkonnad
+
+::: warning Õppekava
+
+Seostada IKT rakendused vastavate juhtimistasanditega.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjali sisule
+
+:::
 
 Kui lähtuda tippjuhtkonna vajadustest, siis nende jaoks on ülimalt oluline informatsioon see, mis võimaldab langetada pikaajalisi, strateegilisi otsuseid, samas on oluline ka informatsiooni usaldusväärsus, seega peaks info võimaluse korral pärinema algallikast. Ilmselgelt on algallikast lähtuva informatsiooni maht väga suur, mistõttu tuleb lähteinformatsioon viia sobivasse vormi, kasutades selleks info töötlemist, üldistamist, aegridade leidmist ja võrdlemist, statistiliste ülevaadete koostamist jne.. Arvestades tippjuhtide koormatust ei ole põhjust eeldada, et neil jätkub aega mahukate materjalidega tutvumiseks, seega peaks neile pakutav lahendus olema ühelt poolt lihtne ja lühike, teiselt poolt aga kajastama kõiki olulisi aspekte, mida vajatakse otsuste langetamiseks.
 
@@ -495,19 +680,31 @@ Keskastme juhtkond vajab infosüsteemi, mis võimaldab talle ühelt poolt vahetu
 
 Seega juhtimisinfo süsteem kujutab endast andmete kogumit, mida saab esitada väga erineval moel. Enamlevinud nendest on kas aruandluse kujul tekstina või graafiliselt diagrammide, graafikute, tabelite jne. kujul. Mõningaid lähteandmeid võib vaadelda töötlemata kujul, et oleks võimalik koheselt anda hinnanguid mingitele majandustegevuse protsessidele, trendidele või muudatustele. Keerulisemate probleemide korral on vaja läbi viia mõnevõrra sügavam analüüs ja selleks kasutatakse analüütilisi mudeleid, mis võimaldavad ka jõuda majandusprobleemide sisuliste lahendusteni.
 
-Mõningane mitmetähenduslikkus valitseb ka nende süsteemide määratluste ja nimetuste osas, kuid kui infosüsteemi nimes kasutatakse väljendit „juhtimise", „strateegilise juhtimise" või „ettevõtte juhtimise" infosüsteem, siis on suure tõenäosusega tegemist just juhtimise infosüsteemidega, ükskõik, milliste akronüümidega neid siis ka ei tähistata.
+Mõningane mitmetähenduslikkus valitseb ka nende süsteemide määratluste ja nimetuste osas, kuid kui infosüsteemi nimes kasutatakse väljendit "juhtimise", "strateegilise juhtimise" või "ettevõtte juhtimise" infosüsteem, siis on suure tõenäosusega tegemist just juhtimise infosüsteemidega, ükskõik, milliste akronüümidega neid siis ka ei tähistata.
 
-### 1.6.3 Infosüsteemide loomine
+### A.1.6.3 Infosüsteemide loomine
+
+::: warning Õppekava
+
+Määratleda organisatsiooni teadmised, mälu ja õppimine.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Üldjuhul on ettevõtete juhtimise infosüsteemid ülesehitatud sarnasest loogikast lähtudes, kuna nende süsteemidega on tegeldud juba pikemat aega ja tüüplahendused on üldteada. Seega, tuginevad juhtimise infosüsteemid valdavalt firma kvantitatiivsetele näitajatele, mida saab vahetult, aruandluste alusel kasutada või siis kasutatakse üldtuntud efektiivsusnäitajate arvutusvalemeid (EBITDA, ROE, ROA jne.), hindamaks firma majanduslikku olukorda. Kindlasti pole üksikute arvnäitajate alusel saadav tulemus absoluutne tõde, kuid nende eeliseks on lihtsus ja kompaktne esitus. Probleemide olemasolul saadakse suhteliselt kiiresti nende olemasolust signaal, mis omakorda suunab täpsemate analüüsi meetodite kasutamise juurde.
 
-Kui vaadelda üldisemalt juhtimise infosüsteemi kujunemist, siis võib esile tuua mõningad olulised lähenemised põhiindikaatorite leidmiseks. Tihtipeale peetakse kõige olulisemaks kindlaks määrata tegurid, mis oma olemuselt võimaldavad kindlaks teha probleemide olemasolu ettevõttes. Neid nimetatakse ka olulisteks edukuse faktoriteks. Mõistlik oleks need sümptomid oma ettevõtte jaoks kindlaks määrata ning neid pidevalt jälgida. Kõrgematel juhtimistasanditel on tegemist juba mõnevõrra üldisema ja töödeldud informatsiooniga, mida võib liigitada muudatusi iseloomustavateks näitajateks võtmeindikaatorid. Mainitud näitajad on tavaliselt seotud operatiivkontrolliga, kuid oma olemuselt võib neid lugeda samuti kuuluvateks olulise edukuse faktorite hulka, mille muutuste korral on õhus tunda kas „kärsalõhna" või viitavad näitajate muutused hoopis positiivsete ilmingute saabumisel. Ettevõtete jaoks on loomulikult tähtsam õigeaegselt saada informatsiooni võimalike probleemide ilmnemise kohta. Kõige üldisem infosüsteemi osa tagaks automaatne andmete kogumise ja töötlemise, mis toetub paljuski eelpool mainitud lähenemistele ja arvutab välja vajalikud üldised majandusnäitajad.
+Kui vaadelda üldisemalt juhtimise infosüsteemi kujunemist, siis võib esile tuua mõningad olulised lähenemised põhiindikaatorite leidmiseks. Tihtipeale peetakse kõige olulisemaks kindlaks määrata tegurid, mis oma olemuselt võimaldavad kindlaks teha probleemide olemasolu ettevõttes. Neid nimetatakse ka olulisteks edukuse faktoriteks. Mõistlik oleks need sümptomid oma ettevõtte jaoks kindlaks määrata ning neid pidevalt jälgida. Kõrgematel juhtimistasanditel on tegemist juba mõnevõrra üldisema ja töödeldud informatsiooniga, mida võib liigitada muudatusi iseloomustavateks näitajateks võtmeindikaatorid. Mainitud näitajad on tavaliselt seotud operatiivkontrolliga, kuid oma olemuselt võib neid lugeda samuti kuuluvateks olulise edukuse faktorite hulka, mille muutuste korral on õhus tunda kas "kärsalõhna" või viitavad näitajate muutused hoopis positiivsete ilmingute saabumisel. Ettevõtete jaoks on loomulikult tähtsam õigeaegselt saada informatsiooni võimalike probleemide ilmnemise kohta. Kõige üldisem infosüsteemi osa tagaks automaatne andmete kogumise ja töötlemise, mis toetub paljuski eelpool mainitud lähenemistele ja arvutab välja vajalikud üldised majandusnäitajad.
 
 Vastavalt ettevõtte majandustegevuse iseloomule on võimalik koostada just konkreetse firma vajadusi ja probleeme kajastava mitmetahulise analüüsi mudeli. Selles mudelis ei vaadelda üksikuid ettevõtte majandustegevuse tahke, vaid töötatakse välja kompleksne majandusanalüüsi mudel. Kindlasti on mudelis alamsüsteem, mille abil leitakse ettevõtte finantsnäitajad, kuhu kuuluvad maksuametile esitatavad aruanded, nagu bilanss, kasumiaruanne, rahavood ja mitmesugused lisad. Mainitud aruanded huvitavad praktiliselt kõiki osapooli(omanikud, kreeditorid jne). Oluline koht kuulub ka tarbijate ja hankijate rahulolu analüüsile. Ettevõtte arengu seisukohalt on väga tähtis teada oma klientide aga ka hankijate meelsust, nende rahulolu ja lojaalsust, ühtlasi oleks see tagasiside firma tegevusele. Väga olulised on ka mitmesugused firma efektiivsusnäitajad ning võrdlused konkurentide tulemustega. Ja last but not _least_ tuleks arvutada või saada eksperthinnangute baasil innovaatilisust iseloomustavad näitajad, mis annavad hinnangu ettevõtte õppimis- ja kohanemisvõimele, teadmiste juhtimisele, üldisele arengule ja väärtuse loomisele.
 
 Tavaliselt on selliste infosüsteemide lahutamatuks koostisosaks andmeait, kuhu on paigutatud vajalikud andmed soovitavate majandusanalüüside läbiviimiseks. Samuti kasutatakse sageli ka mitmemõõtmelisi majandusanalüüsi meetodeid. Eestis on üks selle valdkonna rajajaid akadeemik U. Mereste, kes on aastaid tegelenud ettevõtte maatriksanalüüsiga. Peale maatriksanalüüsi kasutatakse ka ruumilisi mudeleid, mis on oma olemuselt juba mõnevõrra keerulisemad.
 
-Lisaks tavalistele juhtimise infosüsteemidele kasutatakse tihtipeale ka eraldiseisvaid nn. objektorienteeritud infosüsteeme ja üheks selliseks on mitmetes firmades „Teadmusjuhtimise" infosüsteem.
+Lisaks tavalistele juhtimise infosüsteemidele kasutatakse tihtipeale ka eraldiseisvaid nn. objektorienteeritud infosüsteeme ja üheks selliseks on mitmetes firmades "Teadmusjuhtimise" infosüsteem.
 
 Teadmusjuhtimine (knowledge management) muutus juhtimisalaseks terminiks 90ndate aastate alguses. Esialgu suhtuti sellesse küüniliselt ning väideti, et selles pole midagi uut.
 
@@ -519,7 +716,19 @@ Küünilisus kadus kiiresti, selle asemele tulid mitmed täiendavad küsimused:
 
 Enne teadmusjuhtimise defineerimist vaatleme teadmistega seonduvaid protsesse ja mõisteid.
 
-### 1.6.4 Teadmistega seonduvad mõisted
+### A.1.6.4 Teadmistega seonduvad mõisted
+
+::: warning Õppekava
+
+Visandada mõned otsustamise ja mõõtmismeetodid, nt Pareto ja Ichikawa diagrammid, kriitilised edutegurid, tulemuslikkuse võtmeindikaatorid (KPI), tasakaalustatud tulemuskaart (Balanced Score Card).
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 **Andmed** on üksikasjalikud, objektiivsed faktid sündmustest. Kõik organisatsioonid vajavad andmeid ning neil baseerub enamik eluvaldkondi. Efektiivne andmehaldus on üks olulisemaid edukuse kriteeriume, seevastu suur andmetehulk seda tingimata veel ei ole. Suurest andmehulgast pole võimalik objektiivselt täpseid otsuseid automaatselt järeldada kahel põhjusel. Esiteks, andmeteliiga suur kogus teeb raskeks nende identifitseerimise ja nende tähtsuses selgusele jõudmise. Teiseks (see on ka peamine põhjus), andmeil loomupäraselt tähendust ei ole. Andmed iseloomustavad või kirjeldavad vaid toimunut, nad ei sisalda hinnangut ega interpretatsiooni. Organisatsiooni jaoks on andmed siiski olulised, kuna nende põhjal luuakse infot.
 
@@ -529,7 +738,19 @@ Enne teadmusjuhtimise defineerimist vaatleme teadmistega seonduvaid protsesse ja
 
 **Teadmusjuhtimine** on **ühest küljest** info soovide ja ideede kahesuunalise liikumise protsess sihttarbija ja tooteid/teenuseid arendava meeskonna vahel ning **teiselt poolt** ärikeskkonnast saadud olulise info süstematiseerimine, töötlemine, kommenteerimine ja kättesaadavaks tegemine sihtgrupile.
 
-### 1.6.5 Teadmusjuhtimise seos organisatsiooni strateegiaga.
+### A.1.6.5 Teadmusjuhtimise seos organisatsiooni strateegiaga.
+
+::: warning Õppekava
+
+Kirjeldada tugi, mida juhtimisinfosüsteem (MIS) annab organisatsioonis ja tuua välja mõned näited selle rakendustest.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Tänane maailm esitab ettevõtetele mitmeid väljakutseid, seda eriti organisatsiooni strateegia vallas:
 
@@ -565,21 +786,25 @@ Organisatsioon, kes on endale defineerinud teadmusjuhtimise ning initsieerinud t
 
 **CKO tööülesanded** :
 
--
-
-- -.loob organisatsiooni teadmusjuhtimise strateegia ning vastutab selle uuendamise eest
-- -.hoolitseb teadmusjuhtimist soodustava organisatsioonikultuuri ning sisemiste protsesside loomise eest
-- -.loob ning rakendab teadmiste vahetamiseks teadmusjuhtimise infrastruktuuri (teadmiste- ja infohoidlad raamatukogud) ning virtuaalse keskkonna
-- -.loob ning haldab suhteid info pakkujatega (nt. partnerlussuhted akadeemiliste ringkondadega)
-- -.juhib uute teadmiste loomist ja nende edastamist strateegilisel tasemel,
-- -.mõõdab teadmiste kasutamise efektiivsust (teadmusjuhtimine on väärtusetu, kui ettevõte sellest reaalset kasu ei saa)
-- -.loob organisatsiooni sisemisi eeskirju ning standardeid teadmiste kasutamise, levitamise ning hoidmiseosas.
+- loob organisatsiooni teadmusjuhtimise strateegia ning vastutab selle uuendamise eest
+- hoolitseb teadmusjuhtimist soodustava organisatsioonikultuuri ning sisemiste protsesside loomise eest
+- loob ning rakendab teadmiste vahetamiseks teadmusjuhtimise infrastruktuuri (teadmiste- ja infohoidlad raamatukogud) ning virtuaalse keskkonna
+- loob ning haldab suhteid info pakkujatega (nt. partnerlussuhted akadeemiliste ringkondadega)
+- juhib uute teadmiste loomist ja nende edastamist strateegilisel tasemel,
+- mõõdab teadmiste kasutamise efektiivsust (teadmusjuhtimine on väärtusetu, kui ettevõte sellest reaalset kasu ei saa)
+- loob organisatsiooni sisemisi eeskirju ning standardeid teadmiste kasutamise, levitamise ning hoidmiseosas.
 
 Toodud ülesanded on erineva kaaluga. Kõige olulisem on luua teadmusjuhtimist soodustav kultuur ja teadmusjuhtimise infrastruktuur ning panna teadmusjuhtimine majanduslikku kasu tootma.
 
 Reaalne teadmusjuhtimine baseerub erinevatel projektidel, millega hallatakse eri teadmisi. Peale CKO ja projektijuhi võib organisatsioonis olla teisigi ametikohti ülesandega otseselt või kaudselt teadmusjuhtimise protsessi edendada. Organisatsioon võib vajada teadmiste integraatoreid, teadmiste haldajaid, raamatukoguhoidjaid ja teadmiste insenere sh toimetajad, reporterid jt., kes vastutavad nt intraneti sisu eest. Hea kandidaat sellise projekti juhiks on inimene, kel on kogemus tootearendusest, IT projektide juhtimisest, organisatsiooniliste muutuste läbiviimisest vms.
 
-### 1.6.6 Teadmusjuhtimise tehnoloogiad
+### A.1.6.6 Teadmusjuhtimise tehnoloogiad
+
+::: danger Probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 Kuigi teadmusjuhtimine on suhteliselt uus distsipliin, on teadmisi püütud koguda ning nendega manipuleerida juba aastakümneid. Levinud on hoidlad struktureeritud ja kirja pandud (avaldatud) teadmiste hoidmiseks. Teadmisi hoitakse neis enamasti dokumentide kujul. Hea näide on internet, mis pole aga kindlasti parim teadmiste hoidla, kuna sisaldab ka väärtusetut ning lausa väära infot. Minevikus loodi hoidlaid välimiste teadmiste kogumiseks ja hoidmiseks(info turu ja konkurentidekohta). Tänapäeval kasutatakse üha enam hoidlaid sisemise struktureeritud teadmiste hoidmiseks(toodete ja klientide kohta).
 
@@ -626,7 +851,7 @@ Teadmusjuhtimine võib osutuda organisatsioonile kalliks ettevõtmiseks, mistõt
 
 5. Selge visioon
 
-Teadmusjuhtimise strateegia on osa üldisest organisatsiooni strateegiast. See puudutab ka teadmusjuhtimise visiooni, mis peab olema üks osa organisatsiooni üldisest visioonist. Samuti on oluline, et visioon oleks selge kõigile organisatsiooni liikmetele- et neil oleks „ühine keel". Jällegi võiks selle visiooni vahendajaks olla sisekommunikatsiooni juht.
+Teadmusjuhtimise strateegia on osa üldisest organisatsiooni strateegiast. See puudutab ka teadmusjuhtimise visiooni, mis peab olema üks osa organisatsiooni üldisest visioonist. Samuti on oluline, et visioon oleks selge kõigile organisatsiooni liikmetele- et neil oleks "ühine keel". Jällegi võiks selle visiooni vahendajaks olla sisekommunikatsiooni juht.
 
 6. Läbimõeldud motiveerimissüsteem
 
@@ -642,7 +867,7 @@ Teadmisi võidakse edastada nii teadmiste hoidlatega kui ka virtuaalsete kohtumi
 
 Lõpuks peab märkima, et lähtudes ülaltoodud teadmusjuhtimise ideoloogiast on edukad firmad on üles ehitanud organisatsiooni mudeli, milles võetakse arvesse ettevõttes tekkinud eriomast oskusteavet. Ettevõtte konkurentsivõime suurendamiseks on püstitatud eesmärk tekkinud kogemuste ja oskusteabe rakendamine ettevõttes, töötajate koolituse ja täiendõppe abil.
 
-### 1.6.7 Kordamisküsimused
+### A.1.6.7 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -676,19 +901,43 @@ Lõpuks peab märkima, et lähtudes ülaltoodud teadmusjuhtimise ideoloogiast on
 
 :::
 
-## 1.7 Koostöötehnika organisatsioonides
+## A.1.7 Koostöötehnika (Koostöötehnika organisatsioonides)
 
 Selle alateema materjale läbi töötades õpid tundma organisatsionide koostöötehnikaid.
 
-### 1.7.1 Koostöö organisatsioonides
+### A.1.7.1 Koostöö organisatsioonides
+
+::: warning Õppekava
+
+Määratleda koostöötehnika ja loetleda selle peamised omadused ja rakendused.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ja õppematerjali seos on nõrk
+
+:::
 
 Raske, kui mitte võimatu, on ette kujutada edukat ettevõtet, kus pole tähelepanu pööratud koostöö küsimuste lahendamisele. Igasugune koostöö tänapäeval on seotud aga kommunikatsioonitehnoloogiatega ja baseerub tihtipeale just Interneti abil realiseeritavatele lahendustele. Kvaliteetse koostöö tagamiseks peab olema tasemel nii ettevõtte sise- kui ka välissuhtlus.
 
-Müügi ladus ja tarbijasõbralik korraldamine on igale ettevõttele ülioluline. Seetõttu lähtudes ühel poolt kliendisõbralikkusest ja hinnates teiselt poolt kommunikatsioonitehnika arengusuundi, peab toonitama, et reaalsuses pälvivad üha laiemat tähelepanu internetimüügi tehnikad (e-äri) ja/või interneti kasutamine müügikohtades (e-kommerts). E-kommertsi arengule on kaasa aidanud ka meile juba mõnda aega teada-tuntud ja laialdaselt kasutatud pankade ja müügikettide poolt väljatöötatud rakendused. Oluliseks läbimurdeks või pidada internetipankade kasutamist, mis võimaldab meil teha igapäevaseid väikseid makseid isiklikul kontol sularaha omamata. Sama süsteemi saab kasutada ka internetikauplustes. Seitsmekümnendate aastate revolutsiooniks panganduses oli „masintelleri" (ATM) kasutamine, mida meie tunneme rohkem pangaautomaatide nime all.
+Müügi ladus ja tarbijasõbralik korraldamine on igale ettevõttele ülioluline. Seetõttu lähtudes ühel poolt kliendisõbralikkusest ja hinnates teiselt poolt kommunikatsioonitehnika arengusuundi, peab toonitama, et reaalsuses pälvivad üha laiemat tähelepanu internetimüügi tehnikad (e-äri) ja/või interneti kasutamine müügikohtades (e-kommerts). E-kommertsi arengule on kaasa aidanud ka meile juba mõnda aega teada-tuntud ja laialdaselt kasutatud pankade ja müügikettide poolt väljatöötatud rakendused. Oluliseks läbimurdeks või pidada internetipankade kasutamist, mis võimaldab meil teha igapäevaseid väikseid makseid isiklikul kontol sularaha omamata. Sama süsteemi saab kasutada ka internetikauplustes. Seitsmekümnendate aastate revolutsiooniks panganduses oli "masintelleri" (ATM) kasutamine, mida meie tunneme rohkem pangaautomaatide nime all.
 
-Erinevused Interneti ja e-kommertsi osas on esile kerkinud alles viimastel aastatel. Kui hinnata Interneti ja e-äri arenguid viimasel kümnendil, siis vaatamata „uue majanduse" ja sellega koos ka e-äri suuri tagasilööke 2000 a. on selles valdkonnas ringlevate rahade kasv märkimisväärne. Tagasihoidlike hinnangute alusel on viimase kümne aasta jooksul kasvanud interneti äris ringlevate summade suurus kümneid tuhaneid kordi. Tõeline hüpe Interneti äri arengus on tekitanud ööpäevaringse iseteenindusel baseeruva internetimüügi väljaarendamine. Firmades on peamised Interneti põhised arendustegevuse suunad mõnevõrra stabiilsemal alusel, kuna arendatakse juba järeleproovitud ja mõnevõrra traditsioonilisemaid rakendusi, mis on välja töötatud pidades tarbijate huvisid silmas ja mõeldud lahenduste mugavamaks kasutamiseks. Peamine probleem on aga see, kuidas tagada tõhus koostöö firma ja Interneti kaubanduse vahel enne spetsiaalse e-äri jaoks väljatöötatud uue tehnoloogia kasutuselevõtmist.
+Erinevused Interneti ja e-kommertsi osas on esile kerkinud alles viimastel aastatel. Kui hinnata Interneti ja e-äri arenguid viimasel kümnendil, siis vaatamata "uue majanduse" ja sellega koos ka e-äri suuri tagasilööke 2000 a. on selles valdkonnas ringlevate rahade kasv märkimisväärne. Tagasihoidlike hinnangute alusel on viimase kümne aasta jooksul kasvanud interneti äris ringlevate summade suurus kümneid tuhaneid kordi. Tõeline hüpe Interneti äri arengus on tekitanud ööpäevaringse iseteenindusel baseeruva internetimüügi väljaarendamine. Firmades on peamised Interneti põhised arendustegevuse suunad mõnevõrra stabiilsemal alusel, kuna arendatakse juba järeleproovitud ja mõnevõrra traditsioonilisemaid rakendusi, mis on välja töötatud pidades tarbijate huvisid silmas ja mõeldud lahenduste mugavamaks kasutamiseks. Peamine probleem on aga see, kuidas tagada tõhus koostöö firma ja Interneti kaubanduse vahel enne spetsiaalse e-äri jaoks väljatöötatud uue tehnoloogia kasutuselevõtmist.
 
-### 1.7.2 Võrguteenuste mõju ettevõttele
+### A.1.7.2 Võrguteenuste mõju ettevõttele
+
+::: warning Õppekava
+
+Määratleda töövoosüsteemide eesmärk ja tuua vaäja nende eelised vähem formaliseeritud süsteemide nt blogide, arutelutahvlite ees.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Selleks, et paremini mõista võrgu poolt esile kutsutud põhitõdede muutusi vaatleme allpool mõningaid selleks vajalikke asjaolusid.
 
@@ -712,7 +961,19 @@ Kui hinnata erinevaid tootmisharusid ettevõtete arvutivõrkude seisukohalt, sii
 
 Informatsiooni jagamine ettevõtete vahel laiendab oluliselt sisese infosüsteemi võimalusi. Sisene infosüsteem extranet on tihtipeale ettevõtte esimeseks infosüsteemiks, millest lähtudes töötatakse välja juba mõningaid Internetile omaseid funktsioone täitev intranet. Intraneti abil on võimalik juba ümber korraldada planeerimisprotsess, ressursside logistilist liikumist, optimeerida firma jaoks varustusalased lahendused. Enne niikaugele jõudmist jääb siiski kogu infosüsteemi tase sisemise tegevuse koordineerimise analoogiks siseprotsesside abil.
 
-### 1.7.3 IT kasutamine tööprotsesside juhtimisel
+### A.1.7.3 IT kasutamine tööprotsesside juhtimisel
+
+::: warning Õppekava
+
+Tuua välja erinevused virtuaalse rühmatöö ja füüsiliselt samades ruumides paikneva rühmatöö vahel.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus ei vasta õppematerjalid sisule
+
+:::
 
 Vaatleme lühidalt ka võimalusi ja vahendeid tööprotsesside juhtimiseks. Üldjuhul on siis tegemist süsteemidega, mis võimaldab ühist tegevust koordineerida ja suunata, planeerida ajakasutust, eriti siis, kui inimesed ei tööta kõik ühes allüksuses. Loomulikult on meeskonnatöö korraldamiseks võimalusi palju, kuid üldpõhimõtted on suhteliselt sarnased. Ühiseks jooneks nendel lahendustel oleks suunatud lihtsustamise ja loogiliste seoste välja töötamine, mille abil luuakse seosed mingi tervikliku protsessi erinevate tegevuste vahel. Samuti tuleb tagada üksikute töötajate tingimused ülesannete täitmiseks ja seda nii ajaliselt kui tehnoloogiliselt, tehes kogu vajaliku informatsiooni kõikidele osapooltele kättesaadavaks. Kui võrrelda seda korvpalliga, siis peavad kõik meeskonna mängijad teadma, mida soovib treener, neil peavad olema oskused treeneri poolt püstitatud eesmärkide realiseerimiseks ja nad peavad kogu aeg arvestama oma meeskonnakaaslastega.
 
@@ -720,7 +981,7 @@ Põhilised vahendid, mida tuleks kindlasti silmas pidada ettevõtte juhtimisprot
 
 Kindel koht firmasiseses suhtluses omab ka protseduurireeglite süsteem. Antud süsteem sisaldab ametikirjeldus, määratleb käsuliinid alluvussuhted, töötajate rollid, infosüsteemi kasutamise õigused e. kellel on õigus ainult lugeda kellel muuta andmeid, millistele andmetele keegi üldse ligi pääseb jne. jne. kaasajal omab järjest suuremat tähtsust Interneti-põhine varustus-turustussüsteem, mi iseloomustab ettevõtte juhtimistegevuse väljumist ettevõtte raamidest ning omab tänapäeval väga tähtsat rolli edukate ettevõtete majandustegevuses. Ja lõpuks ka telekommunikatsiooni ja tehnoloogiliste võimaluste kasutamise süsteem, mille abil luuakse võimalus videokonverentside pidamiseks jne.
 
-Võimalus töötada ühiselt, ühes töögrupis vaatamata sellele, et ollakse ruumilises ja mõnikord ka geograafilises mõttes üksteisest eraldatud on tänapäeval küllaltki levinud. Tänapäevased sidevahendid teevad tuhanded kilomeetrid olematuks, vahel võib häirida ja ebamugavusi tekitada ainult suur ajavahe. Läbivaks ideeks sellist laadi koostöö korral oleks kokkukuuluvus, ühtsed eesmärgid, mis ilmselt ongi sellist laadi meeskonnatöö aluseks. Kokkukuuluvustunnet aga ka teatud laadi sisemist hierarhiat peavad tunnetama kõik töögrupi üksikud liikmed. Tihtipeale nimetatakse sellist loomingulist suhtumist ja koostöö valmidust ka „meeskonna vaimuks". Seega, töötades grupis tuleb loomulikuks pidada kõrget sõltumatuse taset, kusjuures vabadusastmed tuleb eelnevalt kokkuleppida.
+Võimalus töötada ühiselt, ühes töögrupis vaatamata sellele, et ollakse ruumilises ja mõnikord ka geograafilises mõttes üksteisest eraldatud on tänapäeval küllaltki levinud. Tänapäevased sidevahendid teevad tuhanded kilomeetrid olematuks, vahel võib häirida ja ebamugavusi tekitada ainult suur ajavahe. Läbivaks ideeks sellist laadi koostöö korral oleks kokkukuuluvus, ühtsed eesmärgid, mis ilmselt ongi sellist laadi meeskonnatöö aluseks. Kokkukuuluvustunnet aga ka teatud laadi sisemist hierarhiat peavad tunnetama kõik töögrupi üksikud liikmed. Tihtipeale nimetatakse sellist loomingulist suhtumist ja koostöö valmidust ka "meeskonna vaimuks". Seega, töötades grupis tuleb loomulikuks pidada kõrget sõltumatuse taset, kusjuures vabadusastmed tuleb eelnevalt kokkuleppida.
 
 Kui vaadelda laiemalt eraldi või koos töötamise probleemi, siis võib märkida, et eraldi asuvate töötajate koostöö korraldamine ei pruugi olla lihtsate meetoditega lahendatav. Organisatsiooniteooria üks valdkondi tegelebki erinevatest kultuuri ja/või usulise taustaga keskkondadest pärinevate töötajate koostöö küsimustega. Reaalsuses võivad need inimesed töötada ühises ruumis, kuid tänapäeval pole sugugi harvad juhtumid, kus töötatakse eri piirkondades. Kaugtöö korral võib juhtuda, et inimesed pole teineteist näinudki ega tunne üksteist.
 
@@ -734,7 +995,19 @@ Joonisel 1-8 on näha, et globaliseerumise kasv loob tingimused eri kultuurikesk
 
 Kokkuvõtteks peab märkima, et üheks edukust tagavaks teguriks tuleb pidada töö protsessi juhtimise süsteemi, milles on arvestatud nii kultuurilisi iseärasusi kui ka organisatsioonilisi probleeme ja kasutatud häid tehnoloogilisi lahendusi.
 
-### 1.7.4 Kordamisküsimused
+::: danger Probleem
+
+Puudub järgmine õppekava alampunkt
+
+**A.1.7.4**
+
+Näidata eduka arvutipõhise koostöö elluvuiimise tegurid, näiteks juhtkonna toetus, liidri olemasolu, organisatsiooni kultuur, tehnilised võimalused, kasutatvus, kohandatavus ja tehniline tugi.
+
+:::
+
+### A.1.7 Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 1. Milline koostöötehnika on alltoodud võimalustes uusim:
 
@@ -743,13 +1016,21 @@ Kokkuvõtteks peab märkima, et üheks edukust tagavaks teguriks tuleb pidada t�
 - failisüsteemi kirjutusõigusega kasutajad
 - virtuaalne töögrupp X
 
-## 1.8 Arvutipõhine koolitus ja e-õpe
+:::
+
+## A.1.8 Arvutipõhine koolitus ja e-õpe
 
 Selle alateema materjale läbi töötades õpid tundma arvutipõhise koolituse ja e-õppe põhimõtteid.
 
-### 1.8.1 Arvutipõhise koolituse ja e-õppe põhimõtted
+### A.1.8.1 Arvutipõhise koolituse ja e-õppe põhimõtted
 
-Tänapäeval on arvuti leidnud kindla koha kõikides õppetöövormides alates üld- ja kõrgharidusega ning lõpetades täiendkoolitusega. Kuna tööturul püsimiseks peavad inimesed senisest aktiivsemalt tegelema enda tööalases „vormis" hoidmisega, siis ilma Internetita ja arvutita see alati võimalik ei olegi. Võimatu on ette kujutada kõrgemat õppeasutust või koolitusfirmat, mis ei oma arvutiklassi või ei kasuta Interneti võimalusi oma õppematerjalide suunamiseks avalikustamiseks. Internetipõhist koolitust ongi hakatud nimetama üldnimetusega e-õpe. Ilmselgelt võimaldab Internet õppurite võimalusi oluliselt suurendada.
+::: warning Õppekava
+
+Kirjeldada arvutipõhist koolitust ja e-õpet.
+
+:::
+
+Tänapäeval on arvuti leidnud kindla koha kõikides õppetöövormides alates üld- ja kõrgharidusega ning lõpetades täiendkoolitusega. Kuna tööturul püsimiseks peavad inimesed senisest aktiivsemalt tegelema enda tööalases "vormis" hoidmisega, siis ilma Internetita ja arvutita see alati võimalik ei olegi. Võimatu on ette kujutada kõrgemat õppeasutust või koolitusfirmat, mis ei oma arvutiklassi või ei kasuta Interneti võimalusi oma õppematerjalide suunamiseks avalikustamiseks. Internetipõhist koolitust ongi hakatud nimetama üldnimetusega e-õpe. Ilmselgelt võimaldab Internet õppurite võimalusi oluliselt suurendada.
 
 E-õppe korral on aga tehnoloogia võimaluste laienemine kogu õppeprotsessi üks külg.
 
@@ -765,7 +1046,7 @@ Kui mingil moel ülaltoodud lähenemisi kokku võtta ja süstematiseerida, siis 
 - õppeinfosüsteemid ja koduleheküljed, kuhu õppejõud oma õppematerjale üle laadivad, mõningates õppeinfo süsteemides eksisteerivad ka lihtsamad teadmiste kontrollisüsteemid
 - õppejõudude endi poolt väljatöötatud ainekesksed materjali esituse ja loogilised teadmiste kontrolli süsteemid. Paraku on nende väljatöötamine aeganõudev, seega oleks ka nende arv väike, samas on need kõige efektiivsemad vahendid aine omandamisel
 - universaalsed e-õppe keskkonnad, mis on välja töötatud kas suurte ülikoolide poolse tellimusena või kommertseesmärkidel, nagu WebCT, Edutizer, Luvit, Moodle, IVA jne
-- eeldatakse, et aastatel 2010-2015 laieneb plahvatuslikult just sotsiaalsete internetikeskkondade kasutamine õppetöös, eriti just sotsiaalteaduste õpetamisel. Seniste suhtluskeskkondade (Facebook, Twitter, kõikvõimalikud blogid, „Second life" keskkond jne.) kõrvale ilmuvad objekt-orienteeritud internetikeskkonnad, mis võimaldavad üliõpilastel omandada ainet senisest oluliselt efektiivsemalt „learning by doing" põhimõtetel.
+- eeldatakse, et aastatel 2010-2015 laieneb plahvatuslikult just sotsiaalsete internetikeskkondade kasutamine õppetöös, eriti just sotsiaalteaduste õpetamisel. Seniste suhtluskeskkondade (Facebook, Twitter, kõikvõimalikud blogid, "Second life" keskkond jne.) kõrvale ilmuvad objekt-orienteeritud internetikeskkonnad, mis võimaldavad üliõpilastel omandada ainet senisest oluliselt efektiivsemalt "learning by doing" põhimõtetel.
 
 Eeltoodud loetelu jaoks pingerida koostada on raske, pigem on tegemist tehnoloogia ja meie endi tõekspidamiste arengu tulemusena toimunud õppeprotsessi evolutsiooniga - lihtsamalt keerulisemale. Samas, mida vähem vahetuid kontakte õppejõudude ja õppurite vahel toimub, seda motiveeritum peab olema õppur. Iseseisev töö on e-õppe lahutamatu osa, mis nõuab tahtejõudu ja keskendumisvõimet. Paraku on just need iseloomuomadused õppurite lõikes väga erinevad. Kui võrrelda õppurite motiveeritust, siis peab märkima, et üliõpilased on keskmiselt rohkem motiveeritud erialaste ainete omandamisel ja vähem üldainete puhul. Täiendkoolitusel, kus õppurid ise valivad valdkonnad, milles ennast täiendada, on motiveeritus võrreldes üliõpilastega oluliselt kõrgem.
 
@@ -785,35 +1066,71 @@ Tuleb alati meeles pidada tõsiasja, et e-õpe ei ole tavaõppe automaatne kopee
 
 Tõsist tähelepanu nõuab ka tagasiside korraldamine, kuna kõik õppurid peavad saama vastused oma küsimustele, ilmselt on ka siin omad kulud, kuna õppejõud pole füüsiliselt võimeline kõigiga suhtlema, seega tuleb kindlasti kasutada tuutoreid.
 
-### 1.8.2 Kordamisküsimused
+::: danger Probleem
+
+Puuduvad (või on need eelmise alampunkti juures) järgmise õppekava alampunktid
+
+**A.1.8.2**
+
+Loetleda multimeediumi, arvutipõhise koolituse ja virtuaalsete õppeklasside tehnilised nõuded.
+
+**A.1.8.3**
+
+Loetleda e-õppe eelised ja puudused.
+
+:::
+
+### A.1.8.2 Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 1. E-õppe peamine eelis on see, et:
 
-1. õpetaja ei sega õppimist
-1. on hiilgav võimalus teadmisi saada ilma õppimata
-1. on võimalus universaalse õpikeskkonna kasutamiseks õppija asukohast sõltumata X
-1. soodustab sülearvutite laialdasemat kasutamist maailmas
+- õpetaja ei sega õppimist
+- on hiilgav võimalus teadmisi saada ilma õppimata
+- on võimalus universaalse õpikeskkonna kasutamiseks õppija asukohast sõltumata X
+- soodustab sülearvutite laialdasemat kasutamist maailmas
 
-1. Kas e-õpe on tavaõppe kopeerimine uute vahenditega?
+2. Kas e-õpe on tavaõppe kopeerimine uute vahenditega?
 
-1. jah
-1. ei X
+- jah
+- ei X
 
-## 1.9 Infoühiskond
+:::
+
+## A.1.9 Infoühiskond
 
 Selle alateema materjale läbi töötades õpid tundma infoüshiskonna ülesehitsue ja toimimise põhimõtteid.
 
-### 1.9.1 Infoühiskonna taust
+### A.1.9.1 Infoühiskonna taust
+
+::: warning Õppekava
+
+Kirjeldada kuidas IKT on ühiskonda muutnud.
+
+:::
 
 Ilma igasuguste kahtlusteta võib väita, et just infotehnoloogia kiire areng on põhjustanud kolossaalseid muutusi majanduses ja ühiskondlikus elus ja seda peamiselt viimaste aastakümnete jooksul. Alates teisest maailmasõjas, kus radartehnoloogia nõudis esimeste arvutite väljatöötamist pole asjatundajad hetkegi kahelnud, et just selle valdkonna päralt on tulevik. Tänaseks päevaks on infotehnoloogia Interneti kaudu ühendanud ja selle läbi muutnud kogu maailma, kuna paljuräägitud globaliseerumisprotsessid ei oleks mõeldavad ilma Interneti levikuta. Sisuliselt ei ole enam valdkonda, kus infotehnoloogia mõju ei oleks märgata, olgu selleks siis majandus tervikuna, riigiasutused või siis kolmas sektor.
 
-USA keskpanga FED-i endine esimees Alan Greenspan, tuntuim ja arvestatuim omaaegne aktsiaturgude mõjutaja maailmas, põhjendab USA majanduse ja börsiindeksite pidevat kiiret kasvu üheksakümnendatel aastatel just infotehnoloogiasse investeerimisest lähtunud tootlikkuse kasvuga. Info­tehnoloogiline tootmine on olnud ja on ka soomlaste, rootslaste ja nn. aasia „majandustiigrite" eduka majanduse aluseks.
+USA keskpanga FED-i endine esimees Alan Greenspan, tuntuim ja arvestatuim omaaegne aktsiaturgude mõjutaja maailmas, põhjendab USA majanduse ja börsiindeksite pidevat kiiret kasvu üheksakümnendatel aastatel just infotehnoloogiasse investeerimisest lähtunud tootlikkuse kasvuga. Info­tehnoloogiline tootmine on olnud ja on ka soomlaste, rootslaste ja nn. aasia "majandustiigrite" eduka majanduse aluseks.
 
 Miks on infotehnoloogia sedavõrd võimas tööriist ja mis on IT eesmärk? Lühidalt võiks öelda, et info­tehnoloogia eesmärk on automatiseerida inimmõistuse kee­rukamaid tööülesandeid. Samas on IT kaugem eesmärk intelli­gentsete masinate loomine, mis inimeste asemel kogu töö ära teeksid.
 
-Samas on „tõeline" tehisintellekt kauge tulevikuunistus, kuigi tipparvuti koos tippmalemängu programmiga on tu­gevam maletaja kui valitsev maailmameister. Sellegipoolest on prae­gused ja lähituleviku arvutid ja tarkvara inimesest ning ka kõrgema arenguga loomadest võrreldamatult ebaintelligentsemad.
+Samas on "tõeline" tehisintellekt kauge tulevikuunistus, kuigi tipparvuti koos tippmalemängu programmiga on tu­gevam maletaja kui valitsev maailmameister. Sellegipoolest on prae­gused ja lähituleviku arvutid ja tarkvara inimesest ning ka kõrgema arenguga loomadest võrreldamatult ebaintelligentsemad.
 
-### 1.9.2 IT roll ühiskonna arengus
+### A.1.9.2 IT roll ühiskonna arengus
+
+::: warning Õppekava
+
+Loetleda tegureid IKT kasulikkusest ja kahjulikkusest ühiskonnale.
+
+:::
+
+::: danger Probleem
+
+Õppekava alajaotus on õppematerjaliga nõrgalt seotud
+
+:::
 
 Siiski suudab arvuti juba praegu teha paljut, mis inimesele üle jõu käib. Arvuti on võimeline täitma mitmeid mõtte­tööd eeldavaid rutiinseid ülesandeid. Õige töökorralduse juures saab arvutiga asendada hulga inimtööjõudu. Vähe sellest, arvutid loovad ka päris uusi tooteid ja teenuseid ­nagu näiteks internet, elektrooniline kaubandus, suured andmebaasid. Tehnoloogiline sulandumine erinevate valdkondade vahel teeb võimalikuks arvutitehnoloogia ja telefon, televisiooni, fotograafia jt. valdkondade iseenesest mõistetava koostöö.
 
@@ -821,7 +1138,7 @@ Siit leiame selgituse ka infotehnoloogia kiirele arengule. IT arendamine ja toot
 
 Alus majanduse ja ühiskonna industrialiseerimisele pandi mitu sajandit tagasi. Esmalt võeti masinad kasutusele füüsilise lihttöö asendamiseks - vesiveski, mehhaanilised ketrusmasinad, aurumasin, raudtee ja auto on industriali­seerimise algperioodi peamised märksõnad. Kõik need seadmed ja tehnoloogiad reformisid tootmisprotsesse, lõid uusi teenuseid ning muutsid märkimisväärselt nii majan­dust kui kogu ühiskonda.
 
-Kontori- ja organiseerimistöö mehhaniseerimine algas eelmisel sajandil kirjutusmasinate loomisega ning jätkus mehhaaniliste kaardiarvestusaparaatide ehitamisega. 20. sajandi esimesel poolel sündinud kommunikatsiooni­tehnoloogia - telefon, raadio, televiisor - oli sajandi teise poole radikaalse majandusliku ja ühiskondliku arengu mootoriks. _"Medium is the message"_ - nii pealkirjastas ühiskonnateoreetik Marshall McLuhan oma suurteose.
+Kontori- ja organiseerimistöö mehhaniseerimine algas eelmisel sajandil kirjutusmasinate loomisega ning jätkus mehhaaniliste kaardiarvestusaparaatide ehitamisega. 20. sajandi esimesel poolel sündinud kommunikatsiooni­tehnoloogia - telefon, raadio, televiisor - oli sajandi teise poole radikaalse majandusliku ja ühiskondliku arengu mootoriks. _Medium is the message_ - nii pealkirjastas ühiskonnateoreetik Marshall McLuhan oma suurteose.
 
 Kommunikatsioonitehnoloogia oli aluseks kaasaegse arvutustehnika tekkele, mis nüüd omakorda esimest reformib. Võrgusüsteemide pioneeri Sun Microsystemsi moto "Network is the computer" (võrk on arvuti) ongi tõeks saanud. Arvuteid, võrku ja kommunikatsiooni­tehnoloogiat ei saa enam üksteisest eristada.
 
@@ -847,7 +1164,19 @@ IT võimaldab:
 - hajutada tööd eri paikade vahel
 - luua uusi marketingikanaleid, sh ülemaailmseid
 
-### 1.9.3 E-äri
+### A.1.9.3 E-äri
+
+::: warning Õppekava
+
+Määratleda digitaalse lõhe mõiste.
+
+:::
+
+::: danger Probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 Virtuaalses ärikeskkonnas tehakse oluline osa äri­tehinguid internetis (virtuaalselt). **E-äri** (electronic business) on virtuaalsetes ärikeskkondades toimiv äri.
 
@@ -860,9 +1189,11 @@ E-äri kirjeldavad neli ärimudeli tüüpi:
 
 E-äri mõjutab oluliselt selliseid majanduse valdkondi (B2B ja B2C mudelid) nagu turundus, müük, reklaam, varustus, hulgi- ja jaekaubandus, kaupade järelteenin­dus ja remont, rahandus, kindlustus, transport ja logis­tika, digitaaltootmine, hajustootmine. B2A sektoris mõjutab e-äri riigi ja äri koostöö valdkondi: toll, mak­sundus, riigihanked, tegevusload, õiguslik regulatsioon.
 
-a) **E-äri valdkonnad**.Põhilised toimivad e-äri valdkonnad on e-rahandus, e-turism, e-varustus, e-kaubandus, e-meedia, e-õpe.
+#### E-äri valdkonnad
 
-b) **E-äri iseloomustus**.
+Põhilised toimivad e-äri valdkonnad on e-rahandus, e-turism, e-varustus, e-kaubandus, e-meedia, e-õpe.
+
+#### E-äri iseloomustus
 
 - **E-turg**. Globaalne virtuaalne turg ühendab kõik toodete ja teenuste pakkujad ning ostjad ja annab igaühele võimaluse ühineda selle turuga. Ettevõte sattub e-äris globaalsesse virtuaalärikeskkonda. E-äri loob uusi e-turge.
 - **E-äri kiirus**. Virtuaalses keskkonnas toimuvad äri­tehingud oluliselt kiiremini, mis loob eelised e-ette­võtetele.
@@ -871,9 +1202,13 @@ b) **E-äri iseloomustus**.
 - **E-äri ressursid**. E-äri põhineb inforessurssidel, mis on enamasti tasuta või odavad ja sõltub suurel mää­ral inimestest ja nende teadmusest. Tavalise äriga võr­reldes sõltub e-äri vähem materiaalsetest vahenditest, nende hindade dünaamikast ja kättesaadavusest. Väikeettevõtluse e-äri sõltub vähe rahast, suur e-äri on kallis.
 - **E-äri uued võimalused**. Uute äriideede ja virtuaal­ettevõtluse võimalused e-äris on praegu veel piirama­tud. E-äri on uus ja suur väljakutse ärimeestele ja loob võimalusi inimestele, kellel ei ole neid seni olnud.
 
-c) **Ettevõte e-majanduses**.E-äri on iga ettevõtte võimalus laiendada tegevuspiir­konda ja võimendada tegevust. Ettevõte laiendab oma tegevust sisenemisega e-äri keskkonda, seal suureneb firma võimalike äripartnerite hulk globaalsel e-turul tegutsejate võrra. Ettevõte võimendab oma tegevust sisenemisega e­-äri keskkonda, seal omandab ta e-äri eelised: klientide tellimuste kiire ja paindlik täitmine, kiire ja kvaliteetne toodete tarnimine, kulude ja varude kokkuhoid.
+#### Ettevõte e-majanduses
 
-d) **Ettevõtte infosüsteem e-äris**. Ettevõtte infosüsteemi mudel e-äris on esitatud joonisel 1-9.
+E-äri on iga ettevõtte võimalus laiendada tegevuspiir­konda ja võimendada tegevust. Ettevõte laiendab oma tegevust sisenemisega e-äri keskkonda, seal suureneb firma võimalike äripartnerite hulk globaalsel e-turul tegutsejate võrra. Ettevõte võimendab oma tegevust sisenemisega e­-äri keskkonda, seal omandab ta e-äri eelised: klientide tellimuste kiire ja paindlik täitmine, kiire ja kvaliteetne toodete tarnimine, kulude ja varude kokkuhoid.
+
+#### Ettevõtte infosüsteem e-äris
+
+Ettevõtte infosüsteemi mudel e-äris on esitatud joonisel 1-9.
 
 ![](data:image/png;base64,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)
 
@@ -881,9 +1216,17 @@ Joonis 1-9. Ettevõtte infosüsteem e-äris
 
 Selles mudelis jaguneb ettevõtte infosüsteem intraneti ja ekstraneti vahel. lntranet on ettevõttesisene välis­partneritele suletud infosüsteemi osa. Ekstranet on ette­võtte infosüsteemi avatud osa, kuhu välispartneritel on juurdepääs interneti kaudu.
 
-e) **Ettevõtte e-äri**.Ettevõtte põhilised juhtimisvaldkonnad e-äris on e-turundus, e-varustus, e-finantsteenindus.
+#### Ettevõtte e-äri
 
-### 1.9.4 Ettevõtte e-turundus
+Ettevõtte põhilised juhtimisvaldkonnad e-äris on e-turundus, e-varustus, e-finantsteenindus.
+
+### A.1.9.4 Ettevõtte e-turundus
+
+::: danger Probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 Ettevõtte e-turunduse põhifunktsioonid on:
 
@@ -901,7 +1244,13 @@ Näide: ravimite e-hulgimüüja ekstranetis on ravimite kirjeldused ja hinnad. A
 
 c) Hinnakujunduse-turunduses on paindlik turuolu­kordade ja klientide suhtes. Interaktiivne kiire andme­vahetus e-turunduses võimaldab müüki kokkuleppe­hindadega. Näiteks lennundusportaalides muutub lennupiletite hind reaalajas sõltuvalt turu olukorrast (Lastminute. com).
 
-### 1.9.5 Kliendisuhete juhtimine (customer relationship management – CRM)
+### A.1.9.5 Kliendisuhete juhtimine (customer relationship management – CRM)
+
+::: danger Probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 Kliendisuhete juhtimine kui uus suund turunduses saab e-äris olulist tuge. Selle turundusstrateegia põhiideed - kliendisu­hete personaliseerimine, otsesuhted iga kliendiga - on e-äri keskkondades tõhusamalt teostatavad. Turustajate personaliseeritud suhtlemine iga kliendiga võimaldab luua ettevõtte infosüsteemis iga kliendi turunduspro­fiili, mida täpsustatakse reaalajas.
 
@@ -912,23 +1261,41 @@ Tulemuseks on:
 
 CRM toimib ettevõtte e-turunduses tõhusalt siis, kui partneriteks on klientide e-varustuse ekstraneti mu­delid.
 
-a) **Reklaam e-turunduses**.Tänapäeval reklaamib iga ettevõte ennast internetis oma lehekülgedel, ena­masti on reklaam seotud internetiportaalidega. Rahvusvahelistel ettevõtetel on oma portaal võim­sate reklaamiveebidega, aga nad reklaamivad oma toodangut ka suurtes reklaamiportaalides (näiteks Yahoo.com). E-reklaam kui ostetud teenus on tõhus juhul, kui ettevõtte e-turundus seda pidevalt aja­kohastab (e-reklaam kui ettevõtte infosüsteemi ekstraneti osa).
+**Reklaam e-turunduses**.Tänapäeval reklaamib iga ettevõte ennast internetis oma lehekülgedel, ena­masti on reklaam seotud internetiportaalidega. Rahvusvahelistel ettevõtetel on oma portaal võim­sate reklaamiveebidega, aga nad reklaamivad oma toodangut ka suurtes reklaamiportaalides (näiteks Yahoo.com). E-reklaam kui ostetud teenus on tõhus juhul, kui ettevõtte e-turundus seda pidevalt aja­kohastab (e-reklaam kui ettevõtte infosüsteemi ekstraneti osa).
 
-b) **Tarnimise juhtimine**.Toodete tarnimine ostjatele on e-logistika funktsioon, mis ühendab transpordiahe­lad, ekspedeerimise, ladustamise, kauba käsitluse, tolli­protseduuride korraldamise ja kaupade jaotamise. Ette­võtte e-turundus võimaldab tellida e-logistika ette­võtetelt transporti, jälgida oma tarnete kulgu, suhelda e-tolliga, arveldada e-panganduse kaudu. E-logistika ettevõtte näide on Maersk Logistics (http://www.maersk-logistics.com).
+**Tarnimise juhtimine**.Toodete tarnimine ostjatele on e-logistika funktsioon, mis ühendab transpordiahe­lad, ekspedeerimise, ladustamise, kauba käsitluse, tolli­protseduuride korraldamise ja kaupade jaotamise. Ette­võtte e-turundus võimaldab tellida e-logistika ette­võtetelt transporti, jälgida oma tarnete kulgu, suhelda e-tolliga, arveldada e-panganduse kaudu. E-logistika ettevõtte näide on Maersk Logistics (http://www.maersk-logistics.com).
 
-### 1.9.6 Ettevõtte e-varustus
+### A.1.9.6 Ettevõtte e-varustus
+
+::: danger Probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 Ettevõtte e-varustuse põhifunktsioonid on hanketur­gude monitooring, tellimine ja hangete juhtimine. Ettevõtte e-varustuses toimub hankimine virtuaal­keskkondades, kus kulgeb ettevõtete e-turunduse ja e-hangete koostöö. Ettevõtte varustajad võrdlevad ja valivad e-turgudel ning ettevõtete müügikataloogidest parima kvaliteedi ja hinnaga tooteid ning tarnijaid, tellivad ja arveldavad interneti kaudu tarnijatega, jäl­givad tarneid e-logistika võrkudes. Suurel ettevõtetel võib olla internetis oma varustusportaal (nt Ford Supp­lier Portal). Ka ettevõtte varustamine võib olla sisse­ostetud teenus (ASP), mida Eestis pakub Helmese e-­hanke süsteem MARKIT (http://www.markit.ee). Sta­biilses tarneketis võimaldab e-varustuse ja tarnijate e-­turustuse koostöö ettevõtte automaatvarustamist
 
-### 1.9.7 Ettevõtte e-rahandus
+### A.1.9.7 Ettevõtte e-rahandus
+
+::: danger Probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 Ettevõtte tegevusvaldkondadest enam digitaliseeritud on rahandus, mis võimaldab selle peaaegu täielikult virtualiseerida. Ettevõtte e-rahandus on firma rahan­dusinfosüsteemi toimimine oma rahanduspartneritega interneti vahendusel. Ettevõtte e-rahandus seondub e-pangaga, e-bör­siga, e-kindlustusega; e-maksuametiga. E-rahandus annab hea võimaluse osta ettevõttele finants­teenuseid väljast nn. e-finantsteenindajalt*.*
 
-### 1.9.8 Virtuaalettevõte
+### A.1.9.8 Virtuaalettevõte
+
+::: danger Probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 E-äri on tekitanud ettevõtluse uue ärimudeli - virtuaal­ettevõtlus. Virtuaalettevõte (v-ettevõte) toodab/vahen­dab digitaalset produkti ja/või toimib põhiliselt vir­tuaalsetes ärikeskkondades. Näiteks Microsoft on suur e-ettevõte, mis toodab nii tarkvara kui ka digitaalset produkti, müüb seda e-turun­duses ja varustab ennast virtuaalsete tarnekeskkondade vahendusel. MSMarket on firma Microsoft e-varustus­süsteem, mille ostukäive aastas on 5 mld dollarit, toimib 48 riigis ja kokkuhoid tänu e-ärile on 7,3 mln dollarit aastas.
 
-### 1.9.9 Kordamisküsimused
+### A.1.9. Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -952,7 +1319,7 @@ E-äri on tekitanud ettevõtluse uue ärimudeli - virtuaal­ettevõtlus. Virtuaa
 
 Selle alateema materjale läbi töötades saad teadmised triigi rollist infosüsteemide loomisel.
 
-### 1.10.1 Riigi rollist infosüsteemide loomisel
+### A.1.10.1 Riigi rollist infosüsteemide loomisel
 
 Infosüsteem on ettevõtte või organisatsiooni info- ja süsteemitöö korralduse, meetodite ning vahendite süs­teem (kogum). Infosüsteem luuakse efektiivsuse tõst­miseks, lähtudes ettevõtte põhieesmärkidest. Ettevõttel või organisatsioonil eksisteerib juhtkonna ja kontori jaoks töökorraldus (sageli organisatsiooni ja tema struktuuriüksuste põhimäärustena), mis sisaldab ka infotöö ja süsteemitöö eesmärke, tegevusprogrammi ning töö metoodikat. Tänapäevane infosüsteem kasu­tab infotehnoloogia vahendeid ja põhiosas mõistame infosüsteemi kui ettevõtet või organisatsiooni koos arvutikasutusega.
 
@@ -1036,7 +1403,7 @@ Loomulikult võivad löögi alla sattuda ka eraettevõtted ja riigiasutused, kui
 
 Kokkuvõtteks võib märkida, et liikumine infoühiskonna suunas on olnud üheks globaliseerumise veduriks, kuid kaugeltki mitte ainus. Kahtlemata aitab vaba suhtlemine inimeste vahel teineteisest paremini aru saada, kuid võib ka tekitada ühiskonnas uusi probleeme.
 
-### 1.10.2 Kordamisküsimused
+### A.1.10.2 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 

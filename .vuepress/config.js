@@ -2,7 +2,7 @@ module.exports = {
   title: "EUCIP 4.0",
   markdown: {
     extendMarkdown: md => {
-      md.set({ breaks: true });
+      md.set({ breaks: true, html: true, linkify: true });
     },
     includeLevel: [1, 2, 3, 4],
     editLinks: true,

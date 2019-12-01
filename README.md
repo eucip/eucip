@@ -2,14 +2,6 @@
 sidebar: none
 ---
 
-# Õppekava
-
-### A [Juhtimine](./oppekava/a_juhtimine.md)
-
-### B [Arendus](./oppekava/b_arendus.md)
-
-### C [Haldus](./oppekava/c_haldus.md)
-
 # Õppematerjalid
 
 ### A Juhtimine
@@ -19,8 +11,6 @@ sidebar: none
 #### A2 [IKT juhtimine](./oppematerjalid/a_juhtimine_02_IKT_juhtimine.md)
 
 #### A3 [IKT väärtuse hindamine](./oppematerjalid/a_juhtimine_03_IKT_vaartuse_hindamine.md)
-
-#### A4 [Ülemaailmne majandusvõrgustik](./oppematerjalid/a_juhtimine_04_ylemaailmne_majandusvorgustik.md)
 
 > A4, A5... jne tulekul
 
@@ -44,4 +34,10 @@ sidebar: none
 
 #### C4 [Võrguteenused](./oppematerjalid/c_haldus_04_vorguteenused.md)
 
-> C4, C5... jne tulekul
+# Õppekava
+
+### A [Juhtimine](./oppekava/a_juhtimine.md)
+
+### B [Arendus](./oppekava/b_arendus.md)
+
+### C [Haldus](./oppekava/c_haldus.md)
