@@ -13,6 +13,9 @@ module.exports = {
     lastUpdated: "Viimati uuendatud",
     repo: "eucip/eucip",
     repoLabel: "Paranda ja täienda Githubis",
-    sidebar: "auto"
+    editLinks: true,
+    editLinkText: 'Paranda või täienda seda lehte Github-is',
+    sidebar: "auto",
+    smoothScroll: true
   }
 };

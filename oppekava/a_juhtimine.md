@@ -318,6 +318,10 @@ Määratleda organisatsioonilise teostatavuse mõiste.
 
 ### A.3.3 Kulud ja tulud.
 
+#### A.3.3.1
+
+Tuua välja peamised investeeringute hindamise meetodid, näiteks investeeringute tulukus (Return on Investment), sisemine kasuminorm (Internal Rate of Return), varade tulevikuväärtus (Net Present Value).
+
 #### A.3.3.2
 
 Kirjeldada IKT rakendamisest saadava tulu hindamist otseste tulude (kulude vähenemine, tähtaegade lühenemine jne.) ja kaudsete tulude (töötajate rahulolu, parem kuvand jne.).
@@ -325,6 +329,20 @@ Kirjeldada IKT rakendamisest saadava tulu hindamist otseste tulude (kulude vähe
 #### A.3.3.3
 
 Määratleda kapitalikulude ja tegevuskulude erinevus.
+
+### A.3.4 Infotehnoloogiliste lahenduste hindamine
+
+#### A.3.4.1
+
+Selgitada saada infosüsteemi maksumuse ja kasude hindamise strateegilisest tähtsusest enne ja pärast uue lahenduse rakendamist.
+
+#### A.3.4.2
+
+Tuua välja uute lahenduste hindamise põhilisi meetodeid (teostatavuse uuring, investeeringu tasuvus, pilootprojektid, kasutajate uuring jne.).
+
+#### A.3.4.3
+
+Loetleda hõlpsasti ja raskesti määratletavaid tulusid ja kulusid.
 
 ## A.4 Ülemaailmne majandusvõrgustik
 

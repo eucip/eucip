@@ -1,4 +1,4 @@
-# 1. Arvutite komponendid ja arhitektuur
+# C1 Arvutite komponendid ja arhitektuur
 
 Selle teema materjale läbi töötades saad teadmised arvuti riistvarakomponentidest, arvutite arhitektuurist ja protsessori tööpõhimõtetest.
 

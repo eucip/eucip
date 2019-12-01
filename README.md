@@ -12,8 +12,6 @@ sidebar: none
 
 #### A3 [IKT väärtuse hindamine](./oppematerjalid/a_juhtimine_03_IKT_vaartuse_hindamine.md)
 
-#### A4 [Ülemaailmne majandusvõrgustik](./oppematerjalid/a_juhtimine_04_ylemaailmne_majandusvorgustik.md)
-
 > A4, A5... jne tulekul
 
 ### B Arendus
@@ -30,7 +28,11 @@ sidebar: none
 
 #### C1 [Arvutite komponendid ja arhitektuur](./oppematerjalid/c_haldus_01_arvutite_komponendid_ja_arhitektuur.md)
 
-> C2, C4... jne tulekul
+#### C2 [Operatsioonisüsteemid](./oppematerjalid/c_haldus_02_operatsioonisysteemid.md)
+
+#### C3 [Side ja Võrgud](./oppematerjalid/c_haldus_03_side_ja_vorgud.md)
+
+#### C4 [Võrguteenused](./oppematerjalid/c_haldus_04_vorguteenused.md)
 
 # Õppekava
 
