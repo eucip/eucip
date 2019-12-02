@@ -12,7 +12,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.5.1.1 Kaasaskantavad elektroonikaseadmed
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada kaasaskantavaid seadmeid nagu nutitelefonid, elektronmärkmik, GPS, kaasaskantavate arvutite komponendid.
 
@@ -55,7 +55,7 @@ See seade võimaldab laadida hulga e-raamatuid mällu ja neid nii mugavalt luged
 
 ### C.5.1.2 Multimeedia sisend-väljundseadmed
 
-::: warning
+::: warning Õppekava
 
 Määratleda põhilised multimeedia sisend/väljund seadmed nagu skännerid, digitaalsed kaamerad, mikrofonid, ekraanid, kõlarid, peamikrofonid ja nende kasutusotstarve.
 
@@ -67,7 +67,7 @@ Virtuaalne reaalsus kasutab multimeediakomponente et luua keskkond, mis sarnanek
 
 ### C.5.1.3 Multimeedia salvestusmeediumid
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada peamised multimeedia massmälukandjate standardid nagu CDROM, DVD, magent-optiline ketas, välkmälu ja erista nende tehnilisi parameetreid
 
@@ -126,7 +126,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.5.2.1 Traadita side tehnoloogiad
 
-::: warning
+::: warning Õppekava
 
 Loetleda traadita sides kasutatavad tehnoloogiad ja nende funktsionaalsus
 
@@ -194,7 +194,7 @@ Sellist modulatsiooniskeemi, mille puhul teostatakse moduleerimine koos spektri 
 
 ### C.5.2.2 Levinud standardid ja nende erinevused
 
-::: warning
+::: warning Õppekava
 
 Määratleda peamised erinevu- sed traadita seadmete standarditel nagu Bluetooth, IEEE802.11, IEEE802.16 (WiMax).
 
@@ -298,7 +298,7 @@ Bluetooth tehnoloogia tutvustus veebis: [http://www.bluetooth.com/Pages/Basics.a
 
 ### C.5.2.3 Traadita ja kaasaskantavate arvutusseadmetega seotud probleemid
 
-::: warning
+::: warning Õppekava
 
 Määratleda piirangud ja probleemid, mis seotud traadita ja mobiilsete seadmetega nagu leviulatus, ühenduskiirus, ühilduvus.
 
@@ -385,7 +385,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.5.3.1 Traadita võrgu komponendid
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada peamisi traadita võrgu (WLAN) komponente ja määratleda nende otstarve.
 
@@ -405,7 +405,7 @@ Joonis 5‑11. WLAN võrku autentimine RADIUS'e serveri abil
 
 ### C.5.3.2 Erinevate tehnoloogiate ühilduvus
 
-::: warning
+::: warning Õppekava
 
 Hinnata erinevate WLAN tehnoloogiate ühilduvus.
 
@@ -415,7 +415,7 @@ Traadita võrguühenduse loomiseks peavad ühenduses osalevad seadmed olema omav
 
 ### C.5.3.3 Satelliitsidevõrgu komponendid
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada peamised satelliitsidevõrgu komponendid.
 
@@ -429,7 +429,7 @@ Satelliitside tehnoloogiat saab kasutada arvutitevaheliseks andmevahetuseks üle
 
 ### C.5.3.4 Mobiilside keskjaamade protokollid ja rakendused
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada peamised mobiilside tugijaamade protokollid nagu mobiilne IP, WAP, Bluetooth, UMTS.
 
@@ -446,7 +446,7 @@ Bluetooth protokoll on kasutuses mobiilsete seadmete omavahel või arvutiga ühe
 
 ### C.5.3.5 Mobiilse protokolli rakendusala
 
-::: warning
+::: warning Õppekava
 
 Määratleda iga mobiilse protokolli rakendusala tugijaamades.
 
@@ -460,7 +460,7 @@ Määratleda iga mobiilse protokolli rakendusala tugijaamades.
 
 ### C.5.3.6 Raadiosagedustuvastus
 
-::: warning
+::: warning Õppekava
 
 Määratleda raadiosagedus- tuvastus (RFID) ja selle kasutus- alad nagu passituvastus, toote jälgimine, ühistranspordi piletisüsteem, inventuuri- süsteemid.
 

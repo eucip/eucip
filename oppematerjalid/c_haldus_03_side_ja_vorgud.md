@@ -75,7 +75,7 @@ Digitaalsed signaalid on diskreetsete väärtuste jadad, mida vastuvõtja saab m
 
 ### C.3.1.4 Signaali muundamine
 
-::: warning
+::: warning Õppekava
 
 Määratleda probleemid signaali muundamisega analoogsest digitaalseks ja vastupidi.
 
