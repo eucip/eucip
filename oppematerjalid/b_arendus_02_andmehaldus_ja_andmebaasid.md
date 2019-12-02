@@ -109,7 +109,7 @@ Sellest hetkest alates on toimunud tehniliste vahendite stabiilne areng ilma suu
 
 ::: danger Puuduolev materjal
 
-Lisandunud on mitterelatsioonilised andmebaasid **NoSQL databases** ja mitmeid teisi andmebaasitüüpe https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37
+Tänapäeval on lisandunud on mitterelatsioonilised andmebaasid **_NoSQL databases_** ning mitmeid teisi andmebaasitüüpe https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37
 
 :::
 
@@ -132,7 +132,7 @@ Tuua välja, kuidas atomaarsus, järjepidevus (consistency), isoleeritus ja vast
 
 :::
 
-Arvutiprogrammi, milline hoiab andmeid ja võtab vastu kasutajate päringuid ning väljastab päringu põhjal vajalikud andmed (kui leiduvad!) vajalikul kujul nimetatakse **andmebaasi haldussüsteemiks** ABHS [database management system](http://en.wikipedia.org/wiki/Database_management_system) (DBMS).
+Arvutiprogrammi, milline hoiab andmeid ja võtab vastu kasutajate päringuid ning väljastab päringu põhjal vajalikud andmed (kui leiduvad!) vajalikul kujul nimetatakse **andmebaasi haldussüsteemiks** ABHS [database management system](http://en.wikipedia.org/wiki/Database_management_system) ***DBMS***.
 
 Andmed salvestaks reeglina mingisuguses andmebaasis. Andmebaasi võib defineerida ka kui **kirjete** kogumit, mis paiknevad arvuti salvestusseadmel, nii, et kui kasutaja pöördub arvuti poole sooviga teatud informatsiooni saada mingi otsuse tegemiseks, siis arvuti konsulteerib andmebaasiga ja kui soovitud andmed leiduvad, siis väljastab need kasutajale. Andmete paremaks kättesaamiseks (leidmiseks) andmebaasist on kirjed reeglina organiseeritud andmeelementide (faktide) kogumina.
 
@@ -977,9 +977,9 @@ Siin käsitletud tingimused on küllaltki lihtsad. Kõikvõimalikud **where** kl
 
 | **Suhteoperaator** | **Tähendus**                                                                           |
 | ------------------ | -------------------------------------------------------------------------------------- |
-| `and`                | Avaldis on tõene, kui operaatorile eelnevad ja järgnevad tingimused on mõlemad tõesed. |
-| `or`                 | Avaldis on tõene, kui vähemalt üks kahest tingimusest on tõene.                        |
-| `not`                | Eitab operaatorile järgnevat tingimust (vastab vastandväärtusele).                     |
+| `and`              | Avaldis on tõene, kui operaatorile eelnevad ja järgnevad tingimused on mõlemad tõesed. |
+| `or`               | Avaldis on tõene, kui vähemalt üks kahest tingimusest on tõene.                        |
+| `not`              | Eitab operaatorile järgnevat tingimust (vastab vastandväärtusele).                     |
 
 Järgnev näide demonstreerib, kuidas tühistatakse kõik õpilane kirjed Juurikas perekonnanimega, kes on sündinud enne 1. jaanuari 1983. Rea tühistamiseks (kustutamiseks) peab see rahuldama mõlemaid tingimusi ja seepärast kasutatakse and operaatorit.
 
