@@ -2,9 +2,19 @@
 sidebar: none
 ---
 
-# Õppematerjalid
+# Teeme IT-õppematerjalid paremaks!
 
-## A Juhtimine
+Siin lehel leiduva õppematerjali järgi õpivad ja [teevad kutseeksamit](https://www.bcskoolitus.ee/kutseandmine/kutseeksamist) Eesti tulevased tarkvaraarendajad. Materjal on loodud aastal **2011** EUCIPi (EL IT-õppekava) raamistiku alusel ja on tänaseks vägagi vananenud.
+
+**Panusta Eesti tarkvaraarenduse tulevikku ja aita kaasa materjali uuendamisel: lisa issuesid parandusettepanekutega või veel parem, saada pull request koos parandustega!**
+
+Vaata siit [sisuloomisjuhiseid](./sisuloomisjuhised.md).
+
+## Õppematerjalid
+
+Õppematerjalid on jaotatud kolme moodulisse:
+
+### A Juhtimine
 
 #### A1 [Organisatsioon ja IKT rakendamine](./oppematerjalid/a_juhtimine_01_organisatsioon_ja_ikt_rakendamine.md)
 
@@ -20,7 +30,7 @@ sidebar: none
 
 #### A7 [Juriidilised ja eetilised küsimused](./oppematerjalid/a_juhtimine_07_juriidilised_ja_eetilised_kysimused.md)
 
-## B Arendus
+### B Arendus
 
 #### B1 [Süsteemiarenduse protsess ja meetodid](./oppematerjalid/b_arendus_01_systeemiarenduse_protsess_ja_meetodid)
 
@@ -30,7 +40,7 @@ sidebar: none
 
 #### B4 [Kasutajaliides ja veebidisain](./oppematerjalid/b_arendus_04_kasutajaliides_ja_veebidisain.md)
 
-## C Haldus
+### C Haldus
 
 #### C1 [Arvutite komponendid ja arhitektuur](./oppematerjalid/c_haldus_01_arvutite_komponendid_ja_arhitektuur.md)
 
@@ -46,10 +56,10 @@ sidebar: none
 
 #### C7 [Teenuste tarne](./oppematerjalid/c_haldus_06_teenuste_tarne.md)
 
-# Õppekava
+## EUCIP õppekava
 
-#### A [Juhtimine](./oppekava/a_juhtimine.md)
+#### A1-A7 [Juhtimine](./oppekava/a_juhtimine.md)
 
-#### B [Arendus](./oppekava/b_arendus.md)
+#### B1-B3 [Arendus](./oppekava/b_arendus.md)
 
-#### C [Haldus](./oppekava/c_haldus.md)
+#### C1-C7 [Haldus](./oppekava/c_haldus.md)

@@ -1,5 +1,5 @@
 module.exports = {
-  title: "EUCIP 4.0",
+  title: "EUCIP: IT kutsehariduse õppematerjalid",
   markdown: {
     extendMarkdown: md => {
       md.set({ breaks: true, html: true, linkify: true });
@@ -103,14 +103,15 @@ module.exports = {
             link: "/oppematerjalid/c_haldus_07_teenuste_tarne.md"
           }
         ]
-      }
+      },
+      { text: "Sisuloomisjuhend", link: "/sisuloomisjuhised.html" }
     ],
     sidebarDepth: 3,
     lastUpdated: "Viimati uuendatud",
     repo: "eucip/eucip",
-    repoLabel: "Paranda ja täienda Githubis",
+    repoLabel: "Täienda Githubis",
     editLinks: true,
-    editLinkText: "Paranda või täienda seda lehte Github-is",
+    editLinkText: "Täienda seda lehte Github-is",
     sidebar: "auto",
     smoothScroll: false
   }
