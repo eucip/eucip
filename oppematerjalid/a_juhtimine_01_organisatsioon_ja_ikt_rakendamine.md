@@ -14,9 +14,9 @@ Kirjeldada organisatsioone ja olulisemaid struktuure nt puustruktuur, kammstrukt
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -48,9 +48,9 @@ Kirjeldada info tähtsust organisatsiooni põhitegevuse (operational) taktikalis
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -100,9 +100,9 @@ Anda töövoo skemaatiline esitus mitme erineva organisatsioonili- se struktuuri
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -127,9 +127,9 @@ Kirjeldada info tähtsust organisatsiooni põhitegevuse (operational) taktikalis
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -151,9 +151,9 @@ Tegelikkuses võivad kõik kaubavahetusega seotud protsessid olla oluliselt pike
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -247,7 +247,7 @@ Loomulikult on ka tarbijate ligipääs erineva tasandi infole erinev, teatud osa
 
 Lõppjäreldusena peab märkima, et infosüsteemid mängivad ettevõtte reaalses tegevuses keskset rolli ja halvasti või lõpuni läbimõtlemata infosüsteemide kasutamine toob kaasa ka kogu ettevõtte majandusliku tegevuse efektiivsuse vähenemise.
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Puuduvad järgmised õppekava alampunktid
 
@@ -298,9 +298,9 @@ Selgitada organisatsiooni paiknemist tööstusharude klassifikatsioonis, selle r
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -348,13 +348,13 @@ Need sihtülesanded peavad sisaldama mõõtühikut (näit. käibe suurendamine),
 
 ::: warning Õppekava
 
-Selgitada, kuidas organisatsioon saab määratleda teenuste strateegiat, näiteks projekteerimine tellimuse alusel (Engineer To Order), tootmine tellimuse alusel (Make To Order), koostamine tellimuse alusel (Assemble To Order), tootmine lattu (Make To Stock).Tuua välja teenuste strateegia mõju planeerimisele ja juhtimisele.
+Selgitada, kuidas organisatsioon saab määratleda teenuste strateegiat, näiteks projekteerimine tellimuse alusel (Engineer To Order), tootmine tellimuse alusel (Make To Order), koostamine tellimuse alusel (Assemble To Order), tootmine lattu (Make To Stock). Tuua välja teenuste strateegia mõju planeerimisele ja juhtimisele.
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -380,9 +380,9 @@ Loetleda ettevõtte tööd mõjutavad välis- ja sisetegurid, näiteks rahvusvah
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -400,7 +400,7 @@ Joonis 1-5. Toote turupositsiooni iseloomustus (allikas Boston Consulting Group)
 
 ### A.1.3.4 Logistika koht ettevõtetes
 
-::: danger Probleem
+::: danger Puudub seostamine õppekavaga
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -523,7 +523,7 @@ Ideid äristrateegia koostamiseks võib saada firma loomise algfaasis, ajurünna
 
 Kokkuvõtteks võib öelda, et innovaatilised lahendused on alati olnud tulevase edu aluseks. Kahjuks pole alati võimalik väga lennukaid ideid ratsionaalselt kirjeldada.
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppematerjalide hulgas puuduvad järgnevad õppekava alamosad
 
@@ -607,7 +607,7 @@ Kõrvuti ettevõtte ressursside juhtimissüsteemi põhiülesannete kasutamisest 
 
 Infosüsteemid ja laiemas mõttes kogu infotehnoloogia kasutamine on aja märk ja võimaldavad ettevõtetel oma äritegevuses jõuda kvalitatiivselt uutele tasanditele.
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppematerjalide hulgas puuduvad järgnevad õppekava alamosad
 
@@ -668,7 +668,7 @@ Seostada IKT rakendused vastavate juhtimistasanditega.
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekava alajaotus ei vasta õppematerjali sisule
 
@@ -690,9 +690,9 @@ Määratleda organisatsiooni teadmised, mälu ja õppimine.
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -724,9 +724,9 @@ Visandada mõned otsustamise ja mõõtmismeetodid, nt Pareto ja Ichikawa diagram
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -746,9 +746,9 @@ Kirjeldada tugi, mida juhtimisinfosüsteem (MIS) annab organisatsioonis ja tuua 
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -800,7 +800,7 @@ Reaalne teadmusjuhtimine baseerub erinevatel projektidel, millega hallatakse eri
 
 ### A.1.6.6 Teadmusjuhtimise tehnoloogiad
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -913,7 +913,7 @@ Määratleda koostöötehnika ja loetleda selle peamised omadused ja rakendused.
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekava alajaotus ja õppematerjali seos on nõrk
 
@@ -933,9 +933,9 @@ Määratleda töövoosüsteemide eesmärk ja tuua vaäja nende eelised vähem fo
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -969,9 +969,9 @@ Tuua välja erinevused virtuaalse rühmatöö ja füüsiliselt samades ruumides 
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
 :::
 
@@ -995,7 +995,7 @@ Joonisel 1-8 on näha, et globaliseerumise kasv loob tingimused eri kultuurikesk
 
 Kokkuvõtteks peab märkima, et üheks edukust tagavaks teguriks tuleb pidada töö protsessi juhtimise süsteemi, milles on arvestatud nii kultuurilisi iseärasusi kui ka organisatsioonilisi probleeme ja kasutatud häid tehnoloogilisi lahendusi.
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Puudub järgmine õppekava alampunkt
 
@@ -1066,7 +1066,7 @@ Tuleb alati meeles pidada tõsiasja, et e-õpe ei ole tavaõppe automaatne kopee
 
 Tõsist tähelepanu nõuab ka tagasiside korraldamine, kuna kõik õppurid peavad saama vastused oma küsimustele, ilmselt on ka siin omad kulud, kuna õppejõud pole füüsiliselt võimeline kõigiga suhtlema, seega tuleb kindlasti kasutada tuutoreid.
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Puuduvad (või on need eelmise alampunkti juures) järgmise õppekava alampunktid
 
@@ -1126,7 +1126,7 @@ Loetleda tegureid IKT kasulikkusest ja kahjulikkusest ühiskonnale.
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekava alajaotus on õppematerjaliga nõrgalt seotud
 
@@ -1172,7 +1172,7 @@ Määratleda digitaalse lõhe mõiste.
 
 :::
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1222,7 +1222,7 @@ Ettevõtte põhilised juhtimisvaldkonnad e-äris on e-turundus, e-varustus, e-fi
 
 ### A.1.9.4 Ettevõtte e-turundus
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1246,7 +1246,7 @@ c) Hinnakujunduse-turunduses on paindlik turuolu­kordade ja klientide suhtes. I
 
 ### A.1.9.5 Kliendisuhete juhtimine (customer relationship management – CRM)
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1267,7 +1267,7 @@ CRM toimib ettevõtte e-turunduses tõhusalt siis, kui partneriteks on klientide
 
 ### A.1.9.6 Ettevõtte e-varustus
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1277,7 +1277,7 @@ Ettevõtte e-varustuse põhifunktsioonid on hanketur­gude monitooring, tellimin
 
 ### A.1.9.7 Ettevõtte e-rahandus
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1287,7 +1287,7 @@ Ettevõtte tegevusvaldkondadest enam digitaliseeritud on rahandus, mis võimalda
 
 ### A.1.9.8 Virtuaalettevõte
 
-::: danger Probleem
+::: danger Puudulik sisu
 
 Õppekavas puudub viide antud õppematerjalile
 
