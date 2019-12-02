@@ -12,9 +12,9 @@ sidebar: none
 
 #### A3 [IKT väärtuse hindamine](./oppematerjalid/a_juhtimine_03_IKT_vaartuse_hindamine.md) (kommenteeritud)
 
-#### A4 [Ülemaailmne majandusvõrgustik](./oppematerjalid/a_juhtimine_04_ylemaailmne_majandusvorgustik.md)
+#### A4 [Ülemaailmne majandusvõrgustik](./oppematerjalid/a_juhtimine_04_ylemaailmne_majandusvorgustik.md) (kommenteeritud)
 
-#### A5 [Projektijuhtimine](./oppematerjalid/a_juhtimine_05_projektijuhtimine.md)
+#### A5 [Projektijuhtimine](./oppematerjalid/a_juhtimine_05_projektijuhtimine.md) (kommenteeritud)
 
 #### A6 [Koostöö ja kommunikatsioon](./oppematerjalid/a_juhtimine_06_koostoo_ja_kommunikatsioon.md)
 
