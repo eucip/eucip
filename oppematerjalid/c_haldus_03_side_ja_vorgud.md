@@ -822,7 +822,7 @@ Võrguliikluse statistika ja kasutusel portide jooksva info vaatamiseks on olema
 
 :::
 
-### Soovitatavad praktilised harjutused
+## Soovitatavad praktilised harjutused
 
 - Installeerida võimaluse korral virtuaalne testimiskeskkond (näiteks Hyper-V, Virtual PC, Virtualbox, VMware) ja luua virtuaalmasinad, kus installeeritud erinevad operatsioonisüsteemid (Linux, Windows)
 - Käivita erinevate operatsioonisüsteemide all veebilehitsejaga sessioon vabalt valitud aadressile ja tuvasta millist lokaalset portide vahemikku kasutatakse andmeühenduse jaoks.
@@ -832,7 +832,7 @@ Võrguliikluse statistika ja kasutusel portide jooksva info vaatamiseks on olema
   - marsruutimistabel
   - kontrolli marsruutimisteed vabalt valitud aadressile
 
-### Lisamaterjalid
+## Lisamaterjalid
 
 - EUCIP programmi materjal: Learning Materials for Information Technology Professionals (EUCIP-Mat)
 

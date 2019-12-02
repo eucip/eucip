@@ -651,13 +651,13 @@ Vahemälu parameetrid:
 
 :::
 
-### Soovitatavad praktilised harjutused
+## Soovitatavad praktilised harjutused
 
 - Tuvastada protsessori ja mälu parameetrid utiliidiga CPU-Z
 - Tuvastada arvuti kiibistik, BIOS ja süsteemikomponendid kasutades utiliiti msinfo32 (Microsoft Windows)
 - Koostada arvutimängurile vajaliku arvuti plokkskeem ja teha selle jaoks nimekiri reaalselt saadaolevatest arvutikomponentidest
 
-### Lisamaterjalid
+## Lisamaterjalid
 
 - EUCIP programmi materjal: Learning Materials for Information Technology Professionals (EUCIP-Mat)
 

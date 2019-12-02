@@ -97,6 +97,10 @@ module.exports = {
           {
             text: "C6 Võrguhaldus",
             link: "/oppematerjalid/c_haldus_06_vorguhaldus.md"
+          },
+          {
+            text: "C7 Teenuste tarne",
+            link: "/oppematerjalid/c_haldus_07_teenuste_tarne.md"
           }
         ]
       }
@@ -108,6 +112,6 @@ module.exports = {
     editLinks: true,
     editLinkText: "Paranda või täienda seda lehte Github-is",
     sidebar: "auto",
-    smoothScroll: true
+    smoothScroll: false
   }
 };

@@ -452,8 +452,7 @@ Määratleda raadiosagedus- tuvastus (RFID) ja selle kasutus- alad nagu passituv
 
 ## C.6 Võrguhaldus
 
-C.6.1
-Võrguhalduse põhimõtted
+### C.6.1 Võrguhalduse põhimõtted
 
 #### C.6.1.1
 
