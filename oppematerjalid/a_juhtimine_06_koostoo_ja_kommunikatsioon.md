@@ -6,7 +6,7 @@ Selle teema materjale läbi töötades saad üldteadmised meeskonnatööst ja ko
 
 Selle alateema materjale läbi töötades saad teadmised meeskondade liikmete rollidest, koostöö toimimisest ja eelistest.
 
-::: warning
+::: warning Õppekava
 
 **A.6.1.1**
 Määratleda mõisted grupp ja meeskond ning kirjeldada nende motivatsioonitasemete erinevust.
@@ -325,9 +325,9 @@ Viis, kuidas töötajad käsitlevad muudatusi, on iga isiku jaoks erinev ning s�
 
 Olulisim asi juhtimisel on näidata inimestele, et nad on üks osa muudatuste protsessist. Inimesed tahavad tunda, et nad on osa millestki suuremast ja olulisemast kui nad ise. Kui nad mõistavad suunda ja nende osa soovitud tulemuste teoks saamisel, siis nad võivad efektiivselt koostööd teha. Juhtkonna vastutusalas on hõlbustada ja kergendada muudatusi ning samuti aidata töötajatel mõista põhjusi, eesmärke, nagu ka kogu strateegilist raamistikku koos missiooni, visiooni ja väärtustega. Oluline on vastata positiivselt (mitte hinnanguid andvalt) muudatusele ja töötajate reaktsioonidele. Juhtimine peab aitama töötajail näha muutust kui võimalust ja juhtimine peab demonstreerima seda nende endi reaktsioonis muutusele. Tähtis on ka näha tasakaalu muudatuse ja püsiväärtuse vahel.
 
-**Toetavad funktsioonid, kommunikatsioon ja motivatsioon**
+![](../images/a6_muudatused.png)
 
-Joonis A.6.2. Muudatuse juhtimise protsess
+_Joonis A.6.2. Muudatuse juhtimise protsess_
 
 #### Vastuseis
 
@@ -438,7 +438,7 @@ Töötajatele tuleb rõhutada, et nende motivatsioon on tähtis ja arvestatav ni
 
 ### A.6.4.1 Kommunikatsioon
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada tõhusa kommunikatsiooni ülesannet ühiste eesmärkide teadvustamisel.
 
@@ -474,7 +474,7 @@ Tuua välja isikutevahelise suhtluse vormid ja näidata vajadust kõnepruugi (ž
 
 ### A.6.4.3 Tehnilised muudatused
 
-::: warning
+::: warning Õppekava
 
 **A.6.4.3**
 
@@ -542,7 +542,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama audiovisuaalvahendite kasutamise eelised
 - Tundma tehnilised nõuded audiovisuaalvahendite kasutamisel.
 
-::: warning
+::: warning Õppekava
 
 **A.6.5.1**
 

@@ -6,7 +6,31 @@ Selle teema materjale läbi töötades saad üldised teadmised juriidika ja eeti
 
 Selle teema materjale läbi töötades saad teadmised intellektuaalsest omandist ja patentidest.
 
-### A.7.1.1 Intellektuaalomand ja autoriõigus
+::: warning Õppekava
+
+**A.7.1.1**
+
+Määratleda intellektuaalse omandi mõiste.
+
+**A.7.1.2**
+
+Tuua välja üldisemad intellektu- aalse omandi rikkumise liigid.
+
+**A.7.1.3**
+
+Loetleda meetodeid, mille abil intellektuaalset omandit kaitsta.
+
+**A.7.1.4**
+
+Tuua välja autoriõiguse omanik IKT mõistes.
+
+**A.7.1.5**
+
+Näidata enamlevinud autoriõiguse rikkumise viise.
+
+:::
+
+#### Intellektuaalomand ja autoriõigus
 
 Alljärgnevalt antakse ülevaade intellektuaalomandi olemusest, kuid ei käsitleta kõiki võimalikke tahke sügavuti tulenevalt selle teema keerukusest ja rahvusvahelisest olemusest. Intellektuaalomandi mõiste on pidevas arengus tingituna üha uutest võimalikest loomevormide tekkimisest ja probleemide üle on pidevalt vaieldud alates Berni konventsiooni http://www.riigikantselei.ee/failid/Autori_guse_p_him_tted.pdf vastvõtmisest.
 
@@ -14,15 +38,15 @@ Väljakujunenud praktika tehnilise loomingu kaitsmisel võib olla mitmesugune s�
 
 Uued tehnilised lahendused kaitstakse patentide, kasulike mudelitena või tööstusdisainlahendusena. Patendi saamiseks peab kaitstav lahendus olema uudne kogu inseneriteaduse jaoks. Kasuliku mudeli puhul on üleilmse uudsuse nõue olemas, kuid see piirdub uue rakendusliku lahendusega ja tööstusdisainlahendus kaitseb toote välist kujundust. (vt. Eesti Patendiameti veebileht www.epa.ee). Eraldi käsitletakse bioloogia-alaseid patente (mikrobioloogilised kultuurid, biotehnoloogia). Eesti Vabariigis ja enamikus riikides kehtib patent **kuni 20 aastat.**
 
-Originaallooming, kui seda ei kaitsta tööstusomandi kaitse meetmetega on automaatselt autorikaitse objektiks. Seda sõltumata sellest, kas see on kuskil registreeritud või mitte. Vaikimisi on autoril kõik õigused oma loominguga ümberkäimise reguleerimiseks. Autoril on õigus või tulenevalt töö- ja muudest lepingulistest suhetest kohustus loovutada varalisi autoriõigusi teistele isikutele. Autorile jääb võõrandamatult alles tema kui looja õigus nimetada ennast ja olla nimetatud teose autoriks. Oluline on alati eristada autoriõiguse nimetatud kahte aspekti - võõrandamatu õigus autorlusele ja võõrandatavad varalised autoriõigused. Varaliste õiguste reguleerimisele on pühendatud palju seadusi, esmane neist on Autoriõiguse seadus (https://www.riigiteataja.ee/akt/810714?leiaKehtiv). Autoriõigusega on kaetud kõik loometööd - seaduse mõistes "teosed" - kirjanduslikud, muusikalised, kujutav kunst, teatrietendused, filmid jne. Samuti arhitektuur, raadio- ja telesaated, etendused ja kontserdid, teadustööd, ajakirjanduslikud artiklid (v.a. uudised), tõlked, arvutiprogrammid, mittetriviaalsed kogumikud jne.
+Originaallooming, kui seda ei kaitsta tööstusomandi kaitse meetmetega on automaatselt autorikaitse objektiks. Seda sõltumata sellest, kas see on kuskil registreeritud või mitte. Vaikimisi on autoril kõik õigused oma loominguga ümberkäimise reguleerimiseks. Autoril on õigus või tulenevalt töö- ja muudest lepingulistest suhetest kohustus loovutada varalisi autoriõigusi teistele isikutele. Autorile jääb võõrandamatult alles tema kui looja õigus nimetada ennast ja olla nimetatud teose autoriks.
+
+Oluline on alati eristada autoriõiguse nimetatud kahte aspekti - võõrandamatu õigus autorlusele ja võõrandatavad varalised autoriõigused. Varaliste õiguste reguleerimisele on pühendatud palju seadusi, esmane neist on Autoriõiguse seadus (https://www.riigiteataja.ee/akt/810714?leiaKehtiv). Autoriõigusega on kaetud kõik loometööd - seaduse mõistes "teosed" - kirjanduslikud, muusikalised, kujutav kunst, teatrietendused, filmid jne. Samuti arhitektuur, raadio- ja telesaated, etendused ja kontserdid, teadustööd, ajakirjanduslikud artiklid (v.a. uudised), tõlked, arvutiprogrammid, mittetriviaalsed kogumikud jne.
 
 Tervikliku pildi saamiseks peab välja tooma ka kaubamärkide erisuse. Need on samuti õigusliku kaitse all. Nende kaitse on sarnane patentide õiguslikule režiimile. Oluline on teada sisulist vahet nende kahe kaitstava objekti vahel. Patendid kaitsevad isiku loodud tehnilist originaallahendust (leiutis või meetod). Kaubamärgi puhul kaitstakse teksti, graafilist kujundit või nende kombinatsiooni, mille eesmärgiks on esile tuua ja kinnistada sellega turul toodet, teenust või organisatsiooni. Kaubamärgi puhul on põhitähelepanu vormil.
 
-![](data:image/png;base64,AQAJAAAD4QsAAAIAOgsAAAAAFAAAACYGDwAeAP////8EABQAAABXb3JkDgBNaWNyb3NvZnQgV29yZAUAAAALAgAAAAAFAAAADAJGAmsCHAAAAPsCEAAHAAAAAAC8AgAAAAABAgIiU3lzdGVtAACcDGbmAAAKACYAigEAAAAA/////zjQEwAEAAAALQEAAAUAAAACAQEAAAAcAAAA+wKc/wAAAAAAAJABAAAAAARAABJUaW1lcyBOZXcgUm9tYW4AiKnzd5Gp83cgMPV3nAxm5gQAAAAtAQEABQAAAAkCAAAAAg0AAAAyCgAAAAABAAQAAAAAAGsCRgIgYy0AEAAAACYGDwAWAP////8AAP/////gAAAAbAIAAHgBAAAFAAAABwEEAAAAOgsAAEMPIADMAAAANADUAAAAAACWAGsC4QAAACgAAADUAAAANAAAAAEABAAAAAAA8BUAAJgfAAC6HwAAEAAAABAAAAAAAAAAALewAAy6swAYvLYAJL+5ADDBvABIxsEAVMnEAF/LxwBrzcoAd9DNAI/V0gCb19UAp9rYALPc2wC/394A/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////+7u7u7u7u7u7u7u7u7u7u7u7u7u7/////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////8RERERERERERERERERERERERERERv////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////8RERERERERERERERERERERERERERv////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////8RERERERERERERERERERERERERERv////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////8RERERERERERERERERERERERERERv////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////8RERERERERERERERERERERERERERv////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////8REV////////////////////9RERv////////////////////////////////////////////////////////////////////////////////////////////////wAA////////////////8REV////////////////////9RERv//////6VVr///////VVX///+EVVVVVVXP//+lVa//hFXP///1VVVVX////FVVVVVVWv///1VV//xVWP/////////////////wAA////////////////8REV////////////////////9RERv//////4ERj///////ERH///9RERERERG///+BEY//URG////xERERH///+xERERERGP///xER//sRFf/////////////////wAA////////////////8REV////////////////////9RERv//////4ERj///////ERH///9RERERERG///+BEY//URG////xERERH///+xERERERGP///xER//sRFf/////////////////wAA////////////////8REV////////////////////9RERv//////4ERj///////ERH///9RERERERG///+BEY//URG////xERERH///+xERERERGP///xER//sRFf/////////////////wAA////////////////8RERERERERERERERERERERERERERv//////4ERj/9REb//ERH///9REWu7ERG///+BEY//URG////xERm7v///+xEUu7YRGP///xER//sRFf/////////////////wAA////////////////8RERERERERERERERERERERERERERv//////4ERj/9REb//ERH///9REY//ERG///+BEY//URG////xERv/////+xEV//gRGP///xER//sRFf/////////////////wAA////////////////8RERERERERERERERERERERERERERv//////4ERj/9REb//ERH///9REY//ERG///+BEY//URG////xERv/////+xEV//gRGP///xER//sRFf/////////////////wAA////////////////8RERERERERERERERERERERERERERv//////4ERj/9REb//ERH///9REY//ERG///+BEY//URG////xERv/////+xEV//gRGP///xER//sRFf/////////////////wAA////////////////8RERERERERERERERERERERERERERv//////4ERj/9REb//ERH///9REY//ERG///+BEY//URG////xERv/////+xEV//gRGP///xER//sRFf/////////////////wAA////////////////8RETiIiIiIiIiIiIiIiIiIiIgxERv//////4ERERERERERERH///9RERERERG///+BERERERG////xERERH///+xERERERGP///xERERERJf/////////////////wAA////////////////8REV////////////////////9RERv//////4ERERERERERERH///9RERERERG///+BERERERG////xERERH///+xERERERGP///xERERERFP/////////////////wAA////////////////8REV////////////////////9RERv//////4ERERERERERERL///9RERERERG///+BERERERG////xERERH///+xERERERGP///xERERERJf/////////////////wAA////////////////8REV////////////////////9RERv//////4EhIhIhIhIhIhL///9SIhIhIhK///+BISISIRK////xERERL///+yISISISGP///yIhIhIhJf/////////////////wAA////////////////8REV////////////////////9RERv///////u7u7u7u7u7u7v////Lu7u7u7v////7u7u7u7v////xERm7v////7u7u7u7v////7u7u7u7vP/////////////////wAA////////////////8RESVVVVVVVVVVVVVVVVVVVVUhERv////////////////////////////////////////////////xERv////////////////////////////////////////////wAA////////////////8RERERERERERERERERERERERERERv////////////////////////////////////////////////xERv////////////////////////////////////////////wAA////////////////8RERERERERERERERERERERERERERv////////////////////////////////////////////////yERv////////////////////////////////////////////wAA////////////////8RERERERERERERERERERERERERERv////////////////////////////////////////////////yEhv////////////////////////////////////////////wAA////////////////8iISIiEiIhIiISIiEiIhIiISIiEiv////////////////////////////////////////////////4iI/////////////////////////////////////////////wAA////////////////9VVVVVVVVVVVVVVVVVVVVVVVVVVVz////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAABQAAAAcBAQAAAAgAAAAmBg8ABgD/////AQAEAAAALQEAAAMAAAAAAA==)
+![](../images/a7_vanatallinn.png)
 
-![](data:image/png;base64,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)
-
-Joonis 7-1. Eesti tuntumad kaubamärgid välismaal aastal 2006
+_Joonis 7-1. Eesti tuntumad kaubamärgid välismaal aastal 2006_
 
 Intellektuaalomandi omanik on tavaliselt füüsiline isik või nende ühendus s.o. leiutaja või teose autor. Eespool oli juba vihje võimalusele, et autoriõigused, nende varaline pool, võivad kuuluda juriidilisele isikule vastavate lepingute alusel või kui loodu on sündinud töölepingu alusel ülesandeid täites. Kui teisiti ei ole kokku lepitud, siis töölepingu alusel tehtud töö tulemused kuuluvad tööandjale, kaasa arvatud loometulemuse majanduslik kasutamine ja kõikvõimalikud edasiarendused.
 
@@ -30,7 +54,7 @@ Isikud, kelle käsutuses on varalised autoriõigused nimetatakse seaduse keeles 
 
 Õiguslike meetmete esmase toimimise eest on vastutavad eelkõige jõustruktuurid - Maksu- ja Tolliamet ning politsei. Õigustatud juhtudel viivad need läbi kasutatavate või müüdavate toodete legaalsuse kontrolliks reide. Sobivateks meetoditeks on tollikontroll ning müügi- ja kasutuskohtade läbivaatused. Müüjad ja kasutajad peavad suutma tõestada toodete õiguspärast päritolu ja kasutusõigusi.
 
-### A.7.1.2 Tarkvara kasutusõigused
+#### Tarkvara kasutusõigused
 
 Tarkvaratoodete ja teenuste puhul on kastusõigused sõltuvad tootjate poolt antud litsentsidest ja kasutajad ning kontrollijad peavad väga täpselt teadma kaubamärkide olemust ja oskama lugeda väga erinevate litsentside tingimusi. Sageli ei pruugi ostutšekkide ja originaalpakendi (mis mõned aastad tagasi olid enamusel juhtudel tarkvara puhul vältimatud) puudumine veel olla autoriõiguste rikkumist tõendav asjaolu. Tehnoloogilisi meetmeid rakendatakse kõigi kasutajagruppide alates algajatest kuni ekspertideni puhul takistamaks neil tooteid loata s.t. illegaalseid kanaleid pidi hankima ja autoritasu maksmata kasutada. Siia kuuluvad mitmesugused juurdepääsu piiravad kodeerimisvõtmete sidumine toote seerianumbriga, geograafilised piirangud (DVD-de tsoonid) jne.
 
@@ -40,7 +64,7 @@ Kasutajate lojaalsuse tagamiseks on loodud mitmeid viise. Üks levinumaid on pro
 
 Omandusliku tarkvara kasutamiseks tuleb reeglina osta kasutusõigus s.o. litsents, selle kõige sagedamini pruugitavas mõttes. Õiguste valdaja võib kehtestada tingimused, mille järgi võib üks ja seesama tarkavara rakendus olla sõltuvalt kasutajast iga nimetatud levitusviisi alla kuuluv. Oluline on eristada veel vabavara ja vaba tarkvara. Viimane tähendab avatud lähtekoodiga tarkvara. Vaba tarkvara ei pruugi ilmtingimata olla vabavara, kuigi see on üks levinumaid vorme.
 
-### A.7.1.3 Autoriõiguste kaitse
+#### Autoriõiguste kaitse
 
 Autoriõiguste valdajatel on võimalus kaitsta oma õigusi rahvusvaheliselt, kas registreerides oma patendid ja kaubamärgid soovitud maades või Euroopa patendi. Kaubamärkide registreerimine ei ole kohutuslik, kuid annab kindluse omandi väärkasutuste vastu.
 
@@ -60,7 +84,7 @@ Tuntumad intellektuaalomandi vaidluste teemad:
 
 SCO vs. IBM [http://www.infoworld.com/article/06/07/03/HNscofewerclaims_1.html](http://www.infoworld.com/article/06/07/03/HNscofewerclaims_1.html)
 
-### A.7.1.4 Kordamisküsimused
+### A.7.1 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -84,11 +108,33 @@ SCO vs. IBM [http://www.infoworld.com/article/06/07/03/HNscofewerclaims_1.html](
 
 :::
 
-## A.7.2 IT-ga seotud õigusruum
+## A.7.2 Juriidika
+
+ehk "IT-ga seotud õigusruum"
 
 Selle alateema materjale läbi töötades õpid tundma seaduslikke regulatsioone isikuandmete kasutamiseks. Lisaks saad teada nende kogumisest andmebaasidesse ja uute tehnoloogiatega (näiteks digiallkiri) seonduvast seadusandlusest. Käsitletakse ka töösuhete regulatsiooni, samuti valdkonnaäris olulisi IT põhi- ja ka tarnelepinguid.
 
-### A.7.2.1 Eesti õigusaktid. Infosüsteemidega seotud õigusaktid
+### A.7.2.1 Tarkvarapiraatlus
+
+::: warning Õppekava
+
+Määratleda tarkvarapiraatluse mõiste.
+
+:::
+
+::: danger Õppematerjal asub mujal
+
+Tarkvarapiraatlust käsitletakse õppematerjali punktis 7.1
+
+:::
+
+### A.7.2.2 Eesti õigusaktid. Infosüsteemidega seotud õigusaktid
+
+::: warning Õppekava
+
+Tuua välja IKT puudutavate siseriiklike õigusaktide üldpõhimõtted.
+
+:::
 
 IT õigusruum on reguleeritud eriseadustega ja seadustega, mis on oma olemuselt olnud IT spetsiifilised, kuid infotehnoloogiliste rakenduste üha laiema levikuga omandanud paljusid ühiselu tahke reguleerivateks (nt. Isikuandmete kaitse seadus). Üldisemad aspektid - nagu töö seadusandlus, tööohutus ja töötervishoid ei oma kindlaid IT erisusi seaduse tasemel, kuid rakenduslikul tasemel tuleb muidugi töökoha - režiimi ja -korralduse tingimusi arvestada.
 
@@ -98,61 +144,83 @@ Kui IT-d puudutav seadusandlus on suuremal määral läbi põimunud igapäevaelu
 
 Vaata ka [Riigi Teataja elektrooniline andmekogu](http://www.riigiteataja.ee/)
 
-**Avaliku teabe seadus** (RT I 2000, 92, 597; https://www.riigiteataja.ee/akt/122032011009)
+#### Avaliku teabe seadus
+
+(RT I 2000, 92, 597; https://www.riigiteataja.ee/akt/122032011009)
 
 Seaduse eesmärk on tagada üldiseks kasutamiseks mõeldud teabele avalikkuse ja igaühe juurdepääsu võimalus, lähtudes demokraatliku ja sotsiaalse õigusriigi ning avatud ühiskonna põhimõtetest, ning luua võimalused avalikkuse kontrolliks avalike ülesannete täitmise üle. Paljud riiklike infosüsteeme puudutavad regulatsioonid (andmekogud, klassifikaatorid, geoinfosüsteemid jne.) on kirjas selles seaduses.
 
-**Digitaalallkirja seadus** ( RT I 2000, 26, 150; [https://www.riigiteataja.ee/akt/13314840](https://www.riigiteataja.ee/akt/13314840))
+#### Digitaalallkirja seadus
+
+( RT I 2000, 26, 150; [https://www.riigiteataja.ee/akt/13314840](https://www.riigiteataja.ee/akt/13314840))
 
 Seadus sätestab digitaalallkirja kasutamiseks vajalikud tingimused ning sertifitseerimisteenuse ja ajatempliteenuse osutamise üle järelevalve teostamise korra.
 
-**Elektroonilise side seadus** (RT I 2004, 87, 593; [https://www.riigiteataja.ee/akt/123032011011](https://www.riigiteataja.ee/akt/123032011011))
+#### Elektroonilise side seadus
+
+(RT I 2004, 87, 593; [https://www.riigiteataja.ee/akt/123032011011](https://www.riigiteataja.ee/akt/123032011011))
 
 Seaduse eesmärk on luua telekommunikatsiooni arenguks soodsad tingimused ja tagada telekommunikatsiooniteenuse kasutajate kaitse vaba konkurentsi soodustamise teel. Seaduses sätestatakse nõuded telekommunikatsioonivõrkudele, telekommunikatsioonivõrkude opereerimisele ja osutatavatele telekommunikatsiooniteenustele ning riikliku järelevalve kord kehtestatud nõuete täitmise üle.
 
-**Isikuandmete kaitse seadus** (RTI, 16.03.2007, 24, 127; https://www.riigiteataja.ee/akt/12802623)
+#### Isikuandmete kaitse seadus
+
+(RTI, 16.03.2007, 24, 127; https://www.riigiteataja.ee/akt/12802623)
 
 Seaduse eesmärk on isikuandmete töötlemisel füüsilise isiku põhiõiguste ja põhivabaduste kaitsmine kooskõlas avalike huvidega.
 
-**Autoriõiguse seadus**
+#### Autoriõiguse seadus
 
 (RT I, 06.01.2011, 34; [https://www.riigiteataja.ee/akt/810714?leiaKehtiv](https://www.riigiteataja.ee/akt/810714?leiaKehtiv))
 
 Autoriõiguse seaduse eesmärk on tagada kultuuri järjepidevus ja kultuurisaavutuste kaitse, autoriõigusel põhinevate tootmisharude ja rahvusvahelise kaubanduse areng ning luua autoritele, teose esitajatele, fonogrammitootjatele, televisiooni- ja raadioteenuse osutajatele, filmi esmasalvestuse tootjatele, andmebaasi tegijatele ning teistele asjaosalistele soodsad tingimused teoste ja muude kultuurisaavutuste loomiseks ja kasutamiseks.
 
-Eesti infoühiskonna arengukava 2013
+#### Eesti infoühiskonna arengukava 2013
 
 (http://www.riso.ee/et/infopoliitika/arengukava)
 
 "Eesti infoühiskonna arengukava 2013" on Vabariigi Valitsuse poolt kinnitatav valdkondlik arengukava, mis sätestab infoühiskonna arendamise üldise raamistiku ja seab eesmärgid ning määratleb neist tulenevad tegevusvaldkonnad IKT laialdaseks kasutamiseks teadmistepõhise majanduse ning - ühiskonna arendamisel Eestis aastail 2007-2013. Arengukava sätestab põhimõtted ja eesmärgid ka sidevaldkonna, v.a. postiside, arendamiseks. EL liikmesriigina on strateegia väljatöötamisel arvesse võetud 2005. aastal heakskiidetud infoühiskonna raamdokumenti i2010 ja 2006. aastal heakskiidetud EL‑i e-valitsuse tegevuskava.
 
-**Arhiiviseadus** (RT I 1998, 36/37, 552;
+#### Arhiiviseadus
+
+(RT I 1998, 36/37, 552;
 
 https://www.riigiteataja.ee/akt/13314609)
 
 Seadus sätestab arhivaalide kogumise, hindamise, arhiveerimise, säilitamise ja nendele juurdepääsu korraldamise ning arhiivide tegevuse alused.
 
-**Riigisaladuse ja salastatud välisteabe seadus** (RT I 2007, 16, 77; https://www.riigiteataja.ee/akt/12791615)
+#### Riigisaladuse ja salastatud välisteabe seadus
+
+(RT I 2007, 16, 77; https://www.riigiteataja.ee/akt/12791615)
 
 Seadus sätestab riigisaladuse mõiste, riigisaladuseks oleva teabe, riigisaladusele juurdepääsu ning riigisaladuse ja salastatud teabekandjate töötlemise korra alused.
 
-**Riikliku statistika seadus** ([RT I 2010, 41, 241](https://www.riigiteataja.ee/akt/13332259); https://www.riigiteataja.ee/akt/13338093)
+#### Riikliku statistika seadus
+
+([RT I 2010, 41, 241](https://www.riigiteataja.ee/akt/13332259); https://www.riigiteataja.ee/akt/13338093)
 
 Seadus kehtestab õiguslikud alused riiklike statistiliste vaatluste süsteemseks ja kavakindlaks korraldamiseks.
 
-**Riigihangete seadus** ([RT I 2007, 15, 76](https://www.riigiteataja.ee/akt/12791579); https://www.riigiteataja.ee/akt/106012011020)
+#### Riigihangete seadus
+
+[RT I 2007, 15, 76](https://www.riigiteataja.ee/akt/12791579); https://www.riigiteataja.ee/akt/106012011020)
 
 Seadus sätestab riigihangete teostamise korra, riigihangetega seotud subjektide õigused ja kohustused ning vastutuse käesoleva seaduse rikkumise eest, samuti riikliku järelevalve teostamise korra, eesmärgiga edendada konkurentsi ning tagada riigihangete läbipaistvus ja pakkumismenetluses osalejate võrdne kohtlemine.
 
-**Infosüsteemide turvameetmete süsteem** ( VV, https://www.riigiteataja.ee/akt/13125331)
+#### Infosüsteemide turvameetmete süsteem
+
+(VV, https://www.riigiteataja.ee/akt/13125331)
 
 Määrusega kehtestatakse riigi ja kohaliku omavalitsuse andmekogudes sisalduvate andmekoosseisude töötlemiseks kasutatavate infosüsteemide ning nendega seotud infovarade turvameetmete süsteem. Turvameetmete süsteem koosneb turvanõuete spetsifitseerimise korrast ning andmete organisatsiooniliste, füüsiliste ja infotehniliste turvameetmete kirjeldustest. Turvameetmete süsteemi rakendamine seisneb infoturbe eesmärkidele vastavate turvaklasside määramises ja nendele vastavate turvameetmete valimises vastavalt infosüsteemide kolmeastmelise etalonturbe süsteemi (edaspidi ISKE) rakendamisjuhendile ja nende rakendamises ning rakendamise auditeerimises.
 
-### A.7.2.2 Tarkvara litsentsid
+#### Tarkvara litsentsid
 
 Litsentsid jagunevad liht- ja ainulitsentsideks. Lihtlitsentsi andmisel säilib litsentsiandjal õigus litsentsis nimetatud õigusi ka ise teostada, ainulitsentsi andmisel mitte. Ainulitsentsi andmine ei muuda varem antud lihtlitsentside kehtivust (nt kuni nende tähtaja lõpuni).
 
-Kuna omandipõhise ja vaba tarkvara ärimudelid ja levitamise õiguslikud põhimõtted on erinevad, siis tuleb nende puhul vaadelda laias laastu kahte tüüpi litsentse. Omandusliku tarkvara puhul jäävad kõik varalised õigused ühele isikule, kas arendajale või tellijale. Vaba tarkvara (mitte segamini ajada vabavaraga) puhul kasutatakse copyleft ehk õigustest loobumise põhimõtet. Viimase ulatus määratakse kasutatavas litsentsis.
+Kuna omandipõhise ja vaba tarkvara ärimudelid ja levitamise õiguslikud põhimõtted on erinevad, siis tuleb nende puhul vaadelda laias laastu kahte tüüpi litsentse.
+
+**Omandusliku tarkvara** puhul jäävad kõik varalised õigused ühele isikule, kas arendajale või tellijale.
+
+**Vaba tarkvara** (mitte segamini ajada **vabavaraga**) puhul kasutatakse copyleft ehk õigustest loobumise põhimõtet. Viimase ulatus määratakse kasutatavas litsentsis.
 
 Vaba tarkvara litsentsid on lihtlitsentsid, mis tagavad igale litsentsitava tarkvara koopia valdajale vaba tarkvara neli põhiõigust igale selle kasutajale:
 
@@ -161,9 +229,9 @@ Vaba tarkvara litsentsid on lihtlitsentsid, mis tagavad igale litsentsitava tark
 3. muuta ja parendada
 4. nii muudetud kui muutmata kujul levitada.
 
-Litsentse, mis ei ole vaba tarkvara litsentsid, nimetatakse omanduslikeks (ingl keeles proprietary*)*.
+Litsentse, mis ei ole vaba tarkvara litsentsid, nimetatakse omanduslikeks **_proprietary_**.
 
-Copyleft (sõnamänguline termin, mis on tuletatud autoriõiguse inglise keelsest nimetusest "copyright"põhimõte on klausel vaba kasutamise tagamise kohta. See tagab igale tarkvara koopia valdajale õiguse teostada teatavaid seaduse alusel ainult autorile kuuluvaid õigusi. Copyleft tugineb autoriõigusele: kui seadus ei annaks autorile rida ainuõigusi, sh õigust lubada või keelata oma teose kasutamist teiste isikute poolt, ei saaks autor oma teose ega sellest tuletatud teoste levitamisele mingeid piiranguid seada.
+**_Copyleft_** (sõnamänguline termin, mis on tuletatud autoriõiguse inglise keelsest nimetusest **_copyright_** põhimõte on klausel vaba kasutamise tagamise kohta. See tagab igale tarkvara koopia valdajale õiguse teostada teatavaid seaduse alusel ainult autorile kuuluvaid õigusi. Copyleft tugineb autoriõigusele: kui seadus ei annaks autorile rida ainuõigusi, sh õigust lubada või keelata oma teose kasutamist teiste isikute poolt, ei saaks autor oma teose ega sellest tuletatud teoste levitamisele mingeid piiranguid seada.
 
 Kui litsentsisaaja levitab ja/või edastab originaaltarkvara koopiaid või sellest saadud muudetud tarkvara, tohib see levitamine ja/või edastamine toimuda ainult vastavalt algse litsentsi tingimustele järgi või autori poolt mõne muu kindlaks määratud litsentsi tingimustele. Seejuures litsentsisaaja muutumisel litsentsiandjaks ei saa ta tarkvarale või sellest tuletatud tarkvarale lisada ega kehtestada mingeid lisatingimusi, mis muudavad või piiravad algse litsentsi tingimusi.
 
@@ -177,15 +245,15 @@ Keerukamad tarkvarasüsteemid koosnevad reeglina erinevate autorite poolt loodud
 
 Antud teema käsitlemisel on kasutatud Peeter P. Mõtsküla materjale:http://www.riso.ee/wiki/File:Tarkvaraalaste_riigihangete_korraldamise_soovitused\_ver1.01.odt
 
-### A.7.2.3 Töösuhted
+#### Töösuhted
 
 Infotehnoloogia alal töösuhted ei erine üldistest. Kuna infotehnoloogia on kujunenud teisi majandusharusid läbivaks - horisontaalseks tegevusalaks, siis töötades ettevõtetes, mis ei ole IT ettevõtted peavad töötajad arvestama selle majandusharu jaoks kehtestatud erisusi. Näiteks avaliku teenistuse või kaitseväe reegleid ning samuti kollektiivlepingu tingimusi, kui niisugune on olemas. Tihti puutuvad infotehnoloogia spetsialistid vahetult kokku organisatsiooni jaoks tundlike andmetega, mis ei tohi jõuda kõrvaliste isikuteni. Niisugustel juhtudel on vältimatu sõlmida töötajaga konfidentsiaalsuse kokkulepe töölepingu lahutamatu osana.
 
-### A.7.2.4 Tarnelepingud
+#### Tarnelepingud
 
 Organisatsioonide omavaheline suhtlus toimub reeglina lepingute alusel. Eestis reguleerib neid suhteid kõige enam Võlaõigusseadus, milles on kirjas üldised põhimõtted, kuid lepingute sõlmijad on oma tahteavalduses suures osas vabad. Normaalselt toimivate suhete korral justnagu ei olekski lepinguid vaja, kuid need annavad ettenägematute juhtude jaoks õiguskindluse ja tagavad võimalikult väikesed kahjud lepingupooltele lepingu rikkumise puhuks. Avalikus sektoris töötades on oluline silmas pidada, et seadusega määratud maksumust ületavad ostud ja tellimused peavad läbima riigihanke kõik protseduurid.
 
-### A.7.2.5 IT lepingud
+#### IT lepingud
 
 Tellija ja tarnija huvide kaitseks on hea omada ettekujutust kogu infosüsteemide elutsükli jaoks võimalikest lepingutest. Kõikide infosüsteemi hankimisel sõltumata sellest, kas ostetakse valmis toode või tellitakse suuremal-vähemal määral arendustöid, puutuvad mõlemad pooled kokku süsteemi kasutustingimuste ehk litsentsilepingutega. Lepinguosalised peavad läbi rääkima loodava/tarnitava tarkvara kasutusrežiimi. Valida mitmete variantide vahel alates vabavarast, avatud lähtekoodiga tarkvarast kuni omandusliku tarkvara puhul rentimisest täieliku väljaostuni. Viimane tähendab üldiselt tarkara üleminekut tellija ainuomandisse.
 
@@ -229,7 +297,17 @@ Seadus näeb ette juhud, millal pakkumine ja sellega nõustumine muutuvad siduva
 
 Tehingute kinnitamisel ja tehingupoolte tuvastamiseks ning nende volituste kontrolliks on hea kasutada digitaalallkirja.
 
-### A.7.2.6 Kordamisküsimused
+::: danger Puuduv õppematerjal
+
+Järgneva õppekava punkti kohta puudub õppematerjal:
+
+**A.7.2.3**
+
+Tuua välja EL õigusaktide IKT-d puudutavad üldpõhimõtted.
+
+:::
+
+### A.7.2 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -251,7 +329,22 @@ Tehingute kinnitamisel ja tehingupoolte tuvastamiseks ning nende volituste kontr
 
 Selle alateema materjale läbi töötades õpid tundma käitumiskoodeksit, mis peaks olema üks professionaalse spetsialisti tegutsemise aluseks.
 
-### A.7.3.1 Eetika ja käitumisreeglid
+::: warning Õppekava
+
+**A.7.3.1**
+
+Tuua välja, kuidas kõiki otsuseid saab kaaluda kas organisatsioonilistest, eetilistest või moraalsest põhimõttest lähtudes.
+
+**A.7.3.2**
+Näidata, kuidas isikliku ja tööalase eraelu puutumatuse küsimused on seotud IKT süsteemide kasutamisega.
+
+**A.7.3.3**
+
+Loetleda tavalisemad teemad, mis on seotud ametialase käitumise reeglitega IKT süsteemide kasutamise l ja arendamisel.
+
+:::
+
+#### Eetika ja käitumisreeglid
 
 Inimühiskond on aegade jooksul välja kujundanud üldised väärtushinnangud, mille alusel otsustatakse oma liikmete käitumise üle. Need väärtused on piirkonniti ja kogukonniti väga erinevad. Ajaloos esmaseks väärtushinnangute kujunemise aluseks on kindlasti vajadus väärtustada tegusid, mis aitavad kogukonda elus hoida ja kestma jääda. Ühiskonna arenedes lisanduvad siia religioossed, majanduslikud, õiguslikud, poliitilised ja muud tegurid.
 
@@ -299,7 +392,9 @@ Euroopa Kutseliitude Nõukogu (Council of European Professional Informatics Soci
 - ametialase kohalemääramise (edutamise) toetamine, välja arvatud põhjendamatud juhud
 - klientide ja osapoolte huvide kokkupõrget põhjustavate olukordade vältimine avades eelnevalt kõigile osapooltele kogu informatsiooni asjaoludest.
 
-### A.7.3.2 Kordamisküsimused
+### A.7.3 Kordamisküsimused
+
+::: tip Kordamisküsimused
 
 Missugusel juhul käitub IT spetsialist vastavalt üldtunnustatud eetikakoodeksile, kui märkab kolleegide väga hästi tehtud tööd?
 
@@ -307,11 +402,41 @@ Missugusel juhul käitub IT spetsialist vastavalt üldtunnustatud eetikakoodeksi
 - Tunnustab tehtud tööd avalikult, tutvustab selle tulemusi laiemalt ning seab endale eesmärgi saavutada sarnaseid tulemusi X
 - Tunnustab tehtud tööd oma sisimas ja püüab saavutada samasuguseid tulemusi
 
+:::
+
 ## A.7.4 Turvalisus
 
 Selle alateema materjale läbi töötades õpid tundma turvalisuse tagamise põhimõtteid ühiskonnas ja organisatsioonis.
 
-### A.7.4.1 IT süsteemide töökindlus
+::: warning Õppekava
+
+**A.7.4.1**
+
+Tuua välja võimalikud ohud IKT taristule.
+
+**A.7.4.2**
+
+Selgitada konkreetseid meetodeid ja tehnoloogiaid, mis kaitsevad süsteemi ebaseadus- liku, pahatahtliku rünnaku ja juhusliku rikkumise eest.
+
+**A.7.4.3**
+
+Kirjeldada turvareeglistiku eesmärki ja kohaldamisala.
+
+**A.7.4.4**
+
+Tuua välja turvajuhi roll.
+
+**A.7.4.5**
+
+Eristada turvareeglite tasemeid ja seostada need riskide tõsidusega.
+
+**A.7.4.6**
+
+Anda ülevaade teatud stsenaariumiga seotud turvapõhimõtetest.
+
+:::
+
+#### IT süsteemide töökindlus
 
 Infotehnoloogia on muutnud infotöö nii avalikus kui ka erasektoris oluliselt efektiivsemaks. Infoturve on muutunud väga oluliseks kogu maailmas. Võrreldes olukorraga mõned aastad tagasi on infovarad veelgi kasvanud, ohud ja ründed läinud massilisemaks, meetmed maksavad järjest rohkem ja riskid on suuremad. Infoturvet ei saa enam tagada üks ametkond, ettevõte, töögrupp või riik - vaja on kõigi osaliste koostööd igas organisatsioonis, riigis ja rahvusvaheliselt.
 
@@ -358,11 +483,11 @@ Koostöö vajalikkust näitab juba erinevad seaduste ja määruste hulk, mis ots
 - Autoriõiguse seadus
 - Elektroonilise side seadus.
 
-Teadvustamine ja koolitus
+#### Teadvustamine ja koolitus
 
 Infoturbe tagamiseks peavad kõik osapooled olema teadlikud ohtudest, riskidest, rünnetest, meetmetest ja teistest infoturbega seotud asjaoludest. Kõik organisatsioonid peaksid kaitsma oma süsteeme ja teadvustama infoturvet kui strateegilist edufaktorit, mitte vaid kui kuluartiklit. Inimesed peaksid aru saama, et nende koduarvutite asjakohane turvamine on kriitilise tähtsusega üldises infoturbe ahelas. Selleks tuleb läbi viia pidevat turva-alast teadvustamist ja koolitust.
 
-Regulatsioonide väljatöötamine
+#### Regulatsioonide väljatöötamine
 
 Infoturbe tegevuste aluseks on vastavad regulatsioonid. On vaja spetsifitseerida, välja töötada, evitada ja uuendada infotehnoloogilise ja elektroonilise kommunikatsiooni infrastruktuuri ning elektroonilise side valdkondade infoturbe tagamiseks vajalikud protseduurid, dokumentatsioon ja vahendid. See tegevus hõlmab infoturvete ja elektroonilist sidet, kriitilise informatsioonilise infrastruktuuri kaitset, andmekogude pidamist, turvalisi e-teenuseid, turvastandardeid, riskianalüüsi mõõdikute väljatöötamist.
 
@@ -374,7 +499,7 @@ Informatsiooniline infrastruktuur on kaasaegse riigi ja majanduse üks aluseid, 
 
 Oluline on inimeste kaitse vastavalt põhiõigustele ning asutuste ja ettevõtete kaitse-meetmete rakendamine. Selleks peab rakendama kõige rangemad meetmed isikuandmete kaitseks, turvalised e‑identiteedi vahendid (näiteks ID-kaart ja mobiil‑ID ja viimaste piiriülese kasutamise võimalused). Inimesi tuleb kaitsta illegaalse või ebasoovitava sisuga tülitamise eest (ahistamine, laste pornograafia, vägivalla õhutamine jne).
 
-### A.7.4.2 Elutähtsad valdkonnad ja teenused
+#### Elutähtsad valdkonnad ja teenused
 
 Arenenud riikide majandused ja ühiskonnad toetuvad väga paljus infosüsteemidele. Viimaste aastate jooksul on meie sõltuvus IT lahenduste toimimisest oluliselt suurenenud (äriprotsesside tulemuslikkus, avaliku sektori teenused, m-parkimine jne). Mõne infosüsteemi mittetoimimine võib avaldada olulist mõju äriettevõtte ja riigiasutuse toimimisele ja selle kaudu ka kodanike teenindamisele. Riigi toimimise seisukohast on eriti oluline elutähtsate teenuste toimimine. Seetõttu tuleb keskenduda kriitilise informatsiooni infrastruktuuri, sealhulgas ka informatsioonilise infrastruktuuri, kaitsele, et tagada elutähtsate teenuste ja vajalike infosüsteemide toimimine.
 
@@ -396,7 +521,7 @@ Selleks on paika pandud viis prioriteetset suunda:
 
 Elutähtsad valdkondade kaitse edukaks elluviimiseks tuleb need "lahti kirjutada" teenuste tasandil ning määratleda ka asutuste ja ettevõtete kohustused teenuste toimepidevuse tagamisel. Elutähtsa teenuse osutajal on kohustus koostada teenuse toimepidevuse riskianalüüs ning ka toimepidevuse plaan. Elutähtsa teenuse osutaja riskianalüüsi eesmärk on kaardistada elutähtsa teenuse toimimise seisukohast olulised ressursid ja tegevused ning analüüsida tegureid, mis võivad põhjustada teenuse toimimise lakkamist. Elutähtsa teenuse osutaja toimepidevuse plaan sisaldab vastust küsimusele, kuidas on tagatud elutähtsat teenust toetavate tegevuste toimimise suutlikkus (riskide maandamine) ning nende taastamine ohu realiseerumise korral.
 
-### A.7.4.3 Infoturbe meetmed
+#### Infoturbe meetmed
 
 Turvariskide maandamiseks tuleb alati vaadata, kes on nende ärahoidmise eest vastutavad. Niisuguste ülesannete jagamine tehakse organisatsiooni infopoliitika ühe osana või ka eraldi dokumendina. See käsitleb kõiki selles organisatsioonis asjakohaseid turvalisusega seotud aspekte s.o. kehtestab infourbe meetmete süsteemi. Alati on organisatsiooni sisese vastutuse kõrval s.o. vastutus kaastöötajate, klientide ja tarnijate ees, olemas ka laiem vastutus ühiskonnas, mis hõlmab usaldust infotehnoloogia rakendamise vastu äritegevuses, sotsiaalsetes suhetes ja avalike teenuste kasutamises.
 
@@ -408,7 +533,7 @@ Infosüsteemi turvaanalüüsi põhjal määratakse töödeldavate andmete koosse
 
 Turbetasemed jaotatakse teabe käideldavuse (K - eelnevalt kokkulepitud vajalikul/nõutaval tööajal kasutamiskõlblike andmete õigeaegne ja hõlbus kättesaadavus selleks volitatud tarbijaile), tervikluse (T - andmete õigsuse/täielikkuse/ajakohasuse tagatus ning päritolu autentsus ja volitamatute muutuste puudumine) ja konfidentsiaalsuse (S - andmete kättesaadavus ainult selleks volitatud tarbijaile ning kättesaamatus kõigile ülejäänutele) alusel. Andmete turvaklassi tähis moodustatakse osaklasside tähistest nende järjestuses K-T-S, näiteks K2T3S1. Vastavalt turvaklassile tuleb kasutada asjakohaseid arendusvahendeid infosüsteemi loomisel, ette näha ning maandada kõik võimalikud riskid süsteemide töö halvamiseks või riknemiseks.
 
-Terviklikkus
+#### Terviklikkus
 
 Kitsamas, ainult infosüsteemi käsitlemise mõttes, on infosüsteemi terviklikkuse kaitseks võimalik rakendada tehnilisi ja organisatsioonilisi meetmeid.
 
@@ -424,7 +549,9 @@ Mõned näited ilmselt erinevate turvanõuetega süsteemidest:
 - infrastruktuurisüsteemid mis hoiavad toimimas majanduse (pangad, side jne)
 - e‑äri ja avaliku teenuse süsteemid, mida kodanikud kasutavad igapäevaselt.
 
-Kokkuvõtteks. Rakendatud turvameetmete hindamise kriteeriumid peavad olema koostatud nii, et need näitaks selle vastavust infosüsteemi turvaklassile. Hindamine peab näitama, kas kõik riskid on arvesse võetud ja peab olema võimalik määrata (loomulikult süsteemi terveks jätvate simulatsioonidega) kasutatavate turvatehnikate tulemuslikkust ja ennetavate meetmete tõhusust iga potentsiaalse riski korral. Riskide realiseerumise tõenäosus ja oht peavad siin mängima olulist osa testide planeerimisel ning ei tohi jätta tähelepanuta, et kogu turvasüsteem on parasjagu nii tugev kui tugev on selle nõrgim lüli. Hästi korraldatud rünne leiab alati üles nõrgima lüli süsteemis ja sellest piisab, et halvata kas süsteemi käideldavust, terviklikkust või konfidentsiaalsust.
+Rakendatud turvameetmete hindamise kriteeriumid peavad olema koostatud nii, et need näitaks selle vastavust infosüsteemi turvaklassile. Hindamine peab näitama, kas kõik riskid on arvesse võetud ja peab olema võimalik määrata (loomulikult süsteemi terveks jätvate simulatsioonidega) kasutatavate turvatehnikate tulemuslikkust ja ennetavate meetmete tõhusust iga potentsiaalse riski korral. Riskide realiseerumise tõenäosus ja oht peavad siin mängima olulist osa testide planeerimisel ning ei tohi jätta tähelepanuta, et kogu turvasüsteem on parasjagu nii tugev kui tugev on selle nõrgim lüli. Hästi korraldatud rünne leiab alati üles nõrgima lüli süsteemis ja sellest piisab, et halvata kas süsteemi käideldavust, terviklikkust või konfidentsiaalsust.
+
+#### Põhiterminid
 
 Kuna andmeturve on spetsiifiline valdkond, siis on asjakohane tuua eraldi välja mõned põhiterminid.
 
@@ -448,7 +575,7 @@ Kuna andmeturve on spetsiifiline valdkond, siis on asjakohane tuua eraldi välja
 
 **Public Key Infrastructure,\*\*** PKI \***\*–** avaliku võtme infrastruktuur.
 
-### A.7.4.4 Kordamisküsimused
+### A.7.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -474,7 +601,23 @@ Kuna andmeturve on spetsiifiline valdkond, siis on asjakohane tuua eraldi välja
 
 Selle alateema materjale läbi töötades saad teadmised peamistest regulatsioonidest töökohal tervise ja ohutuse tagamiseks.
 
-### A.7.5.1 Olulised nõuded ja ühtlustatud Euroopa standardid
+::: warning Õppekava
+
+**A.7.5.1**
+
+Kirjeldada IT kasutamisega seotud töötervishoiu ja tööohutuse teemasid, näiteks teravad servad, kumad pinnad, kasutus- ja utiliseerimistingimused, mitmesugused lained, elektrilöögid, kaablid, ekraanivirvendus, (nt hiire) ülekoormusvigastused.
+
+**A.7.5.2**
+
+Loetleda tegevused mis võimaldavad minimeerida või kõrvaldada töötervishoiu ja –turvalisusega seotud riske.
+
+**A.7.5.3**
+
+Tuua välja Euroopa Liidu ja Eesti seaduste ja määruste põhiosad, mis puudutavad töötervishoiu ja –turvalisusega seotud riske.
+
+:::
+
+#### Olulised nõuded ja ühtlustatud Euroopa standardid
 
 Infotehnoloogia on oma olemuselt tegevusala, mis on sarnane teiste kontoritöödega, millega ei kaasne suuri riske tööohutuse mõttes, nii professionaalidele kui ka inimestele, kes kasutavad andmetöötlusteenuseid või arvuteid ja muid kommunikatsiooniseadmeid. Eraldi tuleb vaadelda inimesi, kes tegelevad seadmetega, mille puhul tuleb jälgida elektriohutuse nõudeid ja kaabeldusega tegelevaid spetsialiste, kelle puhul kaasneb veel lisaks töötamine kõrgustes või kitsaste ruumides (kaablitunnelid jne).
 
@@ -511,7 +654,7 @@ Oma otsusega [2000/299/EÜ](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?ur
 
 on Euroopa Komisjon kehtestanud raadioseadmete ja telekommunikatsiooni lõppseadmete klassid, mida ei saa kasutada kõikjal Euroopa Liidus. Niisugused seadmed peavad kandma erimärgistust
 
-### A.7.5.2 Üldine seadmete ohutus
+#### Üldine seadmete ohutus
 
 Nii nagu igas elektriseadme korral peavad olema ka IT-tehnika toiteseadmed vastama üldise elektriohutuse nõuetele. Elektrilöögi saamise võimalus peab olema välistatud ja kasutajad peavad võtma tarvitusele täiendavad meetmed (maandused, antistaatilised vaibad kontori põrandal, erivarustus hoolduse töökohtadel ja tehnikutel) elektrostaatiliste laengutest põhjustatud elektrilöökide vältimiseks. Elektriseadmete rikked võivad olla ka tulekahju põhjustajateks, seetõttu peab tööruumides olema ka vastavad kustutusseadmed (pulber- või süsihappegaasiga kustutid). Lubamatu on kinni katta jahutamist vajavaid osi või teha märjaks pingestatud seadmeid.
 
@@ -631,7 +774,7 @@ Eelpool toodud seadusaktid põhinevad Euroopa Liidu järgmistel direktiividel:
 - Electromagnetic Compatibility Directive 89/336/EEC
 - Electrical equipment designed for use with certain voltage limits. Directive 73/23/EEC
 
-### A.7.5.3 Kordamisküsimused
+### A.7.5 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 

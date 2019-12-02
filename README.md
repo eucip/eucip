@@ -16,9 +16,9 @@ sidebar: none
 
 #### A5 [Projektijuhtimine](./oppematerjalid/a_juhtimine_05_projektijuhtimine.md) (kommenteeritud)
 
-#### A6 [Koostöö ja kommunikatsioon](./oppematerjalid/a_juhtimine_06_koostoo_ja_kommunikatsioon.md)
+#### A6 [Koostöö ja kommunikatsioon](./oppematerjalid/a_juhtimine_06_koostoo_ja_kommunikatsioon.md) (kommenteeritud)
 
-#### A7 [Juriidilised ja eetilised küsimused](./oppematerjalid/a_juhtimine_07_juriidilised_ja_eetilised_kysimused.md)
+#### A7 [Juriidilised ja eetilised küsimused](./oppematerjalid/a_juhtimine_07_juriidilised_ja_eetilised_kysimused.md) (kommenteeritud)
 
 ## B Arendus
 
