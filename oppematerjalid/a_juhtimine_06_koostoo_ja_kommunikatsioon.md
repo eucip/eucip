@@ -237,7 +237,7 @@ Seminar on TASUTA
 
 ::: danger Puuduv seos ja materjal
 
-Õppekava peatüki ja õppematerjali peatüki vahel puudub seos, sotsiaalvõrgustike õppematerjal puudub:
+Õppekava peatüki ja õppematerjali peatüki vahel puudub seos, sotsiaalvõrgustike õppematerjal asub:
 
 **A.6.3 Sotsiaalvõrgustikud**
 
@@ -309,7 +309,7 @@ Selle alateema materjale läbi töötades õpid:
 - Tundma uue tehnoloogia aktsepteerimiseks vajalikke motivatsioonitegureid
 - Tundma muutustele vastuseisu põhjustavaid tegureid.
 
-### A.6.4.1 Muutuste algatamine
+#### Muutuste algatamine
 
 Muudatused võivad olla kas oodatud või mitte oodatud, aga tänapäeval on nende vältimine võimatu. Muudatuste juhtimine peab sisaldama oma olemuselt mõttelist arengut, planeerimist, hoolikat rakendamist, seiret ja konsultatsiooni ning selle kõige juures inimeste kaasamist protsesside mõjutamisse. Muudatus peab olema realistlik, saavutatav ja mingil viisil mõõdetav. Muudatuse protsessis peavad olema mõningad indikaatorid iga etapi edu mõõtmiseks juba enne alustamist. See võimaldab näha iga etapi arengut ja teeb progressi nähtavaks.
 
@@ -317,7 +317,7 @@ Muudatuste juhtimine on osa organisatsioonilistest muutustest ja teisalt ka osa 
 
 Muudatuse tegemine nõuab võimet ja valmisolekut loobuda paljuski endisel viisil mõtlemast ja asju teostamast. Töötajad võivad muudatuste läbi viimise ajal toimida ebakindlalt. Võime võtta riske ja valmisolek uuesti õppida protsesse on juhtimise jaoks oluline faktor. Antud juhul vaatleme põhiliselt juhtimise perspektiivist, kuid töötajate perspektiiv on samuti tähtis.
 
-### Juhtkonna osa muutustes
+#### Juhtkonna osa muutustes
 
 Inimesi ei saa tagant sundida ja kiirustada muutuma. Juhtkonnal on vastutus muudatuste juhtimisel, töötajatele ei saa vastutust panna. Nende vastutusalas on teha oma tööd parimal viisil muudatuste protsessi jooksul. Juhtimine mõjutab suuresti organisatsiooni-kultuuri ning võib seda teha positiivselt või negatiivselt.
 
@@ -326,12 +326,6 @@ Viis, kuidas töötajad käsitlevad muudatusi, on iga isiku jaoks erinev ning s�
 Olulisim asi juhtimisel on näidata inimestele, et nad on üks osa muudatuste protsessist. Inimesed tahavad tunda, et nad on osa millestki suuremast ja olulisemast kui nad ise. Kui nad mõistavad suunda ja nende osa soovitud tulemuste teoks saamisel, siis nad võivad efektiivselt koostööd teha. Juhtkonna vastutusalas on hõlbustada ja kergendada muudatusi ning samuti aidata töötajatel mõista põhjusi, eesmärke, nagu ka kogu strateegilist raamistikku koos missiooni, visiooni ja väärtustega. Oluline on vastata positiivselt (mitte hinnanguid andvalt) muudatusele ja töötajate reaktsioonidele. Juhtimine peab aitama töötajail näha muutust kui võimalust ja juhtimine peab demonstreerima seda nende endi reaktsioonis muutusele. Tähtis on ka näha tasakaalu muudatuse ja püsiväärtuse vahel.
 
 **Toetavad funktsioonid, kommunikatsioon ja motivatsioon**
-
-::: danger Probleem
-
-Joonis puudub
-
-:::
 
 Joonis A.6.2. Muudatuse juhtimise protsess
 
@@ -442,7 +436,13 @@ Mida ma võidan sellest muudatusest?
 
 Töötajatele tuleb rõhutada, et nende motivatsioon on tähtis ja arvestatav ning et nad peaksid oma arvamust avaldama ning nad peavad saama ise vastata küsimusele: Missuguseid uusi võimalusi see konkreetne muudatus toob mulle?
 
-#### Kommunikatsioon
+### A.6.4.1 Kommunikatsioon
+
+::: warning
+
+Kirjeldada tõhusa kommunikatsiooni ülesannet ühiste eesmärkide teadvustamisel.
+
+:::
 
 Muudatusi tutvustades ja juhtides on oluline osa kommunikatsioonil. Muudatus põhjustab tavaliselt hirmu erinevate asjade suhtes. Kommunikatsioon peab olema äärmiselt avatud, aus ja julgustav. Kommunikatsioon peab toimima kõigi osapoolte vahel. Muudatuse juhtimisel on alati kindlad teemad, mis tuleb läbi käia, nagu miks see muutus, muudatuse faasid, kesksed eesmärgid jne. Kommunikatsioon peab olema interaktiivne ja mis kõige tähtsam, katma kõik protsessi etapid plaanimisest kuni monitoorimiseni. Silmast-silma kommunikatsioon on ülioluline, igaüks peab tundma, et teda hinnatakse.
 
@@ -460,9 +460,33 @@ Juhid peavad vastama järgnevale küsimusele:
 
 Töötajad peavad teadma, et nad võivad diskuteerida juhtkonnaga erinevatel teemadel ja esitada küsimusi. Usaldus ja mõistmine peavad olema täielikud.
 
-#### Tehnilised muudatused
+### A.6.4.2 Isikutevahelise suhtluse vormid ja kõnepruuk
 
-Nii juhid kui töötajad peavad mõistma, mida tähendab uute protsesside ja süsteemide kasutuselevõtt. Asjad ei muutu päeva jooksul, aga detailne planeerimine aitab kogu protseduuri tehniliselt paremini läbi viia. Vajadused tuleb hoolikalt kaardistada ja hinnata. Otsustusprotsessi tuleb kaasata uued vajadused, mida inimesed rakendavad oskuste ja motivatsiooniga. Ka nn tuleviku-kasutajad tuleb kaasata rakendamise protsessi juba varajases\*\* staadiumis. Osalemise võimalus suurendab motivatsiooni ja edu protsesside läbiviimisel.
+::: danger Õppematerjal asjub mujal
+
+Alljärgneva õppekava punkti A.6.4.2 materjalid asuvad hoopis õppematerjali [A.6.2](#a-6-2-it-moisted-ja-maaratlused-kasutamine-suhtluses) all:
+
+**A.6.4.2**
+
+Tuua välja isikutevahelise suhtluse vormid ja näidata vajadust kõnepruugi (žargoon) ja IT terminoloogia ühese mõistmise järele.
+
+:::
+
+### A.6.4.3 Tehnilised muudatused
+
+::: warning
+
+**A.6.4.3**
+
+Loetleda uue tehnoloogia aktsepteerimist motiveerivad tegurid.
+
+**A.6.4.4**
+
+Loetleda põhjusi muutustele vastuseisu osutamiseks.
+
+:::
+
+Nii juhid kui töötajad peavad mõistma, mida tähendab uute protsesside ja süsteemide kasutuselevõtt. Asjad ei muutu päeva jooksul, aga detailne planeerimine aitab kogu protseduuri tehniliselt paremini läbi viia. Vajadused tuleb hoolikalt kaardistada ja hinnata. Otsustusprotsessi tuleb kaasata uued vajadused, mida inimesed rakendavad oskuste ja motivatsiooniga. Ka nn tuleviku-kasutajad tuleb kaasata rakendamise protsessi juba varajases staadiumis. Osalemise võimalus suurendab motivatsiooni ja edu protsesside läbiviimisel.
 
 Asjad, millele tuleb hoolikalt tähelepanu pöörata muudatuse rakendamise protsessis:
 
@@ -483,7 +507,7 @@ Juhid peavad vastama järgnevatele küsimustele:
 
 Töötajatele tuleb teada anda, et nad saavad tehniliste muudatuste läbiviimisel kaasa aidata esitades küsimusi ja hinnates uusi võimalusi. Tavaliselt teavad kasutajad ise kõige paremini, missugused teemad on kontrolli all ja mida tuleks täiustada, paremaks muuta. Tuleb meeles pidada, et pärast rakenduse faasi protsess jätkub (tarkvara)täienduste, uuenduste ja koolitustega jne. Seega tuleb kannatlik olla, alati tuleb ette üllatusi, aga nendega saab tegeleda.
 
-### A.6.4.2 Kordamisküsimused
+### A.6.4 Kordamisküsimused
 
 ::: tip Kordamisküsimused
 
@@ -517,6 +541,26 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama audiovisuaalvahendite kasutamise võimalused
 - Kirjeldama audiovisuaalvahendite kasutamise eelised
 - Tundma tehnilised nõuded audiovisuaalvahendite kasutamisel.
+
+::: warning
+
+**A.6.5.1**
+
+Loetleda kõige laialdasemalt kasutatavad audiovisuaalsed töövahendid.
+
+**A.6.5.2**
+
+Tuua välja valdkonnad, kus audiovisuaalseid tööriistu võiks kasutada.
+
+**A.6.5.3**
+
+Tuua välja audiovisuaalsete vahendite eelised.
+
+**A.6.5.4**
+
+Loetleda nõuded audiovisuaalsete vahendite kasutamisel.
+
+:::
 
 ### A.6.5.1 Audiovisuaalsed vahendid
 
