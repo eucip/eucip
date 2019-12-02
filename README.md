@@ -34,7 +34,7 @@ sidebar: none
 
 #### C1 [Arvutite komponendid ja arhitektuur](./oppematerjalid/c_haldus_01_arvutite_komponendid_ja_arhitektuur.md)
 
-#### C2 [Operatsioonisüsteemid](./oppematerjalid/c_haldus_02_operatsioonisysteemid.md)
+#### C2 [Operatsioonisüsteemid](./oppematerjalid/c_haldus_02_operatsioonisysteemid.md) (kommenteeritud)
 
 #### C3 [Side ja võrgud](./oppematerjalid/c_haldus_03_side_ja_vorgud.md)
 
