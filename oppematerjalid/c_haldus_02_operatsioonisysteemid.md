@@ -13,7 +13,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.1.1 Personaalarvuti operatsioonisüsteemi funktsioonid
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada operatsioonisüsteemi (OS) funktsioone, mida on vaja üldotstarbelisele arvutile.
 
@@ -61,7 +61,7 @@ Selleks, et kaitsta OS'i kasutajarakenduste eest on OS'is kasutusel erinevad pro
 
 ### C.2.1.2 Operatsioonisüsteemide erinevad tüübid
 
-::: warning
+::: warning Õppekava
 
 Välja tuua erinevat OS-i tüübid nagu pakktöötlus, ajajaotuslik, reaalajaline.
 
@@ -77,7 +77,7 @@ Operatsioonisüsteemide jaotus töötluse liigi järgi:
 
 ### C.2.1.3 Rakendusliides
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada rakendusliidese (Application Programming Interface) ja tuua rakendusliidese näiteid nagu Java API, Windows.
 
@@ -109,7 +109,7 @@ Käsk, millega süsteemiteenus välja kutsutakse sõltub protsessorist. Näiteks
 
 ### C.2.1.4 Protsess
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada kuidas tarkvara haldab ressursse.
 
@@ -226,7 +226,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.2.1 Samaaegsuse põhjused
 
-::: warning
+::: warning Õppekava
 
 Tuua välja samaaegsuse põhjused OS-i sees.
 
@@ -250,7 +250,7 @@ Pakktöötlusega süsteemides on enimkasutatavaks reegliks **lühim töö enne**
 
 ### C.2.2.2 Vastastikune välistamine
 
-::: warning
+::: warning Õppekava
 
 Määratleda vastastikuse Välistamise probleem.
 
@@ -285,7 +285,7 @@ Olukorda, kui mitu protsessi ootavad vastastikku teineteise kasutuses oleva ress
 
 ### C.2.2.3 Töötlus ja multitöötlus
 
-::: warning
+::: warning Õppekava
 
 Määratleda töötlus ja multitöötlus.
 
@@ -312,7 +312,7 @@ Disaini eripärad on järgmised:
 
 ### C.2.2.4 Lõimelisus
 
-::: warning
+::: warning Õppekava
 
 Määratleda lõimelisus.
 
@@ -337,7 +337,7 @@ Joonis 2‑8. Protsess võib koosneda mitmest lõimest (Allikas: Learning Materi
 
 ### C.2.2.5 Kontekstkommutatsioon
 
-::: warning
+::: warning Õppekava
 
 Määratleda kontektst- kommutatsiooni operatsioon.
 
@@ -398,7 +398,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.3.1 Virtuaalmälu
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada virtuaalmälu mõistet.
 
@@ -414,7 +414,7 @@ Kui protsess pöördub virtuaalse aadressi poole, mis on saalitud massmäluseadm
 
 ### C.2.3.2 Virtuaalmälu haldus
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada kuidas OS haldab virtuaalmälu massmäluseadme ja põhimälu riistvara abil.
 
@@ -454,7 +454,7 @@ Kui põhimälus ei ole uue lehekülje laadimiseks vaba ruumi, siis kasutab OS le
 
 ### C.2.3.4 Mälu hierarhia
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada kuidas mälu hierarhia mõiste mõjutab programmeerimist nagu töömälu eraldamine failidest.
 
@@ -468,7 +468,7 @@ Joonis 2‑12. Mälu hierarhia
 
 ### C.2.3.5 Failisüsteemi funktsioonid
 
-::: warning
+::: warning Õppekava
 
 Määratleda failisüsteemi funktsioonid.
 
@@ -555,7 +555,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.4.1 Turvalisuse ja kaitse vajadus
 
-::: warning
+::: warning Õppekava
 
 Mõista kaitse ja turvalisuse vajadust (konfidentsiaalsuse, puutumatuse ja käideldavuse terminates) arvutisüsteemis.
 
@@ -581,7 +581,7 @@ Arvutis talletatud informatsioon on kasutaja intellektuaalne omand ja vajab kait
 
 ### C.2.4.2 Operatsioonisüsteemis kasutatavad kaitsemehanismid
 
-::: warning
+::: warning Õppekava
 
 Määratleda OS-i kaitsemehanismid.
 
@@ -601,7 +601,7 @@ OS tasemel kaitsemehhanismid on pidevalt täiustunud ja hõlmavad krüpteerimisv
 
 ### C.2.4.3 Kaitse arvutiviiruste eest
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada pahavaraga seotud ohte nagu tagauksed, Trooja hobused, arvutiviirused. Määratleda peamised kaitsemeetodid nende vastu.
 
@@ -636,7 +636,7 @@ Olulised tegevused pahavarast hoidumiseks on järgmised:
 
 ### C.2.4.4 Identifitseerimine ja autentimine
 
-::: warning
+::: warning Õppekava
 
 Määratleda erinevused isiku identifitseerimisel ja autentimisel.
 
@@ -650,7 +650,7 @@ Seejärel kontrollib süsteem, kas kasutaja on see, kellena ta ennast süsteemil
 
 ### C.2.4.5
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada autentimistehnikaid ja defineerida tugeva autentimise mõiste.
 
@@ -684,7 +684,7 @@ Sümmeetrilised krüptograafilised süsteemid ei sobi tõhusaks autentimiseks.N�
 
 ### C.2.4.6 Juurdepääsukontroll
 
-::: warning
+::: warning Õppekava
 
 Määratleda juurdepääsukontrolli põhimõtted.
 
@@ -738,7 +738,7 @@ Erinevad tuntud poliitikad juurdepääsuõiguste määramisel on järgmised:
 
 ### C.2.4.7 Andmete varundamine
 
-::: warning
+::: warning Õppekava
 
 Määratleda varunduse ja taastamise vajadus.
 
@@ -806,7 +806,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.5.1 Linux
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada peamisi Unix’i, Linux’i ja Mac’i perekonda kuuluvate OS’ide omadusi nagu installatsioon, kasutajaliides, turvalisus, jõudlus, peamised kasutusalad, stabiilsus.
 
@@ -836,7 +836,7 @@ Joonis 2‑19. Failisüsteemi õiguste loetelu (R-lugemisõigus, W-kirjutamisõi
 
 ### C.2.5.2 Microsoft Windows'i operatsioonisüsteemide parameetrid
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada Microsoft Windows perekonna OS-ide peamised omadused nagu installatsioon, kasutajaliides, turvalisus, jõudlus, peamised kasutusalad, stabiilsus.
 
