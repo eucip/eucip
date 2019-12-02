@@ -58,7 +58,7 @@ Projektid on **konfliktsed** , sest tuues endaga kaas muutusi tavategevuses kät
 
 ### A.5.1.1 Mille poolest erinevad IT ja äriprojektid?
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada, kuidas IT projektid erinevad teistest äriprojektidest muutuste mahu, edenemise mõõtmise raskuse, projekti väljundi mittemateriaalsuse ja klientide poolt IKT vähese mõistmise tõttu.
 
@@ -89,7 +89,7 @@ Kui ehitusprojekti korral on sellega kaasnevatesse muutustesse suhtumine pigem p
 
 ### A.5.1.2 Kuidas projekte klassifitseeritakse?
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada, kuidas IT projektid erinevad teistest äriprojektidest muutuste mahu, edenemise mõõtmise raskuse, projekti väljundi mittemateriaalsuse ja klientide poolt IKT vähese mõistmise tõttu.
 
@@ -144,7 +144,7 @@ Projektides juhitakse üheksat komponenti:
 
 ### A.5.1.3 Kuidas jõuda eduka projektini?
 
-::: warning
+::: warning Õppekava
 
 Loetleda olulisemad tegurid, mis tagavad eduka IT projektijuhtimise.
 
@@ -173,7 +173,7 @@ Edukaks projektihalduse eelduseks on see, et
 
 ### A.5.1.4 Mis takistab edukate projektini jõudmist?
 
-::: warning
+::: warning Õppekava
 
 Loetleda olulisemad tegurid, mis takistavad edukat IT projekti juhtimist.
 
@@ -249,7 +249,7 @@ Selle alateema materjale läbi töötades saad teada:
 
 ### A.5.2.1 Kuidas on omavahel seotud aeg, kulud ja kvaliteet?
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada aja, maksumuse ja kvaliteedi mõju üksteisele ja projektijuhtimisele.
 
@@ -265,7 +265,7 @@ Kui nn "raudsest kolmnurgast" ühte komponenti muuta, siis tuleb arvestada selle
 
 ### A.5.2.2 Mis on väärtusanalüüs?
 
-::: warning
+::: warning Õppekava
 
 Loetleda peamised tegurid, mis mõjutavad aja, kulude ja kvaliteedi näitajaid IT projektides.
 
@@ -289,7 +289,7 @@ Seda meetodit kasutades toimub pidev projekti edenemise jälgimine läbi selle, 
 
 ### A.5.2.3 Aja, kulude ja kvaliteedi ebakindlust mõjutavad tegurid
 
-::: warning
+::: warning Õppekava
 
 Loetleda kõige üldisemad prognoosimeetodid erinevate IT projektide liikidele.
 
@@ -348,7 +348,7 @@ Selle alateema materjale läbi töötades saad teada:
 
 ## A.5.3.1 Kuidas on tööd projekti plaanides osadeks jaotada?
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada projekti organisatsiooni põhielemente nt. alamtööde jaotus **_work breakdown structure_**, alltöövõtt, organisatsiooni struktuur, tööjaotusmaatriks **_linear responsibility chart_**.
 
@@ -419,7 +419,7 @@ Projektide koordineerimise korral luuakse projektide läbiviimiseks pidevalt muu
 
 ### A.5.3.2 Projekti vastutusvaldkondade jagamise eeliseid ja puudusi
 
-::: warning
+::: warning Õppekava
 
 Tuua välja projekti vastutusvaldkondade väga formaalse kehestamise eelised ja puudused.
 
@@ -448,7 +448,7 @@ Vastutusvaldkondade väga täpse määratlemise puudusteks on:
 
 ### A.5.3.3 Põhilised töörollid projektides
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada IKT projektiosaliste nt juhtrühm, kliendi (lepingulise poole) projektijuht, spetsialist, peakasutaja, lõppkasutaja rolle projektis.
 
@@ -592,7 +592,7 @@ Selle alateema materjale läbi töötades saad teada:
 
 ### A.5.4.1 Gantti graafik
 
-::: warning
+::: warning Õppekava
 
 Projektiplaani struktuuri, sisu ja eesmärgi mõistmine.
 
@@ -606,7 +606,7 @@ _Joonis 5-2. Gantti graafik, kus on näha pea- ja alamtööd ning punasega on n�
 
 ### A.5.4.2 Miks on vaja teada projekti kriitilist teed?
 
-::: warning
+::: warning Õppekava
 
 Tuua välja peamised rahvusvahelises projektijuhtimise metoodikas kasutatavad vahendid, nt tegevused, seosed, kriitiline tee, Gantt’i diagramm.
 
@@ -626,7 +626,7 @@ Kuna kriitilisel teel olevatel ülesannetel ei ole ajavaru, siis iga ajaline kõ
 
 ### A.5.4.3 Projektijuhtimise tarkvara
 
-::: warning
+::: warning Õppekava
 
 Loetleda arvuti abil projektijuhtimise töövahendite peamised komponendid.
 
@@ -703,7 +703,7 @@ Selle alateema materjalide läbitöötamise järel tead sa:
 
 ### A.5.5.1 Kuidas viia läbi projekti riskianalüüsi?
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada riskijuhtimise valdkonna mõisteid seoses projekti ettepanekuga, nt riski hindamine, riskijuhtimine.
 
@@ -746,7 +746,7 @@ Riskianalüüsi vorm:
 
 ### A.5.5.2 Miks on vaja projektiplaani?
 
-::: warning
+::: warning Õppekava
 
 Kirjeldada planeerimise aluseid ulatuse, piirangute, tehniliste ja organisatsiooniliste külgede osas ja tuua välja, kuidas aeg, maksums ja kvaliteet võivad olla mõjutatud ettenägematutest mõjudest.
 
@@ -774,7 +774,7 @@ Projektiplaan võib olla:
 
 ### A.5.5.3 Projekti kulud
 
-::: warning
+::: warning Õppekava
 
 Loetleda projekti eelarve ja kuluarvestusega seotud probleeme.
 
@@ -828,7 +828,7 @@ Rakendatava süsteemi püsikuludeks on
 
 ### A.5.5.4 Kuidas hinnata projekti tulemust?
 
-::: warning
+::: warning Õppekava
 
 Loetleda raskused, mis on seotud mõnede projektide kasu mõõtmisega.
 
@@ -889,7 +889,7 @@ Peale selle alateema materjalide läbitöötamist sa tead:
 
 ### A.5.6.1 Tüüpilise IT projekti faasid
 
-::: warning
+::: warning Õppekava
 
 Loetleda tüüpilised projektijuhtimise etapid.
 
@@ -907,7 +907,7 @@ Kindlasti ei ole aga nii, et enne alguses tehakse üks, siis teine, siis kolmas.
 
 ### A.5.6.2 Milleks vajatakse projektis lepinguid?
 
-::: warning
+::: warning Õppekava
 
 Tuua välja kokkuleppe saavutamise olulisus projekti dokumentide sh. töökäskude ja lepingute osas.
 
@@ -919,7 +919,7 @@ Lepinguga reguleeritakse projekti osapoolte vahelised suhted. Leping on kokkulep
 
 ### A.5.6.3 Millised on lepingu kohustuslikud elemendid?
 
-::: warning
+::: warning Õppekava
 
 Loetleda lepinguga kaetud objektid, näiteks üleantav tulemus, olulised kuupäevad, maksumus, meetodid, personali kvalifikatsioon, kvaliteedi tagamine, sanktsioonid.
 
@@ -940,7 +940,7 @@ Kõikide projekti alguses sõlmitavate lepingute kohustuslikud elemendid on:
 
 ### A.5.6.4 Miks on vaja projekti vahehindamisi?
 
-::: warning
+::: warning Õppekava
 
 Tuua välja vajadus vaheetappide, kontrollpunktide ja ülevaadete järele.
 
@@ -1029,7 +1029,7 @@ Peale selle alateema materjalide läbitöötamist tead sa:
 
 ### A.5.7.1 Mida nimetatakse projekti kvaliteediks?
 
-::: warning
+::: warning Õppekava
 
 Loetleda kvaliteedikontrolliga saavutatavad eelised.
 
@@ -1071,7 +1071,7 @@ Puudulik kvaliteedijuhtimine aga võib viia selleni, et me leiame küll läbi el
 
 ### A.5.7.2 Miks on kvaliteedijuhtimine üks osa IT projekti juhtimisest?
 
-::: warning
+::: warning Õppekava
 
 Tuua välja muutujad, mida saab kasutada IS / IKT kvaliteedi mõõtmisel.
 
@@ -1151,7 +1151,7 @@ siis ei saa me mingil moel öelda seda, et projekti lõpptulemus on kvaliteetne.
 
 ### A.5.7.3 Mille poolest erineb kvaliteedijuht projektijuhist?
 
-::: warning
+::: warning Õppekava
 
 Eristada projektijuhi, kvaliteedijuhi ja projekti juhtrühma rollid organisatsiooni struktuuris.
 
@@ -1176,7 +1176,7 @@ Kui kvaliteedijuhi tegevus on suunatud eelkõige ettevõttesse sisse, siis proje
 
 ### A.5.7.4 Staatiline ja dünaamiline testimine
 
-::: warning
+::: warning Õppekava
 
 Loetleda tarkvara kvaliteedianalüüsi põhimeetdid nt staatiline ja dünaamiline testimistehnika.
 
