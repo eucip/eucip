@@ -360,11 +360,11 @@ Kirjeldada Interneti ärilist väärtust äriorganisatsioonidele.
 
 Intraneti ja ekstraneti kasutamine ärivaldkonnas.
 
+### A.4.2 Protsesside muutmine üleminekul e-ärile.
+
 #### A.4.2.1
 
 E-äri olulisemad mõjurid organisatsioonidele.
-
-### A.4.2 Protsesside muutmine üleminekul e-ärile.
 
 #### A.4.2.2
 
