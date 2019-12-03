@@ -52,7 +52,7 @@ Tööriistad, mida saab kasutada tõrkehalduse protsessis on:
 - Veaanalüüsi tööriistad, mis suudavad vea põhjuse välja selgitada
 - Laiendatud tööriistad, mis töötavad seadmete püsivara tasemel ja suudavad ka veaolukordi automaatselt lahendada. Näiteks marsruuteri tarkvara oskab tuvastada katkenud võrgutee ja marsruute võrguliikluse alternatiivset teed kasutades.
 
-![](../images/torkehaldus.png)
+![](../images/c6_torkehaldus.png)
 
 _Joonis 6‑1. Tõrkehaldussüsteem (Allikas: Learning Materials for Information Technology Professionals (EUCIP-Mat))_
 
