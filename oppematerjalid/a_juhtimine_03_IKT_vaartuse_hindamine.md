@@ -20,15 +20,9 @@ Tuua välja erinevus klientide erinevate tähenduste - väline ostja, projekti t
 
 :::
 
-::: danger Probleem
-
-Õppematerjalis puuduvad õppekava alajaotused
-
-:::
-
 > Ükski ettevõte või organisatsioon ei saa töötada ilma võrgustikuta, mille kaudu hangitakse tootmiseks vajalikud sisendid ja turustatakse toodang või pakutakse oma teenuseid. Seetõttu tekib organisatsiooni heast käekäigust huvitatute ring, kes on otseselt või kaudselt seotud organisatsioonis tehtava tööga või selle osaga. Niisuguse huvigrupi olulisuse igale organisatsioonile määratles möödunud sajandi 80-ndatel
 
-Freeman, R. Edward (1984) Strategic Management: A stakeholder approach Boston: Pitman
+_Freeman, R. Edward (1984) Strategic Management: A stakeholder approach Boston: Pitman_
 
 Oma igapäevases tegevuses suhtleb organisatsioon erinevate huvigruppidega: kliendid, töötajad, omanikud, hankijad, kreeditorid, valitsus, kohalik omavalitsus ja valitsusvälised organisatsioonid. Need kõik, ja see loetelu ei pruugi igal konkreetsel juhul olla ammendav, võivad mõjutada organisatsiooni tegevust või olla sellest mõjutatud. Samal ajal peab organisatsiooni juhtkond arvestama nende kõigi rahuloluga. Huvigruppi iseloomustab just seoste kahesuunalisus kõigi osapoolte eesmärkide saavutamiseks. Praktikas tähendab see, et uute väärtuste loomisel tuleb anda igale huvigrupile võimalus luua lisaväärtust oma tegevuses ning ise sellele kaasa aidata. Seda saab teha huvigrupi tooteid või teenuseid tarbides või ise neile vajalikku pakkudes. Nende seoste tark arvestamine loob alused organsatsiooni edukakas tegevuseks. Aluse niisuguseks koostööks annab kõigi osapoolte hea informeeritus ja selle võimaldajaks saavad olla IT lahendused. Nende abil saab näiteks jälgida tarnija tehase toodangu väljatuleku protsenti, lao seisu või kulleri liikumist saadetisega.
 
@@ -57,9 +51,9 @@ Sõltumata kasutaja kuuluvusest on tarvilik teada tema vajadusi ning sellel vast
 
 ### A.3.1.2 IT personal
 
-::: danger Probleem
+::: danger Õppematerjalil puudub seos õppekavaga
 
-Õppekavas puudub vastav alamjaotus
+Õppekavas puudub vastav alampunkt
 
 :::
 
@@ -359,9 +353,9 @@ Määratleda tehnilise teostatavuse mõiste.
 
 :::
 
-::: danger Probleem
+::: danger Puudub seos õppekava ja õppematerjali vahel
 
-Õppekava alajaotus ei vasta õppematerjalid sisule
+Õppematerjali sisu ei vasta õppekava alampunktile
 
 :::
 
@@ -555,9 +549,9 @@ Olgu siinkohaltoodud mõned võimalikud tulu saamise kohad.
 
 **Rahulolevamad töötajad**. Investeeringud kontori- ja töökorraldussüsteemidesse ning uusima tehnoloogia kasutamine. Siin uusim tehnoloogia ei pea tähendama alati kõige uuema tarkvara versiooni kiiret kasutuselevõttu, kui see ei vii uuele kvalitatiivsele tasemele.
 
-::: danger Probleem
+::: danger Puuduv sisu
 
-Puudub järgmine õppekava alampunkt
+Puudub õppematerjal järgmise õppekava alampunkti kohta:
 
 **A.3.3.3**
 
@@ -605,12 +599,6 @@ Tuua välja uute lahenduste hindamise põhilisi meetodeid (teostatavuse uuring, 
 
 **A.3.4.3**
 Loetleda hõlpsasti ja raskesti määratletavaid tulusid ja kulusid.
-
-:::
-
-::: danger Probleem
-
-Õppematerjal pole alampunktide järgi stuktureeritud
 
 :::
 

@@ -1,5 +1,11 @@
 # A.4 Ülemaailmne majandusvõrgustik
 
+::: danger Vananenud materjal
+
+Tegu on oluliselt vananenud õppematerjaliga
+
+:::
+
 Selle teema materjale läbi töötades saad teadmised infoedastuses viimastel aastakümnetel toimunud hiiglasuurtest muutustest. Kasutades eri valdkondade näiteid nii igapäeva kui oluliste tegevuste puhul, selgitatakse on-line maailma toimimist.
 
 ## A.4 Uued võimalused
@@ -17,12 +23,6 @@ Defineerida globaliseerumise mõiste ja sellest johtuvad võimalused ärile.
 ::: danger Nõrk seos
 
 Õppekava punkt ja õppematerjal on nõrgalt seotud. Globaliseerumise definitsiooni ei anta, teema käsitlus on hoopis õppematerjali punktis **_A.2_**
-
-:::
-
-::: danger Aegunud materjal
-
-Web 2.0ist saab rääkida vaid ajaloolises võtmes
 
 :::
 
@@ -154,7 +154,11 @@ Kuidas kasutada IKT-d organisatsioonis muutuste läbiviimisel.
 
 Õppekava punkt ja õppematerjal pole omavahel seotud.
 
-**Pilveraalindus** vajab tunduvalt põhjalikumat käsitlust.
+:::
+
+::: danger Vananenud või ebapiisav sisu
+
+**_cloud computing_** vajab tunduvalt põhjalikumat käsitlust.
 
 :::
 
@@ -374,7 +378,7 @@ Pakett-tarkvarade eelised:
 
 ::: danger Kallutatud info
 
-Välja pole toodud kõigi kolme tüübi (spetsiaalrakendused, pakettarkvara, **_SaaS_**) eeliseid ja puudusi
+Välja pole toodud kõigi kolme tarkvara kasutustüübi (spetsiaalrakendused, pakettarkvara, **_SaaS_**) eeliseid ja puudusi
 
 :::
 

@@ -107,9 +107,9 @@ Kõikehõlmavat edu valemit ei ole olemas, kuid firma edukus aitab kaasa alltood
 
 Ülaltoodud põhimõtted aitavad kvaliteetsemalt koostada firma äriinfosüsteemi plaani, moderniseerida äriinfosüsteemi ennast.
 
-::: danger Probleem
+::: danger Puuduv materjal
 
-Puuduvad järgmised õppekava alampunktid
+Puudub õppematerjal järgmiste õppekava alampunktide kohta:
 
 **A.2.1.2**
 
@@ -214,9 +214,9 @@ Seega oleks firma huvides säilitada tolerantsus töötajate tööharjumuste ja 
 
 Kokkuvõtteks võiks märkida, et firma töötajate hoiak ja firma organisatsioonilisele struktuur oleksid nagu eri poolused. Võib öelda, et firmade range ülesehitus eeldab teatud korrapärasust ja see võib tunduda töötajatele nende vabadusastmete piiramisena. Samas võib töötajate tegutsemine vabamas õhkkonnas olla küllaltki oluliseks faktoriks kui soovitakse tehnoloogia efektiivse ärakasutamise tulemusena saavutada parimaid tulemusi.
 
-::: danger Probleem
+::: danger Puuduv materjal
 
-Puuduvad järgmised õppekava alampunktid
+Puudub õppematerjal järgmiste õppekava alampunktide kohta:
 
 **A.2.2.2**
 
@@ -348,11 +348,27 @@ ehk "IT süsteemide soetamise võimalused"
 
 Selle alateema materjale läbi töötades õpid tundma IT süsteemide soetamise põhimõtteid.
 
-### 2.4.1 IT süsteemide soetamise võimalustest
-
 ::: warning Õppekava
 
+**A.2.4.2**
+
 Tuua välja inimlike, tehniliste ja rahaliste aspektide roll süsteemiarenduses.
+
+**A.2.4.2**
+
+Tuua tüüpnäiteid IKT hangetest või välise teenusepakkuja kasutamisest.
+
+**A.2.4.3**
+
+Loetleda äri seisukohalt kõige olulisemad põhjused välise teenusepakkuja kasutamiseks.
+
+**A.2.4.4**
+
+Loetleda süsteemiarenduse vastandina teenusepakkuja kasutamisele eelised ja puudused.
+
+**A.2.4.5**
+
+Tuua välja süsteemi arendamise või sisseostmise otsustamist mõjutavad tegurid.
 
 :::
 
@@ -412,28 +428,6 @@ Järgnevas tabelis toome lühivõrdluse kulude osas oma spetsialisti poolt arend
 | Töölepingus on konfidentsiaalsuse punkt. Kui töötaja seda lepet rikub, riskib ta vaid oma isikliku mainega ...                                                                                                                                                                                                                              | IT firma spetsialistide töölepingutes on konfidentsiaalsuse punkt, mis kohustab neid klientide ärisaladusi hoidma. Kui seda lepet peaks rikutama, rakenduvad hoolduslepingus ettenähtud trahvid ja hooldusteenust pakkuva firma maine on rikutud.                                                                                                                    |
 | Juhtimine                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                      |
 | Probleemideks on IT spetsialisti värbamine ja valik, motiveerimine, arendamine, juhtimine, täiendkoolitamine jne.                                                                                                                                                                                                                           | Kõik vastavad probleemid on IT firma probleemid                                                                                                                                                                                                                                                                                                                      |
-
-::: danger Probleem
-
-Puuduvad järgmised õppekava alampunktid
-
-**A.2.4.2**
-
-Tuua tüüpnäiteid IKT hangetest või välise teenusepakkuja kasutamisest.
-
-**A.2.4.3**
-
-Loetleda äri eisukohalt kõige olulisemad põhjused välise teenusepakkuja kasutamiseks.
-
-**A.2.4.4**
-
-Loetleda süsteemiarenduse vastandina teenusepakkuja kasutamisele eelised ja puudused.
-
-**A.2.4.5**
-
-Tuua välja süsteemi arendamise või sisseostmise otsustamist mõjutavad tegurid.
-
-:::
 
 ### 2.4. Kordamisküsimused
 
