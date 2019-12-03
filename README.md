@@ -65,3 +65,7 @@ Tõlgitud [EUCIP Core Syllabus 3.01 PDF dokumendist](http://www.cepis.org/media/
 #### B1-B3 [Arendus](./oppekava/b_arendus.md)
 
 #### C1-C7 [Haldus](./oppekava/c_haldus.md)
+
+<br><br>
+
+Õppematerjalide sisu on kaetud [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) litsensiga.
