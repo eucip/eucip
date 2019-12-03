@@ -6,7 +6,7 @@ sidebar: none
 
 Siin lehel leiduva õppematerjali järgi õpivad ja [teevad kutseeksamit](https://www.bcskoolitus.ee/kutseandmine/kutseeksamist) Eesti tulevased tarkvaraarendajad. Materjal on loodud aastal **2011** EUCIPi (EL IT-õppekava) raamistiku alusel ja on tänaseks vägagi vananenud.
 
-**Panusta Eesti tarkvaraarenduse tulevikku ja aita kaasa materjali uuendamisel: lisa issuesid parandusettepanekutega või veel parem, saada pull request koos parandustega!**
+**Panusta Eesti tarkvaraarenduse tulevikku ja aita kaasa materjali uuendamisel: lisa issue parandusettepanekutega või veel parem, saada pull request koos parandustega!**
 
 Vaata siit [sisuloomisjuhiseid](./sisuloomisjuhised.md).
 
@@ -57,6 +57,8 @@ Vaata siit [sisuloomisjuhiseid](./sisuloomisjuhised.md).
 #### C7 [Teenuste tarne](./oppematerjalid/c_haldus_06_teenuste_tarne.md)
 
 ## EUCIP õppekava
+
+Tõlgitud [EUCIP Core Syllabus 3.01 PDF dokumendist](http://www.cepis.org/media/EUCIPCore-Syllabus-V3.01.pdf)
 
 #### A1-A7 [Juhtimine](./oppekava/a_juhtimine.md)
 

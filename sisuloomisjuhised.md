@@ -1,26 +1,30 @@
 # Sisuloomisjuhised
 
-## Sisu uuendamine
+## Sisu uuendamise põhimõtted
 
 Koolide õppematerjalide loomine ja eriti õppekavade loomine on aeglane ja liialt harva toimuv protsess. Et täna loodud IT-õppekavad ja -materjalid poleks juba homme lootusetult vananenud, võib kasutada erinevaid stateegiaid:
 
-### Ajatud materjalid
-
-IT-materjalid ei vanane ühe kiirusega: kui kõik mis puudutab mobiilseadmete või veebiarendusega seonduvat muutub ülikiiresti, siis näiteks Interneti baasprotokollid või kasutajate psühooloogilised ootused mitte nii kiiresti. Kui kirjutada kõik materjalid ja eriti õppekava küsimused ümber üldisemaks, puudutamata konkreetset tehnoloogiat, saab materjale ajaproovile vastupidavamaks muuta.
-
 ### Pidev uuendamine
 
-Käesolev projekt testib muuhulgas võimalusi kiirendada õppematerjalide loomist ja uuendamist, kasutades tarkvaraloomise kogemusi, luues näiteks igaastaseid või veel tihedamaid õppematerjali **_release_**'d koos muutuste nimistuga **_diff_** / **_changelog_**.
+Käesolev projekt testib võimalusi kiirendada õppematerjalide loomist ja uuendamist, kasutades tarkvaraloomise kogemusi, tuues sisse iga-aastased (või veel tihedamad) õppematerjali **_release_**'d koos muutuste nimistuga **_diff_** / **_changelog_**.
+
+### Ajatud materjalid
+
+IT-materjalid ei vanane ühe kiirusega: kui kõik mis puudutab mobiilseadmete või veebiarendusega seonduvat muutub ülikiiresti, siis Interneti baasprotokollid või kasutajate psühooloogilised omadused mitte nii kiiresti.
+
+Kui kirjutada õppekava küsimused üldisemaks, rääkides küll põhimõistetest, kuid puudutamata konkreetset tehnoloogiat, saab materjale ajaproovile vastupidavamaks muuta.
 
 ### Ajaloo ilu
 
-Materjalide uuendamisel tasub jälgida ka seda, et "aegunud" materjal pole tingimata "halb" materjal, mitmed asjakohasuse kaotanud peatükid võib koondada ajaloopeatükkidesse mis pole hindamisel kohustuslikud, kuid aitavad mõista tehnoloogia arengu põhjusi ning annavad edasi kadunud ajastu vaimu.
+Materjalide uuendamisel tasub jälgida ka seda, et _aegunud_ materjal pole tingimata _halb_ materjal. Mitmed asjakohasuse kaotanud peatükid võib koondada ajaloo-peatükkidesse mis pole hindamisel kohustuslikud, kuid aitavad mõista tehnoloogia arengupõhjusi ning annavad edasi kadunud ajastu vaimu.
 
 ## Sisu vormindamine
 
+Õppematerjalid on vormindatud Markdownis, lihtsas tekstipõhises dokumentatsiooniformaadis https://guides.github.com/features/mastering-markdown/
+
 ### Pealkirjad
 
-Õppematerjalide pealkirjade struktuur jälgib EUCIP õppekava puustruktuuri, st esimesed kolm pealkirjataset on numereeritud vastavalt õppekavale.
+Õppematerjalide pealkirjade struktuur jälgib EUCIP õppekava struktuuri, st esimesed kolm pealkirjataset on numereeritud vastavalt õppekavale.
 
 Neljas ja viies pealkirjatase on numereerimata ja vabamalt struktureeritav:
 
@@ -36,9 +40,19 @@ Neljas ja viies pealkirjatase on numereerimata ja vabamalt struktureeritav:
 ##### Alapealkiri
 ```
 
-Õppematerjalid on vormindatud Markdownis, mis on lihtne tekstipõhine dokumentatsiooniformaat.
+### Lingid
 
-Vaata lähemalt https://guides.github.com/features/mastering-markdown/
+Linke saab vormistada järgnevalt:
+
+```md
+Siin on tavalink: https://google.com
+Siin on [pealkirjaga link](https://google.com)
+```
+
+annab tulemuseks
+
+Siin on tavalink: https://google.com
+Siin on [pealkirjaga link](https://google.com)
 
 ### Paks ja kaldkiri
 
@@ -66,7 +80,7 @@ mis annab tulemuseks:
 
 Jooksva teksti sees leiduvad koodinäiteid saab vormindada \`backtick\` märkide abil: `backtick`.
 
-Pikemaid koodinäiteid saab luua järgnevalt:
+Pikemaid koodinäiteid saab luua nii:
 
 ````
 ```js
@@ -74,13 +88,13 @@ console.log("Hello World!")
 ```
 ````
 
-kus `js` on soovitud programmeerimiskeele nimi, kõikide toetatud keelte nimistu asub siin: https://prismjs.com/#supported-languages
+kus `js` on soovitud programmeerimiskeele nimi. Kõikide toetatud keelte nimistu asub siin: https://prismjs.com/#supported-languages
 
-Koodi vormindamise kohta vaat lisaks https://vuepress.vuejs.org/guide/markdown.html#line-highlighting-in-code-blocks
+Koodi vormindamise kohta vaata lisaks https://vuepress.vuejs.org/guide/markdown.html#line-highlighting-in-code-blocks
 
 ### Nimistud
 
-Nimistuid saab vormindada lihtsal tekstikujul:
+Nimistuid saab vormindada lihtsal nii:
 
 ```md
 - Esimese
@@ -124,20 +138,48 @@ annab tulemuseks:
   nimistu
   element
 
+### Tsitaadid
+
+Tsitaadid saab vormistada järgnevalt:
+
+```md
+> I’m actually as proud of many of the things we haven’t done as the things we have done.
+
+_Steve Jobs_
+```
+
+annab tulemuseks:
+
+> "I’m actually as proud of many of the things we haven’t done as the things we have done."
+
+_Steve Jobs_
+
 ### Tabelid
 
-Tabeleid saab vormindada tekstina, vt
+Tabeleid saab vormindada tekstina:
 
-https://vuepress.vuejs.org/guide/markdown.html#github-style-tables
+```md
+| veeru pealkiri 1 | veeru pealkiri 2 |
+| ---------------- | ---------------- |
+| veerg 1 rida 1   | veerg 2 rida 1   |
+| veerg 1 rida 2   | veerg 2 rida 2   |
+```
+
+annab tulemuseks:
+
+| veeru pealkiri 1 | veeru pealkiri 2 |
+| ---------------- | ---------------- |
+| veerg 1 rida 1   | veerg 2 rida 1   |
+| veerg 1 rida 2   | veerg 2 rida 2   |
 
 ### Pildid
 
-Pildid salvestatakse `./images` kataloogi, soovituslik pildiformaat on PNG ja jälgitagu et pildi suurus ei ületaks `300kb`.
+Pildid salvestatakse `./images` kataloogi, soovituslik pildiformaat on PNG ja jälgitagu et pildi suurus ei ületaks `300kb`. Failinime alguses peab olema mooduli tähis ning failinimi tohib sisaldada ainult **ladina väiketähti**, **numbreid** ja **\_** märki.
 
 Pilte saab sisusse lisada järgnevalt:
 
 ```md
-![](./images/pildinimi.png)
+![](./images/a1_pildinimi.png)
 
 _siia tuleb pildiallkiri_
 ```

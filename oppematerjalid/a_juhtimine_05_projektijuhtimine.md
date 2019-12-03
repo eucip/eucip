@@ -97,7 +97,7 @@ Kirjeldada, kuidas IT projektid erinevad teistest äriprojektidest muutuste mahu
 
 ::: danger Nõrk seos
 
-Õppekava punkt on õppematerjaliga nõrgalt seotud
+Õppematerjal on õppekava küsimustega nõrgalt seotud
 
 :::
 
@@ -115,32 +115,23 @@ Kui enamiku projektide korral on alguses ülekaalus arenduslik moment, siis mida
 
 Projektides juhitakse üheksat komponenti:
 
-- **eesmärki** **_Project scope management_**
-- **aega** **_Project time management_**
-- **kvaliteeti** **_Project quality management_**
-- **kulusid** **_Project cost management_**
-- **inimesi** **_Project human resources management_**
-- **infovahetust** **_Project communication management_**
-- **allhankeid** **_Project procurement management_**
-- **seoseid** **_Project integration management_**
+**Eesmärgi juhtimine** **_Project scope management_** peab andma selge vastuse küsimusele, mida peab tegema või kuhu tuleb antud projekti jooksul välja jõuda. See ei ole ühekordne tegevus projekti käivitamisel vaid eesmärgi juhtimisega tuleb tegeleda kogu projekti jooksul. Eriti oluline on see IT arendusprojektide korral, kus sageli juhtub see, et esialgne eesmärk kipub silmist kaduma.
 
-**Eesmärgi juhtimine** peab andma selge vastuse küsimusele, mida peab tegema või kuhu tuleb antud projekti jooksul välja jõuda. See ei ole ühekordne tegevus projekti käivitamisel vaid eesmärgi juhtimisega tuleb tegeleda kogu projekti jooksul. Eriti oluline on see IT arendusprojektide korral, kus sageli juhtub see, et esialgne eesmärk kipub silmist kaduma.
+**Aja juhtimine** **_Project time management_** peab andma vastuse küsimustele, mis järjekorras tuleb töid teha ja mis ajal tuleb mingit tööd teha. Need on kõikide projektide korral kriitilised küsimused, mis määravad suuresti kogu projekti edukuse.
 
-**Aja juhtimine** peab andma vastuse küsimustele, mis järjekorras tuleb töid teha ja mis ajal tuleb mingit tööd teha. Need on kõikide projektide korral kriitilised küsimused, mis määravad suuresti kogu projekti edukuse.
+**Kvaliteedi juhtimine** **_Project quality management_** peab tagama vahe- ja lõpptulemuste vastavuse kehtestatud nõuetele. Ilma kvaliteedi juhtimiseta ei ole võimalik jõuda tellijat rahuldava lõpptulemini.
 
-**Kvaliteedi juhtimine** peab tagama vahe- ja lõpptulemuste vastavuse kehtestatud nõuetele. Ilma kvaliteedi juhtimiseta ei ole võimalik jõuda tellijat rahuldava lõpptulemini.
+**Kulude juhtimine** **_Project cost management_** peab projekti alguses välja tooma selle, kui palju töö ja muud ressursid maksavad. Projekti käigus peab aga kulude juhtimine tagama pideva ülevaate sellest, kui palju on projektis kulutatud ja kui palju veel on vaja tulemini jõudmiseks kulutusi teha.
 
-**Kulude juhtimine** peab projekti alguses välja tooma selle, kui palju töö ja muud ressursid maksavad. Projekti käigus peab aga kulude juhtimine tagama pideva ülevaate sellest, kui palju on projektis kulutatud ja kui palju veel on vaja tulemini jõudmiseks kulutusi teha.
+**Inimeste juhtimine** **_Project human resources management_** peab kavandamise etapis näitama, kui palju ja milliseid inimesi on projekti elluviimiseks vaja. Projekti käigus on aga vaja tegeleda inimeste motiveerimisega, informeerimisega, konfliktide käsitlemisega, tegevuste kontrollimisega jms..
 
-**Inimeste juhtimine** peab kavandamise etapis näitama, kui palju ja milliseid inimesi on projekti elluviimiseks vaja. Projekti käigus on aga vaja tegeleda inimeste motiveerimisega, informeerimisega, konfliktide käsitlemisega, tegevuste kontrollimisega jms..
+**Infovahetuse juhtimine** **_Project communication management_** peab määratlema, kellega millise info vahetust peab korraldama.
 
-**Infovahetuse juhtimine** peab määratlema, kellega millise info vahetust peab korraldama.
+**Riskijuhtimine** **_Project integration management_**peab tagama pideva ülevaate sellest, milline on projektiga seotud määramatuse aste ja millised faktorid võivad ohustada projekti eesmärgi saavutamist.
 
-**Riskijuhtimine** peab tagama pideva ülevaate sellest, milline on projektiga seotud määramatuse aste ja millised faktorid võivad ohustada projekti eesmärgi saavutamist.
+**Allhangete juhtimine** **_Project procurement management_** peab tagama õiged kokkulepped õigel ajal ja õigete allhankijatega ning katma kõik allhanketööd korrektsete lepingutega.
 
-**Allhangete juhtimine** peab tagama õiged kokkulepped õigel ajal ja õigete allhankijatega ning katma kõik allhanketööd korrektsete lepingutega.
-
-**Seoste juhtimise** korral on tegemist seostega nii projektis eneses kui ka projektiväliste seostega. Erinevate seoste (rahaline, ajaline, vahenditega seotud seosed jms) arvestamata jätmine on ohtlik, sest see võib viia projekti ebaõnnestumiseni.
+**Seoste juhtimise** **_Project integration management_** korral on tegemist seostega nii projektis eneses kui ka projektiväliste seostega. Erinevate seoste (rahaline, ajaline, vahenditega seotud seosed jms) arvestamata jätmine on ohtlik, sest see võib viia projekti ebaõnnestumiseni.
 
 ### A.5.1.3 Kuidas jõuda eduka projektini?
 
@@ -273,7 +264,9 @@ Loetleda peamised tegurid, mis mõjutavad aja, kulude ja kvaliteedi näitajaid I
 
 ::: danger Nõrk seos
 
-Õppekava punkt on õppematerjaliga nõrgalt seotud, pigem käsitleb õppekava punkt eelmist teemat **_A.5.2.1_**
+Õppematerjal on õppekava küsimustega nõrgalt seotud
+
+, pigem käsitleb õppekava punkt eelmist teemat **_A.5.2.1_**
 
 :::
 
