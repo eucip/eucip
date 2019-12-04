@@ -495,11 +495,7 @@ Tuua välja süsteemiarenduse erinevatel etappidel vajalike töövahendite kasut
 
 :::
 
-::: probleem
-
-CASE töövahendid on vananenud https://stackoverflow.com/questions/3596129/why-did-not-case-tools-succeed
-
-:::
+::: vananenud
 
 Tarkvara arendusprotsess koosneb mitmetest eripalgelistest tegevustest ning on info kaardistamise, analüüsi, visualiseerimise ja kommunikeerumisrikas loomeprotsess. Arendusprotsessis loodud infoühikud peaksid olema omavahel seostatud – selline lähenemine võimaldab nt funktsionaalse nõude muutudes kergelt leida muutmist vajavad koodiosad ning nende muutmisel omakorda otsida ületestimist vajavad moodulid. Sellise töö lihtsustamiseks on kasutusel spetsiaalsed vahendid, milliseid tuntakse üldnimetuse CASE vahendid – Computer-Aided Software Engineering Tools - all. CASE-vahendid on programmid, mis toetavad tarkvara arendus- ja haldusprotsessi. CASE-tööriistad aitavad rakendada nii töövahendeid kui ka meetodeid kvaliteetsete süsteemide loomiseks. Seega võivad vahendid olla ülesehitatud selliselt, et nad toetavad ja soodustavad konkreetse arendusmeetodi kasutamist.
 
@@ -517,6 +513,8 @@ Süsteemiarenduse elutsüklit toetavad CASE-vahendid jaotatakse näiteks kahte k
 CASE vahendid võivad olla mõne kitsa tegevuse toetuseks, kuid uuem suund on vahendid integreerida, et süsteemiarenduse erinevatel etappidel loodud dokumentatsioon, mudelid, kood, testid jne oleksid paremini omavahel seostatavad. Seetõttu on ühte tarkvarasse ühendatud ka alumise ja ülemise taseme CASE vahendid.
 
 Erinevad CASE-vahendid toetavad tarkvara arendusprotsessi eri ulatuses – mõnest üksikust arendussammust kuni integreeritud lahendusteni, st nõuete kogumisest kui tarkvara haldamiseni. CASE-vahendite eriliigi moodustavad programmid, mis võimaldavad läbida tarkvara arendusprotsessi "vastupidises suunas", st teha pöördprojekteerimist (reverse engineering), nt genereerida koodist süsteemi ülesehitust kirjeldavat arhitektuuriskeemi või genereerida kompileeritud koodist lähtekoodi. Selliseid vahendeid kasutatakse tihti tarkvara puuduoleva, ebatäieliku või vananenud dokumentatsiooni korral.
+
+:::
 
 ### B.1.3.2 CASE-vahendid elutsükli erinevatel etappidel
 
@@ -572,6 +570,8 @@ Refereerida lihtsa arendusvahendi kasutamist redigeerimiseks, kompileerimi- seks
 
 :::
 
+::: vananenud
+
 CASE-vahendid aitavad mugavamalt läbida süsteemiarenduse erinevaid etappe, kuid nende kasutamisega võivad olla seotud ka probleemid ja riskid.
 
 **Ebapiisav standardiseeritus** - erinevate tootjate vahendid ei pruugi ühilduda ega olla võimelised infot vahetama - näiteks andmete klassifikatsioonid on erinevad, failiformaatide konverteerimine pole ökonoomne. See sunnib kasutama sama tootja vahendeid
@@ -589,6 +589,8 @@ Lihtsamaid **madala taseme CASE-vahendeid** , saab rakendada väikeste programmi
 (ka programmeerimise õppimisel). Nad aitavad läbi viia lihtsat programmi loomise elutsüklit sisaldavad tüüpiliselt redaktorit koodi kirjutamiseks, kompilaatorit koodi kompileerimiseks ning edasiseks käivitamiseks. Testimise vahendid on seotud ennekõike silumisega - silumisvahendid lubavad koodi lause-haaval käivitada ning jälgida samal ajal muutujate väärtuste muutumist. Samuti kuvatakse veateateid nii kompileerimise kui ka täitmisaegsete vigade kohta. Kõik need tegevused on tehtavad ühes keskkonnas. Tihti lisandub veel võimalus keelevahendite kohta abi (Help) küsida, koodi värvimine mugavamaks jälgimiseks, automaatne taanete pidamine, sulgude lõpetamine jms.
 
 Joonisel 1 on näha madala taseme CASE-vahendi Bloodshed DevC++ ekraanipilt. Redigeerimisaknas olevat programmi on kompileeritud ning ekraani all servas on süntaksivigade teated. Menüü pealkirjadest saab järeldada, millised funktsionaalsused sellel vahendil olemas on.
+
+:::
 
 ### B.1.3 Kordamisküsimused
 
@@ -1107,7 +1109,7 @@ Arendusmetoodikates on vanade nn **tardmeetodite** (raskete meetodite) asemel tu
 
 #### SCRUM
 
-Siinkohal võib näiteks tuua ***SCRUM***'i , mis on Eestiski levinud.
+Siinkohal võib näiteks tuua **_SCRUM_**'i , mis on Eestiski levinud.
 
 "SCRUMi raamistik aitab meeskondadel saada ülitõhusaks. See võimaldab arendajail teostada suuri projekte vaid murdosa jooksul ajast, mis kulub tavaarenduspraktikas" – ütles Jim Cundiff, Scrum Alliance';i tegevjuht. "Samuti teeb Scrum defektid meeskonnale koheselt nähtavaks", lisab Cundiff. "Lihtsalt öeldes – Scrum parendab tõhusust ja aitab organisatsioonil ülesannetega toime tulla." Scrumi kasvavat populaarsust võib seletada tema suutlikkusega tõsta ja võimendada investeeringult teenitavat tulusust ning võimega ühendada juhtkonda ja arendajaid firma ärieesmärkide saavutamise nimel. SCRUMi on lihtne mõista ja rakendada, koolitusprogrammid on olemas ja töötavad. Scrum pakub paindlikku raamistikku, mis aitab suurtel meeskondadel keskenduda sihile, et ühiselt, kogu meeskonnaga, saavutada iga sprindi ülesanded.
 
