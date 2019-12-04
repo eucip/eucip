@@ -8,6 +8,8 @@ Siin lehel leiduva õppematerjali järgi õpivad ja [teevad kutseeksamit](https:
 
 **Panusta Eesti tarkvaraarenduse tulevikku ja aita kaasa materjali uuendamisel: lisa issue parandusettepanekutega või veel parem, saada pull request koos parandustega!**
 
+Vaata siit [töid mis on vaha teha ehk Githubi issuesid](https://github.com/eucip/eucip/issues)
+
 Vaata siit [sisuloomisjuhiseid](./sisuloomisjuhised.md).
 
 ## Õppematerjalid
