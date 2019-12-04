@@ -1515,7 +1515,7 @@ oskus {
 
 Joonis 4-29. Kujundatud XMLi näidis. Allikas: BCS Koolitus, webmasteri põhikursus.
 
-::: vananenud
+:::
 
 ### B.4.5.5 Stiililehed ja nende kasutamine disainis (CSS ja XSL)
 

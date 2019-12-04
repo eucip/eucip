@@ -467,35 +467,19 @@ Defineerida internetiressursi aadressi (URL) otstarve.
 
 Veebilehed on **URL adresseeringuga**. URL on internetiaadress ressursside leidmiseks, mille esimene osa näitab ära protokolli (näiteks http:// või https:// või ftp://) ja aadressi keskel on kooloniga eraldatult domeeninimi ja port, mille kaudu teenust jagatakse ning aadressi lõpus on alamkataloog ja failinimi, näiteks [http://www.domeeninimi.ee/kataloog/fail](http://www.domeeninimi.ee/kataloog/fail)
 
-### Hüpertekst-märgistuskeel
-
-::: probleem
-
-Õppekavas pole HTML antud alajaotuses märgitud
-
-:::
+### C.4.4.6 Staatilised ja dünaamilised veebilehed
 
 **Hüpertekst-märgistuskeel** **_HTML_** / **_Hypertext Markup Language_** on keel veebilehtede kirjeldamiseks. See keel kasutab märgendeid, et kirjeldada kuidas veebileht veebilehitsejas välja näeb. Märgendid on `<>` märkidega eraldatud. Näiteks `<body>` ja `</body>` märgendid ümbritsevad lehekülje põhiosa. Veebilehitsemise jaoks olulisim on linkide olemasolu. Selleks on kasutusel märgendid `<a href="veebi url">` , selle järel kasutajale nähtav lingi selgitus ja lingi lõpetab `</a>`.
 
-### C.4.4.6 Dünaamilised veebilehed
-
-::: vananenud
-
-**Õppekava**
+::: oppekava
 
 Määratleda üldise lüüsiliidese (CGI) otstarve.
 
 :::
 
-HTML keel võimaldab kirjeldada **staatilisi veebilehti**. Siiski on paljudel juhtudel vaja kliendile saadetud lehekülgi muuta vastavalt kliendi poolt sisestatud parameetritele või saata kliendi päringule vastus veebiserveriga ühendatud andmebaasist.
-
-::: probleem
-
-CGI liides on vananenud tehnoloogia ja pole enam aktiivses kasutuses https://medium.com/adobetech/2017-will-be-the-year-of-the-cgi-bin-err-serverless-f5d99671bc99
-
-:::
-
 ::: vananenud
+
+HTML keel võimaldab kirjeldada **staatilisi veebilehti**. Siiski on paljudel juhtudel vaja kliendile saadetud lehekülgi muuta vastavalt kliendi poolt sisestatud parameetritele või saata kliendi päringule vastus veebiserveriga ühendatud andmebaasist.
 
 Selleks otstarbeks on kasutusel **dünaamilised veebilehed**. Üks mehhanism selliste päringute jaoks välja arendatud mehhanism on **üldine lüüsiliides** (CGI – Common Gateway Interface). CGI päring suunab kasutaja mitte staatilise veebisisu juurde vaid käivitab serveris rakenduse, mille väljund saadetakse kasutajale päringu vastuseks. CGI ei ole seotud konkreetse programmeerimiskeelega. CGI skripti saab kasutada näiteks koos Perl, PHP, C või Java keeltega. Java keeles kirjutatud CGI rakendust nimetatakse Java servlett. CGI'd kasutavad keeled loovad kliendile HTML vormingus lehekülje. Kasutaja võib CGI rakenduse käivitada ka veebilehitseja aadressiribalt, kus saab kasutaja kirjeldada ka päringu andmed peale CGI rakendust.
 CGI'le analoogne skriptimiskeskkond on Microsoft'i **ASP** (Active Server Pages).
@@ -510,15 +494,7 @@ Määratleda apleti mõiste.
 
 :::
 
-::: probleem
-
-Java applet, Visual Basic Script ja ActiveX on praeguseks vananenud tehnoloogiad ja pole aktiivses kasutuses.
-
-https://www.quora.com/Is-the-java-applet-dead
-
-https://www.computerworld.com/article/2920892/microsoft-nixes-activex-add-on-technology-in-new-edge-browser.html
-
-:::
+::: vananenud
 
 Kliendipoolsete veebirakenduste käivitamisel on erinevad võimalikud lähenemised:
 
@@ -540,6 +516,8 @@ _Joonis 4‑12. Apleti kasutamise näidis (Allikas: Learning Materials for Infor
 **Veebiaplett** on veebiserverilt allalaaditud rakendus, mis käivitatakse kliendi arvutis veebilehitseja alt ja harilikult on tegemist veebilehe elementidega. Apletid on enamasti kirjutatud Java keeles, mis on Sun Microsystems'i poolt loodud keel. Apleti kirjutamiseks ei sobi iga keel vaid see peab olema interpreteeritud keel, mida tunneb veebilehitseja. Interpreteeritud Java koodi käivitamiseks peab kliendi arvutis olema Java interpretaator ehk Java virtuaalmasin, mis on sageli integreeritud veebilehitsejasse. HTML märgend apleti kasutamiseks on `<applet>`. Apletid võivad olla väga lihtsad, mis näitavad vaid põgusaid animatsioone aga need võivad teostada ka keerukaid arvutusi.
 
 Vastukaaluks Java tehnoloogiale on Microsoft arendanud **ActiveX** tehnoloogia, et pakkuda täiendavat funktsionaalsust. ActiveX rakendustel on võimalik saada rohkem õiguseid süsteemis. See võib samas olla turvaprobleem ja selle kaitseks saab piirata ActiveX rakenduste käivitamist veebilehitseja kaudu ning võimalik on lubata käivitada vaid digitaalselt allkirjastatud ja teada tootjate rakendusi.
+
+:::
 
 ### C.4.4.8 Veebisisu andmebaasist
 
