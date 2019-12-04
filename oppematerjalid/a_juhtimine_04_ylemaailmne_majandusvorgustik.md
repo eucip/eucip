@@ -2,11 +2,11 @@
 
 Selle teema materjale läbi töötades saad teadmised infoedastuses viimastel aastakümnetel toimunud hiiglasuurtest muutustest. Kasutades eri valdkondade näiteid nii igapäeva kui oluliste tegevuste puhul, selgitatakse on-line maailma toimimist.
 
-## A.4 Uued võimalused
+## A.4.1 Uued võimalused
 
 Selle alateema materjale läbi töötades saad teadmised infoühiskonnaga seotud uutest võimalustest.
 
-### A.4.1 Uued võimalused infoühiskonnas
+### A.4.1.1 Uued võimalused infoühiskonnas
 
 ::: oppekava
 
@@ -96,7 +96,7 @@ Uusi võimalusi pakkuvate tehnoloogiatrendide hulgas tasub mainida (ja huvi korr
 
 :::
 
-### A.4.1 Kordamisküsimused
+### A.4.2 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -122,13 +122,13 @@ Uusi võimalusi pakkuvate tehnoloogiatrendide hulgas tasub mainida (ja huvi korr
 
 :::
 
-## A.4. Protsesside muutmine üleminekul e-ärile.
+## A.4.2 Protsesside muutmine üleminekul e-ärile.
 
 ehk "Äri- ja turundustrendid uues majanduses".
 
 Selle alateema materjale läbi töötades saad teadmised äri- ja turundustrendidest uues majanduses.
 
-### A.4.1 Äri- ja turundustrendid uues majanduses
+### A.4.2.1 Äri- ja turundustrendid uues majanduses
 
 ::: oppekava
 
@@ -190,13 +190,33 @@ Infotehnoloogia kasutamine kõigis majandus- ja sotsiaalvaldkondades (haridus, t
 
 Eestis on heaks näiteks ja eestvedajaks olnud riik, mille e-teenused (ID-kaart, digiallkiri, e-maksuamet, e-valimised jne) on tähelepanu tõmmanud ka rahvusvaheliselt. Tehnoloogia tõeline potentsiaal vallandub siiski alles selle laiema levikuga kõikidesse elu- ja ärivaldkondadesse. Tänu IT-le võivad mõned uutest firmadest sündidagi globaalseina, st erinevalt tööstusajastu ärimudelist ei pea laienema füüsiliste asukohtade haaval (nagu nt poeketid). Heaks näiteks on siin Skype, mis sünni hetkest on ülemaailmselt kasutatav.
 
-## A.4. Globaliseerumine
+## A.4.3 Kliendikesksus ja virtuaalsed organisatsioonid (Globaliseerumine?)
+
+::: probleem
+
+Õppematerjalid ja õppekava sisu ei lähe kokku
+
+**A.4.3 Kliendikesksus ja virtuaalsed organisatsioonid.**
+
+**A.4.3.1**
+
+Tuua välja virtuaalorganisatsiooni määratlus ja selgitada, kuidas virtuallsed oranisatsioonid toimivad.
+
+**A.4.3.2**
+
+Kirjeldada, kuidas IKT võib muuta organisatsiooni piire ja kuidas seda saab kasutada organisatsiooni paindlikumaks muutmisel.
+
+**A.4.3.3**
+
+Määratleda unikaalse kliendi mõiste ja tuua välja selle mõju tehnoloogiale.
+
+:::
 
 Globaliseerumine on osaliselt infotehnoloogia arengu tulemus, ja samas IT levik omakorda võimendab üleilmastumist. Ühest küljest aitab info leviku lihtsustumine ja kiirenemine traditsioonilist äri piiriüleselt paremini teha (vrd kasvõi e-kirja saatmise kiirust tavakirjaga) ja teisalt on see loonud võimalused täiesti uute ettevõtlusharude, toodete ja teenuste sünniks. Uued võimalused ei piirdu ammu enam kiirema suhtlusega, vaid võimaldavad kliendibaasi laiendamist üle regiooni või isegi maailma (nagu nt ennist mainitud Skype), meeskonnatööd üle eri ajavööndite, oskustööjõu kasutamist ilma seda füüsiliselt kohale toomata, aga ka klientide kaasamist toote või teenuse arendamisse.
 
-### A.4.1 Rahvahange
+#### Rahvahange
 
-Rahvahange (ingl k crowdsourcing) tähendab kliendi kaasamist toote või teenuse arendamisse. Varemgi toimus see kasutajate tagasiside põhjal ning varajasemas väljatöötamise faasis ka fookusrühmades ning muudes kontrollitud keskkondades. Uuel sajandil on avatud innovatsiooni märksõna alla koondatud firmade tegevused, kus nad ideede ja nende väljaarendamise saamiseks pöörduvad organisatsioonist väljapoole.
+Rahvahange ehk **_crowdsourcing_** tähendab kliendi kaasamist toote või teenuse arendamisse. Varemgi toimus see kasutajate tagasiside põhjal ning varajasemas väljatöötamise faasis ka fookusrühmades ning muudes kontrollitud keskkondades. Uuel sajandil on avatud innovatsiooni märksõna alla koondatud firmade tegevused, kus nad ideede ja nende väljaarendamise saamiseks pöörduvad organisatsioonist väljapoole.
 
 See võib toimuda nii ideekonkursi, teenuse väljaarendamise kui prototüübi katsetamise näol. Näiteks kui Lego tahtis välja töötada oma järgmise põlvkonna Mindstorm robootikakomplekti, pöördus ta entusiastide poole, kes panustasid oma teadmiste ja ajaga Mindstorm NXT sündi. Kogemus oli niivõrd edukas, et praeguseks on Lego muutnud mänguklotside fännide kaasamise tootearendusse süsteemseks, oma LegoDesignByMe nimelises veebikeskkonnas.
 
@@ -204,7 +224,7 @@ Vaata muid rahvahanke näited veebis olevast loetelust aadressil [http://www.ope
 
 Samm eelnevast edasi on rahvahankel tuginevate **uute ärimudelite sünd**. Nii on esile kerkinud vahendajad, kes loovad keskkonna selleks, et tootearendajad ja tegijad kokku tuua. Huvitavaks näiteks on pioneer graafilise disaini valdkonnas https://99designs.com/, kus logo, visiitkaardi, veebikujunduse vms tellija paneb soovitu saamiseks välja konkursi ja määrab ise hinna, mis ta on nõus selle eest maksma. Selle peale kujundajad üle maailma hakkavad kavandeid pakkuma. Soovitu mitteleidmisel saab tellija raha tagasi. Nii see kui paljud teised rahvahanke tööriistad on alguse või vähemalt inspiratsiooni saanud sotsiaalvõrgustike suhtluskeskkondadest.
 
-### A.4.2 Suhtluskeskkonnad
+#### Suhtluskeskkonnad
 
 ::: vananenud
 
@@ -262,7 +282,7 @@ XML-põhise standardi näide:
 
 :::
 
-### A.4.5 Kordamisküsimused
+### A.4.3 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -297,11 +317,11 @@ XML-põhise standardi näide:
 
 :::
 
-## 3. Uued mehhanismid ja struktuurid äris
+## A.4.4 Uued mehhanismid ja struktuurid äris
 
 Selle alateema materjale läbi töötades saad teadmised uutest mahhanismidest ja struktuuridest aris.
 
-### 3.1 Uued mehhanismid ja struktuurid äris
+### 4.4.1 Ressursside ligipääs ja kaugtöö
 
 Infotehnoloogia pakub palju võimalusi **organisatsiooni paindlikkuse suurendamiseks**. Üheks võimaluseks on rutiinsete tööde automatiseerimine, mis vabastab inimesed teiste keerukamate ja loovamate tööde tegemiseks. Sõltuvalt töö iseloomust võivad nendeks rutiinsemateks töödeks olla tüüpkirjade masspostitus kontoritöös, laomajanduse korrastamine klassifikaatorite abil või tootmisliini kiire ümberhäälestamine eelprogrammeeritud parameetrite alusel.
 
@@ -309,7 +329,7 @@ Omamoodi automatiseerimine on organisatsioonivälistele tööprotsessi osalistel
 
 Organisatsiooni paindlikkust suurendab ka **kaugtöö** võimalus (ametites, kus see kohane). Seda näiteks personalivärbamise mõttes laiendades haaret geograafiliselt ja suurendades võimalike kandidaatide hulka, aga ka pakkudes seeläbi töötajatele temale sobivaimat lahendust töö tulemusse panustamisel. Tasub arvestada ka kokkuhoidu kontorikuludelt kuna kaugtöö puhul langeb tihtipeale ära vajadus sisustada töökoht ettevõtte pinnal.
 
-**Virtuaalorganisatsioon**
+#### Virtuaalorganisatsioon
 
 Peetakse loomulikuks, et küla väikesesse autoteenindusse minnes ei suudeta seal uusima automudeli kõiki elektritöid teha. Aga "uue majanduse" puhul ei pruugi enam sellist piirangut ees olla. Kui külateeninduses on käepärast tööpink, mille robotkäsi saab kaugelt juhtida, siis hea korralduse puhul võiks kohalik remondimeister keerukamate lõikude jaoks suhteliselt kergesti abi paluda firma mujal asuva esinduse kogenud töölistelt, et mõni keerukam seadistus lasta neil teha. Tavalise keevitamise ja kruvimisega saadakse ka kohapeal hakkama. See on üks näide virtuaalsest organisatsioonist.
 
@@ -331,7 +351,7 @@ Tehnoloogia rakendamine avardab organisatsiooni tegevusvõimalusi märgatavalt. 
 
 Eelkõige suhtlemist lihtsustavad ja kiiremaks teinud tehnoloogiad **on toonud maailma lähemale** igale ettevõttele. Mõned majandusharud on selle tulemusel hakanud toimima ülemaailmse ühisturuna (nt finants), mõned tunnetavad globaliseerumist konkurentsi tihenemisena, ent paljud lõikavad turuvõimaluste kasvamisest kasu laiendades kliendibaasi, mitmekesistades tarnijatevõrku või pääsedes ligi uutele teadmistele.
 
-### 3.2 Kordamisküsimused
+### A.4.4 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -357,7 +377,7 @@ Eelkõige suhtlemist lihtsustavad ja kiiremaks teinud tehnoloogiad **on toonud m
 
 :::
 
-## A.4. Ettevõtte rakendused
+## A.4.4 Ettevõtte rakendused
 
 Selle alateema materjale läbi töötades saad teadmised ettevõtte rakendustest.
 

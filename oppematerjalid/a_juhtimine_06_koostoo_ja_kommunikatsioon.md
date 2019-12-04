@@ -113,7 +113,7 @@ Sõltuvalt koostöö vormist on vahel otstarbekas eristada koostöö vorme. Ingl
 
 :::
 
-## A.6.2 IT mõisted ja määratlused - kasutamine suhtluses
+## A.6.2 IT mõisted ja määratlused (Ülemaailmselt hajutatud meeskonnad?)
 
 ::: probleem
 
@@ -219,7 +219,7 @@ Loe lähemalt ZXTM kohta: http://www.zeus.com
 Seminar on TASUTA
 ```
 
-#### Kordamisküsimused
+### 6.2 Kordamisküsimused
 
 1. Serveriruumi uksel on silt "Kõrvalistel isikutel ruumis viibimine keelatud!". Kas see teate edastamise viis on:
 
@@ -233,7 +233,7 @@ Seminar on TASUTA
 - mitteregulaarse operatiivinfo edastamiseks
 - osakonna tootmisülesannete tutvustamiseks
 
-## A.6.3 IT spetsialistide ja äripersonali dialoog
+## A.6.3 IT spetsialistide ja äripersonali dialoog (Sotsiaalvõrgustikud?)
 
 ::: probleem
 
@@ -293,7 +293,7 @@ Kokkuvõttes annavad kirjeldatud tegevused oma osa ettevõtte äri hindamisel. S
 
 Infosüsteemide tulemusliku toimimise eelduseks ja nende muutumine osaks ettevõtte väärtusahelas, on hea planeerimine ja plaanitu elluviimine hea projektijuhtimise kaudu. Ilma üksteist mõistva suhtluseta on see võimatu. Organisatsiooni mõlemad osapooled meie vaadeldaval juhul - "äri" ja IT - peavad suutma ennast väljendada korrektselt ja teisele osapoolele (ja mitte ainult neile) arusaadavalt. Tehnilised väärtused kummalgi pool ei tohi saada väärtuseks omaette, vaid peavad olema kooskõlas põhieesmärkidega - kliendi rahulolu, kvaliteet, tööviljakus jne.
 
-### A.6.3.2 Kordamisküsimused
+### A.6.3 Kordamisküsimused
 
 Missugune alljärgnevatest viib organisatsiooni, mille tegevuses on IT-l väga oluline roll, arengus parima tulemuseni, kui tegevuses peetaks silmas eelkõige ainult üht tegutsemisviisi:
 
@@ -562,13 +562,13 @@ Loetleda nõuded audiovisuaalsete vahendite kasutamisel.
 
 :::
 
-### A.6.5.1 Audiovisuaalsed vahendid
+#### Audiovisuaalsed vahendid
 
 Audio-visuaalsed (AV) vahendid on tavapärased igapäeva töö ja koosolekute korraldamisel. Need aitavad paremini edastada oma ideid ja vajalikke andmeid. Reeglina mõistetakse nende all traditsioonilist esitlustehnikat alates arvutist koos digiprojektoriga (ka data- või videoprojektor). Tänapäeval on kasutatavate vahendite hulk ja võimalused oluliselt suuremad. Paljudega nendest puutuvad kokku ka IT spetsialistid klientidele tehnilisi lahendusi pakkudes ja teenuseid osutades.
 
 AV vahendite võimalusi saab kasutada erinevate kommunikatsiooni meetodite ja näidetena toodud viiside puhul.
 
-### Esitlustehnika
+#### Esitlustehnika
 
 Esitlustehnikat kasutatakse reeglina loengutes, õppetundides ja koosolekutel esitatava teabe ilmekustamiseks eesmärgiga tuua sõnum mitmel viisil kuulajate ja kolleegideni. Samuti on hea kasutada tehnilisi vahendeid erinevat liiki arutelude ja ajurünnakute tulemuste pidevaks fikseerimiseks.
 
@@ -599,7 +599,7 @@ Nagu öeldud on sidekanaliteks reeglina IP-ühendused, kuid on ka ISDN ühenduse
 
 Laialt kasutatakse videokonverentsi koolituses, kus seeläbi suureneb võimalus kasutada välislektoreid.
 
-### A.6.5.2 Kordamisküsimused
+### A.6.5 Kordamisküsimused
 
 ::: kordamiskusimused
 

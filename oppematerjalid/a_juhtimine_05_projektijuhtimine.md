@@ -308,7 +308,7 @@ Eelkõige tuleneb ebakindlus nende suuruste määratlemisel sellest, et projekti
 
   see viib projekti käigus tööde ümber tegemiseni ning kavandamise etapis paika pandud tähtajad lähevad nihkesse, kulud suurenevad ning kvaliteet halveneb.
 
-### A.5.2.4 Kordamisküsimused
+### A.5.2 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -339,7 +339,7 @@ Selle alateema materjale läbi töötades saad teada:
 - millised on vastutusvaldkondade üliformaalse jagamise eelised ja puudused
 - millised on põhilised töörollid projektides.
 
-## A.5.3.1 Kuidas on tööd projekti plaanides osadeks jaotada?
+### A.5.3.1 Kuidas on tööd projekti plaanides osadeks jaotada?
 
 ::: oppekava
 
@@ -664,7 +664,7 @@ Kirjeldada projekti jälgimise komponente nagu, tegevused, ressursid, üleantava
 
 :::
 
-### A.5.4.4 Kordamisküsimused
+### A.5.4 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -849,7 +849,7 @@ Keeruline ei ole see konkreetsete teostusprojektide korral kus valmib mingi käe
 
 Raske on aga hinnata vahetulemust paljude arendusprojektide ja eriti just IT arendusprojektide korral. Siin on keeruline hinnata nii tulemust ja selle kvaliteeti kui ka tegemata töö hulka. Seetõttu saab paljudel juhtudel hinnangu tulemusele ja selle kvaliteedile anda alles projekti lõpus. See aga nõuab kontrollijatelt ja hindajatelt väga suurt objektiivsust, sest vastasel juhul võivad hinnangud olla valed ja hinnatavate töömotivatsioon võib oluliselt langeda.
 
-### A.5.5.5 Kordamisküsimused
+### A.5.5 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1190,7 +1190,7 @@ Funktsionaalse testimise tehnikad on tuntud ka kui nn Black Box (must kast) ja s
 
 Struktuursete testimise tehnikate puhul tulenevad sooritatavad testid tarkvara sisemisest struktuurist ja neid nimetatakse ka White Box (valge kast) tehnikateks, kuna nende kasutamisel peab omama teadmisi kuidas tarkvara on juurutatud ning kuidas ta töötab. Üldjuhul kasutavad neid tehnikaid tarkvara arendajad ise. Struktuurse testimise tehnikad on tüüpilised moodulite testimise tehnikad, mille käigus testitakse ainult tarkvara süsteemi osi.
 
-### A.5.7.9 Kordamisküsimused
+### A.5.7 Kordamisküsimused
 
 ::: kordamiskusimused
 

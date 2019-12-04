@@ -170,7 +170,7 @@ Kui üritada hinnata IT erinevad arengustaadiume, siis võiks neid klassifitseer
 
 Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral nende "visiitkaartideks". Suured multinatsionaalsed kontsernid eelistavad konservatiivsemaid integreeritud juhtimissüsteeme, mis nõuavad jäigemat, kuid samas ka süsteemset lähenemist. Väiksemad firmad, mis juba oma olemuselt on dünaamilisemad, rõhutavad pigem mitmekesisust ja kasutavad üldotstabelist tehnoloogiat. Selline lähenemine võimaldab saavutada suuremat paindlikkust ja kohanemisvõimet välis- ja/või sisetingimuste muutumisel, ehkki see võib tuua kaasa mõningaid probleeme kui kasutada neid pelgalt juhtimissüsteemidena.
 
-### A.1.1.6 Kordamisküsimused
+### A.1.1 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -209,7 +209,9 @@ Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral n
 
 :::
 
-## A.1.2 (Infotöötlus) Infotehnoloogia mõju organisatsioonide infotöötlusele
+## A.1.2 Infotöötlus
+
+ehk "Infotehnoloogia mõju organisatsioonide infotöötlusele"
 
 Selle alateema materjale läbi töötades õpid tundma, kuidas infotehnoloogia mõjutab infotöötlust organisatsioonides.
 
@@ -286,7 +288,9 @@ Kirjeldada organisatsioonis infotöötlussüsteemide kasutamist, näiteks ettev�
 
 :::
 
-## A.1.3 Strateegiline positsioneerumine (Sise- ja väliskeskkond)
+## A.1.3 Strateegiline positsioneerumine
+
+ehk "Sise- ja väliskeskkond"
 
 Selle alateema materjale läbi töötades tutvud ettevõtte konkurentsivõime tagamise, turundusmeetmete ja logistika planeerimise põhimõtetega.
 
@@ -537,7 +541,7 @@ Kirjeldada antud äriplaaniga sobivat IKT lahendust.
 
 :::
 
-### A.1.4.2 Kordamisküsimused
+### A.1.4 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -867,7 +871,7 @@ Teadmisi võidakse edastada nii teadmiste hoidlatega kui ka virtuaalsete kohtumi
 
 Lõpuks peab märkima, et lähtudes ülaltoodud teadmusjuhtimise ideoloogiast on edukad firmad on üles ehitanud organisatsiooni mudeli, milles võetakse arvesse ettevõttes tekkinud eriomast oskusteavet. Ettevõtte konkurentsivõime suurendamiseks on püstitatud eesmärk tekkinud kogemuste ja oskusteabe rakendamine ettevõttes, töötajate koolituse ja täiendõppe abil.
 
-### A.1.6.7 Kordamisküsimused
+### A.1.6 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1080,7 +1084,7 @@ Loetleda e-õppe eelised ja puudused.
 
 :::
 
-### A.1.8.2 Kordamisküsimused
+### A.1.8 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1244,7 +1248,7 @@ Näide: ravimite e-hulgimüüja ekstranetis on ravimite kirjeldused ja hinnad. A
 
 c) Hinnakujunduse-turunduses on paindlik turuolu­kordade ja klientide suhtes. Interaktiivne kiire andme­vahetus e-turunduses võimaldab müüki kokkuleppe­hindadega. Näiteks lennundusportaalides muutub lennupiletite hind reaalajas sõltuvalt turu olukorrast (Lastminute. com).
 
-### A.1.9.5 Kliendisuhete juhtimine (customer relationship management – CRM)
+### A.1.9.5 Kliendisuhete juhtimine
 
 ::: probleem
 
@@ -1315,47 +1319,60 @@ E-äri on tekitanud ettevõtluse uue ärimudeli - virtuaal­ettevõtlus. Virtuaa
 
 :::
 
-# 1.10 Riigi roll infosüsteemide loomisel
+## A.1.10 Riigi roll infosüsteemide loomisel
 
-Selle alateema materjale läbi töötades saad teadmised triigi rollist infosüsteemide loomisel.
+Selle alateema materjale läbi töötades saad teadmised riigi rollist infosüsteemide loomisel.
 
-### A.1.10.1 Riigi rollist infosüsteemide loomisel
+::: probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 Infosüsteem on ettevõtte või organisatsiooni info- ja süsteemitöö korralduse, meetodite ning vahendite süs­teem (kogum). Infosüsteem luuakse efektiivsuse tõst­miseks, lähtudes ettevõtte põhieesmärkidest. Ettevõttel või organisatsioonil eksisteerib juhtkonna ja kontori jaoks töökorraldus (sageli organisatsiooni ja tema struktuuriüksuste põhimäärustena), mis sisaldab ka infotöö ja süsteemitöö eesmärke, tegevusprogrammi ning töö metoodikat. Tänapäevane infosüsteem kasu­tab infotehnoloogia vahendeid ja põhiosas mõistame infosüsteemi kui ettevõtet või organisatsiooni koos arvutikasutusega.
 
-a) **Riigi infosüsteemid**.Ülaltoodud määratlus kehtib ka riigi infosüsteemide osas. Riigiasutuste tegevus on oluliselt seotud info kogumise, töötlemise, analüüsi ja väljastamisega, mida nüüdisajal teostatakse enamasti (infokom­munikatsiooni tehnoloogia) vahenditega.
+#### Riigi infosüsteemid
+
+Ülaltoodud määratlus kehtib ka riigi infosüsteemide osas. Riigiasutuste tegevus on oluliselt seotud info kogumise, töötlemise, analüüsi ja väljastamisega, mida nüüdisajal teostatakse enamasti (infokom­munikatsiooni tehnoloogia) vahenditega.
 
 Riigi infosüsteemi moodustavad mitmesugused and­mekogud (riigi põhiregistrid, riiklikud registrid jne), riigiasutuste dokumendihaldussüsteemid, internetipor­taalid ja kõiki eespool toodud rakendusi toetavad info­tehnoloogilise infrastruktuuri elemendid (kohtvõrgud, serverid, tööjaamad jt).
 
 Riigi infosüsteemides peab arvestama ka ko­haliku omavalitsustega, mis on inimestele kõige lähemal asuv avaliku teenuse (või­mu) asutus, ta on ka riiklike andmekogude ja infosüs­teemide andmehõive esimene tasand. Riiklikud and­mekogud hakkavad täiuslikult toimima, kui andmete kandmine digitaalsesse andmekogusse muutub jurii­dilise protseduuri (näiteks sünni registreerimise) reaal­ajas toimuvaks osaks. Riiklike registrite korralik toi­mimine on oluline Euroopa Liidu ühtse infosüsteemi väljatöötamisel. Infoühiskonnas ei ole ääremaid.
 
-b) **Andmekogude riiklik register** [http://www.riik.ee/arr/arrindex.html](http://www.riik.ee/arr/arrindex.html) . Andmekogude riikliku registri pidamise eesmärk on andmekogude üle arvestuse pidamine, valitsusele ja andmekogude vastutavatele töötlejatele ning riigi info­süsteemide alaseid töid koordineerivale asutusele ette­panekute tegemine samaste ja üksteist sisuliselt kor­davate andmekogude pidamise vältimiseks, andmeko­gude laiendamiseks, ühendamiseks või likvideerimi­seks, andmete ristkasutuseks ning andmetöötluse või andmehõive korrastamiseks.
+::: vananenud
+
+##### Andmekogude riiklik register
+
+http://www.riik.ee/arr/arrindex.html
+
+Andmekogude riikliku registri pidamise eesmärk on andmekogude üle arvestuse pidamine, valitsusele ja andmekogude vastutavatele töötlejatele ning riigi info­süsteemide alaseid töid koordineerivale asutusele ette­panekute tegemine samaste ja üksteist sisuliselt kor­davate andmekogude pidamise vältimiseks, andmeko­gude laiendamiseks, ühendamiseks või likvideerimi­seks, andmete ristkasutuseks ning andmetöötluse või andmehõive korrastamiseks.
 
 Registrisse kantakse andmed järgmiste andmeko­gude kohta:
 
-1.  Riigi põhiregistrid ja nendega andmete vahetamises osalevad andmekogud.
+1. Riigi põhiregistrid ja nendega andmete vahetamises osalevad andmekogud.
+2. Riiklikud registrid.
+3. Juriidiliste isikute ning riigiasutustes ja kohalikes omavalitsustes peetavad delikaatseid isikuandmeid si­saldavad andmekogud.
+4. Riigiasutuste ja kohalike omavalitsuste andmeko­gud, mis koguvad ja väljastavad riigi põhi- ja riiklikes registrites sisalduvaid andmeid.
 
-2.  Riiklikud registrid.
+##### E-kodanik
 
-3.  Juriidiliste isikute ning riigiasutustes ja kohalikes omavalitsustes peetavad delikaatseid isikuandmeid si­saldavad andmekogud.
+http://www.riik.ee/ekodanik
 
-4.  Riigiasutuste ja kohalike omavalitsuste andmeko­gud, mis koguvad ja väljastavad riigi põhi- ja riiklikes registrites sisalduvaid andmeid.
+E-kodaniku projekti eesmärk on võimaldada kõikidel inimestel aktiivselt osaleda infotehnoloogia abil ava­likus elus nii riigi, regiooni kui ka kohalikul tasandil.
 
-c) **E-kodanik** [http://www.riik.ee/ekodanik/](http://www.riik.ee/ekodanik/) . E-kodaniku projekti eesmärk on võimaldada kõikidel inimestel aktiivselt osaleda infotehnoloogia abil ava­likus elus nii riigi, regiooni kui ka kohalikul tasandil.
+##### Kodaniku IT-keskkond
 
-d) **Kodaniku IT-keskkond\*\*** (KIT)\*\* on kõigile kodanikele interneti veebilehitseja kaudu kasutatav infotehnoloo­giliste vahendite kogum turvaliseks suhtlemiseks riigi­asutuste, kohalike omavalitsuste asutuste, eraettevõtete ja kolmanda sektori institutsioonide (edaspidi asutuste) infosüsteemidega. KIT kasutajate ringi peab olema võimalik laiendada mittekodanikega.
+Kodaniku IT-keskkond (KIT) on kõigile kodanikele interneti veebilehitseja kaudu kasutatav infotehnoloo­giliste vahendite kogum turvaliseks suhtlemiseks riigi­asutuste, kohalike omavalitsuste asutuste, eraettevõtete ja kolmanda sektori institutsioonide (edaspidi asutuste) infosüsteemidega. KIT kasutajate ringi peab olema võimalik laiendada mittekodanikega.
 
 KIT vahendid võib jagada kasutajagruppide järgi kolmeks: kodaniku, üldsüsteemne ja avalik osa (teabe­portaal):
 
-- **Kodanikuportaal ** [http://www.eesti.ee/](http://www.eesti.ee/) ja [http://www.riik.ee/kodanikuportaal/](http://www.riik.ee/kodanikuportaal/)
+- **Kodanikuportaal ** http://www.eesti.ee ja http://www.riik.ee/kodanikuportaal sisaldab kodanikele vahetult suunatud põhiosi (kodaniku dokumendisüsteem, elektroonne ümbersuunatav postkast, turvaline keskkond teenustele ligipääsuks).
 
-sisaldab kodanikele vahetult suunatud põhiosi (kodaniku dokumendisüsteem, elektroonne ümbersuunatav postkast, turvaline keskkond teenustele ligipääsuks).
+  Kodaniku ja riigi suhetes taotleb riik teenuskeskset lähenemist, kus riigiasutused esinevad eelkõige avaliku teenuse pakkujatena. Kodanikuportaali loomise aluseks on seatud põhimõte: kodanikul peab olema võimalus suhelda riigiasutuste­ga, ilma et ta peaks teadma kogu haldusorganisatsiooni ülesehitusest.
 
-Kodaniku ja riigi suhetes taotleb riik teenuskeskset lähenemist, kus riigiasutused esinevad eelkõige avaliku teenuse pakkujatena. Kodanikuportaali loomise aluseks on seatud põhimõte: kodanikul peab olema võimalus suhelda riigiasutuste­ga, ilma et ta peaks teadma kogu haldusorganisatsiooni ülesehitusest.
+  Loodav kodanikuportaal laiendab üldsuse arusaama ava­likust haldusest ja selle pakutavatest teenustest, aitab kodanikel Eesti avalikku haldust mõista euroopalike põhiideede kohaselt, s.t mitte võimuinstrumendi, vaid kodanike jaoks ja kodanike teenistuses oleva süsteemina. Kodanike juriidilise kirjaoskuse parandamisele aitab kaasa teabe aktiivne pakkumine, mille käigus asenda­takse senine seaduse keskne lähenemine ehk seaduste teks­tide vahendamine teabe pakkumisega kodanikukesk­selt.
 
-Loodav kodanikuportaal laiendab üldsuse arusaama ava­likust haldusest ja selle pakutavatest teenustest, aitab kodanikel Eesti avalikku haldust mõista euroopalike põhiideede kohaselt, s.t mitte võimuinstrumendi, vaid kodanike jaoks ja kodanike teenistuses oleva süsteemina. Kodanike juriidilise kirjaoskuse parandamisele aitab kaasa teabe aktiivne pakkumine, mille käigus asenda­takse senine seaduse keskne lähenemine ehk seaduste teks­tide vahendamine teabe pakkumisega kodanikukesk­selt.
-
-Portaali toimimiseks ja ajakohastamiseks tuleb luua sellised õiguslikud alused, mis võimaldavad eri asu­tuste eri taseme ametnikel vahetult suhelda ja seega vähendada ametliku suhtlemise kuhjumist juhtide ta­sandile.
+  Portaali toimimiseks ja ajakohastamiseks tuleb luua sellised õiguslikud alused, mis võimaldavad eri asu­tuste eri taseme ametnikel vahetult suhelda ja seega vähendada ametliku suhtlemise kuhjumist juhtide ta­sandile.
 
 - **Teenuste üldsüsteemsed vahendid** - asutuste info­süsteemide kodanikele suunatud e-teenuste realisee­rimise ja kättesaadavuse hõlbustamiseks töötatakse välja reeglid ning üldsüsteemsed vahendid.
 
@@ -1389,11 +1406,11 @@ DHP tähendab:
 - ühiseid infotehnoloogilisi lahendusi: valitsusasutuse dokumendihalduse reformi edukad lahendused laien­datakse üleriigilisteks lahendusteks, selleks koonda­takse vajalikud infotehnoloogilised võimalused
 - koordineerimist: valitsusasutuste dokumendihaldu­se projektide ning temaatikaga seotud tegevused koon­datakse ühtse kooskõlastamise alla.
 
-DHP strateegia.Alustatakse valitsuse reglemendi reguleerimisvald­konnast lähtuva dokumentide haldamise süsteemi ra­kendamisega, sest see valdkond on:
+  DHP strateegia.Alustatakse valitsuse reglemendi reguleerimisvald­konnast lähtuva dokumentide haldamise süsteemi ra­kendamisega, sest see valdkond on:
 
-- õigusaktidega korraldatud (valitsuse reglement, asjaajamise kord)
-- ühine osa kõigile valitsusasutustele
-- hiljem laiendatav kõigile valitsusasutustes kasuta­tavatele dokumendiliikidele.
+  - õigusaktidega korraldatud (valitsuse reglement, asjaajamise kord)
+  - ühine osa kõigile valitsusasutustele
+  - hiljem laiendatav kõigile valitsusasutustes kasuta­tavatele dokumendiliikidele.
 
 Saadud tulemused ja standardid üldistatakse ning töö­tatakse välja nõuded valitsusasutuste dokumendihal­dussüsteemidele. Luuakse tingimused valitsusasutustes dokumentide haldamise süsteemide kasutuselevõtmiseks.
 
@@ -1403,7 +1420,9 @@ Loomulikult võivad löögi alla sattuda ka eraettevõtted ja riigiasutused, kui
 
 Kokkuvõtteks võib märkida, et liikumine infoühiskonna suunas on olnud üheks globaliseerumise veduriks, kuid kaugeltki mitte ainus. Kahtlemata aitab vaba suhtlemine inimeste vahel teineteisest paremini aru saada, kuid võib ka tekitada ühiskonnas uusi probleeme.
 
-### A.1.10.2 Kordamisküsimused
+:::
+
+### A.1.10 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1424,7 +1443,7 @@ Kokkuvõtteks võib märkida, et liikumine infoühiskonna suunas on olnud üheks
 
 :::
 
-## 1.11 Kasutatud materjalid
+## A.1.11 Kasutatud materjalid
 
 - "IT juhtimise käsiraamat." Koostanud EBS. Välja andnud Äripäeva kirjastus
 - Schgör, P., Brambilla, R. and Amarilli, F. 2004. "PROFESSIONE INFORMATICA: I – Pianificazione, uso e gestione dei sistemi informativi. Competenze interdisciplinari per laapplicazione delle tecnologie del;a informazione e della comunicazione nel mondo del lavoro.". Milan : Edizione F. Angeli. – Translation into English

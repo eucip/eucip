@@ -8,11 +8,11 @@
 - IT süsteemide soetamise võimalustest
 - personali valikuga seotud põhimõtest.
 
-## 2.1 IT strateegia
+## A.2.1 IT strateegia
 
 Selle teema materjale läbi töötades õpid tundma IT strateegia põhimõtteid.
 
-### 2.1.1 IT strateegia põhimõtted
+### A.2.1.1 IT strateegia põhimõtted
 
 ::: oppekava
 
@@ -129,7 +129,7 @@ Kirjeldada IKT personali rolli ärivaldkonna, sealhulgas ITjuhi (CIO), turvajuhi
 
 :::
 
-### 2.1 Kordamisküsimused
+### A.2.1 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -162,13 +162,13 @@ Kirjeldada IKT personali rolli ärivaldkonna, sealhulgas ITjuhi (CIO), turvajuhi
 
 :::
 
-## 2.2 IKT vajadused erinevates organisatsioonides
+## A.2.2 IKT vajadused erinevates organisatsioonides
 
 ehk "Erinevate organisatsiooniliste struktuuride IT alased vajadused"
 
 Selle alateema materjale läbi töötades õpid tundma organisatsiooniliste struktuuride IT alaseid vajadusi.
 
-### 2.2.1 Organisatsiooniliste struktuuride IT alased vajadused
+### A.2.2.1 Organisatsiooniliste struktuuride IT alased vajadused
 
 ::: oppekava
 
@@ -232,7 +232,7 @@ Selgitada isikliku teabehalduri (PIM) mõistet ja eeliseid info hankimiseks, sal
 
 :::
 
-### 2.2 Kordamisküsimused
+### A.2.2 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -246,13 +246,13 @@ Selgitada isikliku teabehalduri (PIM) mõistet ja eeliseid info hankimiseks, sal
 
 :::
 
-## 2.3 IKT lahenduste kaardistamine
+## A.2.3 IKT lahenduste kaardistamine
 
 ehk "Tüüpilised IT ülesanded ja tehnoloogilised lahendused"
 
 Selle alateema materjale läbi töötades saad teadmised tüüpilistest IT ülesannetest ja tehnoloogilistest lahendustest.
 
-### 2.3.1 Tüüpilised IT ülesanded ja tehnoloogilised lahendused
+### A.2.3.1 Tüüpilised IT ülesanded ja tehnoloogilised lahendused
 
 ::: oppekava
 
@@ -324,7 +324,7 @@ Andmebaasi loomise protsessi ennast võib jaotada etappideks:
 
 Pärast andmebaasi loomist on võimalik andmeid kasutada. Loomulikult tekib väga palju võimalusi ka selle info töötlemiseks firma majandustegevuse analüüsil, prognooside koostamisel jne. sest andmebaasi kasutusvaldkondi on lõputult.
 
-### 2.3 Kordamisküsimused
+### A.2.3 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -342,7 +342,7 @@ Pärast andmebaasi loomist on võimalik andmeid kasutada. Loomulikult tekib väg
 
 :::
 
-## 2.4. Süsteemiarendus vastandina süsteemi sisseostmisele või teenusepakkuja kasutamisele
+## A.2.4. Süsteemiarendus vastandina süsteemi sisseostmisele või teenusepakkuja kasutamisele
 
 ehk "IT süsteemide soetamise võimalused"
 
@@ -429,7 +429,7 @@ Järgnevas tabelis toome lühivõrdluse kulude osas oma spetsialisti poolt arend
 | Juhtimine                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                      |
 | Probleemideks on IT spetsialisti värbamine ja valik, motiveerimine, arendamine, juhtimine, täiendkoolitamine jne.                                                                                                                                                                                                                           | Kõik vastavad probleemid on IT firma probleemid                                                                                                                                                                                                                                                                                                                      |
 
-### 2.4. Kordamisküsimused
+### A.2.4. Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -443,11 +443,11 @@ Järgnevas tabelis toome lühivõrdluse kulude osas oma spetsialisti poolt arend
 
 :::
 
-## 2.5 Personali valikuga seotud kaalutlused
+## A.2.5 Personali valikuga seotud kaalutlused
 
 Selle alateema materjale läbi töötades õpid tundma personali valiku põhimõtteid.
 
-## 2.5.1 Personali valimine
+### A.2.5.1 Personali valimine
 
 ::: oppekava
 
@@ -495,13 +495,18 @@ IT valdkond koosneb erinevatest juhtidest ja spetsialistidest, kelle jaotamist o
 
 Spetsialiste võiks jaotada sel juhul alljärgnevalt (http://www.eits.ee/index.php?section=ws_eits_est&ws_id=14):
 
-- **IT juhid.** Spetsialistid, kellel on juhtimisalased oskused ja kes organiseerib ja hoiab silma peal kogu infosüsteemi büroo tegevusel. Siia alla võib tinglikult paigutada ka projektijuhid.
-- **Programmeerijad. ** Tegemist on spetsialistidega, kes valdab programmeerimiskeeli ja tehnikaid. Nemad kirjutavad ka tarkvara kasutusjuhendeid ja osalevad infosüsteemide tarkvara arendamisel ja hooldamisel.
+- **IT juhid** Spetsialistid, kellel on juhtimisalased oskused ja kes organiseerib ja hoiab silma peal kogu infosüsteemi büroo tegevusel. Siia alla võib tinglikult paigutada ka projektijuhid.
+- **Programmeerijad** Tegemist on spetsialistidega, kes valdab programmeerimiskeeli ja tehnikaid. Nemad kirjutavad ka tarkvara kasutusjuhendeid ja osalevad infosüsteemide tarkvara arendamisel ja hooldamisel.
 - **Süsteemianalüütikud.** Tegemist on spetsialistidega suudavad ärijuhtimises ja infosüsteemide kasutajatel tekkivaid probleeme ja vajadusi formaliseerida ja kirjeldada infosüsteemi nõuete kohaselt, nii et programmeerijad saaksid viia vajalikud arendused või muudatused infosüsteemi.
 - **Tarkvara testijad. ** Spetsialistid, kes tegelevad tarkvara vigade, võimalike turvaaukude jne. otsimisega.
-- **Administraatorid.** Tegemist on tehnikutega, kes plaanivad, teostavad ja hooldavad firma andmebaasi, rakendusi, võrke.
-- **Helpdeski spetsialistid.** Spetsialistid, kes vahendavad infot ja võimalusel annavad hädalistele IT alast abi.
-- **Tehnosuhtlejad.** Uus spetsialistide grupp, kes vahendavad infotehnoloogia spetsialiste ja ärijuhte. Näiteks reklaamis "šeeri kama" vanaisa ja lapselapse dialoogi lahtiseletaja.
+- **Administraatorid** Tegemist on tehnikutega, kes plaanivad, teostavad ja hooldavad firma andmebaasi, rakendusi, võrke.
+- **Helpdeski spetsialistid** Spetsialistid, kes vahendavad infot ja võimalusel annavad hädalistele IT alast abi.
+
+::: vananenud
+
+- **Tehnosuhtlejad** Uus spetsialistide grupp, kes vahendavad infotehnoloogia spetsialiste ja ärijuhte. Näiteks reklaamis "šeeri kama" vanaisa ja lapselapse dialoogi lahtiseletaja.
+
+:::
 
 "Hallidel muinasaegadel", kui selleks pidada aastaid enne 1990-daid, jaotati arvutitega töötajaid projekteerijateks, programmeerijateks, arvutiinsenerideks ja arvutioperaatoriteks. Projekteerijad töötasid tihtipeale omaette asutustes ja koostasid lähteülesandeid programmeerijatele. Arvutiinsener tegeles valdavalt riistvaraga, mille käigushoidmine oli küllaltki töömahukas protsess.
 
@@ -539,7 +544,7 @@ Selgitada kvalifitseeritud personali hoidmisega seotud küsimusi, näiteks perso
 
 :::
 
-### 2.5.2 Kordamisküsimused
+### A.2.5.2 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -547,13 +552,13 @@ Selgitada kvalifitseeritud personali hoidmisega seotud küsimusi, näiteks perso
 
 - isik kes ei tunne infosüsteemi
 - reaalne kasutaja X
-- Helpdesk&#39;i klient
+- Helpdesk'i klient
 - ilma kirjutusõiguseta kasutaja
 
 2. Tehnosuhtlus on:
 
 - tehnikaajakirja artikkel
-- Helpdesk&#39;i töö
+- Helpdesk'i töö
 - ärijuhtide ja IT spetsialistide vahendustegevus X
 - inseneride omavaheline vestlus tehnikauudistest
 
@@ -566,11 +571,11 @@ Selgitada kvalifitseeritud personali hoidmisega seotud küsimusi, näiteks perso
 
 :::
 
-## 2.6 Kvaliteedijuhtimine
+## A.2.6 Kvaliteedijuhtimine
 
 Selle alateema materjale läbi töötades õpid tundma kvaliteedijuhtimise põhimõtteid.
 
-### 2.6.1 Kvaliteedijuhtimine organisatsioonis
+### A.2.6.1 Kvaliteedijuhtimine organisatsioonis
 
 ::: oppekava
 
@@ -719,7 +724,7 @@ Kirjeldada omamise kogukulu (TCO) mõistet ja loetleda tüüpilisemad kuluartikl
 
 :::
 
-### 2.6 Kordamisküsimused
+### A.2.6 Kordamisküsimused
 
 ::: kordamiskusimused
 
