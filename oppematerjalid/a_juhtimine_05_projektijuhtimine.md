@@ -1236,7 +1236,7 @@ Kas väide: "White Box tehnika korral huvitab testijat ainult sisend ja väljund
 
 Alljärgnevate õppekava punktide kohta puudub õppematerjal:
 
-## A.5.8 Infosüsteemide innovatsioon
+## A.5.8 Infosüsteemide innovatsioon?
 
 **A.5.8.1**
 

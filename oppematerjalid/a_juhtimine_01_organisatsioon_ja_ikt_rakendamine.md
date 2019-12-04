@@ -1443,7 +1443,7 @@ Kokkuvõtteks võib märkida, et liikumine infoühiskonna suunas on olnud üheks
 
 :::
 
-## A.1.11 Kasutatud materjalid
+## Kasutatud materjalid
 
 - "IT juhtimise käsiraamat." Koostanud EBS. Välja andnud Äripäeva kirjastus
 - Schgör, P., Brambilla, R. and Amarilli, F. 2004. "PROFESSIONE INFORMATICA: I – Pianificazione, uso e gestione dei sistemi informativi. Competenze interdisciplinari per laapplicazione delle tecnologie del;a informazione e della comunicazione nel mondo del lavoro.". Milan : Edizione F. Angeli. – Translation into English
