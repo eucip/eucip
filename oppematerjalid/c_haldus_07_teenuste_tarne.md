@@ -15,7 +15,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### 7.1.1 Teenustaseme haldusprotsess
 
-::: warning
+::: oppekava
 
 Kirjeldada teenustaseme haldusprotsessi ja selle tulu.
 
@@ -57,7 +57,7 @@ Teenustaseme halduse lisaülesanded:
 
 ### 7.1.2 Teenustaseme lepingu elemendid
 
-::: warning
+::: oppekava
 
 Loetleda ja kirjeldada peamised teenustaseme lepingu **_SLA_** elemendid nagu teenuste definitsioon, jõudluse mõõtmine., probleemihaldus, intellektuaalne omandiõigus ja konfidentsiaalne info, garantiid ja lepingu lõpetamine.
 
@@ -95,7 +95,7 @@ Teenustaseme lepingu koostamise reeglid:
 
 ### 7.1.3 Erinevad lepingutüübid
 
-::: warning
+::: oppekava
 
 Võrrelda teenustaseme lepingu, partnerlepingu ja käitluslepingu kasutusotstarvet.
 
@@ -143,7 +143,7 @@ Teenustaseme lepingu jälgimis- ja aruandlustegevusel on järgmised eesmärgid:
 
 #### 7.1. Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Teenustaseme haldusprotsessi tegevused on?
 
@@ -182,7 +182,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### 7.2.1 Mahuhaldus
 
-::: warning
+::: oppekava
 
 Kirjeldada mahuhaldust ja selgitada selle kolem alamprotsessi **_äri, teenus ja komponent_** tähtsust.
 
@@ -213,7 +213,7 @@ ITIL mudeli järgi jaguneb mahuhaldus kolmeks alamprotsessiks:
 
 ### 7.2.2 Mahuplaani elemendid
 
-::: warning
+::: oppekava
 
 Tuvastada mahuplaani otstarve ja peamised elemendid.
 
@@ -255,7 +255,7 @@ Tüüpiline mahuplaan sisaldab järgmist infot:
 
 ### 7.2.3 Riskihindamismeetodid
 
-::: warning
+::: oppekava
 
 Määratleda riski, ohu ja haavatavuse mõisted ja tuua näiteid nagu teenuse tõrge, andmete kadu.
 
@@ -288,7 +288,7 @@ Riskianalüüsi käigus arvutatakse riskitasemed järgmiste näitajate alusel:
 
 ### 7.2.4 Riskide vähendamise meetmed
 
-::: warning
+::: oppekava
 
 Loetleda riskipiiramise abinõude näiteid.
 
@@ -381,7 +381,7 @@ See plaan pakub välja tehnoloogilised ja organisatoorsed lahendused, mis võima
 
 ### 7.2.5 Talitluspidevusplaan
 
-::: warning
+::: oppekava
 
 Määratleda talitluspidevusplaani ja varutalitluspidevusplaani otstarve ja peamised elemendid nagu rikketaluvus, taaskäivitamise protseduurid, personalitöö, alternatiivsed ressursid, varundus.
 
@@ -413,7 +413,7 @@ Protsessi võib jagada nelja faasi:
 
 ### 7.2. Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Mahuhalduse eesmärk on?
 
@@ -450,7 +450,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### 7.3.1 Käideldavushalduse mõisted
 
-::: warning
+::: oppekava
 
 Määratleda käideldavushalduse otstarve ja defineerida mõisted: käideldavus, töökindlus, tõrge, taastumine.
 
@@ -480,7 +480,7 @@ Taastatavuse omadust iseloomustavad järgmised parameetrid:
 
 ### 7.3.2 Käideldavuse mõõdikud
 
-::: warning
+::: oppekava
 
 Võrrelda üldkasutatavaid käideldavusmõõdikuid nagu käideldavusprotsent, tõrkesagedus, keskmine tõrketa tööaeg, tõrke mõju.
 
@@ -523,7 +523,7 @@ Vastavalt eelpoolloetletud sündmuste järgnevusele on kasutusel järgmised mõ�
 
 ### C.7.3.3 Käideldavushalduse meetodid ja tehnikad
 
-::: warning
+::: oppekava
 
 Määratleda käideldavushalduse meetodid ja tehnikad nagu komponendi tõrke mõju analüüs, vigade puu analüüs.
 
@@ -567,7 +567,7 @@ Vigade puu analüüs on toetav instrument käideldavuse planeerimisel ja parendu
 
 ### 7.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline kombinatsioon järgnevatest on käideldavuse mõõdikud?
 
@@ -611,7 +611,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### 4.4.1 Kasutajatoe eesmärk
 
-::: warning
+::: oppekava
 
 Määratleda kasutajatoe otstarve tugiteenuseid pakkuvas ettevõttes.
 
@@ -636,7 +636,7 @@ Kui reaktiivne kasutajatugi vaid lahendab probleeme siis proaktiivne lähenemine
 
 ### 7.4.2 Erinevad kasutajatoe liigid
 
-::: warning
+::: oppekava
 
 Tuvastada erinevad kasutajatoe tüübid ja nende rakendamise sobivus vastavalt erinevatele asjaoludele.
 
@@ -691,7 +691,7 @@ Kasutajatoe funktsioonide hulka kuuluvad:
 
 ### 7.4.3 Kasutajatoe elemendid
 
-::: warning
+::: oppekava
 
 Defineerida intsidendihalduse süsteemi peamised komponendid.
 
@@ -763,7 +763,7 @@ Mõned ITIL’i juhtnöörid intsidendihalduseks:
 
 ### 7.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Millised kombinatsioonid järgmistest on kasutajatoe eesmärgid?
 
@@ -800,7 +800,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### 7.5.1 Konfiguratsioonihalduse praktikad
 
-::: warning
+::: oppekava
 
 Kirjeldada IT infrastruktuuri konfiguratsioonihalduse parimad praktikad.
 
@@ -839,7 +839,7 @@ Analoogselt tarkvara püsikogule hoitakse riistvara varuosad eraldi turvatud asu
 
 ### 7.5.2 IT muutuste halduse praktikad
 
-::: warning
+::: oppekava
 
 Kirjeldada IT muudatusehalduse ja versioonihalduse parimad praktikad.
 
@@ -918,7 +918,7 @@ Muudatuse taotluse kategooriad määratakse, et näidata muudatuse potentsiaalse
 
 ### 7.5.3 Muutuse taotluse eesmärk ja elemendid
 
-::: warning
+::: oppekava
 
 Defineerida muudatuse taotluse otstarve ja selle peamised elemendid.
 
@@ -973,7 +973,7 @@ Muudatuste vastupidise mõju ärahoidmiseks teenuse kvaliteedile on tungivalt so
 
 ### 7.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Konfiguratsioonielement ei ole?
 

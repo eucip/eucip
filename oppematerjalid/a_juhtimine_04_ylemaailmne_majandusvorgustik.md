@@ -1,6 +1,6 @@
 # A.4 Ülemaailmne majandusvõrgustik
 
-::: danger Vananenud materjal
+::: probleem
 
 Tegu on oluliselt vananenud õppematerjaliga
 
@@ -14,13 +14,13 @@ Selle alateema materjale läbi töötades saad teadmised infoühiskonnaga seotud
 
 ### A.4.1 Uued võimalused infoühiskonnas
 
-::: warning Õppekava
+::: oppekava
 
 Defineerida globaliseerumise mõiste ja sellest johtuvad võimalused ärile.
 
 :::
 
-::: danger Nõrk seos
+::: probleem
 
 Õppekava punkt ja õppematerjal on nõrgalt seotud. Globaliseerumise definitsiooni ei anta, teema käsitlus on hoopis õppematerjali punktis **_A.2_**
 
@@ -48,13 +48,13 @@ Joonis 4-2. Kandle artikli tekkimine ja muudatused aja jooksul
 
 ### A.4.1.2 Veebiotsing
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada Interneti ärilist väärtust äriorganisatsioonidele.
 
 :::
 
-::: danger Nõrk seos
+::: probleem
 
 Õppekava punkt ja õppematerjal on nõrgalt seotud.
 
@@ -64,13 +64,13 @@ Veebis orienteerimiseks on asendamatuks muutunud otsinguvahendid, tuntumad neist
 
 ![](../images/a4_keywords.png)
 
-Joonis 4-3. Märksõnadega (ingl k keywords) veebilehe lähtekood
+_Joonis 4-3. Märksõnadega (ingl k keywords) veebilehe lähtekood_
 
 Lisaks märksõnadele on veel mitmeid võimalusi oma veebilehe otsimootorites kergemini leitavaks tegemisel, nt veebilehe optimeerimine (selle ümber on tekkinud terve teenusharu SEO e search engine optiomisation), kohakaardi (ingl k sitemap) lisamine, registreerimine erinevates otsimootorites ja temaatilistes kataloogides nagu Yahoo või www.ee (ootamata nendepoolset indekseerimist), ristviitamine teiste samalaadsete veebilehtedega jne.
 
 ### A.4.1.3 Ekstranet ja intranet
 
-::: warning Õppekava
+::: oppekava
 
 Intraneti ja ekstraneti kasutamine ärivaldkonnas.
 
@@ -84,7 +84,7 @@ Veebivahendid nagu ekstranet ja intranet aitavad internetitehnoloogiat kasutada 
 
 ![](../images/a4_tunniplaan.png)
 
-Joonis 4-4. Tallinna Ülikooli elektrooniline tunniplaan
+_Joonis 4-4. Tallinna Ülikooli elektrooniline tunniplaan_
 
 **Ettevõttesisene teabehaldus** ei pruugi sugugi füüsiliselt piirduda ühte majja ehitatud arvutivõrguga. Ikka kipuvad hooned linna peal laiali olema, harukontorid veelgi kaugemal. Turvaprotokollide abil luuakse virtuaalne privaatvõrk (ingl k virtual private network e VPN), kustkaudu saab andmeid vahetada pea sama turvaliselt nagu sisevõrgus. Ning nagu igasugu piirid kipuvad hajuma, siis kasutaja jaoks ei saa kuigivõrd eristada lihtsalt turvalise ühendusega (https) veebipõhist teabehalduslehestikku tehniliselt tugevamini lahutatud sisevõrgust.
 
@@ -94,7 +94,7 @@ Uusi võimalusi pakkuvate tehnoloogiatrendide hulgas tasub mainida (ja huvi korr
 
 ### A.4.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Web 2.0 puhul on tegemist uue…
 
@@ -126,7 +126,7 @@ Selle alateema materjale läbi töötades saad teadmised äri- ja turundustrendi
 
 ### A.4.1 Äri- ja turundustrendid uues majanduses
 
-::: warning Õppekava
+::: oppekava
 
 E-äri olulisemad mõjurid organisatsioonidele.
 
@@ -144,19 +144,19 @@ Kui 1930-ndatel peeti loomulikuks, et iga talu kasvatas enamjaolt kõike, mida v
 
 ### A.4.2.2 Pilveraalindus
 
-::: warning Õppekava
+::: oppekava
 
 Kuidas kasutada IKT-d organisatsioonis muutuste läbiviimisel.
 
 :::
 
-::: danger Puuduv seos
+::: probleem
 
 Õppekava punkt ja õppematerjal pole omavahel seotud.
 
 :::
 
-::: danger Vananenud või ebapiisav sisu
+::: probleem
 
 **_cloud computing_** vajab tunduvalt põhjalikumat käsitlust.
 
@@ -168,17 +168,17 @@ Kui tavakasutajale tuttavaks **pilveraalinduse** – sisulisel kõikjalt kasutat
 
 ![](../images/a4_cloud.png)
 
-Joonis 4-5. Pilveraalinduse komponentide ülevaade (diagrammi autor: Sam Johnston, allikas: [Wikipedia](http://en.wikipedia.org/wiki/File:Cloud_computing.svg)) Allikas: [http://en.wikipedia.org/wiki/File:Cloud_computing.svg](http://en.wikipedia.org/wiki/File:Cloud_computing.svg) Litsents: CC Attribution-Share Alike 3.0 Unported)
+_Joonis 4-5. Pilveraalinduse komponentide ülevaade (diagrammi autor: Sam Johnston, allikas: http://en.wikipedia.org/wiki/File:Cloud_computing.svg)_
 
 ### A.4.2 IT rakendamine teistes valdkondades
 
-::: warning Õppekava
+::: oppekava
 
 Kuida luua tõhus klienditeenindus ja hallata e-äris kliendisuhtlust.
 
 :::
 
-::: danger Puuduv seos
+::: probleem
 
 Õppekava punkt ja õppematerjal pole omavahel seotud.
 
@@ -208,7 +208,7 @@ Arvutivõrgu kaudu toimivaid keskkondi mõistab kindlasti igaüks päris mitu ü
 
 ![](../images/a4_garage.png)
 
-Joonis 4-6. Alustavate ettevõtete 48 tunni jooksul loomise ürituse Garage48 lehekülg Facebooki suhtluskeskkonnas
+_Joonis 4-6. Alustavate ettevõtete 48 tunni jooksul loomise ürituse Garage48 lehekülg Facebooki suhtluskeskkonnas_
 
 Lisaks on Web 2.0 suhtlusvõrgustike ajastule omaseks saanud mitmed spetsiifilisemad kasutajate vahelist suhtlust ja kogemuste vahetamist hõlbustavad vahendid (vt põhjalikumat kataloogi lehel [http://www.go2web20.net/](http://www.go2web20.net/)) nagu lühisõnumitele spetsialiseerinud Twitter, kasutaja asukohale ja selle ümbruskonna infole üles ehitatud Foursquare ja Gowalla, pildijagamiseks mõeldud Flickr ja Picasa, ajaveebi tööriistad Blogger ja Wordpress jpt. Nende keskkondade esiletõus on oma mõju avaldanud ka ettevõtlusele.
 
@@ -224,7 +224,7 @@ Omaette valdkond on elektroonilised õpikeskkonnad – olles alates lihtsast abi
 
 ![](../images/a4_iva.png)
 
-Joonis 4-7. E-õppematerjalid IVA õpikeskkonnas
+_Joonis 4-7. E-õppematerjalid IVA õpikeskkonnas_
 
 1990-ndate aastate jooksul arenesid välja mitmed **terviklikud õpikeskkonnad** , kus oli püütud sihtgrupi õppurite kõik võimalikud mured lahendada. Sellised süsteemid võisid saada küllaltki täiuslikuks. Kuid probleemiks osutus õppematerjalide ja muude andmete nihutamine ühest süsteemist teise (e migreerimine). Selline vajadus kipub tekkima nii koolide ühinemise, litsentsitingimuste muutumise kui näiteks riistvaraliste võimaluste täienemise/kokkukuivamise puhul. Samuti oludes, kus koostatud kursusi soovitakse muutunud mahus mujal õpetada.
 
@@ -250,7 +250,7 @@ XML-põhise standardi näide:
 
 ### A.4.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Globaliseerumise peamine mõju IT vallas on see, et …
 
@@ -319,7 +319,7 @@ Eelkõige suhtlemist lihtsustavad ja kiiremaks teinud tehnoloogiad **on toonud m
 
 ### 3.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. E-äri laialdane levik …
 
@@ -358,7 +358,7 @@ Organisatsiooni IT juhtimiseks on oluline omada tervikpilti organisatsiooni äri
 
 ![](../images/a4_arhitektuur.png)
 
-Joonis 4-8. Ettevõtte arhitektuur ja rakenduste koht selles (Autor: Ants Sild, Baltic Computer Systems AS, 2011)
+_Joonis 4-8. Ettevõtte arhitektuur ja rakenduste koht selles (Autor: Ants Sild, Baltic Computer Systems AS, 2011)_
 
 Infotöötluse iseloomu järgi jagunevad rakendused kahte peamisesse gruppi:
 
@@ -376,7 +376,7 @@ Ettevõtte rakendusi saab liigitada veel arenduse- ja kasutuse tüübi järgi:
 
 Pakett-tarkvarade eelised:
 
-::: danger Kallutatud info
+::: probleem
 
 Välja pole toodud kõigi kolme tarkvara kasutustüübi (spetsiaalrakendused, pakettarkvara, **_SaaS_**) eeliseid ja puudusi
 
@@ -397,7 +397,7 @@ Levinuimad ettevõtete ärirakenduste paketid on:
 
 ### A.4.4.1 Kliendihaldussüsteemid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kliendihaldussüsteemi eesmärki ja kasutamise võimalusi.
 
@@ -419,7 +419,7 @@ CRM-i kolm põhivaldkonda on:
 
 ### A.4.4.2 Tarneahela juhtimise süsteemid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada tarnekanalite halduse süsteemide eesmärki ja kasutamise võimalusi.
 
@@ -429,7 +429,7 @@ Tarneahela hõlmab endasse tooraine, pool- ja valmistoodete liikumist ja ladusta
 
 ![](../images/a4_tarneahel.png)
 
-Joonis 4-9. Tarneahela põhimõtteline skeem (Autor: Ants Sild)
+_Joonis 4-9. Tarneahela põhimõtteline skeem (Autor: Ants Sild)_
 
 Tarneahela juhtimine **_Supply Chain Management_** / **_SCM_** http://en.wikipedia.org/wiki/Supply_chain_management) kujutab endast toote või teenuse tootmise ja lõpptarbijale tarnimisega seotud äriüksuste tegevuse koordineeritud juhtimist eesmärgiga tõsta ahela kui terviku ja kõigi tema liikmete efektiivsust ja nende poolt loodavat väärtust.
 
@@ -536,7 +536,7 @@ _Joonis 4-11. Majandustarkvarad Eesti ettevõtetes käibega üle 50 miljoni kroo
 
 ### A.4.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Vajaduse kliendihaldustarkvara (CRM) kasutuselevõtuks tingib …
 

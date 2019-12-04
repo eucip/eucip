@@ -1,6 +1,6 @@
 # B.4 Kasutajaliides ja veebidisain
 
-::: danger Vananenud materjal 
+::: probleem
 
 Tegu on oluliselt vananenud õppematerjaliga
 
@@ -14,7 +14,7 @@ Selle alateema materjale läbi töötades õpid tundma vastasmõjude võimalusi 
 
 ### B.4.1.1 Kommunikatsiooniteooria põhimõisted: saatja, sõnum, vastuvõtja
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda kommunikatsiooniteooria põhimõisted: saatja, sõnum, vastuvõtja.
 
@@ -68,7 +68,7 @@ Kasulik teada: [http://en.wikipedia.org/wiki/Shannon-Weaver_model](http://en.wik
 
 ### B.4.1.2 Kommunikatsioon ja informatsiooni edastamise efektiivseimad viisid
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada, kuidas kommunikatsioon toimub ka inimeste vahel ja tuua välja tõhusamad teabe edastamise meetodid.
 
@@ -78,7 +78,7 @@ Selles peatükis tutvud info edastamise võimalustega tsüklilise protsessina.
 
 #### Osgood-Shramm'i mudel
 
-::: danger Nõrgalt seostatud õppematerjal
+::: probleem
 
 Raske on näha seost Osgood-Shramm'i mudeli ja kasutajaliideste disaini vahel.
 
@@ -96,7 +96,7 @@ Mudeli kriitikat võimaldab asjaolu, et see jätab mulje kommunikatsioonipoolte 
 
 #### Info edastamine internetis
 
-::: danger Liiga tehniline õppematerjal
+::: probleem
 
 TCP protokollile keskendunud materjal tundub visuaalses ja kasutakeskses peatükis raskepärane ja liiga tehniline, sobides rohkem halduspeatükkidesse.
 
@@ -126,7 +126,7 @@ TCP-protokolli jaoks ei ole tähtsust, milliseid teid mööda info internetis re
 
 ### B.4.1.3 Kasutajaliides ja selle erinevad tüübid (tekstiline, graafiline, heliline)
 
-::: warning Õppekava
+::: oppekava
 
 Defineerida kasutajaliides ja loetleda liideste liike, näiteks tekst, graafika, heli (auditory).
 
@@ -168,7 +168,7 @@ Käsiliidese puhul on arvutile võimalik käske anda käeliigutustega. Tegemist 
 
 ### B.4.1.4 Erinevad kommunikatsioonitehnoloogiad (helid, visuaalsed metafoorid, digitaalsed lõhnad, kompamine)
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja tehnoloogilised vahendid , millega saab infot edastada, näiteks helivahendid, tüübid, nähtavad kujundid, digitaalsed lõhnad, haptilisus/liikumine.
 
@@ -186,7 +186,7 @@ Uued väljakutsed on seotud meie lõhna- ja maitsetajudega. Tänapäeval on juba
 
 ## B.4.1.5 Kasutajaliidese efektiivsuse testimine võrdluses nõuete ja eesmärkidega
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda kasutajaliidese tõhususe testimiseks sobivad disainieesmärkidele vastavad mudelid.
 
@@ -243,7 +243,7 @@ Interaktiivsete süsteemide valdkonnas on kehtestatud rahvusvahelisi standardeid
 
 # B.4.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Mis teeb kommunikatsiooni edukaks?
 
@@ -277,7 +277,7 @@ Selle alateema materjale läbi töötades õpid tundma graafilise disaini põhim
 
 ### B.4.2.1 Joonised, pildid, värvid ja animatsioonid – peamised graafilise disaini põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja graafika ja animatsiooni mõisted ja edastuskuju (raster, vektor), digitaalaudio ja –video ja näidata nende erisusi, kasutamist ja standardformaate.
 
@@ -411,7 +411,7 @@ Riistvarast sõltumatu formaat TIFF on tänapäeval üks kõige rohkem kasutatav
 
 ### B.4.2.2 Piltide ja värvide kasutamine
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada jooniste, piltide, värvide, animatsiooni kasutamist ja graafilise disaini põhireeglite nagu tasakaal (balance), kooskõla (harmony), kontrastsus, varieeruvus (variety) arvestamist.
 
@@ -466,7 +466,7 @@ Antud reegel kehtib pealmiselt kompositsiooni dominantvärvidele. Nii asendati t
 
 ### B.4.2.3 Pilditöötlemise vahendid
 
-::: warning Õppekava
+::: oppekava
 
 Kasutada üldlevinud pilditöötlusvahendeid lihtsateks toiminguteks: suuruse, kuju,värvide, kontrastsuse, läbipaistvuse muutmiseks.
 
@@ -493,7 +493,7 @@ Detailse ülevaate graafikaprogrammide sobivusest, võimekusest ja litsentsidest
 
 ### 4.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline värvitehnoloogia käsitleb valguse värve?
 
@@ -523,7 +523,7 @@ Selle alateema materjale läbi töötades õpid tundma veebi ajalugu ja tähtsus
 
 ### B.4.3.1 World Wide Web ajalugu
 
-::: warning Õppekava
+::: oppekava
 
 Rääkida veebi ja Interneti ajaloost.
 
@@ -640,7 +640,7 @@ Kasvavad trendid interaktsiooni maailmas – puuteekraanid, geotagimine, augment
 
 ### B.4.3.2 Hüpertekst ja hüpermeedia ning nende tähtsus veebidisainis
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda hüpertekst ja hüpermeedium ning tuua välja nende tähtsus veebilehtede disainimisel.
 
@@ -703,7 +703,7 @@ Sisust sõltuvad komponendid on näiteks: lehe sisu, veateated, abitekstid, vorm
 
 ### B.4.3.4 Sisevõrgu ja välisvõrgu veebilehtede kasutus ja vajadus ettevõttes
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada sisemiste ja väliste veebilehtede kasutamise vajadust ettevõttes.
 
@@ -717,7 +717,7 @@ Välimine ja sisemine saidi osa esindavad kahte erinevat infokeskkonda, kumbki o
 
 ### 4.3.5 Ettevõtte veebisaidi haldamine
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja mõningad probleemid, mis on seotud äriettevõtte veebilehe ülalpidamisega.
 
@@ -738,7 +738,7 @@ Tänapäeval tuleb lisaks tegeleda veel kasutajate privaatsuse kaitse ning veebi
 
 ### B.4.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Millistel eesmärkidel hakati looma arvutivõrku?
 
@@ -766,7 +766,7 @@ Selle alateema materjale läbi töötades õpid tundma veebilehestiku koostamise
 
 ### B.4.4.1 Sihtrühma vajaduste analüüs
 
-::: warning Õppekava
+::: oppekava
 
 Näidata veebilehe sihtrühma vajadused, kelle jaoks leht on loodud.
 
@@ -778,7 +778,7 @@ Saidi analüüsimine ei tähenda alati, et see vastab kõigile kasutatavuse nõu
 
 ### B.4.4.2 Infohulk veebilehel
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja riskid, mis ilmnevad kui ühel lehel on liiga palju sõnumeid.
 
@@ -794,7 +794,7 @@ _Joonis 4-18. Teksti hulga ja loetavuse suhe. Allikas: How little do users read?
 
 ### B.4.4.3 Värvide valik
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda probleemid seoses halva värvivalikuga lehel.
 
@@ -806,7 +806,7 @@ Ebasoovitav on heleda teksti kasutamine tumedal taustal – meie silmad ei ole h
 
 ### B.4.4.4 Kasutajasõbraliku veebilehe arendamine
 
-::: warning Õppekava
+::: oppekava
 
 Tuua juhtnöörid hea kasutajasõbralikkusega veebilehe loomiseks: loetavus, prioriteetidega sisujaotus, liikumise lihtsus ja järjepidevus, kus-ma-hetkel-olen asukoha tuvastus.
 
@@ -858,7 +858,7 @@ Lisaks heuristikatele on olemas veel terve hulk häid tavasid, mis on veebiajalo
 
 ### B.4.4.5 Peamised veebilehe kvaliteedi kriteeriumid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada üldisemaid veebilehe kvaliteedi tingimusi: veebilehitseja võimekkus, HTML valideerimine, teksti tihendamine (condence), õigekirjakontroll, väike baidisuurusel graafika (small byte-size graphics).
 
@@ -890,7 +890,7 @@ Arvestama peab ka kirja suuruse määramist. Parem on määrata suurus kasutades
 
 ### B.4.4.6 Lihtsalt navigeeritav veebileht
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada nõuet lihtsaks liikumiseks veebilehel.
 
@@ -908,7 +908,7 @@ Vaata ka: [http://en.wikipedia.org/wiki/The_Magical_Number_Seven,\_Plus_or_Minus
 
 ### B.4.4.7 Vahendid veebilehe arendamiseks
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda veebilehe loomise töövahendid.
 
@@ -948,7 +948,7 @@ Erinevate redaktorite võrdlused on kättesaadavad Wikipediast: [http://en.wikip
 
 ### B.4.4.8 Struktuuriskeemi vajadus veebidisainis
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja struktuurskeemide vajalikkus veebi disainimisel.
 
@@ -962,7 +962,7 @@ Kõik saidid ei sisalda animatsiooni. Siis tuleb disaineri või kunstniku abiga 
 
 #### B.4.4.9 Navigatsioonisüsteemi peamised meetodid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamisi veebilehel liikumiseks kasutatavaid meetodeid.
 
@@ -1015,7 +1015,7 @@ Vaata ka erinevate navigatsioonimeetodite uuringut: [http://www.eastonmass.net/t
 
 ### B.4.4.1 Veebi disainimise meetodid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada projektitööd veebidisainis ja üldlevinud meetodeid nt kadreering (storyboard), visand (rough draft).
 
@@ -1060,7 +1060,7 @@ Stsenaarium **_scenario_** on tekstiline prototüüp, mis kirjeldab loodava veeb
 
 ### 1.8.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kui palju sihtrühma liikmeid läheb vaja kasutajaliidese testimiseks?
 
@@ -1101,7 +1101,7 @@ Selle alateema materjale läbi töötades õpid tundma veebilehe koostamise tehn
 
 ### 1.9.1 Märgendikeeled
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja mõiste **märgistuskeel** **_markup language_** tähendus ja kirjeldada HTML peamisi omadusi.
 
@@ -1172,7 +1172,7 @@ Erinevalt HTML-ist on korrektselt vormistatud XHTML dokumendi puhul võimalik ka
 
 #### B.4.5.2 HTMLi peamised komponendid
 
-::: warning Õppekava
+::: oppekava
 
 Kasutada põhilisi HTML käske ja näidata kujunduskäskude täitmist: tugev formateering, pehme formateering, erisümbolid, eraldajad, joondumine, päised, piltide sildid, taustad, värvid, lingid, loendid, tabelid, vormid, raamid.
 
@@ -1325,7 +1325,7 @@ Näide:
 
 ### B.4.5.3 Teksti vormindamine ja kirjutamise printsiibid
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja tavateksti kujunduse põhimõtted: kirja suurus, vaba ruumi osakaal
 
@@ -1381,7 +1381,7 @@ Teksti lugemine ekraanilt on keerulisem kui paberkandjalt, mistõttu on tähtis 
 
 ### B.4.5.4 XMLi kasutamine
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda XML põhielemendid ja nende kasutamine, areng HTML-ilt XHTM-ile.
 
@@ -1461,7 +1461,7 @@ Joonis 4-29. Kujundatud XMLi näidis. Allikas: BCS Koolitus, webmasteri põhikur
 
 ### B.4.5.5 Stiililehed ja nende kasutamine disainis (CSS ja XSL)
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada laadifaile nagu kaskaadlaadistik (CSS) ja laiendatav laadistikukeel (XSL). Mõista nende kasutamist disainimisel.
 
@@ -1530,7 +1530,7 @@ Joonis 4-30. XSL kasutamise näide. Allikas: BCS Koolitus, webmasteri põhikursu
 
 ### 1.9.7 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Miks ei tohi HTMLis kasutada järjestikku mitut tühikut?
 
@@ -1568,7 +1568,7 @@ Selle alateema materjale läbi töötades õpid tundma levinumaid programmeerimi
 
 ### B.4.6.1 Teenuste tüübid ja peamised programmeerimiskeeled
 
-::: warning Õppekava
+::: oppekava
 
 Teha vahet kliendipõhise ja serveripõhise tehnoloogia vahel ja teada veebipõhise programmeerimise keeli.
 
@@ -1600,7 +1600,7 @@ Levinumad serveripoolsed programmeerimiskeeled veebiteenustele:
 
 ### B.4.6.2 Integratsiooni väljakutsed veebis
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja probleeme mis võivad tekkida veebipõhiste süsteemide integreerimisel olemasolevatega.
 
@@ -1618,7 +1618,7 @@ Traditsioonilised integratsioonimeetodid on mõeldud selliste väljakutsete lahe
 
 ### 4.6 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline loetelus ei ole Microsoft'i tehnoloogia:
 

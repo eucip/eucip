@@ -8,13 +8,13 @@ Selle alateema materjale läbi töötades saad teadmised organisatsioonide vormi
 
 ### A.1.1.1 Organisatsioonide vormid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada organisatsioone ja olulisemaid struktuure nt puustruktuur, kammstruktuur, juriidiline vorm nt mittetulundusühing, partnerlus; suurus nagu väikese ja keskmise suurusega ettevõte, korporatsioon.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -42,13 +42,13 @@ Tulu mittetaotlevad organisatsioonid kasutavad oma kasumi põhikirjajärgsete ee
 
 ### A.1.1.2 Organisatsioonide jaotus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada info tähtsust organisatsiooni põhitegevuse (operational) taktikalise ja strateegilise otsuste tegemisel.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -94,13 +94,13 @@ Kuigi majanduse arengutrendid viitavad selgesti suufirmade üha laiemale dominee
 
 ### A.1.1.3 Ettevõtete ülesehitus
 
-::: warning Õppekava
+::: oppekava
 
 Anda töövoo skemaatiline esitus mitme erineva organisatsioonili- se struktuuri puhul.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -121,13 +121,13 @@ Tänapäeval on ettevõtte äärmiselt huvitatud paindlikkuse suurendamisest, õ
 
 ### A.1.1.4 Info liikumine organisatsioonis
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada info tähtsust organisatsiooni põhitegevuse (operational) taktikalise ja strateegilise otsuste tegemisel.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -145,13 +145,13 @@ Tegelikkuses võivad kõik kaubavahetusega seotud protsessid olla oluliselt pike
 
 ### A.1.1.5 IT arengustaadiumid
 
-::: warning Õppekava
+::: oppekava
 
 Ülevaade sellest, kuidas erinev organisatsioonikultuur kajastub IKT toimimise põhimõtetes.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -172,7 +172,7 @@ Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral n
 
 ### A.1.1.6 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kas tulu mittetaotleval ettevõttel võib tekkida kasum?
 
@@ -215,7 +215,7 @@ Selle alateema materjale läbi töötades õpid tundma, kuidas infotehnoloogia m
 
 ### A.1.2.1 Infotehnoloogia mõju infotöötlusele organisatsioonides
 
-::: warning Õppekava
+::: oppekava
 
 Näidata vahe andmete ja informatsiooni vahel.
 
@@ -247,7 +247,7 @@ Loomulikult on ka tarbijate ligipääs erineva tasandi infole erinev, teatud osa
 
 Lõppjäreldusena peab märkima, et infosüsteemid mängivad ettevõtte reaalses tegevuses keskset rolli ja halvasti või lõpuni läbimõtlemata infosüsteemide kasutamine toob kaasa ka kogu ettevõtte majandusliku tegevuse efektiivsuse vähenemise.
 
-::: danger Puudulik sisu
+::: probleem
 
 Puuduvad järgmised õppekava alampunktid
 
@@ -263,7 +263,7 @@ Kirjeldada organisatsioonis infotöötlussüsteemide kasutamist, näiteks ettev�
 
 ### A.1.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Infotehnoloogiat on ettevõttele vaja selleks, et:
 
@@ -292,13 +292,13 @@ Selle alateema materjale läbi töötades tutvud ettevõtte konkurentsivõime ta
 
 ### A.1.3.1 Ettevõtete konkurentsivõime tagamine
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada organisatsiooni paiknemist tööstusharude klassifikatsioonis, selle rolli väärtusahelas, turuküpsust ja –rivaliteeti, toodete-teenuste valikut, tööprotsesse.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -346,13 +346,13 @@ Need sihtülesanded peavad sisaldama mõõtühikut (näit. käibe suurendamine),
 
 ### A.1.3.2 Turundusmeetmed
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada, kuidas organisatsioon saab määratleda teenuste strateegiat, näiteks projekteerimine tellimuse alusel (Engineer To Order), tootmine tellimuse alusel (Make To Order), koostamine tellimuse alusel (Assemble To Order), tootmine lattu (Make To Stock). Tuua välja teenuste strateegia mõju planeerimisele ja juhtimisele.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -374,13 +374,13 @@ Praktikas peavad need kontrollnäitajad olema muidugi konkretiseeritud. Kontroll
 
 ### A.1.3.3 Toote elutsükkel
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda ettevõtte tööd mõjutavad välis- ja sisetegurid, näiteks rahvusvaheline konkurents, sidusrühmade (stakeholders) huvid, keskkond.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -400,7 +400,7 @@ Joonis 1-5. Toote turupositsiooni iseloomustus (allikas Boston Consulting Group)
 
 ### A.1.3.4 Logistika koht ettevõtetes
 
-::: danger Puudub seostamine õppekavaga
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -446,7 +446,7 @@ Selliseks viieks analüüsitavaks jõuks on:
 
 ### A.1.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kaudne turundus tähendab seda, et firma:
 
@@ -483,7 +483,7 @@ Selle alateema materjale läbi töötades õpid tundma äriplaani koostamise põ
 
 ### A.1.4.1 Äriplaani põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja äriplaani põhiosad ja olulisus ning asjakohasus investoritele.
 
@@ -523,7 +523,7 @@ Ideid äristrateegia koostamiseks võib saada firma loomise algfaasis, ajurünna
 
 Kokkuvõtteks võib öelda, et innovaatilised lahendused on alati olnud tulevase edu aluseks. Kahjuks pole alati võimalik väga lennukaid ideid ratsionaalselt kirjeldada.
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjalide hulgas puuduvad järgnevad õppekava alamosad
 
@@ -539,7 +539,7 @@ Kirjeldada antud äriplaaniga sobivat IKT lahendust.
 
 ### A.1.4.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Äriplaani on vaja:
 
@@ -563,7 +563,7 @@ Selle alateema materjale läbi töötades õpid tundma äriprotsesside põhimõt
 
 ### A.1.5.1 Äriprotsesside põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Mõista äriprotsessi termini sisu ja eristada põhi- ja tugiprotsesse.
 
@@ -607,7 +607,7 @@ Kõrvuti ettevõtte ressursside juhtimissüsteemi põhiülesannete kasutamisest 
 
 Infosüsteemid ja laiemas mõttes kogu infotehnoloogia kasutamine on aja märk ja võimaldavad ettevõtetel oma äritegevuses jõuda kvalitatiivselt uutele tasanditele.
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjalide hulgas puuduvad järgnevad õppekava alamosad
 
@@ -622,7 +622,7 @@ Teha ülevaade organisatsiooni konkurentsivõimet parandavatest peamistest strat
 
 ### A.1.5. Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Äriprotsess on:
 
@@ -646,7 +646,7 @@ Selle alateema materjale kläbi töötades õpid tundma infosüsteemi rolli orga
 
 ### A.1.6.1 Infosüsteem organisatsioonides
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada juhtkonna rolli ja vastutust strateegilisel, taktikalisel ja tegevtasandil (operational level).
 
@@ -662,13 +662,13 @@ Ettevõtte ja juhtkonna jaoks määrab infotehnoloogiliste lahenduste väärtuse
 
 ### A.1.6.2 Infosüsteemide kasutusvaldkonnad
 
-::: warning Õppekava
+::: oppekava
 
 Seostada IKT rakendused vastavate juhtimistasanditega.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekava alajaotus ei vasta õppematerjali sisule
 
@@ -684,13 +684,13 @@ Mõningane mitmetähenduslikkus valitseb ka nende süsteemide määratluste ja n
 
 ### A.1.6.3 Infosüsteemide loomine
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda organisatsiooni teadmised, mälu ja õppimine.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -718,13 +718,13 @@ Enne teadmusjuhtimise defineerimist vaatleme teadmistega seonduvaid protsesse ja
 
 ### A.1.6.4 Teadmistega seonduvad mõisted
 
-::: warning Õppekava
+::: oppekava
 
 Visandada mõned otsustamise ja mõõtmismeetodid, nt Pareto ja Ichikawa diagrammid, kriitilised edutegurid, tulemuslikkuse võtmeindikaatorid (KPI), tasakaalustatud tulemuskaart (Balanced Score Card).
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -740,13 +740,13 @@ Visandada mõned otsustamise ja mõõtmismeetodid, nt Pareto ja Ichikawa diagram
 
 ### A.1.6.5 Teadmusjuhtimise seos organisatsiooni strateegiaga.
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada tugi, mida juhtimisinfosüsteem (MIS) annab organisatsioonis ja tuua välja mõned näited selle rakendustest.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -800,7 +800,7 @@ Reaalne teadmusjuhtimine baseerub erinevatel projektidel, millega hallatakse eri
 
 ### A.1.6.6 Teadmusjuhtimise tehnoloogiad
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -869,7 +869,7 @@ Lõpuks peab märkima, et lähtudes ülaltoodud teadmusjuhtimise ideoloogiast on
 
 ### A.1.6.7 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Andmed on:
 
@@ -907,13 +907,13 @@ Selle alateema materjale läbi töötades õpid tundma organisatsionide koostö�
 
 ### A.1.7.1 Koostöö organisatsioonides
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda koostöötehnika ja loetleda selle peamised omadused ja rakendused.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekava alajaotus ja õppematerjali seos on nõrk
 
@@ -927,13 +927,13 @@ Erinevused Interneti ja e-kommertsi osas on esile kerkinud alles viimastel aasta
 
 ### A.1.7.2 Võrguteenuste mõju ettevõttele
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda töövoosüsteemide eesmärk ja tuua vaäja nende eelised vähem formaliseeritud süsteemide nt blogide, arutelutahvlite ees.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -963,13 +963,13 @@ Informatsiooni jagamine ettevõtete vahel laiendab oluliselt sisese infosüsteem
 
 ### A.1.7.3 IT kasutamine tööprotsesside juhtimisel
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja erinevused virtuaalse rühmatöö ja füüsiliselt samades ruumides paikneva rühmatöö vahel.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -995,7 +995,7 @@ Joonisel 1-8 on näha, et globaliseerumise kasv loob tingimused eri kultuurikesk
 
 Kokkuvõtteks peab märkima, et üheks edukust tagavaks teguriks tuleb pidada töö protsessi juhtimise süsteemi, milles on arvestatud nii kultuurilisi iseärasusi kui ka organisatsioonilisi probleeme ja kasutatud häid tehnoloogilisi lahendusi.
 
-::: danger Puudulik sisu
+::: probleem
 
 Puudub järgmine õppekava alampunkt
 
@@ -1007,7 +1007,7 @@ Näidata eduka arvutipõhise koostöö elluvuiimise tegurid, näiteks juhtkonna 
 
 ### A.1.7 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline koostöötehnika on alltoodud võimalustes uusim:
 
@@ -1024,7 +1024,7 @@ Selle alateema materjale läbi töötades õpid tundma arvutipõhise koolituse j
 
 ### A.1.8.1 Arvutipõhise koolituse ja e-õppe põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada arvutipõhist koolitust ja e-õpet.
 
@@ -1066,7 +1066,7 @@ Tuleb alati meeles pidada tõsiasja, et e-õpe ei ole tavaõppe automaatne kopee
 
 Tõsist tähelepanu nõuab ka tagasiside korraldamine, kuna kõik õppurid peavad saama vastused oma küsimustele, ilmselt on ka siin omad kulud, kuna õppejõud pole füüsiliselt võimeline kõigiga suhtlema, seega tuleb kindlasti kasutada tuutoreid.
 
-::: danger Puudulik sisu
+::: probleem
 
 Puuduvad (või on need eelmise alampunkti juures) järgmise õppekava alampunktid
 
@@ -1082,7 +1082,7 @@ Loetleda e-õppe eelised ja puudused.
 
 ### A.1.8.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. E-õppe peamine eelis on see, et:
 
@@ -1104,7 +1104,7 @@ Selle alateema materjale läbi töötades õpid tundma infoüshiskonna ülesehit
 
 ### A.1.9.1 Infoühiskonna taust
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kuidas IKT on ühiskonda muutnud.
 
@@ -1120,13 +1120,13 @@ Samas on "tõeline" tehisintellekt kauge tulevikuunistus, kuigi tipparvuti koos 
 
 ### A.1.9.2 IT roll ühiskonna arengus
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda tegureid IKT kasulikkusest ja kahjulikkusest ühiskonnale.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekava alajaotus on õppematerjaliga nõrgalt seotud
 
@@ -1166,13 +1166,13 @@ IT võimaldab:
 
 ### A.1.9.3 E-äri
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda digitaalse lõhe mõiste.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1222,7 +1222,7 @@ Ettevõtte põhilised juhtimisvaldkonnad e-äris on e-turundus, e-varustus, e-fi
 
 ### A.1.9.4 Ettevõtte e-turundus
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1246,7 +1246,7 @@ c) Hinnakujunduse-turunduses on paindlik turuolu­kordade ja klientide suhtes. I
 
 ### A.1.9.5 Kliendisuhete juhtimine (customer relationship management – CRM)
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1267,7 +1267,7 @@ CRM toimib ettevõtte e-turunduses tõhusalt siis, kui partneriteks on klientide
 
 ### A.1.9.6 Ettevõtte e-varustus
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1277,7 +1277,7 @@ Ettevõtte e-varustuse põhifunktsioonid on hanketur­gude monitooring, tellimin
 
 ### A.1.9.7 Ettevõtte e-rahandus
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1287,7 +1287,7 @@ Ettevõtte tegevusvaldkondadest enam digitaliseeritud on rahandus, mis võimalda
 
 ### A.1.9.8 Virtuaalettevõte
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1297,7 +1297,7 @@ E-äri on tekitanud ettevõtluse uue ärimudeli - virtuaal­ettevõtlus. Virtuaa
 
 ### A.1.9. Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Infoühiskonna peamiseks tunnuseks on:
 
@@ -1405,7 +1405,7 @@ Kokkuvõtteks võib märkida, et liikumine infoühiskonna suunas on olnud üheks
 
 ### A.1.10.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. ID kaarti kasutatakse:
 

@@ -6,7 +6,7 @@ Selle teema materjale läbi töötades saad üldteadmised meeskonnatööst ja ko
 
 Selle alateema materjale läbi töötades saad teadmised meeskondade liikmete rollidest, koostöö toimimisest ja eelistest.
 
-::: warning Õppekava
+::: oppekava
 
 **A.6.1.1**
 Määratleda mõisted grupp ja meeskond ning kirjeldada nende motivatsioonitasemete erinevust.
@@ -91,7 +91,7 @@ Sõltuvalt koostöö vormist on vahel otstarbekas eristada koostöö vorme. Ingl
 
 ### A.6.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Missugune on trend organisatsioonide juhtimise struktuuris viimastel aastatel:
 
@@ -115,7 +115,7 @@ Sõltuvalt koostöö vormist on vahel otstarbekas eristada koostöö vorme. Ingl
 
 ## A.6.2 IT mõisted ja määratlused - kasutamine suhtluses
 
-::: danger Puuduv seos ja materjal
+::: probleem
 
 Õppekava peatüki ja õppematerjali peatüki vahel puudub seos, hajutatud meeskondade õppematerjal puudub:
 
@@ -235,7 +235,7 @@ Seminar on TASUTA
 
 ## A.6.3 IT spetsialistide ja äripersonali dialoog
 
-::: danger Puuduv seos ja materjal
+::: probleem
 
 Õppekava peatüki ja õppematerjali peatüki vahel puudub seos, sotsiaalvõrgustike õppematerjal asub:
 
@@ -438,7 +438,7 @@ Töötajatele tuleb rõhutada, et nende motivatsioon on tähtis ja arvestatav ni
 
 ### A.6.4.1 Kommunikatsioon
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada tõhusa kommunikatsiooni ülesannet ühiste eesmärkide teadvustamisel.
 
@@ -462,7 +462,7 @@ Töötajad peavad teadma, et nad võivad diskuteerida juhtkonnaga erinevatel tee
 
 ### A.6.4.2 Isikutevahelise suhtluse vormid ja kõnepruuk
 
-::: danger Õppematerjal asjub mujal
+::: probleem
 
 Alljärgneva õppekava punkti A.6.4.2 materjalid asuvad hoopis õppematerjali [A.6.2](#a-6-2-it-moisted-ja-maaratlused-kasutamine-suhtluses) all:
 
@@ -474,7 +474,7 @@ Tuua välja isikutevahelise suhtluse vormid ja näidata vajadust kõnepruugi (ž
 
 ### A.6.4.3 Tehnilised muudatused
 
-::: warning Õppekava
+::: oppekava
 
 **A.6.4.3**
 
@@ -509,7 +509,7 @@ Töötajatele tuleb teada anda, et nad saavad tehniliste muudatuste läbiviimise
 
 ### A.6.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Missugune alljärgnevatest viib organisatsiooni, mille tegevuses on IT-l väga oluline roll, arengus parima tulemuseni, kui tegevuses peetaks silmas eelkõige ainult üht tegutsemisviisi:
 
@@ -542,7 +542,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama audiovisuaalvahendite kasutamise eelised
 - Tundma tehnilised nõuded audiovisuaalvahendite kasutamisel.
 
-::: warning Õppekava
+::: oppekava
 
 **A.6.5.1**
 
@@ -601,7 +601,7 @@ Laialt kasutatakse videokonverentsi koolituses, kus seeläbi suureneb võimalus 
 
 ### A.6.5.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Mis allpool toodust on peamised telekonverentsi eelised:
 

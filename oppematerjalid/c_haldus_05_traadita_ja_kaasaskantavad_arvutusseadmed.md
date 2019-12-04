@@ -12,7 +12,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.5.1.1 Kaasaskantavad elektroonikaseadmed
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kaasaskantavaid seadmeid nagu nutitelefonid, elektronmärkmik, GPS, kaasaskantavate arvutite komponendid.
 
@@ -55,7 +55,7 @@ See seade võimaldab laadida hulga e-raamatuid mällu ja neid nii mugavalt luged
 
 ### C.5.1.2 Multimeedia sisend-väljundseadmed
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda põhilised multimeedia sisend/väljund seadmed nagu skännerid, digitaalsed kaamerad, mikrofonid, ekraanid, kõlarid, peamikrofonid ja nende kasutusotstarve.
 
@@ -67,7 +67,7 @@ Virtuaalne reaalsus kasutab multimeediakomponente et luua keskkond, mis sarnanek
 
 ### C.5.1.3 Multimeedia salvestusmeediumid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamised multimeedia massmälukandjate standardid nagu CDROM, DVD, magent-optiline ketas, välkmälu ja erista nende tehnilisi parameetreid
 
@@ -81,7 +81,7 @@ Multimeediaserveri korral on multimeedia sisu salvestatud serveri massmäluseadm
 
 ### C.5.1.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1.  Mis seade võimaldab helistamist ja asukoha määramist?
 
@@ -126,7 +126,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.5.2.1 Traadita side tehnoloogiad
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda traadita sides kasutatavad tehnoloogiad ja nende funktsionaalsus
 
@@ -194,7 +194,7 @@ Sellist modulatsiooniskeemi, mille puhul teostatakse moduleerimine koos spektri 
 
 ### C.5.2.2 Levinud standardid ja nende erinevused
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda peamised erinevu- sed traadita seadmete standarditel nagu Bluetooth, IEEE802.11, IEEE802.16 (WiMax).
 
@@ -260,7 +260,7 @@ Vanim traadita võrgu standard on **802.11a** , mis töötas 5,5 GHz sagedusel j
 - MIMO (Multiple Input Multiple Output) ehk mitu sisendit - mitu väljundit. See võimaldab mitme saate- ja vastuvõtuantenni abil saavutada suurem andmeedastuskiirus. Jõudluse saavutamiseks kasutatav tehnoloogia on SDM (Spatial Division Multiplexing), mis jagab ülekantava andmeliikluse sõltumatuteks andmevoogudeks. Samaaegsete voogude arv on piiratud antennide arvuga saate ja vastuvõtu poolel. Maksimaalselt on võimalik kuni 4 andmevoogu.
 - Kanalite laiuse tõstmine 40 MHz'ni on teine tehnika, mis võimaldab kahekordistada andmekiiruse võrreldes 20 MHz kanaliga. Seda saab lubada vaid 5 GHz töörežiimis või 2,4 GHz režiimis juhul kui on kindlalt teada, et see ei häiri teiste sama sagedusala seadmete tööd.
 
-::: danger Vale formaat
+::: probleem
 
 Pildikujul tabel tuleb üle viia tekstikujule
 
@@ -298,7 +298,7 @@ Bluetooth tehnoloogia tutvustus veebis: [http://www.bluetooth.com/Pages/Basics.a
 
 ### C.5.2.3 Traadita ja kaasaskantavate arvutusseadmetega seotud probleemid
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda piirangud ja probleemid, mis seotud traadita ja mobiilsete seadmetega nagu leviulatus, ühenduskiirus, ühilduvus.
 
@@ -334,7 +334,7 @@ Erinevad kaitsemeetodid WiFi võrgu kaitseks:
 
 ### C.5.2.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kuidas kantakse üle infosignaali?
 
@@ -385,7 +385,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.5.3.1 Traadita võrgu komponendid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamisi traadita võrgu (WLAN) komponente ja määratleda nende otstarve.
 
@@ -405,7 +405,7 @@ Joonis 5‑11. WLAN võrku autentimine RADIUS'e serveri abil
 
 ### C.5.3.2 Erinevate tehnoloogiate ühilduvus
 
-::: warning Õppekava
+::: oppekava
 
 Hinnata erinevate WLAN tehnoloogiate ühilduvus.
 
@@ -415,7 +415,7 @@ Traadita võrguühenduse loomiseks peavad ühenduses osalevad seadmed olema omav
 
 ### C.5.3.3 Satelliitsidevõrgu komponendid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamised satelliitsidevõrgu komponendid.
 
@@ -429,7 +429,7 @@ Satelliitside tehnoloogiat saab kasutada arvutitevaheliseks andmevahetuseks üle
 
 ### C.5.3.4 Mobiilside keskjaamade protokollid ja rakendused
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamised mobiilside tugijaamade protokollid nagu mobiilne IP, WAP, Bluetooth, UMTS.
 
@@ -446,13 +446,13 @@ Bluetooth protokoll on kasutuses mobiilsete seadmete omavahel või arvutiga ühe
 
 ### C.5.3.5 Mobiilse protokolli rakendusala
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda iga mobiilse protokolli rakendusala tugijaamades.
 
 :::
 
-::: danger Puuduv materjal
+::: probleem
 
 Õppekava punkti kohta puudub õppematerjal või on see muu materjali hulgast raskesti leitav.
 
@@ -460,7 +460,7 @@ Määratleda iga mobiilse protokolli rakendusala tugijaamades.
 
 ### C.5.3.6 Raadiosagedustuvastus
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda raadiosagedus- tuvastus (RFID) ja selle kasutus- alad nagu passituvastus, toote jälgimine, ühistranspordi piletisüsteem, inventuuri- süsteemid.
 
@@ -482,7 +482,7 @@ Rohkem infot RFID kohta: [http://www.rfidjournal.com/faq#16](http://www.rfidjour
 
 ### C.5.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline standard ühildub IEEE 802.11g standardiga?
 

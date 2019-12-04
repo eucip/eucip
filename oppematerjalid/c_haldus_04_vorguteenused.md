@@ -10,7 +10,7 @@ Selle teema materjale läbi töötades õpid:
 
 Selle alateema materjale läbi töötades õpid kirjeldama erinevat tüüpi ohte tavalistele võrguoperatsioonidele.
 
-::: warning Õppekava
+::: oppekava
 
 **C.4.1.1**
 
@@ -69,7 +69,7 @@ Eesmärgiks võrgu turvalisusel on garanteerida saatja ja vastuvõtja andmevahet
 
 ### C.4.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Miks on vaja kaitsta võrguliiklust?
 
@@ -103,7 +103,7 @@ Selle alateema materjale läbi töötades õpid:
 - Kirjeldama krüptograafia olemust ja selle rakendamist võrguturbes
 - Tooma välja erinevused salajase võtme ja avaliku võtme algoritmidel.
 
-::: warning Õppekava
+::: oppekava
 
 **C.4.2.1**
 
@@ -275,7 +275,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.4.3.1 Sissejuhatus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada domeeninimede süsteemi (DNS) ja selle ulatust.
 
@@ -285,7 +285,7 @@ Kirjeldada domeeninimede süsteemi (DNS) ja selle ulatust.
 
 ### C.4.3.2 Seadmete nimetamine internetis
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kuidas nimetatakse lõppseadmeid internetis.
 
@@ -314,7 +314,7 @@ Domeeninimede registreerimine toimub registripidajate vahendusel: http://www.ees
 
 #### Nimelahendus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada ressursikirjete kasutust ja ostatrvet.
 
@@ -347,7 +347,7 @@ Päring lõpeb otsingutulemuse kliendi arvuti nimepuhvrisse laadimisega. Puhverd
 
 ### C.4.3.4 Ressursikirjed
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada ressursikirjete kasutust ja ostatarvet.
 
@@ -364,7 +364,7 @@ Kirjed, mis saadetakse üle interneti, kasutavad standardset formaati, mille pea
 
 ### C.4.3.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline osa aadressist [riik.ee](http://www.riik.ee) näitab tipptaseme domeeni?
 
@@ -408,7 +408,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.4.4.1 Veebi kirjeldus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada veebi (World Wide Web) kui klient/server rakendust
 
@@ -425,7 +425,7 @@ Veebi peamised funktsioonid on:
 
 ### C.4.4.2 Veebiserveri roll
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda veebiserveri roll.
 
@@ -437,7 +437,7 @@ Arvuti, mis pakub klientidele veebiteenust kasutades HTTP või HTTPS protokolle 
 
 ### C.4.4.3 Veebilehitseja roll
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda veebikliendi (veebilehitseja) roll.
 
@@ -447,7 +447,7 @@ Veebi navigeerimiseks on vaja **veebilehitsejat** ehk rakendust, mis võimaldab 
 
 ### C.4.4.4 HTTP protokoll
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda hüperteksti edastusprotokolli (HTTP) roll ja funktsioonid.
 
@@ -459,7 +459,7 @@ Päises võivad olla ka spetsiaalsed väikesed andmeplokid ehk **küpsised** **_
 
 ### C.4.4.5 Internetiressursi aadress
 
-::: warning Õppekava
+::: oppekava
 
 Defineerida internetiressursi aadressi (URL) otstarve.
 
@@ -469,7 +469,7 @@ Veebilehed on **URL adresseeringuga**. URL on internetiaadress ressursside leidm
 
 ### Hüpertekst-märgistuskeel
 
-::: danger Puuduv sektsioon õppekavas
+::: probleem
 
 Õppekavas pole HTML antud alajaotuses märgitud
 
@@ -479,13 +479,13 @@ Veebilehed on **URL adresseeringuga**. URL on internetiaadress ressursside leidm
 
 ### C.4.4.6 Dünaamilised veebilehed
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda üldise lüüsiliidese (CGI) otstarve.
 
 :::
 
-::: danger Vananenud tehnoloogia
+::: probleem
 
 CGI liides on vananenud tehnoloogia ja pole enam aktiivses kasutuses https://medium.com/adobetech/2017-will-be-the-year-of-the-cgi-bin-err-serverless-f5d99671bc99
 
@@ -498,13 +498,13 @@ CGI'le analoogne skriptimiskeskkond on Microsoft'i **ASP** (Active Server Pages)
 
 ### C.4.4.7 Kliendi arvutis käivitatavad rakendused
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda apleti mõiste.
 
 :::
 
-::: danger Vananenud tehnoloogia
+::: probleem
 
 Java applet, Visual Basic Script ja ActiveX on praeguseks vananenud tehnoloogiad ja pole aktiivses kasutuses.
 
@@ -537,13 +537,13 @@ Vastukaaluks Java tehnoloogiale on Microsoft arendanud **ActiveX** tehnoloogia, 
 
 ### C.4.4.8 Veebisisu andmebaasist
 
-::: warning Õppekava
+::: oppekava
 
 Aru saada dünaamilisest veebisisu halduses kasutades andmebaasi.
 
 :::
 
-::: danger Puuduv õppematerjal
+::: probleem
 
 Õppekava alampunkt segaselt sõnastud ja vastav õppematerjal puudub.
 
@@ -551,7 +551,7 @@ Aru saada dünaamilisest veebisisu halduses kasutades andmebaasi.
 
 ### C.4.4.9 Veebimajutus
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda võimalused veebimajutuseks nagu veebiserveri majutus, virtuaalne privaatserver, pühendatud veebimajutusteenus.
 
@@ -572,7 +572,7 @@ Ettevõte võib üles panna ja hallata ka ise enda veebiserverit ehk pakkuda ett
 
 ### C.4.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Klient-server rakenduse korral:
 
@@ -617,7 +617,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.4.5.1 Elektroonilise sõnumivahetuse süsteemid
 
-::: warning Õppekava
+::: oppekava
 
 **C.4.5.1**
 
@@ -645,7 +645,7 @@ Mobiilsideseadmete abil kättesaadavad elektroonilise sõnumivahetuse võimaluse
 
 #### E-posti süsteem
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja erinevused veebiposti ja e-posti vahel.
 
@@ -695,7 +695,7 @@ IMAP4 protokoll kasutab TCP porti 143 ja 993 (SSL). IMAP4 protokolli eelisteks o
 
 ### C.4.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1.  E-posti protokollid on?
 
@@ -734,7 +734,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.4.6.1 Kõneedastus üle interneti ja IP telefon
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada IP telefoni mõiste.
 
@@ -766,7 +766,7 @@ Ainult partnervõrgu helikõnede puhul ei ole IP PBX kasutusel. Partnervõrgu k�
 
 ### C.4.6.2 Heliedastuse nõuded
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada IP-kõne nõuded kasutajale ja võrgule.
 
@@ -782,7 +782,7 @@ Inimestevahelise dialoogi ülekande nõuded on suhtliselt madalamad. Piisab kui 
 
 ### C.4.6.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1.  Millist protokolli IP telefon kasutab andmete transportimisel?
 
@@ -820,7 +820,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.4.7.1 Ressursinõuded multimeediaülekandel
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada andmemahu ja andmetüüpide mõju võrguressurssidele nagu ressursinõuded teksti, numbrite, kõne, piltide, video ülekandeks.
 
@@ -888,7 +888,7 @@ Näiteks koduvõrgu multimeediakomponendid on defineeritud järgmiselt:
 
 #### C.4.7.2 Multimeediaserver
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada serverarvuti parameetreid, mida saab kasutada multimeediarakenduste majutamiseks
 
@@ -909,7 +909,7 @@ Server, mis edastab meediavoogu peab olema varustatud spetsiaalsete rakendustega
 
 ### C.4.7.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1.  Milline meetod võimaldab edastada multimeediat?
 

@@ -8,7 +8,7 @@ Selle alateema materjale läbi töötades saad teadmised sidusrühma ja erinevat
 
 ### A.3.1.1 Kliendi mõiste erinevad tähendused
 
-::: warning Õppekava
+::: oppekava
 
 **A.3.1.1**
 
@@ -51,7 +51,7 @@ Sõltumata kasutaja kuuluvusest on tarvilik teada tema vajadusi ning sellel vast
 
 ### A.3.1.2 IT personal
 
-::: danger Õppematerjalil puudub seos õppekavaga
+::: probleem
 
 Õppekavas puudub vastav alampunkt
 
@@ -65,7 +65,7 @@ Vajalike spetsialistide kvalifikatsiooni või ostetavate teenuste hulga määrab
 
 ### A.3.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Missugune lause järgnevatest kirjeldab kõige paremini IT-osakonna sise- ja väliskliendi erinevusi?
 
@@ -99,7 +99,7 @@ Selle alateema materjale läbi töötades saad teadmised:
 
 ### A.3.2.1 Äriplaan ja selle struktuur
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada infosüsteemi teostatavuse mõõtmist planeerimisel ja vastavusse seadmist ariplaani ja –vajadustega.
 
@@ -315,7 +315,7 @@ Iseloomulikumad jooned on:
 
 ### A.3.2.3 Tegevusstrateegia ja IT-strateegia
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda majandusliku teostatavuse mõiste.
 
@@ -347,13 +347,13 @@ Planeerimise turu valmisoleku hindamise etapil vaadeldakse kolme seisundit:
 
 ### A.3.2.4 Projekti planeerimine
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda tehnilise teostatavuse mõiste.
 
 :::
 
-::: danger Puudub seos õppekava ja õppematerjali vahel
+::: probleem
 
 Õppematerjali sisu ei vasta õppekava alampunktile
 
@@ -375,7 +375,7 @@ Iga tehnoloogiline rakenduse tekkimise tõukejõuks on reeglina mittetehniline p
 
 ### A.3.2.5 IT strateegia elluviimine
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda organisatsioonilise teostatavuse mõiste.
 
@@ -403,7 +403,7 @@ Koos infosüsteemi rakendamisega tuleb vaadata organisatsiooni struktuuri ja loo
 
 ### A.3.2. Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Missugune dokumendi kooskõla organisatsiooni strateegiaga järgneva loetelu seast on kõige olulisem?
 
@@ -451,7 +451,7 @@ Selle alateema materjale läbi töötades saad teadmised kulude ja tulude planee
 
 ### A.3.3.1 Kulud ja tulud
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja peamised investeeringute hindamise meetodid, näiteks **investeeringute tulukus** **_Return on Investment_**, **sisemine kasuminorm** **_Internal Rate of Return_**, **varade tulevikuväärtus** **_Net Present Value_**.
 
@@ -517,7 +517,7 @@ Tulu IT investeeringutelt on reeglina raske mõõta ning kokkuarvamise viisid on
 
 ### A.3.3.2 IK rakendamisest saadav otsene ja kaudne tulu
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada IKT rakendamisest saadava tulu hindamist otseste tulude (kulude vähenemine, tähtaegade lühenemine jne.) ja kaudsete tulude (töötajate rahulolu, parem kuvand jne.).
 
@@ -549,7 +549,7 @@ Olgu siinkohaltoodud mõned võimalikud tulu saamise kohad.
 
 **Rahulolevamad töötajad**. Investeeringud kontori- ja töökorraldussüsteemidesse ning uusima tehnoloogia kasutamine. Siin uusim tehnoloogia ei pea tähendama alati kõige uuema tarkvara versiooni kiiret kasutuselevõttu, kui see ei vii uuele kvalitatiivsele tasemele.
 
-::: danger Puuduv sisu
+::: probleem
 
 Puudub õppematerjal järgmise õppekava alampunkti kohta:
 
@@ -561,7 +561,7 @@ Määratleda kapitalikulude ja tegevuskulude erinevus.
 
 ### A.3.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Mida iseloomustab investeeringu tasuvus (return on investment)?
 
@@ -589,7 +589,7 @@ Selle alateema materjale läbi töötades õpid hindama infotehnoloogilisi lahen
 
 ### A.3.4.1 Infotehnoloogiliste lahenduste hindamine
 
-::: warning Õppekava
+::: oppekava
 
 **A.3.4.1**
 Selgitada saada infosüsteemi maksumuse ja kasude hindamise strateegilisest tähtsusest enne ja pärast uue lahenduse rakendamist.
@@ -634,7 +634,7 @@ Organisatsioonis on vaja pidevalt jälgida infotehnoloogia kasutamise majandusli
 
 ### A.3.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Missugune alljärgnevatest kirjeldab kõige paremini organisatsiooni IT-auditi eesmärke?
 

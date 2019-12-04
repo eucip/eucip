@@ -12,7 +12,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.1.1.1 Arvutisüsteemi põhikomponendid
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda arvutisüsteemi, põhilised osad: protsessor muutmälu, püsimälu ja kirjeldad nende tööpõhimõtet.
 
@@ -47,7 +47,7 @@ Põhitsükkel, mida protsessor järjest täidab on:
 
 ### C.1.1.2 Arvutisüsteemi põhikomponentidevahelised seosed
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamiste arvutikomponentide omavahelist koostööd.
 
@@ -67,7 +67,7 @@ Teine väga oluline põhjus arvuti põhikomponentide koondamiseks korpusesse on 
 
 ### C.1.1.3 Peamised perifeeriaseadmed ja nende funktsionaalsus
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja lihtsa arvuti- süsteemi peamised perifeeriaseadmed: monitor, klaviatuur, osundusseadmed, massmäluseadmed, võrgukaardid, printerid ja kirjeldada nende tööpõhimõtet.
 
@@ -112,7 +112,7 @@ Täiendavate perifeeriaseadmete funktsionaalsus võib olla väga erinev ja allpo
 
 ### C.1.1.4 Perifeeriaseadmete parameetrid
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda erinevat tüüpi perifeeriaseadmeid ja võrdlema nende omadusi ning jõudlust kasutades sobivaid parameetreid nagu maht, kiirus, resolutsiooni, ühilduvusstandardid.
 
@@ -162,7 +162,7 @@ Kui arvutiporti ühendatud seade ei käivitu siis tuleb veaotsingut alustada fü
 
 ### C.1.1.5 Mäluseadmed
 
-::: warning Õppekava
+::: oppekava
 
 Eristada põhilisi mälutehnoloogiaid nagu DRAM, SRAM, EPROM, välkmälu ja võrdlema nende kasutusotstarvet.
 
@@ -230,7 +230,7 @@ Püsimälud jagunevad omakorda:
 
 ### C.1.1.6 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline komplekt komponente on kõige sobivam funktsioneeriva arvuti koostamiseks?
 
@@ -279,7 +279,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.1.2.1 Arvuti arhitektuuriskeem
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda diagrammi abil üldotstarbelise arvuti arhitektuuri
 
@@ -295,7 +295,7 @@ Joonisel on toodud kaasaegse arvuti arhitektuuri plokkskeem, kus on näha arvuti
 
 ### C.1.2.2 Tugikiibistiku mõiste ja erinevate siinitüüpide otstarve
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada tugikiibistiku mõistet ja erinevate siinitüüpide otstarvet arvutisüsteemis.
 
@@ -369,7 +369,7 @@ Andmevahetus protsessori ja perifeeriaseadmete vahel toimub sünkroonse või as�
 
 ### C.1.2.3 Mälu hierarhia
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada mälu hierarhia mõistet nagu hierarhia tasemed, kiirem mälu ja aeglasemad massmäluseadmed, vahemälu efektiivsust ja selle mõju arvutisüsteemi jõudlusele.
 
@@ -385,7 +385,7 @@ Kõrgema taseme mälud on registrid, protsessori vahemälu ja täiendav vahemäl
 
 ### C.1.2.4 Arvutisüsteemide erinevused sõltuvalt kasutusotstarbest
 
-::: warning Õppekava
+::: oppekava
 
 Tuvastada erineva otstarbega arvutisüsteeme nagu tahvelarvuti, sülearvuti, lauaarvuti, mitmetuumaline serverarvuti, suurarvuti ja välja tooma nende arhitektuurilisi erinevusi.
 
@@ -409,7 +409,7 @@ Suurepäraselt sobib kontoritöö tegemiseks ka näiteks **mobiilne arvuti**. Vi
 
 ### C.1.2.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Tugikiibistik sisaldab:
 
@@ -456,7 +456,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.1.3.1 Protsessori arhitektuur
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada käsustiku arhitektuuri (Instruction Set Architecture) mõistet
 
@@ -513,7 +513,7 @@ Programmi täitmisel võivad esineda erandjuhtumid, kus süsteem peab reageerima
 
 ### C.1.3.2 Protsessorite jagunemine käsustiku alusel RISC ja CISC arhitektuurideks
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada CISC ja RISC arhitektuuriga protsessori disaini eripära.
 
@@ -526,7 +526,7 @@ Protsessorid jagunevad lähtuvalt käsustiku keerukuselt:
 
 ### C.1.3.3 Käsukonveierid, käsutaseme paralleelsus, dünaamiline ajastamine ja spekulatiivne käivitamine
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada käsukonveieri, käsutaseme paralleelsuse dünaamilise ajastamise ja spekulatiivse käivitamise mõisteid.
 
@@ -560,7 +560,7 @@ Võimalikud tehnoloogiad käsukonveierite seisakute vältimiseks:
 
 ### C.1.3.5 Kaasprotsessori mõiste
 
-::: warning Õppekava
+::: oppekava
 
 Defineerida kaasprotsessori roll ja tuua välja selle osa käsustiku arhitektuuris.
 
@@ -570,7 +570,7 @@ Protsessori jõudlust aitab suurendada kaasprotsessori (Coprocessor) kasutamine,
 
 ### C.1.3.5 Protsessorite tehnoloogiad ja parameetrid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada protsessori omadusi nagu ühe/mitmetuumaline, taktsagedus, konveieri astmed, vahemälu, kiibi mõõtmed, võimsustarve, soojuseralduvus.
 
@@ -614,7 +614,7 @@ Vahemälu parameetrid:
 
 ### C.1.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Protsessori masinkäskudega ei saa teostada järgmist funktsiooni:
 

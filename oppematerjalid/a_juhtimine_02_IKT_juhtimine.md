@@ -14,7 +14,7 @@ Selle teema materjale läbi töötades õpid tundma IT strateegia põhimõtteid.
 
 ### 2.1.1 IT strateegia põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja IKT strateegia vajalikkus ja selle eesmärk.
 
@@ -107,7 +107,7 @@ Kõikehõlmavat edu valemit ei ole olemas, kuid firma edukus aitab kaasa alltood
 
 Ülaltoodud põhimõtted aitavad kvaliteetsemalt koostada firma äriinfosüsteemi plaani, moderniseerida äriinfosüsteemi ennast.
 
-::: danger Puuduv materjal
+::: probleem
 
 Puudub õppematerjal järgmiste õppekava alampunktide kohta:
 
@@ -131,7 +131,7 @@ Kirjeldada IKT personali rolli ärivaldkonna, sealhulgas ITjuhi (CIO), turvajuhi
 
 ### 2.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Seos äristrateegia ja IT strateegia vahel on:
 
@@ -170,7 +170,7 @@ Selle alateema materjale läbi töötades õpid tundma organisatsiooniliste stru
 
 ### 2.2.1 Organisatsiooniliste struktuuride IT alased vajadused
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada info edastamise meetodeid - näiteks hierarhiline, hajutatud ja sellest tingitud nõudeid organisatsioonile.
 
@@ -214,7 +214,7 @@ Seega oleks firma huvides säilitada tolerantsus töötajate tööharjumuste ja 
 
 Kokkuvõtteks võiks märkida, et firma töötajate hoiak ja firma organisatsioonilisele struktuur oleksid nagu eri poolused. Võib öelda, et firmade range ülesehitus eeldab teatud korrapärasust ja see võib tunduda töötajatele nende vabadusastmete piiramisena. Samas võib töötajate tegutsemine vabamas õhkkonnas olla küllaltki oluliseks faktoriks kui soovitakse tehnoloogia efektiivse ärakasutamise tulemusena saavutada parimaid tulemusi.
 
-::: danger Puuduv materjal
+::: probleem
 
 Puudub õppematerjal järgmiste õppekava alampunktide kohta:
 
@@ -234,7 +234,7 @@ Selgitada isikliku teabehalduri (PIM) mõistet ja eeliseid info hankimiseks, sal
 
 ### 2.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Erinevate organisatsioonide strateegia ühised komponendid oleksid:
 
@@ -254,7 +254,7 @@ Selle alateema materjale läbi töötades saad teadmised tüüpilistest IT üles
 
 ### 2.3.1 Tüüpilised IT ülesanded ja tehnoloogilised lahendused
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja transaktsioonide töötlemise süsteemide, protsessijuhtimissüsteemide, planeerimissüsteemide, automatiseermissüsteemide ja otsuste toetamise süsteemide põhiomadused.
 
@@ -303,7 +303,7 @@ Firmadele vajalikku informatsiooni säilitatakse andmebaasides struktureeritud k
 
 ### A.2.3.2 Andmebaasid ja andmeaidad
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada andmebaaside olulisust transaktsioonide salvestamiseks, andmeaitadena ja ärianalüüsi vahendina.
 
@@ -326,7 +326,7 @@ Pärast andmebaasi loomist on võimalik andmeid kasutada. Loomulikult tekib väg
 
 ### 2.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Andmebaas on:
 
@@ -348,7 +348,7 @@ ehk "IT süsteemide soetamise võimalused"
 
 Selle alateema materjale läbi töötades õpid tundma IT süsteemide soetamise põhimõtteid.
 
-::: warning Õppekava
+::: oppekava
 
 **A.2.4.2**
 
@@ -431,7 +431,7 @@ Järgnevas tabelis toome lühivõrdluse kulude osas oma spetsialisti poolt arend
 
 ### 2.4. Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Infosüsteemide väljatöötamist tuleks alustada hinnangutes:
 
@@ -449,7 +449,7 @@ Selle alateema materjale läbi töötades õpid tundma personali valiku põhimõ
 
 ## 2.5.1 Personali valimine
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada IS arenduses ja halduses süsteemianalüütiku, ärianalüütiku, tarkvaraarendaja, võrguadministraatori, andmebaasi administraatori rolle.
 
@@ -521,7 +521,7 @@ Reeglina vajavad tippjuhid suurema üldistusastmega infomatsiooni, kuna nende t�
 
 Infosüsteem, nagu igasugune tehnoloogia, on pidevas arengus, sest meie teadmised ümbritsevast keskkonnast pidevalt suurenevad. Lõputu arendustegevus nõuab ka lõpptarbija oskuste kasvu. Selleks, et infosüsteemi kasutegur oleks võimalikult kõrge peavad lõpptarbijad hästi tundma kõiki süsteemi võimalusi. Siit ka vajadus pidevale koolitusele ja täiendõppele. Eriti suurt tähelepanu tuleb pöörata uutele kasutajatele, kes ei puugi tunda ka elementaarseid põhitõdesid. Põhitõdede mitteteadmine ei võimalda aga süsteemi täies mahus kasutada ning uutel lõpptarbijatel võib tekkida hirm või vastumeelsus infosüsteemi enda vastu, mis ettevõtte seisukohalt on äärmiselt ebasoovitav ilming.
 
-::: danger Probleem
+::: probleem
 
 Puuduvad järgmised õppekava alampunktid
 
@@ -541,7 +541,7 @@ Selgitada kvalifitseeritud personali hoidmisega seotud küsimusi, näiteks perso
 
 ### 2.5.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Lõppkasutaja on infosüsteemis:
 
@@ -572,7 +572,7 @@ Selle alateema materjale läbi töötades õpid tundma kvaliteedijuhtimise põhi
 
 ### 2.6.1 Kvaliteedijuhtimine organisatsioonis
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada mõningaid kvaliteedinäitajaid infosüsteemide kvaliteedi hindamisel.
 
@@ -697,7 +697,7 @@ Kui vaadelda eraldi omandi üldkulusid, siis neid saaks jaotada:
 
 Kokkuvõtteks võib öelda, et omandi kogukulude hindamine on oluline etapp infosüsteemide väljaarendamisel ja kuigi nende kulude arvutamine pole lihtne, võimaldab see kontrollida tegevus- ja väljatöötamiskulusid ning hinnata ka sisulisi põhjuseid, mis on kulutuste või ebaefektiivsuse taga.
 
-::: danger Probleem
+::: probleem
 
 Puuduvad (või on ebapiisavalt õppematerjaliga seostatud) järgmised õppekava alampunktid
 
@@ -721,7 +721,7 @@ Kirjeldada omamise kogukulu (TCO) mõistet ja loetleda tüüpilisemad kuluartikl
 
 ### 2.6 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Infosüsteemi kvaliteedi võtmeküsimus on:
 

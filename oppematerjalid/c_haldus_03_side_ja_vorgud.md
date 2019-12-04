@@ -16,7 +16,7 @@ Selle alateema materjale läbi töötades õpid
 
 ### C.3.1.1 Arvutivõrk ja informatsiooni transport
 
-::: warning Õppekava
+::: oppekava
 
 Eristada võrkude loogilised ja füüsilised funktsionaalsused.
 
@@ -38,7 +38,7 @@ Vastavalt võrgu topoloogialisele konfiguratsioonile on võimalik eristada:
 
 ### C.3.1.2 Signaal
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada informatsiooni ülekandmise põhimõisted defineerides signaali mõiste.
 
@@ -63,7 +63,7 @@ Joonis 3 - 3. Info kodeerimine kasutades amplituud- ja sagedusmodulatsiooni (All
 
 ### C.3.1.3 Analoog- ja digitaalsignaal
 
-::: warning Õppekava
+::: oppekava
 
 Välja tuua analoog- ja digitaalsignaali erinevused.
 
@@ -75,7 +75,7 @@ Digitaalsed signaalid on diskreetsete väärtuste jadad, mida vastuvõtja saab m
 
 ### C.3.1.4 Signaali muundamine
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda probleemid signaali muundamisega analoogsest digitaalseks ja vastupidi.
 
@@ -97,7 +97,7 @@ Signaali muundamine on alati seotud kadudega.
 
 ### C.3.1.5 Kanalikommutatsioon ja pakettkommutatsioon
 
-::: warning Õppekava
+::: oppekava
 
 Võrrelda kanali- ja pakettkommutatsiooni.
 
@@ -139,7 +139,7 @@ ummikud küllastavad ka järjekordade vaba mahu siis võib tekkida pakettide kad
 
 ### C.3.1.6 Võrgu standardiseerimine
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada standardiseerimis- asutuste rolli nagu ITU, IEEE.
 
@@ -172,7 +172,7 @@ Eestis tegeleb standardimisega ja standardite müügiga Eesti Standardikeskus (E
 
 ### C.3.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Mis parameeter mõjutab diskreeditud analoogsignaali kvaliteeti?
    a. Diskreetimissagedus X
@@ -213,7 +213,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.3.2.1 Võrgukomponendid
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda võrgukomponendid nagu lõppseadmed, ülekandemeediumid ja võrguseadmed.
 
@@ -229,7 +229,7 @@ Võrgukomponendid võib jagada kolme põhilisse kategooriasse:
 
 ### C.3.2.2 Ülekandemeediumide parameetrid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada ülekandemeediumide parameetreid nagu keerupaar-, koaksiaalkaabel, mikrolained.
 
@@ -273,7 +273,7 @@ Fiiberoptilised (Optical fiber) kaablid on õhukesed kaablid, mis kannavad üle 
 
 Juhtmevabad ühendused esindavad alternatiivi püsiühendustele, sest nende ülesseadmiseks ei ole vaja kaablite paigaldamist ning need äbivad teatud materjalidest takistusi. Võimalikud andmeedastuskiirused on kaasajal 300Mbit/s (802.11n) ja vabas takistuseta keskkonnas on levi ligikaudu 140m. Siiski sõltub signaali kvaliteet suurel määral keskkonnast, mida elektromagnetlained läbivad, signaali tugevus langeb kiiresti kauguse suurenedes ja peegelduste tõttu ümbritsevatelt esemetelt.
 
-::: danger Ebaselge seos
+::: probleem
 
 Järgnev õppekava punkt pole õppematerjalis selgelt välja toodud
 
@@ -351,7 +351,7 @@ kriteeriumid, mida võrk peab suutma täita:
 - Töökindlus
 - Geograafiline ulatus.
 
-::: danger Vananenud info
+::: probleem
 
 Internetis ühendatud seadmeid arvestatakse **miljardites** https://ipropertymanagement.com/iot-statistics
 
@@ -384,7 +384,7 @@ Reeglina konfigureeritakse võrgukaardi ja kommutaatori vaheline võrguühendus 
 
 ### C.3.2.5 Laivõrk ja kohtvõrk
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja erinevused LAN ja WAN võrkudel.
 
@@ -419,7 +419,7 @@ Peamised erinevused lai- ja kohtvõrgu vahel on:
 
 ### C.3.2.6 Laivõrgutehnoloogiad
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada erinevaid WAN Tehnoloogiaid ja valikuid nagu sissehelistamine, integreeritud teenustega digitaalvõrk, digitaalne abonendiliin (DSL), kaadriretranslaator, rendiliin.
 
@@ -448,7 +448,7 @@ Kaablimodem (Cable Modem) võimaldab internetiühenduse jagada koaksiaalkaabli k
 
 ### C.3.2.7 Võrgutopoloogiad
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada standardseid võrgu- topoloogiaid ja seostada neid võrgu standarditega nagu Ethernet, lubaring, FDDI.
 
@@ -499,7 +499,7 @@ _Joonis 3 - 13. Tähttopoloogia (Allikas: Learning Materials for Information Tec
 
 ### 3.2.8 Kohtvõrgu tehnoloogiad
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda erinevad juurde- pääsustrateegiad (CSMA/CD ja loakettedastus), mida kasutatakse erinevate võrgustandardite puhul.
 
@@ -546,7 +546,7 @@ Teine võimalus meedia juurdepääsukontrolliks on **loakettedastus** (Token Pas
 
 Seejuures tööjaamade asetus ringis on ainult loogiline. Ring määrab igale tööjaamale järgneva ja eelneva jaama, kuid see ei tähenda seda, et jaam peab füüsiliselt asetsema vastavalt ringisisesele järjekorrale.
 
-::: danger Puuduv õppematerjal
+::: probleem
 
 Järgnev õppekava punkt on õppematerjalist puudu või asub mujal
 
@@ -558,7 +558,7 @@ Kirjeldada tulemüüri funktsiooni ja selle tähtsust võrguturbes.
 
 ### C.3.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. IP alamvõrk:
 
@@ -604,7 +604,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.3.3.1 OSI mudel
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada ISO 7-kihiline mudel ja loetleda iga kihi poolt hallatavad teenused.
 
@@ -664,7 +664,7 @@ Füüsiline kiht edastab andmed üle võrgumediumi sihtarvutisse. See arvestab v
 
 ### C.3.3.2 TCP/IP mudel
 
-::: warning Õppekava
+::: oppekava
 
 Kõrvuta TCP/IP mudel ISO mudeliga.
 
@@ -686,7 +686,7 @@ Rakenduskiht võimaldab rakendustel pääseda juurde teiste kihtide teenustele. 
 
 ### C.3.3.3 Internetiprotokollid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada pakettide marsruutimine üle interneti.
 
@@ -739,7 +739,7 @@ Reaalselt kasutuselolevat marsruutimistabelit saab lõppseadmes vaadata utiliidi
 
 ### C.3.3.5 Transpordiprotokollid
 
-::: warning Õppekava
+::: oppekava
 
 Eristada TCP ja UDP transpordi- protokolle töökindluse ja kiiruse poolest.
 
@@ -788,7 +788,7 @@ Võrguliikluse statistika ja kasutusel portide jooksva info vaatamiseks on olema
 
 ### C.3.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline väidetest on õige:
 

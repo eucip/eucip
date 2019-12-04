@@ -18,6 +18,8 @@ Kui kirjutada õppekava küsimused üldisemaks, rääkides küll põhimõistetes
 
 Materjalide uuendamisel tasub jälgida ka seda, et _aegunud_ materjal pole tingimata _halb_ materjal. Mitmed asjakohasuse kaotanud peatükid võib koondada ajaloo-peatükkidesse mis pole hindamisel kohustuslikud, kuid aitavad mõista tehnoloogia arengupõhjusi ning annavad edasi kadunud ajastu vaimu.
 
+Vananenud on soovitav paigutada avatavasse-suletavasse sektsiooni ja selgelt märgistada.
+
 ## Sisu vormindamine
 
 Õppematerjalid on vormindatud Markdownis, lihtsas tekstipõhises dokumentatsiooniformaadis https://guides.github.com/features/mastering-markdown/
@@ -186,34 +188,80 @@ _siia tuleb pildiallkiri_
 
 Õppematerjalides leidub-siin seal ka lehekülje teksti sisse kodeeritud pilte kuid edaspidi on need plaanis kõik eraldi pildifailideks salvestada.
 
-### Kastid
+### Vananenud materjal
 
-Lisaks standardsetele Markdowni võimalustele saab sisu eristamiseks saab kasutada eri värvi kaste:
-
-::: tip Roheline
-
-Roheline kast on reserveeritud kordamisküsimustele
-
-:::
-
-::: warning Kollane
-
-Kollane kast on reserveeritud õppekava viidetele
-
-:::
-
-::: danger Punane
-
-Punane kast on olulistele märkustele ja esiletõstetud probleemidele.
-
-:::
-
-Punast kasti saab luua järgnevalt:
+Vananenud materjalid saab märgistada järgnevalt:
 
 ```md
-::: danger Punane
+::: vananenud
 
-Punane kast on olulistele märkustele ja esiletõstetud probleemidele.
+#### Muud veebitehnoloogiad
+
+Lisaks AJAX-ile on laialt kasutusel sellised tehnoloogiad nagu Flash ja selle konkurent Microsofti Silverlight.
 
 :::
 ```
+
+annab tulemuseks:
+
+::: vananenud
+
+#### Muud veebitehnoloogiad
+
+Lisaks AJAX-ile on laialt kasutusel sellised tehnoloogiad nagu Flash ja selle konkurent Microsofti Silverlight.
+
+:::
+
+### Õppekava
+
+Viiteid õppekavale saab märgistada järgnevalt:
+
+```md
+::: oppekava
+
+Kirjeldada organisatsioone ja olulisemaid struktuure nt puustruktuur, kammstruktuur, juriidiline vorm nt mittetulundusühing, partnerlus; suurus nagu väikese ja keskmise suurusega ettevõte, korporatsioon.
+
+:::
+```
+
+annab tulemuseks:
+
+::: oppekava
+
+Kirjeldada organisatsioone ja olulisemaid struktuure nt puustruktuur, kammstruktuur, juriidiline vorm nt mittetulundusühing, partnerlus; suurus nagu väikese ja keskmise suurusega ettevõte, korporatsioon.
+
+:::
+
+### Probleem
+
+```md
+Probleeme saab märgistada järgnevalt:
+
+::: probleem
+
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
+
+:::
+```
+
+::: probleem
+
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
+
+:::
+
+### Kordamisküsimused
+
+```md
+::: kordamiskusimused
+
+1. Kas tulu mittetaotleval ettevõttel võib tekkida kasum?
+
+:::
+```
+
+::: kordamiskusimused
+
+1. Kas tulu mittetaotleval ettevõttel võib tekkida kasum?
+
+:::

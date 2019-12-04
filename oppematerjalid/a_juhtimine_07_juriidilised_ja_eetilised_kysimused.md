@@ -6,7 +6,7 @@ Selle teema materjale läbi töötades saad üldised teadmised juriidika ja eeti
 
 Selle teema materjale läbi töötades saad teadmised intellektuaalsest omandist ja patentidest.
 
-::: warning Õppekava
+::: oppekava
 
 **A.7.1.1**
 
@@ -86,7 +86,7 @@ SCO vs. IBM [http://www.infoworld.com/article/06/07/03/HNscofewerclaims_1.html](
 
 ### A.7.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Missugune on üldtunnustatud parim viis tehnilise leiutise, mille abil loodetakse saada ärilist tulu, kaitsmiseks?
 
@@ -116,13 +116,13 @@ Selle alateema materjale läbi töötades õpid tundma seaduslikke regulatsioone
 
 ### A.7.2.1 Tarkvarapiraatlus
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda tarkvarapiraatluse mõiste.
 
 :::
 
-::: danger Õppematerjal asub mujal
+::: probleem
 
 Tarkvarapiraatlust käsitletakse õppematerjali punktis 7.1
 
@@ -130,7 +130,7 @@ Tarkvarapiraatlust käsitletakse õppematerjali punktis 7.1
 
 ### A.7.2.2 Eesti õigusaktid. Infosüsteemidega seotud õigusaktid
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja IKT puudutavate siseriiklike õigusaktide üldpõhimõtted.
 
@@ -297,7 +297,7 @@ Seadus näeb ette juhud, millal pakkumine ja sellega nõustumine muutuvad siduva
 
 Tehingute kinnitamisel ja tehingupoolte tuvastamiseks ning nende volituste kontrolliks on hea kasutada digitaalallkirja.
 
-::: danger Puuduv õppematerjal
+::: probleem
 
 Järgneva õppekava punkti kohta puudub õppematerjal:
 
@@ -309,7 +309,7 @@ Tuua välja EL õigusaktide IKT-d puudutavad üldpõhimõtted.
 
 ### A.7.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Isikuandmete kaitse seadusandlusega:
 
@@ -329,7 +329,7 @@ Tuua välja EL õigusaktide IKT-d puudutavad üldpõhimõtted.
 
 Selle alateema materjale läbi töötades õpid tundma käitumiskoodeksit, mis peaks olema üks professionaalse spetsialisti tegutsemise aluseks.
 
-::: warning Õppekava
+::: oppekava
 
 **A.7.3.1**
 
@@ -394,7 +394,7 @@ Euroopa Kutseliitude Nõukogu (Council of European Professional Informatics Soci
 
 ### A.7.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 Missugusel juhul käitub IT spetsialist vastavalt üldtunnustatud eetikakoodeksile, kui märkab kolleegide väga hästi tehtud tööd?
 
@@ -408,7 +408,7 @@ Missugusel juhul käitub IT spetsialist vastavalt üldtunnustatud eetikakoodeksi
 
 Selle alateema materjale läbi töötades õpid tundma turvalisuse tagamise põhimõtteid ühiskonnas ja organisatsioonis.
 
-::: warning Õppekava
+::: oppekava
 
 **A.7.4.1**
 
@@ -577,7 +577,7 @@ Kuna andmeturve on spetsiifiline valdkond, siis on asjakohane tuua eraldi välja
 
 ### A.7.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Infoturbe põhieesmärkideks organisatsioonis on tagada:
 
@@ -601,7 +601,7 @@ Kuna andmeturve on spetsiifiline valdkond, siis on asjakohane tuua eraldi välja
 
 Selle alateema materjale läbi töötades saad teadmised peamistest regulatsioonidest töökohal tervise ja ohutuse tagamiseks.
 
-::: warning Õppekava
+::: oppekava
 
 **A.7.5.1**
 
@@ -776,7 +776,7 @@ Eelpool toodud seadusaktid põhinevad Euroopa Liidu järgmistel direktiividel:
 
 ### A.7.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. CE märgistusega deklareerib elektroonikaseadme tootja, et toode vastab Euroopa Liidus kehtestatud:
 
