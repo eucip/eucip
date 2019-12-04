@@ -273,10 +273,6 @@ Fiiberoptilised (Optical fiber) kaablid on õhukesed kaablid, mis kannavad üle 
 
 Juhtmevabad ühendused esindavad alternatiivi püsiühendustele, sest nende ülesseadmiseks ei ole vaja kaablite paigaldamist ning need äbivad teatud materjalidest takistusi. Võimalikud andmeedastuskiirused on kaasajal 300Mbit/s (802.11n) ja vabas takistuseta keskkonnas on levi ligikaudu 140m. Siiski sõltub signaali kvaliteet suurel määral keskkonnast, mida elektromagnetlained läbivad, signaali tugevus langeb kiiresti kauguse suurenedes ja peegelduste tõttu ümbritsevatelt esemetelt.
 
-::: probleem
-
-Järgnev õppekava punkt pole õppematerjalis selgelt välja toodud
-
 ### C.3.2.3 Võrgukomponentide ühendamine?
 
 ::: oppekava
@@ -546,6 +542,8 @@ Teine võimalus meedia juurdepääsukontrolliks on **loakettedastus** (Token Pas
 
 Seejuures tööjaamade asetus ringis on ainult loogiline. Ring määrab igale tööjaamale järgneva ja eelneva jaama, kuid see ei tähenda seda, et jaam peab füüsiliselt asetsema vastavalt ringisisesele järjekorrale.
 
+### C.3.2.9 Tulemüür?
+
 ::: probleem
 
 Järgnev õppekava punkt on õppematerjalist puudu või asub mujal
@@ -556,7 +554,7 @@ Kirjeldada tulemüüri funktsiooni ja selle tähtsust võrguturbes.
 
 :::
 
-### C.3.2 Kordamisküsimused
+### C.3 Kordamisküsimused
 
 ::: kordamiskusimused
 
