@@ -479,11 +479,15 @@ Veebilehed on **URL adresseeringuga**. URL on internetiaadress ressursside leidm
 
 ### C.4.4.6 Dünaamilised veebilehed
 
-::: oppekava
+::: vananenud
+
+**Õppekava**
 
 Määratleda üldise lüüsiliidese (CGI) otstarve.
 
 :::
+
+HTML keel võimaldab kirjeldada **staatilisi veebilehti**. Siiski on paljudel juhtudel vaja kliendile saadetud lehekülgi muuta vastavalt kliendi poolt sisestatud parameetritele või saata kliendi päringule vastus veebiserveriga ühendatud andmebaasist.
 
 ::: probleem
 
@@ -491,10 +495,12 @@ CGI liides on vananenud tehnoloogia ja pole enam aktiivses kasutuses https://med
 
 :::
 
-HTML keel võimaldab kirjeldada **staatilisi veebilehti**. Siiski on paljudel juhtudel vaja kliendile saadetud lehekülgi muuta vastavalt kliendi poolt sisestatud parameetritele või saata kliendi päringule vastus veebiserveriga ühendatud andmebaasist.
+::: vananenud
 
 Selleks otstarbeks on kasutusel **dünaamilised veebilehed**. Üks mehhanism selliste päringute jaoks välja arendatud mehhanism on **üldine lüüsiliides** (CGI – Common Gateway Interface). CGI päring suunab kasutaja mitte staatilise veebisisu juurde vaid käivitab serveris rakenduse, mille väljund saadetakse kasutajale päringu vastuseks. CGI ei ole seotud konkreetse programmeerimiskeelega. CGI skripti saab kasutada näiteks koos Perl, PHP, C või Java keeltega. Java keeles kirjutatud CGI rakendust nimetatakse Java servlett. CGI'd kasutavad keeled loovad kliendile HTML vormingus lehekülje. Kasutaja võib CGI rakenduse käivitada ka veebilehitseja aadressiribalt, kus saab kasutaja kirjeldada ka päringu andmed peale CGI rakendust.
 CGI'le analoogne skriptimiskeskkond on Microsoft'i **ASP** (Active Server Pages).
+
+:::
 
 ### C.4.4.7 Kliendi arvutis käivitatavad rakendused
 

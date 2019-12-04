@@ -1,11 +1,5 @@
 # A.4 Ülemaailmne majandusvõrgustik
 
-::: probleem
-
-Tegu on oluliselt vananenud õppematerjaliga
-
-:::
-
 Selle teema materjale läbi töötades saad teadmised infoedastuses viimastel aastakümnetel toimunud hiiglasuurtest muutustest. Kasutades eri valdkondade näiteid nii igapäeva kui oluliste tegevuste puhul, selgitatakse on-line maailma toimimist.
 
 ## A.4 Uued võimalused
@@ -30,6 +24,8 @@ Informatsiooni- ja kommunikatsioonitehnoloogia (IKT, tihti kasutatav samaväärs
 
 Ning kui elektroonilisele andmesidele lisada veel arenenud postiteenistus (lisaks tavapostile, kullerteenus, automatiseeritud pakiteenus nagu Eestis nt SmartPost) füüsiliste esemete transpordiks, siis suudetakse enamik suuremat aega nõudnud toimetusi korda ajada kodust või kontorist lahkumata.
 
+::: vananenud
+
 Web 2.0 on tänaseks saavutanud küpsuse. Tegemist pole mitte järjekordse uue programmiga või tehnilise lahendusega. Pigem on tegemist mooduste ja tavadega, kuidas veebikeskkondi pruugitakse. Sotsiaalvõrgustikud nagu Facebook, Google+, Twitter, Foursquare jpt on üheks **Web 2.0** oluliseks eristajaks varasemast veebi kasutusest (ehkki mitte ainult nagu allpool juttu tuleb).
 
 Üheks tähtsaks eripäraks Web 2.0 juures on **sotsiaalsus** ehk kogukondade loomine ning kaasamine, olgu siis loetava sisu loomiseks, info jagamiseks või muu uue väärtuse tekitamiseks suhtlemise ning koostöö kaudu. Nii näiteks ei eristu sotsiaalvõrgustikes autorid ja lugejad enam kuigivõrd. Igaühel on võimalik kaasa rääkida, oma fakte lisada ja omi arvamusi avaldada. Kas tehniliseks lahenduseks on ajalehe kommentaariruum, foorum, Wiki või midagi muud, polegi nii tähtis.
@@ -45,6 +41,8 @@ Vähemalt ideaalis, sest sellise infovahetuse kriitikud (eriti peavoolu meedias)
 ![](../images/a4_wikipedia2.png)
 
 Joonis 4-2. Kandle artikli tekkimine ja muudatused aja jooksul
+
+:::
 
 ### A.4.1.2 Veebiotsing
 
@@ -90,7 +88,13 @@ _Joonis 4-4. Tallinna Ülikooli elektrooniline tunniplaan_
 
 Peab küll nentima, et viimasel ajal on ekstraneti ja intraneti vahe hägustunud, sest mõlemad tähendavad organisatsiooni elektroonilistele ressurssidele kaugelt ligipääsu võimaldamist ja põhierinevus kipub piirduma ligilubatavate kasutajagruppidega.. Et ekstranet ja intranet kasutavad tavalise interneti võimalusi, hoitakse kulud madalal ja kasutajakeskkond ühetaolisena.
 
+::: vananenud
+
+### Uued tehnoloogiatrendid
+
 Uusi võimalusi pakkuvate tehnoloogiatrendide hulgas tasub mainida (ja huvi korral lähemalt uurida) ka **asjade interneti** (ingl Internet of Things) tärkavat kasvu võimaldavat Web 3.0 ehk semantilist veebi (kus seadmete omavaheline suhtlus muutub märksa levinumaks kui täna).
+
+:::
 
 ### A.4.1 Kordamisküsimused
 
@@ -156,11 +160,7 @@ Kuidas kasutada IKT-d organisatsioonis muutuste läbiviimisel.
 
 :::
 
-::: probleem
-
-**_cloud computing_** vajab tunduvalt põhjalikumat käsitlust.
-
-:::
+::: vananenud
 
 Infotehnoloogia ja arvutivõrkude areng on toonud uued tuuled ka ettevõtlusesse. **Pilveraalindus** **_cloud computing_** on toonud arvutiressursside (serverid, andmebaasid, ärianalüütika) sisseostmise ka väikeettevõteteni. "Pilv" sisaldab nii taristut, platvorme kui ka rakendusi, mida kasutatakse erinevate vahenditega (nagu illustreerib allolev joonis).
 
@@ -169,6 +169,8 @@ Kui tavakasutajale tuttavaks **pilveraalinduse** – sisulisel kõikjalt kasutat
 ![](../images/a4_cloud.png)
 
 _Joonis 4-5. Pilveraalinduse komponentide ülevaade (diagrammi autor: Sam Johnston, allikas: http://en.wikipedia.org/wiki/File:Cloud_computing.svg)_
+
+:::
 
 ### A.4.2 IT rakendamine teistes valdkondades
 
@@ -200,9 +202,11 @@ See võib toimuda nii ideekonkursi, teenuse väljaarendamise kui prototüübi ka
 
 Vaata muid rahvahanke näited veebis olevast loetelust aadressil [http://www.openinnovators.net/list-open-innovation-crowdsourcing-examples/](http://www.openinnovators.net/list-open-innovation-crowdsourcing-examples/).
 
-Samm eelnevast edasi on rahvahankel tuginevate **uute ärimudelite sünd**. Nii on esile kerkinud vahendajad, kes loovad keskkonna selleks, et tootearendajad ja tegijad kokku tuua. Huvitavaks näiteks on pioneer graafilise disaini valdkonnas 99design.com, kus logo, visiitkaardi, veebikujunduse vms tellija paneb soovitu saamiseks välja konkursi ja määrab ise hinna, mis ta on nõus selle eest maksma. Selle peale kujundajad üle maailma hakkavad kavandeid pakkuma. Soovitu mitteleidmisel saab tellija raha tagasi. Nii see kui paljud teised rahvahanke tööriistad on alguse või vähemalt inspiratsiooni saanud sotsiaalvõrgustike suhtluskeskkondadest.
+Samm eelnevast edasi on rahvahankel tuginevate **uute ärimudelite sünd**. Nii on esile kerkinud vahendajad, kes loovad keskkonna selleks, et tootearendajad ja tegijad kokku tuua. Huvitavaks näiteks on pioneer graafilise disaini valdkonnas https://99designs.com/, kus logo, visiitkaardi, veebikujunduse vms tellija paneb soovitu saamiseks välja konkursi ja määrab ise hinna, mis ta on nõus selle eest maksma. Selle peale kujundajad üle maailma hakkavad kavandeid pakkuma. Soovitu mitteleidmisel saab tellija raha tagasi. Nii see kui paljud teised rahvahanke tööriistad on alguse või vähemalt inspiratsiooni saanud sotsiaalvõrgustike suhtluskeskkondadest.
 
 ### A.4.2 Suhtluskeskkonnad
+
+::: vananenud
 
 Arvutivõrgu kaudu toimivaid keskkondi mõistab kindlasti igaüks päris mitu üles lugeda. Hulgi on meelelahutus- ja suhtlusportaale ning alati polegi võimalik täpset vahet teha, kus läheb meelelahutusega seotud suhtlus üle erialaseks/hobialaseks suhtluseks. Erialainimeste võrgustikud (nt LinkedIn) on heaks näiteks, kus ühendatakse meeldiv kasulikuga. Laiema levikuga on loomulikult kindla fookuseta suhtluskeskkonnad nagu äärealadele tõrjutud Orkut, selle kannul hiigelsuureks kasvanud Facebook või hilisem tulija, ent mitte väiksema kasvupotentsiaaliga Google+.
 
@@ -212,13 +216,21 @@ _Joonis 4-6. Alustavate ettevõtete 48 tunni jooksul loomise ürituse Garage48 l
 
 Lisaks on Web 2.0 suhtlusvõrgustike ajastule omaseks saanud mitmed spetsiifilisemad kasutajate vahelist suhtlust ja kogemuste vahetamist hõlbustavad vahendid (vt põhjalikumat kataloogi lehel [http://www.go2web20.net/](http://www.go2web20.net/)) nagu lühisõnumitele spetsialiseerinud Twitter, kasutaja asukohale ja selle ümbruskonna infole üles ehitatud Foursquare ja Gowalla, pildijagamiseks mõeldud Flickr ja Picasa, ajaveebi tööriistad Blogger ja Wordpress jpt. Nende keskkondade esiletõus on oma mõju avaldanud ka ettevõtlusele.
 
+:::
+
 #### Sotsiaalvõrgustikud turunduses
+
+::: vananenud
 
 Sotsiaalvõrgustike kasvades sai üsna kiiresti selgeks, et firmad saavad neist kasu lõigata oma **toodete ja teenuste tutvustamisel**. Nii on seal kasutusele võetud nii gerilja-marketingi (st kui reklaam ei ole otseselt kokku viidav reklaamijaga) võtted kui ka otseturunduse meetodid. Varasemate lahendustega võrreldes on eeliseks interaktiivsus – võimalus suhelda kliendiga otse, mitte massimeedia vahendusel. Seega annavad uued kanalid võimaluse mitte ainult enda tutvustamiseks ja tagasiside saamiseks, vaid ka oma kliendi ja tema soovide tundma õppimiseks.
 
 Kasutajaprofiilide andmete põhjal on reklaame võimalik veelgi täpsemalt suunata. Nii on Groupon'i eeskujul loodud paljudele odavpakkumiste jahtijale Eestis tuttavaks saanud ja poole aastaga 100 miljoni kroonise turuväärtusega firmaks tõusnud Cherry.ee eelkõige turunduskeskkond, mille tegelikeks klientideks (ja tulu allikaks) on turunduseelarvet sinna ümber suunavad sooduspakkumisi tegevad firmad. Näiteks on Groupon'i vahendustasu tehingu hinnast tavaliselt 50%, aga võib kohati ulatuda 90%-ni – sellisel juhul pole soodustuse pakkuja vaatenurgast tegemist enam kauba või teenuse allahindlusega, vaid turunduskuluga kliendi saamiseks.
 
+:::
+
 #### Õpikeskkonnad
+
+::: vananenud
 
 Omaette valdkond on elektroonilised õpikeskkonnad – olles alates lihtsast abivahendist õppematerjalide kättesaadavaks tegemisel või õpilaste küsimuste/kodutööde kokkukogumisel omaette väikeste maailmadeni, kus saab gruppidena arutleda ja arutluse tulemusi süstematiseerida. Seal on simulatsioonivahendid seadmete ja seoste tundmaõppimiseks. Samuti on õpikeskkonnas võimalik koguda automaatset statistikat õppurite käitumise kohta ja seda edasise kursuse kavandamisel arvestada.
 
@@ -247,6 +259,8 @@ XML-põhise standardi näide:
   </topic>
 </topicMap>
 ```
+
+:::
 
 ### A.4.5 Kordamisküsimused
 
@@ -375,12 +389,6 @@ Ettevõtte rakendusi saab liigitada veel arenduse- ja kasutuse tüübi järgi:
 - Tarkvara teenusena **_Software as a Service_** **_SaaS_**).
 
 Pakett-tarkvarade eelised:
-
-::: probleem
-
-Välja pole toodud kõigi kolme tarkvara kasutustüübi (spetsiaalrakendused, pakettarkvara, **_SaaS_**) eeliseid ja puudusi
-
-:::
 
 - suur(em) installatsioonibaas
 - reeglina paremini testitud

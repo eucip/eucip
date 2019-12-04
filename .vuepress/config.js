@@ -21,7 +21,7 @@ module.exports = {
       "vuepress-plugin-container",
       {
         type: "oppekava",
-        before: `<div class="oppekava"><p class="oppekava-title">Õppekava teemad ja põhimõisted</p>`,
+        before: `<div class="oppekava"><p class="oppekava-title">Õppekava</p>`,
         after: `</div>`
       }
     ],
