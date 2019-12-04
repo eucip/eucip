@@ -64,7 +64,7 @@ Analoogiana võib ette kujutada elektrivalgust kui kasutajale vajalikku funktsio
 
 Süsteemitarkvara ja rakendustarkvara erisus ei ole absoluutne ja kindlapiiriline – nt kohtuasjas Microsoft ja Ameerika Ühendriikide vahel oli üheks põhiküsimuseks, kas veebilehitsejat MS Explorer lugeda operatsioonisüsteemi alla kuuluvaks (seega süsteemitarkvaraks) või iseseisvaks rakenduseks (seega – rakendustarkvaraks). Ja teisalt võime küsida ka teisiti: kas kogu tarkvara, mis installeeritakse koos operatsioonisüsteemiga on süsteemitarkvara või leiame sealt ka mõne rakendustarkvara? Lähtudes rakendustarkvara definitsioonist, et seda saab kasutada mingite eesmärkide saavutamiseks, on rakendustarkvarad lisaks IE-le ka Notepad, Paint, Calculator, Wordpad, Solitaire, Minesweeper jne.
 
-### 1.1.3 Näited tarkvaradest
+### B.1.1.3 Näited tarkvaradest
 
 ::: oppekava
 
@@ -158,7 +158,7 @@ Pane vastavusse järgmised mõisted ja selgitused:
 
 :::
 
-## 1.2 Süsteemiarenduse elutsükkel
+## B.1.2 Süsteemiarenduse elutsükkel
 
 Selle alateema materjale läbi töötades saad teadmised süsteemiarenduse elutsüklist.
 
@@ -226,7 +226,7 @@ Võrdluseks Ian Sommerville oma raamatus "Software Engineering" toob välja jär
 
 Süsteemiarenduse elutsüklisse peavad kuuluma kõik eelpool kirjeldatud tegevused, kuid need faasid ei pea tingimata olema kirjeldatud viisil lineaarselt ritta seatud.
 
-### 1.2.2 Elutsükli üldised mudelid
+### B.1.2.2 Elutsükli üldised mudelid
 
 ::: oppekava
 
@@ -430,7 +430,7 @@ Arhitektuurse disaini dokumendi koostab arhitekt lähtudes nõuete dokumendis to
 
 **Haldusjuhend** käsitleb toote installeerimist, andmesiiret, toote hooldust ja administreerimist, konfigureerimist, muudatuste sisseviimise korda.
 
-### 1.2.4 Kordamisküsimused
+### B.1.2 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -558,7 +558,7 @@ Tarkvara arendusprotsessi etapid nõuavad erinevat tuge süsteemiarenduse vahend
 - toote konfiguratsioonihaldus:
   - koodi versioonihaldus.
 
-### 1.3.3 CASE-vahendite probleemid
+### B.1.3.3 CASE-vahendite probleemid
 
 ::: oppekava
 
@@ -906,7 +906,7 @@ Järgud on nüüdeks standardiseeritud **semantilise järkude halduse** **_seman
 
 :::
 
-### 1.5.2 Andmeturve
+### B.1.5.2 Andmeturve
 
 ::: oppekava
 
@@ -1053,7 +1053,7 @@ Tarkvaraarenduse roll on ettevõtetes aegade jooksul muutunud. Algselt oli tarkv
 
 Ajalooliselt on tarkvaraarendusprotsessi parendamisega enim tegeletud sellistes valdkondades nagu militaarvaldkond, kosmosevaldkond, tööstus, ja valdkonnad, kus tarkvarale usaldati kriitiliste protsesside juhtimine ning seega oli kvaliteet eriti oluline. Nendest valdkondadest on välja kasvanud ka esimesed süstematiseeritud ja kirjeldatud arendusmetoodikad. Esialgu pandi efektiivsema tarkvaraarenduse nimel suuremat rõhku arenenumate keelte kasutamisele. Edasi omandasid metoodika aspektid üha suurema tähtsuse. Algselt püüti igas valdkonnas luua oma tarkvaraarenduse meetod, hiljem taibati, et eri valdkondades on mõistlik kasutusele võtta samad põhimõtted ja protsesside raamistikud. Nii on kirjeldatud mitmeid arendusmeetodeid, samuti loodud standarte, mis peaksid kõik aitama tarkvaraarendusprotsessi mõistlikus suunas juhtida
 
-### 1.6.1 Kvaliteedi juhtimine ja standardid
+### B.1.6.1 Kvaliteedi juhtimine ja standardid
 
 ::: oppekava
 
@@ -1220,7 +1220,7 @@ End ise hooldavate süsteemideni on siiski veel hulk maad minna.
 
 :::
 
-## 1.7 Kasutatud materjalid ja lisalugemist
+## Kasutatud materjalid ja lisalugemist
 
 - EUCIP programmi materjal: http://ecdl.ee/EUCIP_eksami_sooritajale.html
 

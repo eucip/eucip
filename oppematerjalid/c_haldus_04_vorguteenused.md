@@ -786,7 +786,7 @@ Täiustatud audiokodeering (AAC – Advanced Audio Coding) on helifailide tihend
 
 Inimestevahelise dialoogi ülekande nõuded on suhtliselt madalamad. Piisab kui on tuvastatud ja üle kantud helivõnkumised, mille sagedus on vahemikus 300-3400 Hz. Digitaalseks ülekandeks peab selline heli olema diskreeditud sagedusel 8000 Hz, mis omakorda 13-bitise analoog-digital muundamise korral, nõuab andmevahetuskiirust 104 kbit/s. Andmete tihendamine näiteks LPC (Linear Predictive Coding) algoritmiga võimaldab piirata veelgi vajalikku andmeedastuskiirust tasemele 4,8kbit/s, millega on ikka garanteeritud arusaadava heli ülekanne. Kaasajal kasutatakse IP telefoni helivoo kodeerimiseks ITU-T standardeid G.726 andmeedastuskiirusega 16-40 kbit/s ja G.711 andmeedastuskiirusega 64 kbit/s. Ülekantava heli kvaliteeti hinnatakse numbrilise meetodiga, mida nimetatakse keskmiseks arvatavaks väärtuseks (MOS – Mean Opinion Score). Seda väljendatakse numbrites 1 kuni 5, millest 1 on halvim ja 5 veatu ülekanne. 4-4,5 on kvaliteet, mida pakuvad PSTN lahendused ja ka IP telefonilahendused üritavad saavutada seda taset. G.726 standardi järgi kodeeritud IP kõne andmeedastuskiirusega 32 kbit/s on kvaliteediga MOS=4,3.
 
-### C.4.6.3 Kordamisküsimused
+### C.4.6 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -913,7 +913,7 @@ Seega nõuded multimeediaserverile on:
 
 Server, mis edastab meediavoogu peab olema varustatud spetsiaalsete rakendustega andmevoo edastamiseks, mis omakorda toetab teatud kliendipoolset rakendust multimeediafailide vaatamiseks. Serveri riistvarakonfiguratsioon peab olema hoolikalt valitud ja sisaldama head kiiret massmäluseadet (näiteks RAID ketaste massiiv). Teine oluline komponent serveris on kiire võrgukaart või võrgukaardid, mis võimaldavad andmete edastamist kliendile piisava jõudlusega. Vähe olulised ei ole ka suur põhimälumaht andmete puhverdamiseks ja protsessori jõudlus meediavoogude haldamiseks.
 
-### C.4.7.5 Kordamisküsimused
+### C.4.7 Kordamisküsimused
 
 ::: kordamiskusimused
 

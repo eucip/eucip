@@ -228,7 +228,7 @@ Püsimälud jagunevad omakorda:
 
 **Mälude veakontroll** on kasutusel kriitilistes kontrollerites või serverarvutites. Veakontroll võib olla realiseeritud kas paarsuskontrolliga, kus teatud arvu bittide kohta arvutatakse kontrollsumma ning andmete mälust lugemisel kontrollitakse, kas summa on sama. Sellise lahenduse korral on võimalik avastada 1-bitiseid mäluvigu. Teine mälukiipides tuntud veakontrollimeetod on **_ECC_** / **_Error detection and correction_**. Selle kontrollimeetodi puhul on iga mälumoodulil eraldi kontrollbit ja selle kontrollimehanism ka mälukontrollerile sisse ehitatud. ECC mälude korral on võimalik korrigeerida 1-bitiseid mäluvigu ja avastada 2-bitiseid mäluvigu.
 
-### C.1.1.6 Kordamisküsimused
+### C.1.1 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -407,7 +407,7 @@ Suurepäraselt sobib kontoritöö tegemiseks ka näiteks **mobiilne arvuti**. Vi
 
 **Serverarvutit** kasutatakse teatud teenuste pidevaks käigushoidmiseks ettevõtte võrgus või avalikus võrgus. Serverarvuti eripära on kõrge käideldavus, mis tagatakse erinevate süsteemsete osade dubleerimisega. Seetõttu kui näiteks serverarvutis lakkab töötamast üks toiteplokk siis võtab tema töö üle dubleeritud toiteplokk ja server töötab edasi. Serverarvuti omadusteks on võimalus jälgida erinevate riistvaramoodulite tervislikku seisundit ja teavitada süsteemiadministraatorit kohe kui mingi komponendiga veaolukord avaldub. Kaasaja serverilahendused ei saa üle ega ümber virtualiseerimisest. See aeg, kus iga teenuse jaoks oli eraldi füüsiline server on möödas ja kaasaegsed virtualiseerimiskeskkonnad võimaldavad käivitada ühel füüsilisel serverarvutil kümneid virtuaalseid servereid. Selline lähenemine aitab oluliselt paremini ära kasutada serverarvuti ressursid, vähendab energiakulu, lihtsustab andmete varundamist ja erinevate serverite transportimist ühelt füüsiliselt masinalt teisele, kuna virtuaalse serveri puhul on vaja serveri transportimiseks üle kanda vaid üks fail arvuti kõvakettalt teise arvutisse.
 
-### C.1.2.5 Kordamisküsimused
+### C.1.2 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -558,7 +558,7 @@ Võimalikud tehnoloogiad käsukonveierite seisakute vältimiseks:
 - **Dünaamiline ajastamine** **_Dynamic Sceduling_**, mille puhul riistvara korraldab programmi koodi käivitamise ümber, et vähendada seisakuid. See tehnoloogia aitab lahendada juhtumeid, kus käsutäitmise sõltuvused üksteisest on teadmata programmi kompileerimisel ja lihtsustab kompileerimise protsessi ning lubab ühe konveieri jaoks kirjutatud koodi efektiivselt käivitada mitmel konveieril.
 - **Spekulatiivne käivitamine** **_Speculative Execution_**, mille puhul käivitatakse koodi enne kui on teada, kas selle koodi tulemusi üldse vaja läheb. Seda saab teha juhul kui protsessoril on vabu ressursse. Näiteks täidavad kaasaegsed protsessorid selle meetodiga tingivuslikele hargnevustele järgnevat koodi. See meetod võimaldab paremini ära kasutada konveieri jõudeolekus seisva ressursi.
 
-### C.1.3.5 Kaasprotsessori mõiste
+### C.1.3.4 Kaasprotsessori mõiste
 
 ::: oppekava
 

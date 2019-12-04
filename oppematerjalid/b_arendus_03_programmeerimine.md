@@ -262,7 +262,7 @@ B-puu võimaldab nõnda hoida puu sügavust kahendpuust väiksemana. Täituvust 
 
 **Lisalugemist:** http://enos.itcollege.ee/~jpoial/algoritmid/puustruktuurid.html
 
-### 1.2.2 Levinumad sortimis- ja otsimisalgoritmid ning andmestruktuurid
+### B.3.2 Levinumad sortimis- ja otsimisalgoritmid ning andmestruktuurid
 
 ::: oppekava
 
@@ -519,7 +519,7 @@ Kirjeldada mõiseid abstraktsioon ja kapseldamine (information hiding).
 
 Abstrahheerimine võimaldab korraga tegelda vaid ülesande kontekstis hädavajaliku teabega jättes kõrvale kõik muu ning samuti seigad, mis tunduvad lahendamise juures vähetähtsatena. Ainult nõnda on lootust keerukamate reaaleluliste süsteemide tarbeks piisavalt arusaadavaid mudeleid luua, millest on võimalik ka lühemal vaatlusel aru saada ning loodud komponenti muude osadega liidestada. Kapseldamise käigus piiritletakse reaalmaailma jäljendav objekt kõigepealt abstrahheerimise abil. Edasi luuakse talle välismaailma ja teiste objektidega suhtlemiseks liidesed, kusjuures kontroll seesoleva teabe üle on vaid objektil enesel. Avalikes liides-alamprogrammides saab koodi abil otsustada, kuidas ja milliseid sisemisi andmeid väljapoole näidatakse/avaldatakse ning samuti mida ja kuivõrd lubatakse väljast käivitatavate alamprogrammide kaudu kapseldunud objekti sees muuta. Selliselt on objektil võimalus ise oma koodi abil hoolitseda, et vaid selleks vajalik osa temast väljapoole paistaks või muudetav oleks.
 
-### 1.4.6 Polümorfism ja tarkvara efektiivsem loomine
+### B.3.4.6 Polümorfism ja tarkvara efektiivsem loomine
 
 ::: oppekava
 
@@ -531,7 +531,7 @@ Pärilus võimaldas hoolitseda, et sarnasest puust välja kasvanud klasside puhu
 
 Mõnevõrra keerukam on aga olukord omaduste juures mis on objektidel küll sarnase ideena olemas, kuid mille teostus sõltub konkreetse klassi eripärast. Näiteks komponendi suuruse muutmisel peab märkeruudu taha jääv tekst ikka ühte ritta jääma, vastavate parameetritega silt võib aga sobiva kuju ja parameetrite puhul oma peal oleva teksti mitmesse ritta sättida. Sellisel juhul on küll komponentidel olemas käsk suuruse muutmiseks ning sellele järgnevaks paigutuse paika sättimiseks, kuid paika sättimine võib igaühel omamoodi välja näha. Sellist oskust teha sama asja kuid igaüks erinevalt nimetataksegi polümorfismiks. Selline võimalus võib tunduda enesestmõistetavana, kuid selleni jõudmine ning piisavalt väikese ressursikuluga realiseerimine võttis programmeerimiskeelte arengu juures hulk aastaid.
 
-### 1.4.7 Kordamisküsimused
+### B.3.4 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -910,7 +910,7 @@ Näiteks `c += a` liidab muutuja c väätusele juurde muutuja a väärtuse (ehk 
 
 :::
 
-## 1.6 Testimine
+## B.3.6 Testimine
 
 Selle alateema materjale läbi töötades õpid tundma testimise mõisteid, meetodeid ja vahendeid.
 
@@ -968,7 +968,7 @@ Mõnegi olukorra tekitamiseks on teinekord vaja päris palju ettevalmistusi, sel
 
 Automaatselt on võimalik testida ka kujunduse ning veebiühendusega seotud rakenduse osi. Programmikoodi ja seadistuste abil õpetatavad robotid suudavad täita ekraanivälju, saata andmeid ning kontrollida tulemusi. Nii on võimalik näiteks süsteemi platvormi vahetamisel rakenduse töövõime säilimiseks koostada testid olemasoleva rakenduse töö kohta. Pärast platvormivahetust tööle pandud uues süsteemis saab nende testide järgi kontrollida, kas see vastab samadele nõuetele kui vana – vähemalt loodud testide ulatuses. Samuti saab selliseid automaatteste pidada formaliseeritud dokumentatsiooniks mille kaudu tellija ja teostaja tehtavas kokku lepivad. Teostaja võib siis arvestada, et kui rakendus läbib kokkulepitud testid ning käitub ka muus osas vastavalt juhistele, siis saab ta oma töö valmiks lugeda.
 
-### 1.6.4 Kordamisküsimused
+### B.3.6 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1104,7 +1104,7 @@ Muutujate puhul – kas väärtus antakse ikka samanimelisele muutujale, kust se
 
 Andmetüüpide juures – kas vastav väärtus on deklareeritud tüübis korrektselt säilitatav.
 
-### 1.8.3 Kordamisküsimused
+### B.3.8 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1149,7 +1149,7 @@ Mida peaks koodilõigus muutma, et tulemusena leitaks massiivielementide summa?
 
 :::
 
-## 1.9 Lisamaterjalid
+## Lisamaterjalid
 
 - Inga Petuhhovi konspektid:
 

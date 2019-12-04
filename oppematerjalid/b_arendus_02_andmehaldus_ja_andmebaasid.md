@@ -132,7 +132,7 @@ Tuua välja, kuidas atomaarsus, järjepidevus (consistency), isoleeritus ja vast
 
 :::
 
-Arvutiprogrammi, milline hoiab andmeid ja võtab vastu kasutajate päringuid ning väljastab päringu põhjal vajalikud andmed (kui leiduvad!) vajalikul kujul nimetatakse **andmebaasi haldussüsteemiks** ABHS [database management system](http://en.wikipedia.org/wiki/Database_management_system) ***DBMS***.
+Arvutiprogrammi, milline hoiab andmeid ja võtab vastu kasutajate päringuid ning väljastab päringu põhjal vajalikud andmed (kui leiduvad!) vajalikul kujul nimetatakse **andmebaasi haldussüsteemiks** ABHS [database management system](http://en.wikipedia.org/wiki/Database_management_system) **_DBMS_**.
 
 Andmed salvestaks reeglina mingisuguses andmebaasis. Andmebaasi võib defineerida ka kui **kirjete** kogumit, mis paiknevad arvuti salvestusseadmel, nii, et kui kasutaja pöördub arvuti poole sooviga teatud informatsiooni saada mingi otsuse tegemiseks, siis arvuti konsulteerib andmebaasiga ja kui soovitud andmed leiduvad, siis väljastab need kasutajale. Andmete paremaks kättesaamiseks (leidmiseks) andmebaasist on kirjed reeglina organiseeritud andmeelementide (faktide) kogumina.
 
@@ -228,7 +228,7 @@ Tõsisem olukord tekib, kui kaks kasutajat tahavad uuendada kaht informatsioonit
 
 Samuti suudab juurdepääsu turvalisusust efektiivselt hallata ABHS, kes tegutseb läbitungimatu filtrina, kuna andmetele juurdepääs toimub ainult läbi ABHS. See tähendab, et kasutaja informatsioon ja õigused salvestatakse samuti (tavaliselt krüpteeritud kujul) andmebaasi.
 
-### B.2.1.4 Kordamisküsimused
+### B.2.1 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -297,7 +297,7 @@ Andmebaasi võimalusi kasutaval rakendusel lisandub keerukusena juurde muidugi a
 
 Enamikes tänapäeva veebirakendustes kasutatakse andmete hoiukohana andmebaase – ka siis kui andmete hulk ja keerukus kuigi suured ei ole. Veebis tuleb peaaegu alati arvestada võimaliku mitme üheaegse kasutajaga ning andmebaaside juures on sobivate kohtade ajutine lukustamine lihtsam kui failide juures. Hajusrakendustena töötavates pilvesüsteemides paistavad programmeerijale andmed ka sageli andmebaasitabelitena – ehkki seal võib olla mõningaid lisapiiranguid selle tarbeks, et andmed mugavamalt pilvesüsteemi sobituksid.
 
-### B.2.2.4 Andmebaasihaldussüsteemi komponendid
+### B.2.2 Andmebaasihaldussüsteemi komponendid
 
 ::: oppekava
 
@@ -323,7 +323,7 @@ Kirjeldada andmebaasi administraatori, projekteerija /programmeerija, kasutaja r
 
 Andmebaasi kasutaja pärib, muudab ja täiendab andmeid nii nagu tema töö juures vajalik ning õigused lubavad. Koostaja/disaineri ülesandeks on välja mõelda ja valmis teha andmetabelite ja juurdekuuluvate abivahendite ning õiguste struktuur ja süsteem kasutuskõlblikuks muuta. Programmeerija aitab sealjuures vajalike koodilõikude loomisega enamasti salvestatud protseduuride juures. Administraatori/haldaja ülesandeks on hoolitseda, et teised osalised sobivalt oma tööd teha saaksid, neil oleks parasjagu õigusi ja ressursse.
 
-### B.2.2.6 Kordamisküsimused
+### B.2.2 Kordamisküsimused
 
 ::: tip
 
@@ -444,7 +444,7 @@ Mõlemad toodud aspektid võimaldavad selgitada (kasutada) abstraktse andmetüü
 
 Objekte iseloomustavad atribuudid (andmed) ja tegevused (kuidas objekte on võimalik manipuleerida). Näiteks "tekst" tüüpi objektil on võimalik defineerida teksti lisamise operatsioon tekstide liitmise teel või mingi lõigu otsimine sellest tekstist. Sarnaselt olemite või olemite hulkadega, võib objekt kuuluda objektide **klassi**. On samuti võimalik määratleda, et objektid on ainsad klassi **eksemplarid** (või **esindajad** ), mis esindavad mingit tuntud rakendust. Igal objektil on oma **tunnus** **_OID_** / **_object identifier_**, mis on unikaalne kogu süsteemi ulatuses ja mis kujutab endast viidet objektile enesele.
 
-### 2.3.5 Kordamisküsimused
+### B.2.3 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -612,7 +612,7 @@ Selles tabelis olevat vanust võib arvutada sünnikuupäeva kaudu ja seepärast 
 
 Mõnikord pole sõltuvust lihtne tuvastada. Vaatame "tunnid" tabelit, mis ka registreerib iga tunni võimaliku kohtade arvu. Vabade kohtade arvu võib arvutada, kui lahutada registreerunud õpilaste arv ruumi kohtade arvust. Veerg "Vabu kohti" tuleks tabelist kõrvaldada, et viia tabel vastavusse kolmanda normaalkujuga.
 
-### B.2.4.4 Kordamisküsimused
+### B.2.4 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -756,7 +756,7 @@ commit      # soorita, teosta
 rollback    # keri tagasi
 ```
 
-### 2.5.4 Andmete määratluskeele tähtsamad korraldused
+### B.2.5.4 Andmete määratluskeele tähtsamad korraldused
 
 ::: oppekava
 
@@ -1006,7 +1006,7 @@ kus on kasutatud tähiseid
 `colval` – väärtus, mida võrreldakse colname veeru sisuga;
 `oprel` – suhteoperaator (relatsiooniline operaator).
 
-### 2.6.2 SQL lisaklauslite kasutamine (nagu: where, order by, group by…)
+### B.2.6.2 SQL lisaklauslite kasutamine (nagu: where, order by, group by…)
 
 ::: oppekava
 
@@ -1163,11 +1163,11 @@ Kui automaatne andmetehingute lõpetamine on välja lülitatud (autocommit=off),
 
 :::
 
-## 2.7 Andmebaaside administreerimine ja turvalisus
+## B.2.7 Andmebaaside administreerimine ja turvalisus
 
 Selle alateema materjale läbi töötades saad teadmised andmebaaside administreerimise ja turvalisuse kohta.
 
-### 2.7.1 Andmebaasid ja nende tähtsamad administreerimise toimingud
+### B.2.7.1 Andmebaasid ja nende tähtsamad administreerimise toimingud
 
 ::: oppekava
 
@@ -1213,7 +1213,7 @@ Nagu oleme näinud on ABHS IT toode, mida kasutatakse andmete haldamiseks organi
 - **Skeemi (plaani) haldusprogramm**, mida kasutatakse loogilise vaate haldamiseks DDL korraldustega.
 - **Andmete haldusprogrammid** , mis võimaldavad opereerida juhtimisseadmetega ja erakorralised AB hoitavate andmete muutused, kasutades DML korraldusi ilma muid programme kasutamata. Tavaliselt kasutatakse juhtimiskorraldusteks lihtsat korralduste tõlgendamise konsooli, juhtimiskorraldusi käsitleti ka eelmises punktis.
 
-### 2.7.2 Turvaküsimused akronüümi CIA kontekstis (Confidentiality, Integrity, Availability – konfidentsiaalsus, terviklus, käideldavus)
+### B.2.7.2 Turvaküsimused akronüümi CIA kontekstis (Confidentiality, Integrity, Availability – konfidentsiaalsus, terviklus, käideldavus)
 
 ::: oppekava
 
@@ -1241,7 +1241,7 @@ Käideldavuse nõuded tõstatavad kaht tüüpi spetsiifilisi probleeme.
 - Teine probleem on seotud käideldavuse maksimeerimise poliitikaga, mis põhineb liiaste ketaste massiivi (RAID), liiaste protsessorite (nagu mitmikprotsessorid) kasutamisel või kaugjuhitavate varunduslahenduste (peegelduste) kasutamisel.
 - Ilmselgelt täielikke garantiisid ei ole olemas; seepärast peaks eesmärgiks seadma kahjude vähendamise strateegia, varukoopiate tegemise poliitika on vajalik, et võimaldada mitte ainult kiire andmete taastamine, vaid ka piirata sellega andmete võimalikku kaotust. Abinõudena võiks soovitada **varukoopiate** loomise perioodi vähendamist ja tehingute pidevat jälgimist veebilogide (online logging) kasutamise teel vähendamaks tehingute kaotsiminekut ja lõpetamata tehinguid ABHS rikke või mittetoimimise ajal.
 
-### 2.7.3 Näited mimesuguste turvareeglite kohta: inimfaktor, füüsilised tegurid, operatsioonisüsteemi ja andmebaasi turvalisus
+### B.2.7.3 Näited mimesuguste turvareeglite kohta: inimfaktor, füüsilised tegurid, operatsioonisüsteemi ja andmebaasi turvalisus
 
 ::: oppekava
 
@@ -1258,7 +1258,7 @@ Riskid võivad tuleneda:
 - **Operatsioonisüsteemiga** seotud tegurid, kuna ABHS peab toetuma sellise süsteemi teenustele. Risk tuleneb nii talitlushäiretest, mis võib põhjustada andmete riknemist kui ka haavatavusest, mida võiks inimriskide hulka liigitada, võimaldades sissetungi, mis vastasel juhul oleks võimatu. Operatsioonisüsteemi nõrkused võivad mõjutada kõiki kolme turvalisuse aspekti.
 - **ABHS** enese sees võib olla turvalisuse probleeme sarnaselt operatsioonisüsteemile mõjutades samamoodi nimetatud kolme turvaaspekti.
 
-### 2.7.4 Taastamisskeemid vastavalt vigadele
+### B.2.7 Taastamisskeemid vastavalt vigadele
 
 ::: oppekava
 
@@ -1272,7 +1272,7 @@ Mitmesuguste probleemide põhjuste kaalumise asemel võime jagada vastavad vastu
 - **Süsteemi** vigu ja kokkukukkumisi võib ära hoida liiasusega (nagu sageli tehakse lennundussektoris, kus mitu süsteemi protsessi töötavad samade andmetega paralleelselt, koos hääletamismehhanismiga, mis lükkab tagasi mittekokkulangeva tulemuse). Teades süsteem usaldusväärsuse üldist taset, opereeritakse tüüpiliselt **kahju vähendamise** loogikaga alusel koos **varukoopiate** teostamise plaaniga. Juhuks, kui soovitakse kõrget käideldavuse taset, võib töötada andmebaasi eemal asetseva koopiaga, nii et kui juhtuks süsteem rike, võiks taastumisoperatsioonide ajaks koormuse suunata teisele andmebaasile.
 - **Kettaseadmete rikete** riski vähendamiseks kasutatakse tavaliselt RAID kettaid: sellistel juhtudel on võimalik tööd jätkata, kui üksik ketas keeldub töötamast. On võimalik kasutada ka automaatset ketaste asendamise tehnikat rikkis ketta asendamiseks. Rohkem, kui ühe ketta üheaegse riknemise juhtumil kasutatakse samuti **varunduspoliitikat** andmete taastamiseks. Ilmselt on ka kaugpeegelduse poliitika kasutamine mõistlik lahendus.
 
-**2.7.5 Kordamisküsimused**
+**2.7 Kordamisküsimused**
 
 ::: kordamiskusimused
 
@@ -1290,11 +1290,11 @@ Mitmesuguste probleemide põhjuste kaalumise asemel võime jagada vastavad vastu
 
 :::
 
-## 2.8 Andmehoidlad ja andmete kaevandamine
+## B.2.8 Andmehoidlad ja andmete kaevandamine
 
 Selle alateema materjale läbi töötades saad teadmised andmehoidlate eesmärkidest, ülesehitusest ning nende toest andmekaevanduse juures.
 
-### 2.8.1 Andmehoidla põhimõtted ja põhikomponendid
+### B.2.8.1 Andmehoidla põhimõtted ja põhikomponendid
 
 ::: oppekava
 
@@ -1337,7 +1337,7 @@ AAS täiteprotsess, mis regulaarselt integreerib erinevatest andmeallikatest võ
 
 **Lisalugemist:** Erik Iter – Andmehoidlad teoorias ja praktikas. http://www.cs.tlu.ee/osakond/opilaste\_tood/bakalaureuse\_ja\_diplomitood/2004\_kevad/Erik\_Iter/Erik\_Iter\_Diplomi\_Too.pdf
 
-### 2.8.2 Andmekaeve põhimõtted
+### B.2.8.2 Andmekaeve põhimõtted
 
 ::: oppekava
 
@@ -1349,7 +1349,7 @@ Olles andmetega varustatud, võib andmeaita kasutada analüüsi tegemiseks. Neid
 
 Põhjalikuma ja kulukama analüüs võib teha mittesummeeritud andmetega: seda tüüpi analüüs on sarnane eelmisele nii vahendite, kui ka uuritavate andmete poolest ja kannab nime andmete kaevandamine (data mining). Andmekaevandamine on arenev teadus: kasutaja alustab kokkuvõtvatest andmetest ja siis jätkab üksikasjalike andmete analüüsiga, otsides oma hüpoteesile kinnitust või tagasilükkamist. Andmeaidas on andmekaevandamisega seotud tegevuste osakaal madal, aga see kaasab suure hulga töötlusvõimsust; igal juhtumil kaasatakse vahendeid nende operatsioonide kiirendamiseks.
 
-### 2.8.3 Andmehoidlate põhilised kasutusalad
+### B.2.8.3 Andmehoidlate põhilised kasutusalad
 
 ::: oppekava
 
@@ -1368,7 +1368,7 @@ Selle AAS põgusa kirjelduse lõpetuseks vaatame milleks nad kasulikud on:
 - Pikaajalised analüüsid, mis võivad välja tuua tendentse (kalduvus) või korduvaid tsükleid. Tavaliselt need analüüsid eelistatult käsitlevad majanduslikke aspekte.
 - Teatud keerukusega organisatsioonides, millistes mõni majanduslik, organisatoorne, või tootlikkuse aspekt võib olla varjatud tänu organisatsiooni enda keerukusele ja kus olulised andmed võivad olla erinevates või sidumata andmebaasides.
 
-### 2.8.4 Kordamisküsimused
+### B.2.8 Kordamisküsimused
 
 ::: tip
 
@@ -1386,7 +1386,7 @@ Andmekaeve
 
 :::
 
-## 2.9 Lisamaterjalid
+## Lisamaterjalid
 
 - Ühe andmetabeli juures ettetulevad põhikäsud MySQLi näitel:
 

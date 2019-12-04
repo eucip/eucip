@@ -1,11 +1,11 @@
-# 7. Teenuste tarne ja tugi
+# C.7. Teenuste tarne ja tugi
 
 Selle teema materjale läbi töötades õpid:
 
 - Mõistma kliendipõhise IT kasutajatoe tähtsust ja osata kohaldada lihtsamaid IT teenuste osutamise põhimõtteid
 - Aru saama konfiguratsiooni- ja muudatusehalduse põhimõtetest ja muudatuste planeerimise vajadusest.
 
-## 7.1 Kliendisuhted ja teenustaseme lepingud
+## C.7.1 Kliendisuhted ja teenustaseme lepingud
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -13,7 +13,7 @@ Selle alateema materjale läbi töötades õpid:
 - Loetlema ja kirjeldada peamised teenustaseme lepingu **_SLA_** elemendid
 - Võrdlema teenustaseme lepingu, partnerlepingu ja käitluslepingu kasutusotstarvet.
 
-### 7.1.1 Teenustaseme haldusprotsess
+### C.7.1.1 Teenustaseme haldusprotsess
 
 ::: oppekava
 
@@ -55,7 +55,7 @@ Teenustaseme halduse lisaülesanded:
 - Teenuse täiustamise plaan **_SIP - Service Improvement Plan_** – tegevused, teenuse kvaliteedi parendamiseks
 - Kliendisuhete haldus **_CRM - Customer Relationship Management_** – tegevused, mis seotud kliendiga suhtlemisega
 
-### 7.1.2 Teenustaseme lepingu elemendid
+### C.7.1.2 Teenustaseme lepingu elemendid
 
 ::: oppekava
 
@@ -93,7 +93,7 @@ Teenustaseme lepingu koostamise reeglid:
 - Kõik lepingu täitmisega seotud osapooled peavad olema esindatud läbirääkimistel teenustaseme lepingu loomisel
 - Lepingu loomise protsess toimub iteratiivselt etappidena. Osapooled loovad lepingu kavandi, mis esitatakse vastavatele töögruppidele muudatuste tegemiseks. Protsess jätkub kuni mõlemad osapooled on tulemusega rahul.
 
-### 7.1.3 Erinevad lepingutüübid
+### C.7.1.3 Erinevad lepingutüübid
 
 ::: oppekava
 
@@ -141,7 +141,7 @@ Teenustaseme lepingu jälgimis- ja aruandlustegevusel on järgmised eesmärgid:
 - Perioodiliselt vaadata üle teenustaseme leping, et ära hoida lahknevused kliendi muutunud nõuete ja teenuses fikseeritud teenuse taseme vahel
 - Teenuse taseme hindamine vastavalt lepingus sätestatud mõõdikutele.
 
-#### 7.1. Kordamisküsimused
+### C.7.1 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -171,7 +171,7 @@ Teenustaseme lepingu jälgimis- ja aruandlustegevusel on järgmised eesmärgid:
 
 :::
 
-## 7.2 Mahu ja talitluspidevuse planeerimine
+## C.7.2 Mahu ja talitluspidevuse planeerimine
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -180,7 +180,7 @@ Selle alateema materjale läbi töötades õpid:
 - Määratlema riski, ohu ja haavatavuse mõisted ja meetmed riskide vähendamiseks
 - Määratlema talitluspidevusplaani otstarve ja peamised elemendid.
 
-### 7.2.1 Mahuhaldus
+### C.7.2.1 Mahuhaldus
 
 ::: oppekava
 
@@ -211,7 +211,7 @@ ITIL mudeli järgi jaguneb mahuhaldus kolmeks alamprotsessiks:
 - **Teenuse mahuhalduse** **_Service Capacity Management_** eesmärk on kontrollida pakutavate teenuste sooritusvõimet ja mahtu. Mahuplaani jaoks kogutakse, salvestatakse ja analüüsitakse IT teenuste ressursside tarbimise ja kasutusstatistika ajalisi graafikuid.
 - **Komponentide mahuhaldus** **_Component Capacity Management_** mis vastutab selle eest, et mõista konfiguratsioonielementide mahtu, kasutatust ja sooritusvõimet. Vastavaid andmeid kogutakse, salvestatakse ja analüüsitakse kasutamiseks mahuplaanis.
 
-### 7.2.2 Mahuplaani elemendid
+### C.7.2.2 Mahuplaani elemendid
 
 ::: oppekava
 
@@ -253,7 +253,7 @@ Tüüpiline mahuplaan sisaldab järgmist infot:
 - Tulevane ressursivajadus – ressursid, mis vaja, et täita oodatavaid teenuse tasemeid
 - Teenuse parendamise võimalused – tegevused teenuste parendamiseks.
 
-### 7.2.3 Riskihindamismeetodid
+### C.7.2.3 Riskihindamismeetodid
 
 ::: oppekava
 
@@ -286,7 +286,7 @@ Riskianalüüsi käigus arvutatakse riskitasemed järgmiste näitajate alusel:
 
 **Riskihaldus** **_Risk Management_** on protsess, mis vastutab riskide määramise, analüüsi ja juhtimise eest. See sisaldab vajalike vastumeetmete tuvastamist, valimist ja kasutuselevõttu vastavalt ressursside tuvastatud riskitasemele ja riskide piiramist aktsepteeritavale tasemele.
 
-### 7.2.4 Riskide vähendamise meetmed
+### C.7.2.4 Riskide vähendamise meetmed
 
 ::: oppekava
 
@@ -379,7 +379,7 @@ Sellel diagrammil on esitatud riskianalüüsi ja riskihalduse põhielemendid ja 
 
 See plaan pakub välja tehnoloogilised ja organisatoorsed lahendused, mis võimaldavad kriitilistel tegevustel edasi toimida avariiolukorras, kuni tavalise tööolukorra taastumiseni. Plaani tegemise oluline alus on välja valida ja defineerida need protsessid ja teenused, mis peavad olema kaitstud avariijärgses taasteplaanis pakutavate lahendustega.
 
-### 7.2.5 Talitluspidevusplaan
+### C.7.2.5 Talitluspidevusplaan
 
 ::: oppekava
 
@@ -411,7 +411,7 @@ Protsessi võib jagada nelja faasi:
 
 - Talitluspidevusplaani hooldus ja perioodiline ülevaatus, mille käigus hinnatakse IT teenuste talitluspidevusplaani vastavust äri arengule.
 
-### 7.2. Kordamisküsimused
+### C.7.2. Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -441,14 +441,14 @@ Protsessi võib jagada nelja faasi:
 
 :::
 
-## 7.3 Käideldavushaldus
+## C.7.3 Käideldavushaldus
 
 Selle alateema materjale läbi töötades õpid:
 
 - Määratlema käideldavushalduse otstarve ja defineerida sellega seotud mõisted ning käideldavusmõõdikud
 - Määratlema käideldavushalduse meetodid ja tehnikad.
 
-### 7.3.1 Käideldavushalduse mõisted
+### C.7.3.1 Käideldavushalduse mõisted
 
 ::: oppekava
 
@@ -478,7 +478,7 @@ Taastatavuse omadust iseloomustavad järgmised parameetrid:
 - **Turvalisus** **_Security_** – rakendatavad halduspoliitikad, et tagada teatud spetsiifiliste teenuste hoolduseks turvaparameetrid
 - **Elutähtis ärifunktsioon** **_VBF – Vital Business Function_** - äriprotsessi funktsioon, mis on äri edukuse suhtes otsustav. Elutähtsad ärifunktsioonid on olulised ärijätkuvuse halduse, IT teenuste talitluspidevuse halduse ja käideldavushalduse seisukohast.
 
-### 7.3.2 Käideldavuse mõõdikud
+### C.7.3.2 Käideldavuse mõõdikud
 
 ::: oppekava
 
@@ -565,7 +565,7 @@ Sündmused vigade puus kombineeritakse loogikaoperatsioonidega:
 
 Vigade puu analüüs on toetav instrument käideldavuse planeerimisel ja parenduste tegemisel käideldavushalduse protsessile.
 
-### 7.3 Kordamisküsimused
+### C.7.3 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -601,7 +601,7 @@ Vigade puu analüüs on toetav instrument käideldavuse planeerimisel ja parendu
 
 :::
 
-## 7.4 Kasutajatugi
+## C.7.4 Kasutajatugi
 
 Selle alateema materjale läbi töötades õpid:
 
@@ -634,7 +634,7 @@ Kasutajatoe eesmärgid:
 
 Kui reaktiivne kasutajatugi vaid lahendab probleeme siis proaktiivne lähenemine on kasutajatoe kogutud info põhjal järelduste tegemine, planeerimine ja koostöö, mis aitab lahendada probleemide algpõhjuseid, koordineerida muudatuste sisseviimist ja võita klientide usaldust. Kaasaegsed kasutajatoe teenused on rajatud proaktiivse lähenemise baasil.
 
-### 7.4.2 Erinevad kasutajatoe liigid
+### C.7.4.2 Erinevad kasutajatoe liigid
 
 ::: oppekava
 
@@ -689,7 +689,7 @@ Kasutajatoe funktsioonide hulka kuuluvad:
 - Klientide koolitusvajaduste kohta märkuste tegemine
 - Klientidele probleemilahenduste edastamine ja juhtumite sulgemine
 
-### 7.4.3 Kasutajatoe elemendid
+### C.7.4.3 Kasutajatoe elemendid
 
 ::: oppekava
 
@@ -761,7 +761,7 @@ Mõned ITIL’i juhtnöörid intsidendihalduseks:
 - Planeeri andmebaasi loomine, kus sisaldub info intsidentidest.
 - Planeeri kommunikatsioon kasutajatoe ja tehnilise meeskonna vahel, et kasutajatugi oskaks ära tunda teada probleem ja neid kiirelt lahendada.
 
-### 7.4 Kordamisküsimused
+### C.7.4 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -791,14 +791,14 @@ Intsidendihaldus on:
 
 :::
 
-## 7.5 Muutuste haldamine
+## C.7.5 Muutuste haldamine
 
 Selle alateema materjale läbi töötades õpid:
 
 - Kirjeldama IT infrastruktuuri konfiguratsiooni-, muudatuse- ja versioonihalduse parimad praktikad
 - Defineerima muudatuse taotluse otstarve ja selle peamised elemendid.
 
-### 7.5.1 Konfiguratsioonihalduse praktikad
+### C.7.5.1 Konfiguratsioonihalduse praktikad
 
 ::: oppekava
 
@@ -837,7 +837,7 @@ Tarkvara püsikogu on füüsiline andmestu või säilituskeskkond, kuhu on paigu
 
 Analoogselt tarkvara püsikogule hoitakse riistvara varuosad eraldi turvatud asukohas, mida nimetatakse riistvara laoks **_DHS_** / **_Definitive Hardware Store_**.
 
-### 7.5.2 IT muutuste halduse praktikad
+### C.7.5.2 IT muutuste halduse praktikad
 
 ::: oppekava
 
@@ -916,7 +916,7 @@ Muudatuse taotluse kategooriad määratakse, et näidata muudatuse potentsiaalse
 - Teine tase **_Second level_** – keskmise riskitaseme ja mõjuga muudatus. Vajab muudatuste nõukoja heakskiitu
 - Kolmas tase **_Third level_** – väga kõrge riskitase ja mõju. Vaja kiirelt kokku kutsuda muudatuste nõukoda, et muudatust kaalud ja heaks kiita või tagasi lükata.
 
-### 7.5.3 Muutuse taotluse eesmärk ja elemendid
+### C.7.5.3 Muutuse taotluse eesmärk ja elemendid
 
 ::: oppekava
 
@@ -971,7 +971,7 @@ On oluline, et samad standardid ja meetodid, mida kasutati algse konfiguratsioon
 
 Muudatuste vastupidise mõju ärahoidmiseks teenuse kvaliteedile on tungivalt soovitatav testida kõiki muudatusi eelnevalt kaasa arvatud ennistamiste protseduur.
 
-### 7.5 Kordamisküsimused
+### C.7.5 Kordamisküsimused
 
 ::: kordamiskusimused
 

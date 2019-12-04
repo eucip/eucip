@@ -648,7 +648,7 @@ Esimene operatsioon, mille teostab kasutaja end arvutiga ühendades, on kasutaja
 
 Seejärel kontrollib süsteem, kas kasutaja on see, kellena ta ennast süsteemile esitab. See on kasutaja identiteedi kontroll ehk kasutaja **autentimine**.
 
-### C.2.4.5
+### C.2.4.5 Autentimistehnikad
 
 ::: oppekava
 

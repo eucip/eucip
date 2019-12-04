@@ -142,17 +142,17 @@ Käsurealiides on operatsioonisüsteemi või rakendusprogrammi liides, millele s
 
 _Joonis 4-4. Käsurealiides_
 
-### 1.3.3 Veebiliides
+#### Veebiliides
 
 Ainult veebikeskkonnas töötavate rakenduste kasutajaliideste puhul sõltub lõppkasutaja arvuti operatsioonisüsteemist ainult osa komponente, näiteks nuppude või dialoogiakende välimus. Ülejäänud elementide kujundamise võimalused on piiratud veebisirvijate võimekusega.
 
 Tänapäeval räägitakse kasutajaliideste disainist valdavalt just veebiliideste loomise kontekstis.
 
-### 1.3.4 Hääleliides (voice user interface e. VUI)
+#### Hääleliides (voice user interface e. VUI)
 
 Häälrakenduste juures on menüüde asemel kuuldavad instruktsioonid, mis on varem salvestatud või reaalajas kõnesüntesaatoriga tekitatud. Samuti reageerib liides kasutaja häälkäsklustele. Hääleliides on populaarne mobiilsetes seadmetes, mille kasutamise ajal võivad käed mõne muu tegevusega hõivatud olla. Hääleliidesed ei ole seni veel kuigi populaarseks muutnud ning puudub tehnoloogia, kus arvuti saaks tervikuna inimkõnest aru. Käskude andmine rääkides võib osutuda väsitavamaks kui ekraanil hiirega klõpsimine, sest viimasel juhul saab teha paralleelselt rohkem toiminguid.
 
-### 1.3.5 Käsiliides
+#### Käsiliides
 
 Käsiliidese puhul on arvutile võimalik käske anda käeliigutustega. Tegemist on alles tulevikus laiemat kasutamist leidva tehnoloogiaga. Selle rakendamist on katsetatud näiteks virtuaalse reaalsuse kolmemõõtmelises graafikakeskkonnas, milles süsteem oskab teatud hulka liigutusi eristada. Kasutaja saab käeliigutuste abil otse objektidega suhelda, neid valida ja liigutada, samuti menüüvalikuid teha ja kursorit liigutada.
 
@@ -174,7 +174,7 @@ Vähemlevinud on kasutajaliidesed, mis kasutavad inimeste puutetundlikkust. Näi
 
 Uued väljakutsed on seotud meie lõhna- ja maitsetajudega. Tänapäeval on juba olemas tehnoloogia ja seadmed lõhna edastamiseks internetis. Sisuliselt on tegemist kõlari sarnase seadmega, mis ühendatakse arvutiga USB liidese abil ning mis produtseerib erinevaid lõhnu umbes samamoodi nagu tindiprinter kannab paberile erinevaid värve. Lõhnaseadmes on kassett rohkem kui saja erineva kemikaaliga, millest elektrooniliselt edastatud valemi abil koostatakse unikaalne lõhn. Piiranguks sellise tehnoloogia laiemaks levikuks on praegu hind – vastavad seadmed ja lõhnakassetid ei ole kodukasutajale veel taskukohased. Lisaks on piiratud ka edastatavate lõhnade nüansirikkus – kõrgetasemelisi parfüüme ja eripäraseid toidulõhnu täna veel edastada ei saa.
 
-## B.4.1.5 Kasutajaliidese efektiivsuse testimine võrdluses nõuete ja eesmärkidega
+### B.4.1.5 Kasutajaliidese efektiivsuse testimine võrdluses nõuete ja eesmärkidega
 
 ::: oppekava
 
@@ -235,7 +235,7 @@ Interaktiivsete süsteemide valdkonnas on kehtestatud rahvusvahelisi standardeid
 
 :::
 
-# B.4.1 Kordamisküsimused
+### B.4.1 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -327,7 +327,7 @@ rgb(255,255,255); /* Valge */
 
 **Joonis 4-8. Veebivärvide määramine graafikaprogrammis**
 
-# 2.3 Graafika
+#### Rastergraafika
 
 Andmete graafiline kuju realiseeriti esmakordselt eelmise sajandi 50-ndate keskel suurtel arvutitel, mida kasutati teadustöös ja militaarsetes uuringutes. Sellest ajast on andmete graafiline esitusviis muutunud arvutisüsteemi, eriti personaalarvuti, lahutamatuks osaks.
 
@@ -365,7 +365,7 @@ Rastergraafika puudused:
 
 **Joonis 4-10. Vektorgraafika on sama kvaliteediga kõikides suurustes. Allikas: http://www.barcode-us.com/digital/graphicFiles.html**
 
-## 1.6.2 Vektorgraafika
+#### Vektorgraafika
 
 Vektorgraafika elementaarühikuks on joon (sirge või kõver). Kujutised ehitatakse joontest ja kõik parameetrid määratakse arvude ja valemitega koordinaatsüsteemi suhtes (joone pikkus, nurk telgede suhtes; ringjoone keskpunkti koordinaadid, selle raadius; valem kõvera kirjeldamiseks). Kujutise suurendamisel või vähendamisel arvutatakse kõik parameetrite väärtused uuesti, tänu millele pildi kvaliteet ei muutu.
 
@@ -489,7 +489,7 @@ Tasuta kommertstarkvaradest on populaarsemad IrfanView ja Picasa. Avatud lähtek
 
 Detailse ülevaate graafikaprogrammide sobivusest, võimekusest ja litsentsidest saab Wikipediast: http://en.wikipedia.org/wiki/Comparison_of_raster_graphics_editors
 
-### 4.2 Kordamisküsimused
+### B.4.2 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -733,7 +733,7 @@ Intraneti kasutajateks on asutuse töötajad, samas kui saidi avalik osa on mõe
 
 Välimine ja sisemine saidi osa esindavad kahte erinevat infokeskkonda, kumbki orienteeritud kindlale kasutajate ringile. Iga keskkond tagab erinevate ülesannete lahendamise ja omab erinevaid tehnilisi piiranguid, sellepärast peab lähenemine nende keskkondade projekteerimisele olema erinev. Intraneti kasutajaliidese disain peab erinema avatud saidi disainist, et kasutaja näeks, kus ta antud hetkel asub, kuid mõlema liidese stiil peab olema sama ja lähtuma ettevõtte üldisest disainist. Intraneti väljatöötamisel on tähtis arvestada, et riist- ja tarkvara on ettevõttes ühtlane (kasutusel on sama brauseri versioon, sama platvorm ja operatsioonisüsteem, samad kirjafondid); samas kui interneti kasutajad võivad omada väga erinevaid arvuteid, operatsioonisüsteeme ja brausereid.
 
-### 4.3.5 Ettevõtte veebisaidi haldamine
+### B.4.3.5 Ettevõtte veebisaidi haldamine
 
 ::: oppekava
 
@@ -1035,7 +1035,7 @@ Kasutajatel tehtud testid näitavad, et kõige vähem kasutajate vigu esineb Yah
 
 Vaata ka erinevate navigatsioonimeetodite uuringut: [http://www.eastonmass.net/tullis/WebsiteNavigation/WebsiteNavigationPaper.htm](http://www.eastonmass.net/tullis/WebsiteNavigation/WebsiteNavigationPaper.htm)
 
-### B.4.4.1 Veebi disainimise meetodid
+### B.4.4.10 Veebi disainimise meetodid
 
 ::: oppekava
 
@@ -1080,7 +1080,7 @@ Sõrestikmudel (wireframe) veebidisainis on veebilehele paigutatavate elementide
 
 Stsenaarium **_scenario_** on tekstiline prototüüp, mis kirjeldab loodava veebilehe ülesehitust. Siia alla kuuluvad ka kasutajalood **_user story_**, **_use case_** - tegevuste, valikute ja tulemuste tekstilised kirjeldused.
 
-### 1.8.3 Kordamisküsimused
+### B.4.4 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1121,7 +1121,7 @@ Stsenaarium **_scenario_** on tekstiline prototüüp, mis kirjeldab loodava veeb
 
 Selle alateema materjale läbi töötades õpid tundma veebilehe koostamise tehnilisi külgi – peamiselt HTMLi võimalusi, aga ka muid vahendeid.
 
-### 1.9.1 Märgendikeeled
+### B.4.9.1 Märgendikeeled
 
 ::: oppekava
 
@@ -1272,7 +1272,7 @@ Loogilise vormingu märgendid:
 
 | HTMLi kood                            | Sümbol |
 | ------------------------------------- | ------ |
-| ` ` | jäik tühik, mis on alati kuvatud |
+| `` | jäik tühik, mis on alati kuvatud |
 | `&quot;`                              | "      |
 | `&lt;`                                | <      |
 | `&gt;`                                | >      |
@@ -1397,9 +1397,9 @@ Tähtis on teada, et kirjatüüpe on kahte liiki – proportsionaalsed (proporti
 
 #### Fontide liigid
 
-***serif*** - Selle liigi fontide märgid omavad otstes sälke **šeriife**. Lühikesed horisontaalsed kriipsud ühendavad visuaalselt tähti, kergendades lugemist. Sellised fondid on paberilt paremini loetavad ja sellepärast on kasutusel rohkem trükistes. Liigi esindajad on näiteks fondid Times New Roman ja Garamond.
+**_serif_** - Selle liigi fontide märgid omavad otstes sälke **šeriife**. Lühikesed horisontaalsed kriipsud ühendavad visuaalselt tähti, kergendades lugemist. Sellised fondid on paberilt paremini loetavad ja sellepärast on kasutusel rohkem trükistes. Liigi esindajad on näiteks fondid Times New Roman ja Garamond.
 
-***sans serif*** - Selle liigi fondid sälke ei kasuta. Tekste on lihtsam lugeda kuvari ekraanilt või muudelt väiksema resolutsiooniga elektronkandjatelt, sellepärast kasutatakse neid rohkem veebilehekülgedel ja esitlustes.Antud liiki kuuluvad fondid Arial, Tahoma, Verdana, Helvetica.
+**_sans serif_** - Selle liigi fondid sälke ei kasuta. Tekste on lihtsam lugeda kuvari ekraanilt või muudelt väiksema resolutsiooniga elektronkandjatelt, sellepärast kasutatakse neid rohkem veebilehekülgedel ja esitlustes.Antud liiki kuuluvad fondid Arial, Tahoma, Verdana, Helvetica.
 
 ![](data:image/png;base64,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)
 
@@ -1590,7 +1590,7 @@ Joonis 4-30. XSL kasutamise näide. Allikas: BCS Koolitus, webmasteri põhikursu
 
 :::
 
-### 1.9.7 Kordamisküsimused
+### B.4.5 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1645,7 +1645,7 @@ Programmeerimiskeeled on kohased vastavale teenuse tüübile.
 
 Levinumad kliendipoolsed programmeerimiskeeled ja –tehnoloogiad:
 
-- **JavaScript** – juhitakse veebilehe käitumist (animatsioonid, näitamine-peitmine, kontrollifunktsioonid jms). 
+- **JavaScript** – juhitakse veebilehe käitumist (animatsioonid, näitamine-peitmine, kontrollifunktsioonid jms).
 
 ::: vananenud
 
@@ -1689,7 +1689,7 @@ Traditsioonilised integratsioonimeetodid on mõeldud selliste väljakutsete lahe
 
 :::
 
-### 4.6 Kordamisküsimused
+### B.4.6 Kordamisküsimused
 
 ::: kordamiskusimused
 
@@ -1709,7 +1709,7 @@ Traditsioonilised integratsioonimeetodid on mõeldud selliste väljakutsete lahe
 
 :::
 
-## 1.11 Kasutatud materjalid
+##  Kasutatud materjalid
 
 - Kasutajaliidesed ja neile esitatavad nõuded. T. Jakimov, 2006. Referaat, Tallinna Tehnikaülikooli Informaatikainstituut.
 
