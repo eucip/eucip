@@ -8,7 +8,7 @@ Selle alateema materjale läbi töötades saad teadmised andmete üldistest omad
 
 ### B.2.1.1 Andmed ja informatsioon
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja vastupidava (durable) andmesalvestuse ja aruandlussüsteemi tähtsus.
 
@@ -107,7 +107,7 @@ Sellest hetkest alates on toimunud tehniliste vahendite stabiilne areng ilma suu
 
 #### Andmebaasiprogrammid jagunevad
 
-::: danger Puuduolev materjal
+::: probleem
 
 Tänapäeval on lisandunud on mitterelatsioonilised andmebaasid **_NoSQL databases_** ning mitmeid teisi andmebaasitüüpe https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37
 
@@ -126,13 +126,13 @@ Siin tuleb appi andmebaasirakendus, mis võimaldab sellist hulka andmeid paiguta
 
 ### B.2.1.2 Andmete salvestamine
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja, kuidas atomaarsus, järjepidevus (consistency), isoleeritus ja vastupidavus (ACID) aitavad tagada töökindlaid andmebaasi transaktsioone.
 
 :::
 
-Arvutiprogrammi, milline hoiab andmeid ja võtab vastu kasutajate päringuid ning väljastab päringu põhjal vajalikud andmed (kui leiduvad!) vajalikul kujul nimetatakse **andmebaasi haldussüsteemiks** ABHS [database management system](http://en.wikipedia.org/wiki/Database_management_system) ***DBMS***.
+Arvutiprogrammi, milline hoiab andmeid ja võtab vastu kasutajate päringuid ning väljastab päringu põhjal vajalikud andmed (kui leiduvad!) vajalikul kujul nimetatakse **andmebaasi haldussüsteemiks** ABHS [database management system](http://en.wikipedia.org/wiki/Database_management_system) **_DBMS_**.
 
 Andmed salvestaks reeglina mingisuguses andmebaasis. Andmebaasi võib defineerida ka kui **kirjete** kogumit, mis paiknevad arvuti salvestusseadmel, nii, et kui kasutaja pöördub arvuti poole sooviga teatud informatsiooni saada mingi otsuse tegemiseks, siis arvuti konsulteerib andmebaasiga ja kui soovitud andmed leiduvad, siis väljastab need kasutajale. Andmete paremaks kättesaamiseks (leidmiseks) andmebaasist on kirjed reeglina organiseeritud andmeelementide (faktide) kogumina.
 
@@ -169,7 +169,7 @@ Andmete ja info salvestamine süstemaatiliselt arvuti mälus omab rea eeliseid, 
 
 ### B.2.1.3 Andmete liiasus ja vasturääkivus
 
-::: warning Õppekava
+::: oppekava
 
 Näidata ühiskasutus-süsteemides projekteerimise ja hoolduse probleeme nt andmete liiasus ja vastuolulisus, terviklus, andmete paindlikkus, samaaegne juurdepääs ja turvalisus.
 
@@ -228,9 +228,9 @@ Tõsisem olukord tekib, kui kaks kasutajat tahavad uuendada kaht informatsioonit
 
 Samuti suudab juurdepääsu turvalisusust efektiivselt hallata ABHS, kes tegutseb läbitungimatu filtrina, kuna andmetele juurdepääs toimub ainult läbi ABHS. See tähendab, et kasutaja informatsioon ja õigused salvestatakse samuti (tavaliselt krüpteeritud kujul) andmebaasi.
 
-### B.2.1.4 Kordamisküsimused
+### B.2.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kas keskmine brutopalk 8049 krooni on andmed või informatsioon?
 
@@ -250,7 +250,7 @@ Selle alateema materjale läbi töötades saad teadmised andmebaasi juurde kuulu
 
 ### B.2.2.1 Failihaldussüsteemi ja andmebaasihaldussüsteemi erinevused
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja erinevused failihaldussüsteemi ja andmebaaside haldussüsteemi vahel (DBMS).
 
@@ -275,7 +275,7 @@ Täpsemalt vaadates, avaldub FMS piiratus järgmistel juhtudel:
 
 ### B.2.2.2 Andmebaasisüsteemi komponendid: andmefailid, andmesõnastik, indeksid, statistilised andmed
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada andmebaasisüsteemi komponente: andmefailid, andmesõnastikud, indeksid, statistilised andmed.
 
@@ -297,9 +297,9 @@ Andmebaasi võimalusi kasutaval rakendusel lisandub keerukusena juurde muidugi a
 
 Enamikes tänapäeva veebirakendustes kasutatakse andmete hoiukohana andmebaase – ka siis kui andmete hulk ja keerukus kuigi suured ei ole. Veebis tuleb peaaegu alati arvestada võimaliku mitme üheaegse kasutajaga ning andmebaaside juures on sobivate kohtade ajutine lukustamine lihtsam kui failide juures. Hajusrakendustena töötavates pilvesüsteemides paistavad programmeerijale andmed ka sageli andmebaasitabelitena – ehkki seal võib olla mõningaid lisapiiranguid selle tarbeks, et andmed mugavamalt pilvesüsteemi sobituksid.
 
-### B.2.2.4 Andmebaasihaldussüsteemi komponendid
+### B.2.2 Andmebaasihaldussüsteemi komponendid
 
-::: warning Õppekava
+::: oppekava
 
 Anda lühiinfot andmebaasi haldussüsteemide komponentide: päringukeele, aruandegeneraator, ihaldusvahendite, paralleeltöö halduse (concurrency control), transaktsioonide halduse, varundus- ja taastevahendite kohta.
 
@@ -315,7 +315,7 @@ Administreerimisvahendid võivad piirduda päringukeele abil antavate õiguste j
 
 ### B.2.2.5 Andmebaasi kasutaja, koostaja, programmeerija ja administraatori rollid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada andmebaasi administraatori, projekteerija /programmeerija, kasutaja rolle.
 
@@ -323,7 +323,7 @@ Kirjeldada andmebaasi administraatori, projekteerija /programmeerija, kasutaja r
 
 Andmebaasi kasutaja pärib, muudab ja täiendab andmeid nii nagu tema töö juures vajalik ning õigused lubavad. Koostaja/disaineri ülesandeks on välja mõelda ja valmis teha andmetabelite ja juurdekuuluvate abivahendite ning õiguste struktuur ja süsteem kasutuskõlblikuks muuta. Programmeerija aitab sealjuures vajalike koodilõikude loomisega enamasti salvestatud protseduuride juures. Administraatori/haldaja ülesandeks on hoolitseda, et teised osalised sobivalt oma tööd teha saaksid, neil oleks parasjagu õigusi ja ressursse.
 
-### B.2.2.6 Kordamisküsimused
+### B.2.2 Kordamisküsimused
 
 ::: tip
 
@@ -349,7 +349,7 @@ Selle alateema materjale läbi töötades saad teadmised tegelike andmete kohand
 
 ### B.2.3.1 Andmete abstraktsioon ja vaatetasemed
 
-::: warning Õppekava
+::: oppekava
 
 Defineerida andmete abstraheerimine ja selgitada vahet füüsilise taseme, kontseptuaalse (loogilise ) ja vaate (kasutaja) tasemel.
 
@@ -371,7 +371,7 @@ Nimetatud kolm vaadet on üksteisest sõltumatud ja võivad olla hallatavad erin
 
 ### B.2.3.2 Andmemudelite grupid
 
-::: warning Õppekava
+::: oppekava
 
 Näidata erinevusi andmemudelitel: objektipõhise loogilise mudeli, kirjepõhise loogilise mudeli ja füüsilise andmemudeli vahel.
 
@@ -391,7 +391,7 @@ Objektidega seotud suurem üldistustase põhineb sõltuvusseostega seotud andmeo
 
 ### B.2.3.3 Kirjepõhiste hierarhilise andmemudeli ning võrkmudeli kirjeldus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kirjepõhise loogilise mudeli põhimõtet nt hierarhilise või võrkmudeli abil.
 
@@ -411,7 +411,7 @@ Enamate mudelite olemasolu on põhjustanud erinevate nimede kasutamist sarnastel
 
 ### B.2.3.4 Objektipõhine loogiline mudel
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada objektipõhise loogilise mudeli põhimõtet nt olem-relatsioonmudeli või objektorienteeritud mudeli abil.
 
@@ -444,9 +444,9 @@ Mõlemad toodud aspektid võimaldavad selgitada (kasutada) abstraktse andmetüü
 
 Objekte iseloomustavad atribuudid (andmed) ja tegevused (kuidas objekte on võimalik manipuleerida). Näiteks "tekst" tüüpi objektil on võimalik defineerida teksti lisamise operatsioon tekstide liitmise teel või mingi lõigu otsimine sellest tekstist. Sarnaselt olemite või olemite hulkadega, võib objekt kuuluda objektide **klassi**. On samuti võimalik määratleda, et objektid on ainsad klassi **eksemplarid** (või **esindajad** ), mis esindavad mingit tuntud rakendust. Igal objektil on oma **tunnus** **_OID_** / **_object identifier_**, mis on unikaalne kogu süsteemi ulatuses ja mis kujutab endast viidet objektile enesele.
 
-### 2.3.5 Kordamisküsimused
+### B.2.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline neist võiks olla tüüpiline üks-mitmele seos?
    – Heinakoorma mass
@@ -469,7 +469,7 @@ Selle alateema materjale läbi töötades õpid tundma levinuimaks saanud andmem
 
 ### B.2.4.1 Mudeli paindlikkus, skaleeruvus ning liiasuste puudumine
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja relatsioonilise mudeli eelised, nagu mitteliiasus, paindlikkus, skaleeritavus.
 
@@ -502,7 +502,7 @@ Hästi projekteeritud relatsioonilisel andmebaasil on rida olulisi ja kasulikke 
 
 ### B.2.4.2 Tähtsamad relatsioonilise mudeli terminid: relatsioon, võti, primaarvõti, alternatiivne võti, võõrvõti, viiteterviklus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada relatsioonilise mudeli olulisi mõisteid: relatsioon, võti, primaarvõti, alternatiivvõti, välisvõti, viidete terviklus (referential integrity).
 
@@ -541,7 +541,7 @@ Eero Ringmäe konspekt
 
 ### B.2.4.3 Näide andmete normaliseerimiseks esimesele, teisele ja kolmandale normaalkujule
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada lihtsate näidete varal 1. 2. ja 3. normaalkujule viimist.
 
@@ -612,9 +612,9 @@ Selles tabelis olevat vanust võib arvutada sünnikuupäeva kaudu ja seepärast 
 
 Mõnikord pole sõltuvust lihtne tuvastada. Vaatame "tunnid" tabelit, mis ka registreerib iga tunni võimaliku kohtade arvu. Vabade kohtade arvu võib arvutada, kui lahutada registreerunud õpilaste arv ruumi kohtade arvust. Veerg "Vabu kohti" tuleks tabelist kõrvaldada, et viia tabel vastavusse kolmanda normaalkujuga.
 
-### B.2.4.4 Kordamisküsimused
+### B.2.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Mida aitab viiteline terviklus?
    – Hoolitseb, et ei oleks korduvaid andmeid
@@ -636,7 +636,7 @@ Selle alateema materjale läbi töötades õpid tundma mitmesuguste päringukeel
 
 ### B.2.5.1 Protseduuriliste ja mitteprotseduuriliste päringukeelte eristamine
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja vahe protesuursete ja mitteprotseduursete keelte vahel.
 
@@ -646,7 +646,7 @@ Andmebaaside päringkeelte areng algas relatsioonalgebraga ja jõudis **struktur
 
 ### B.2.5.2 Relatsioonalgebra põhioperatsioonid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada põhilisi relatsioonalgebra tehteid: valik (select), projektsioon (project), ümbernimetamine (rename), otsekorrutis (cartesian product), ühend (union), konjunktsioon (join), vahe (set difference).
 
@@ -716,7 +716,7 @@ Et tõhusalt mõista andmete otsimist, on kasulik alustada relatsioonalgebra mõ
 
 ### B.2.5.3 Andmete määratluskeel (DDL) ja andmede manipuleerimiskeel (DML)
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada SQL keele komponente :andmete defineerimiskeel (DDL), andmete manipuleerimiskeel (DML), andmete juhtkeel (DCL).
 
@@ -756,9 +756,9 @@ commit      # soorita, teosta
 rollback    # keri tagasi
 ```
 
-### 2.5.4 Andmete määratluskeele tähtsamad korraldused
+### B.2.5.4 Andmete määratluskeele tähtsamad korraldused
 
-::: warning Õppekava
+::: oppekava
 
 Aru saada SQL andmete defineerimiskeele käskude toimimisest nt. create, drop, alter table.
 
@@ -892,7 +892,7 @@ CREATE UNIQUE INDEX koeraindeks ON koerad(kood)
 
 Ühiseks ja igalpool toimivaks standardiks on üljuhul SQL-92 (aastanumber). Andmebaasisüsteemid on hulgaliselt teinud täiendusi andmetüüpide ja käskude lisavõimaluste juures, samuti näiteks primaarvõtme ja automaatsete koodide loomisel. Nii et ühes keskkonnas kokku pandud vähegi keerukamate käskude üle viimine teise võib küllalt keeruliseks osutuda.
 
-::: danger Probleem
+::: probleem
 
 **Õppekava punkt 2.5.5:**
 
@@ -904,7 +904,7 @@ Aru saada SQL andmete juhtkeele käskude toimimisest nt grant, revoke.
 
 ### B.2.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 Tabelile veeru lisamiseks tuleb kasutada käsklust:
 
@@ -921,7 +921,7 @@ Selle alateema materjale läbi töötades saad teadmised SQL-päringute kohta.
 
 ### B.2.6.1 SQL andmete manipuleerimiskeele (DML) käsud
 
-::: warning Õppekava
+::: oppekava
 
 Aru saada SQL andmete manipuleerimiskeele käskude toimimisest nt insert, delete, update, select.
 
@@ -1006,9 +1006,9 @@ kus on kasutatud tähiseid
 `colval` – väärtus, mida võrreldakse colname veeru sisuga;
 `oprel` – suhteoperaator (relatsiooniline operaator).
 
-### 2.6.2 SQL lisaklauslite kasutamine (nagu: where, order by, group by…)
+### B.2.6.2 SQL lisaklauslite kasutamine (nagu: where, order by, group by…)
 
-::: warning Õppekava
+::: oppekava
 
 Aru saada SQL tingimustest: where, order by, group by.
 
@@ -1097,7 +1097,7 @@ select oppeained.eesnimi, perenimi, tudengid.eesnimi from oppeained, outer tuden
 
 ### B.2.6.3 Vaated ning transaktsioonihaldus
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja vaadete kasutamine ja SQL erikäsud nt commit, rollback.
 
@@ -1147,7 +1147,7 @@ Kui automaatne andmetehingute lõpetamine on välja lülitatud (autocommit=off),
 
 ### B.2.6 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Konkreetse sünniaastaga inimeste küsimiseks SELECT-lauses kasutatakse tingimust lauseosas nimega
    – `ORDER BY`
@@ -1163,13 +1163,13 @@ Kui automaatne andmetehingute lõpetamine on välja lülitatud (autocommit=off),
 
 :::
 
-## 2.7 Andmebaaside administreerimine ja turvalisus
+## B.2.7 Andmebaaside administreerimine ja turvalisus
 
 Selle alateema materjale läbi töötades saad teadmised andmebaaside administreerimise ja turvalisuse kohta.
 
-### 2.7.1 Andmebaasid ja nende tähtsamad administreerimise toimingud
+### B.2.7.1 Andmebaasid ja nende tähtsamad administreerimise toimingud
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kõige olulisemaid andmebaaside halduse toimingud, näiteks skeemi määratlemine, salvetusmahu struktuur ja pöördusmeetodid, skeemi ja füüsilise paigutuse muutmine, andmetele juurdepääsu lubamine.
 
@@ -1213,9 +1213,9 @@ Nagu oleme näinud on ABHS IT toode, mida kasutatakse andmete haldamiseks organi
 - **Skeemi (plaani) haldusprogramm**, mida kasutatakse loogilise vaate haldamiseks DDL korraldustega.
 - **Andmete haldusprogrammid** , mis võimaldavad opereerida juhtimisseadmetega ja erakorralised AB hoitavate andmete muutused, kasutades DML korraldusi ilma muid programme kasutamata. Tavaliselt kasutatakse juhtimiskorraldusteks lihtsat korralduste tõlgendamise konsooli, juhtimiskorraldusi käsitleti ka eelmises punktis.
 
-### 2.7.2 Turvaküsimused akronüümi CIA kontekstis (Confidentiality, Integrity, Availability – konfidentsiaalsus, terviklus, käideldavus)
+### B.2.7.2 Turvaküsimused akronüümi CIA kontekstis (Confidentiality, Integrity, Availability – konfidentsiaalsus, terviklus, käideldavus)
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada konfidentsiaalsuse ja terviklusega seotud probleeme nt. tervikluse piirangud, õnnetusjuhtumiga põhjustatud terviklusekadu, õnnetusjuhtumiga põhjustatud järjepidevuse kadu, pahatahtlik andmete poole pöördumine.
 
@@ -1241,9 +1241,9 @@ Käideldavuse nõuded tõstatavad kaht tüüpi spetsiifilisi probleeme.
 - Teine probleem on seotud käideldavuse maksimeerimise poliitikaga, mis põhineb liiaste ketaste massiivi (RAID), liiaste protsessorite (nagu mitmikprotsessorid) kasutamisel või kaugjuhitavate varunduslahenduste (peegelduste) kasutamisel.
 - Ilmselgelt täielikke garantiisid ei ole olemas; seepärast peaks eesmärgiks seadma kahjude vähendamise strateegia, varukoopiate tegemise poliitika on vajalik, et võimaldada mitte ainult kiire andmete taastamine, vaid ka piirata sellega andmete võimalikku kaotust. Abinõudena võiks soovitada **varukoopiate** loomise perioodi vähendamist ja tehingute pidevat jälgimist veebilogide (online logging) kasutamise teel vähendamaks tehingute kaotsiminekut ja lõpetamata tehinguid ABHS rikke või mittetoimimise ajal.
 
-### 2.7.3 Näited mimesuguste turvareeglite kohta: inimfaktor, füüsilised tegurid, operatsioonisüsteemi ja andmebaasi turvalisus
+### B.2.7.3 Näited mimesuguste turvareeglite kohta: inimfaktor, füüsilised tegurid, operatsioonisüsteemi ja andmebaasi turvalisus
 
-::: warning Õppekava
+::: oppekava
 
 Tuua näiteid turvareeglitest näiteks isikuturvalisusest, füüsiliset turbest, opsüsteemi turbest, andmebaasi turvalisusest..
 
@@ -1258,9 +1258,9 @@ Riskid võivad tuleneda:
 - **Operatsioonisüsteemiga** seotud tegurid, kuna ABHS peab toetuma sellise süsteemi teenustele. Risk tuleneb nii talitlushäiretest, mis võib põhjustada andmete riknemist kui ka haavatavusest, mida võiks inimriskide hulka liigitada, võimaldades sissetungi, mis vastasel juhul oleks võimatu. Operatsioonisüsteemi nõrkused võivad mõjutada kõiki kolme turvalisuse aspekti.
 - **ABHS** enese sees võib olla turvalisuse probleeme sarnaselt operatsioonisüsteemile mõjutades samamoodi nimetatud kolme turvaaspekti.
 
-### 2.7.4 Taastamisskeemid vastavalt vigadele
+### B.2.7 Taastamisskeemid vastavalt vigadele
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada taastekavasid, mida kasutatakse erinevat tüüpi vigade korral, näiteks loogiline viga, süsteemi viga, süsteemi ootamatu seiskumine, kettaseadme tõrge.
 
@@ -1272,9 +1272,9 @@ Mitmesuguste probleemide põhjuste kaalumise asemel võime jagada vastavad vastu
 - **Süsteemi** vigu ja kokkukukkumisi võib ära hoida liiasusega (nagu sageli tehakse lennundussektoris, kus mitu süsteemi protsessi töötavad samade andmetega paralleelselt, koos hääletamismehhanismiga, mis lükkab tagasi mittekokkulangeva tulemuse). Teades süsteem usaldusväärsuse üldist taset, opereeritakse tüüpiliselt **kahju vähendamise** loogikaga alusel koos **varukoopiate** teostamise plaaniga. Juhuks, kui soovitakse kõrget käideldavuse taset, võib töötada andmebaasi eemal asetseva koopiaga, nii et kui juhtuks süsteem rike, võiks taastumisoperatsioonide ajaks koormuse suunata teisele andmebaasile.
 - **Kettaseadmete rikete** riski vähendamiseks kasutatakse tavaliselt RAID kettaid: sellistel juhtudel on võimalik tööd jätkata, kui üksik ketas keeldub töötamast. On võimalik kasutada ka automaatset ketaste asendamise tehnikat rikkis ketta asendamiseks. Rohkem, kui ühe ketta üheaegse riknemise juhtumil kasutatakse samuti **varunduspoliitikat** andmete taastamiseks. Ilmselt on ka kaugpeegelduse poliitika kasutamine mõistlik lahendus.
 
-**2.7.5 Kordamisküsimused**
+**2.7 Kordamisküsimused**
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kasutajale õiguste jagamiseks kasutatakse käsklust
    – `UPDATE`
@@ -1290,13 +1290,13 @@ Mitmesuguste probleemide põhjuste kaalumise asemel võime jagada vastavad vastu
 
 :::
 
-## 2.8 Andmehoidlad ja andmete kaevandamine
+## B.2.8 Andmehoidlad ja andmete kaevandamine
 
 Selle alateema materjale läbi töötades saad teadmised andmehoidlate eesmärkidest, ülesehitusest ning nende toest andmekaevanduse juures.
 
-### 2.8.1 Andmehoidla põhimõtted ja põhikomponendid
+### B.2.8.1 Andmehoidla põhimõtted ja põhikomponendid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada andmeaida mõistet ja selle komponente.
 
@@ -1337,9 +1337,9 @@ AAS täiteprotsess, mis regulaarselt integreerib erinevatest andmeallikatest võ
 
 **Lisalugemist:** Erik Iter – Andmehoidlad teoorias ja praktikas. http://www.cs.tlu.ee/osakond/opilaste\_tood/bakalaureuse\_ja\_diplomitood/2004\_kevad/Erik\_Iter/Erik\_Iter\_Diplomi\_Too.pdf
 
-### 2.8.2 Andmekaeve põhimõtted
+### B.2.8.2 Andmekaeve põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda andmekaeve mõiste.
 
@@ -1349,15 +1349,15 @@ Olles andmetega varustatud, võib andmeaita kasutada analüüsi tegemiseks. Neid
 
 Põhjalikuma ja kulukama analüüs võib teha mittesummeeritud andmetega: seda tüüpi analüüs on sarnane eelmisele nii vahendite, kui ka uuritavate andmete poolest ja kannab nime andmete kaevandamine (data mining). Andmekaevandamine on arenev teadus: kasutaja alustab kokkuvõtvatest andmetest ja siis jätkab üksikasjalike andmete analüüsiga, otsides oma hüpoteesile kinnitust või tagasilükkamist. Andmeaidas on andmekaevandamisega seotud tegevuste osakaal madal, aga see kaasab suure hulga töötlusvõimsust; igal juhtumil kaasatakse vahendeid nende operatsioonide kiirendamiseks.
 
-### 2.8.3 Andmehoidlate põhilised kasutusalad
+### B.2.8.3 Andmehoidlate põhilised kasutusalad
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja andmeaida tööpõhimõtted.
 
 :::
 
-::: danger Probleem
+::: probleem
 
 Õppekava ja õppematerjali sisu ei lähe kokku
 
@@ -1368,7 +1368,7 @@ Selle AAS põgusa kirjelduse lõpetuseks vaatame milleks nad kasulikud on:
 - Pikaajalised analüüsid, mis võivad välja tuua tendentse (kalduvus) või korduvaid tsükleid. Tavaliselt need analüüsid eelistatult käsitlevad majanduslikke aspekte.
 - Teatud keerukusega organisatsioonides, millistes mõni majanduslik, organisatoorne, või tootlikkuse aspekt võib olla varjatud tänu organisatsiooni enda keerukusele ja kus olulised andmed võivad olla erinevates või sidumata andmebaasides.
 
-### 2.8.4 Kordamisküsimused
+### B.2.8 Kordamisküsimused
 
 ::: tip
 
@@ -1386,7 +1386,7 @@ Andmekaeve
 
 :::
 
-## 2.9 Lisamaterjalid
+## Lisamaterjalid
 
 - Ühe andmetabeli juures ettetulevad põhikäsud MySQLi näitel:
 

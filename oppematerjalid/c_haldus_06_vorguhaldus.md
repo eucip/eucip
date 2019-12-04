@@ -14,7 +14,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.6.1.1 Võrguhalduse põhifunktsioonid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamisi võrguhaldus- süsteemi funktsioone.
 
@@ -98,7 +98,7 @@ Vastavalt sellele millise võrgumeediumi kaudu liigub võrguhalduse liiklus jagu
 
 ### C.6.1.2 Võrguhalduse parameetrid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada erinevaid hallatavaid parameetreid võrgus nagu jõudlus, tõrked, konfiguratsiooniseaded.
 
@@ -124,7 +124,7 @@ _Joonis 6‑2. Võrguhaldussüsteemi konsool (Allikas: Learning Materials for In
 
 ### C.6.1.3 Erinevad võrguhalduse arhitektuurid
 
-::: warning Õppekava
+::: oppekava
 
 Võrrelda erinevaid võrgu- haldussüsteemide arhitektuure.
 
@@ -161,7 +161,7 @@ Jagatud võrguhaldussüsteem tähendab, et võrguhaldusteenused ja agendid on ja
 
 ### C.6.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1.  Mis on võrguhalduse funktsioon?
 
@@ -207,7 +207,7 @@ Selle alateema materjale läbi töötades õpid kirjeldama SNMP protokolli peami
 
 ### C.6.2.1 SNMP põhikomponendid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada SNMP protokolli peamised komponendid.
 
@@ -282,7 +282,7 @@ Objekti ID koosneb täisarvude seeriatest, vastavalt puu hargnemisele ja on eral
 
 ### C.6.2.2 SNMP teenused
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada SNMP poolt pakutavad teenused.
 
@@ -331,7 +331,7 @@ SNMP Report on SNMP sõnumitöötluse häiretega seotud info vahetamiseks.
 
 ### C.6.2.3 SNMP piirangud
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda SNMP protokolli piirangud.
 
@@ -396,7 +396,7 @@ Andmete krüpteerimine tehakse CBS-DES algoritmiga ja krüpteerimise läbiviimis
 
 ### C.6.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Mis on OID?
 
@@ -440,7 +440,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.6.3.1 Erinevused süsteemi- ja võrguhaldusrakendustel
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada erinevusi süsteemi- ja võrguhalduse tööriistade vahel.
 
@@ -467,7 +467,7 @@ Süsteemihaldus ja võrguhaldus võivad kasutada erinevaid rakendusi ja jagada o
 
 ### C.6.3.2 Levinud võrguhaldusrakendused
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda mõned laialtkasutatavad tarkvararakendused süsteemi- ja võrguhalduseks nagu ping, traceroute, tcpdump, HP Software, Tivoli NetView, Solstice, OpenNMS
 
@@ -506,7 +506,7 @@ Näiteid erinevatest võrguhaldustarkvaradest:
 
 ### C.6.3.3 Infrastruktuuri nõuded võrguhaldusrakenduste kasutamiseks
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda võrguhaldustarkvara opereerimiseks vajalikud infrastruktuurinõuded.
 
@@ -516,7 +516,7 @@ Suure võrgu haldamiseks peab NMS süsteem olema piisavalt võimas. Võrkude suu
 
 ### C.6.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1.  Millise rakendusega saab tuvastada pakettide kadu seadmete vahel?
 

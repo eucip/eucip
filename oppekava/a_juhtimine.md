@@ -384,8 +384,6 @@ Tuua välja virtuaalorganisatsiooni määratlus ja selgitada, kuidas virtuallsed
 
 Kirjeldada, kuidas IKT võib muuta organisatsiooni piire ja kuidas seda saab kasutada organisatsiooni paindlikumaks muutmisel.
 
-### A.4.3 Unikaalne klient
-
 #### A.4.3.3
 
 Määratleda unikaalse kliendi mõiste ja tuua välja selle mõju tehnoloogiale.

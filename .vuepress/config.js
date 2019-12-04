@@ -8,6 +8,40 @@ module.exports = {
     editLinks: true,
     editLinkText: "Muuda Githubis"
   },
+  plugins: [
+    [
+      "vuepress-plugin-container",
+      {
+        type: "vananenud",
+        before: `<div class="vananenud"><p class="vananenud-title">Vananenud materjal</p>`,
+        after: `</div>`
+      }
+    ],
+    [
+      "vuepress-plugin-container",
+      {
+        type: "oppekava",
+        before: `<div class="oppekava"><p class="oppekava-title">Õppekava</p>`,
+        after: `</div>`
+      }
+    ],
+    [
+      "vuepress-plugin-container",
+      {
+        type: "probleem",
+        before: `<div class="probleem"><p class="probleem-title">Probleem</p>`,
+        after: `</div>`
+      }
+    ],
+    [
+      "vuepress-plugin-container",
+      {
+        type: "kordamiskusimused",
+        before: `<div class="kordamiskusimused">`,
+        after: `</div>`
+      }
+    ]
+  ],
   themeConfig: {
     nav: [
       {

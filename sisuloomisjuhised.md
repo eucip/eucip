@@ -6,7 +6,25 @@ Koolide õppematerjalide loomine ja eriti õppekavade loomine on aeglane ja liia
 
 ### Pidev uuendamine
 
-Käesolev projekt testib võimalusi kiirendada õppematerjalide loomist ja uuendamist, kasutades tarkvaraloomise kogemusi, tuues sisse iga-aastased (või veel tihedamad) õppematerjali **_release_**'d koos muutuste nimistuga **_diff_** / **_changelog_**.
+Käesolev projekt uurib võimalusi kiirendada õppematerjalide loomist ja uuendamist, kasutades tarkvaraloomise kogemusi, tuues sisse iga-aastased õppematerjali **järgud** ehk **_release_**'d mis baseeruvad järgnevatel Giti versioonihalduse **harudel** ehk **_branch_**'idel:
+
+#### `master` haru
+
+Siin toimub jooksvate täienduste ja paranduste sisseviimine, siin harus on alati materjalide värskeim versioon. Haru on mõeldud **õppematerjali loojatele** (mitte õpilastele ega õpetajatele).
+
+#### `2011.x` haru
+
+Haru on mõeldud õppekava koostajatele versioonide võrdlemise alguspunktiks.
+
+#### `2020.x` haru
+
+Selles harus 2020. aasta kevadel toimuva eksami õppematerjal. Haru on mõeldud **õpilastele ja õpetajatele** eksami ettevalmistuseks.
+
+Harust lõigatakse regulaarseid uuendatud pisijärke ehk **_minor release_**'sid, näiteks `2020.0`, `2020.1`, `2020.2` jne. Pisijärgud ei muuda olulisel määral materjali sisu ega nõua lisaõpet, pigem on tegu vormistuse või keelevigade parandamise, tekstitäiendustega jne.
+
+#### `2021.x` (tulekul)
+
+Selles arus 2021. aasta kevadel toimuva eksami õppematerjal. See on mõeldud **õpetajatele** enese täiendamiseks.
 
 ### Ajatud materjalid
 
@@ -14,9 +32,29 @@ IT-materjalid ei vanane ühe kiirusega: kui kõik mis puudutab mobiilseadmete v�
 
 Kui kirjutada õppekava küsimused üldisemaks, rääkides küll põhimõistetest, kuid puudutamata konkreetset tehnoloogiat, saab materjale ajaproovile vastupidavamaks muuta.
 
+Näide liialt spetsiifilisest õppekava teemast:
+
+::: oppekava
+
+Tuua välja tugevad ja nõrgad küljed juurutusmeetoditel nt suur pauk, samm-sammult, pakettmudeliga (CORE mudel), üksuste kaupa (rollouts) meetodil.
+
+:::
+
+Sama teema üldistatuna:
+
+::: oppekava
+
+Tuua välja eri **juurutusmeetodite** **_deployment methods_** tugevad ja nõrgad küljed
+
+:::
+
 ### Ajaloo ilu
 
 Materjalide uuendamisel tasub jälgida ka seda, et _aegunud_ materjal pole tingimata _halb_ materjal. Mitmed asjakohasuse kaotanud peatükid võib koondada ajaloo-peatükkidesse mis pole hindamisel kohustuslikud, kuid aitavad mõista tehnoloogia arengupõhjusi ning annavad edasi kadunud ajastu vaimu.
+
+Vananenud materjal on soovitav paigutada eraldi sektsiooni ja selgelt märgistada **vananemisteade** ehk **_deprectiation notice_**. Õppematerjali edasistes versioonides saab vananenud materjali kustutada.
+
+Vaata ka [kuidas vormistada vananenud materjali lõiku](#vananenud-materjal).
 
 ## Sisu vormindamine
 
@@ -69,12 +107,12 @@ annab tulemuseks
 Mõistete vormindamise jaoks soovitame järgmist formaati:
 
 ```
-**Eestikeelne termin** **_English term_** / **_ET_**
+**Eestikeelne termin** ehk **_English term_** / **_ET_**
 ```
 
 mis annab tulemuseks:
 
-**Eestikeelne termin** **_English Term_** / **_ET_**
+**Eestikeelne termin** ehk **_English Term_** / **_ET_**
 
 ### Koodinäited
 
@@ -186,34 +224,80 @@ _siia tuleb pildiallkiri_
 
 Õppematerjalides leidub-siin seal ka lehekülje teksti sisse kodeeritud pilte kuid edaspidi on need plaanis kõik eraldi pildifailideks salvestada.
 
-### Kastid
+### Vananenud materjal
 
-Lisaks standardsetele Markdowni võimalustele saab sisu eristamiseks saab kasutada eri värvi kaste:
-
-::: tip Roheline
-
-Roheline kast on reserveeritud kordamisküsimustele
-
-:::
-
-::: warning Kollane
-
-Kollane kast on reserveeritud õppekava viidetele
-
-:::
-
-::: danger Punane
-
-Punane kast on olulistele märkustele ja esiletõstetud probleemidele.
-
-:::
-
-Punast kasti saab luua järgnevalt:
+Vananenud materjalid saab märgistada järgnevalt:
 
 ```md
-::: danger Punane
+::: vananenud
 
-Punane kast on olulistele märkustele ja esiletõstetud probleemidele.
+#### Muud veebitehnoloogiad
+
+Lisaks AJAX-ile on laialt kasutusel sellised tehnoloogiad nagu Flash ja selle konkurent Microsofti Silverlight.
 
 :::
 ```
+
+annab tulemuseks:
+
+::: vananenud
+
+#### Muud veebitehnoloogiad
+
+Lisaks AJAX-ile on laialt kasutusel sellised tehnoloogiad nagu Flash ja selle konkurent Microsofti Silverlight.
+
+:::
+
+### Õppekava
+
+Viiteid õppekavale saab märgistada järgnevalt:
+
+```md
+::: oppekava
+
+Kirjeldada organisatsioone ja olulisemaid struktuure nt puustruktuur, kammstruktuur, juriidiline vorm nt mittetulundusühing, partnerlus; suurus nagu väikese ja keskmise suurusega ettevõte, korporatsioon.
+
+:::
+```
+
+annab tulemuseks:
+
+::: oppekava
+
+Kirjeldada organisatsioone ja olulisemaid struktuure nt puustruktuur, kammstruktuur, juriidiline vorm nt mittetulundusühing, partnerlus; suurus nagu väikese ja keskmise suurusega ettevõte, korporatsioon.
+
+:::
+
+### Probleem
+
+```md
+Probleeme saab märgistada järgnevalt:
+
+::: probleem
+
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
+
+:::
+```
+
+::: probleem
+
+Õppematerjal ei vasta õppekavas püstitatud küsimustele
+
+:::
+
+### Kordamisküsimused
+
+```md
+::: kordamiskusimused
+
+1. Kas tulu mittetaotleval ettevõttel võib tekkida kasum?
+
+:::
+```
+
+::: kordamiskusimused
+
+1. Kas tulu mittetaotleval ettevõttel võib tekkida kasum?
+
+:::

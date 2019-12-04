@@ -13,7 +13,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.1.1 Personaalarvuti operatsioonisüsteemi funktsioonid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada operatsioonisüsteemi (OS) funktsioone, mida on vaja üldotstarbelisele arvutile.
 
@@ -61,7 +61,7 @@ Selleks, et kaitsta OS'i kasutajarakenduste eest on OS'is kasutusel erinevad pro
 
 ### C.2.1.2 Operatsioonisüsteemide erinevad tüübid
 
-::: warning Õppekava
+::: oppekava
 
 Välja tuua erinevat OS-i tüübid nagu pakktöötlus, ajajaotuslik, reaalajaline.
 
@@ -77,7 +77,7 @@ Operatsioonisüsteemide jaotus töötluse liigi järgi:
 
 ### C.2.1.3 Rakendusliides
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada rakendusliidese (Application Programming Interface) ja tuua rakendusliidese näiteid nagu Java API, Windows.
 
@@ -109,7 +109,7 @@ Käsk, millega süsteemiteenus välja kutsutakse sõltub protsessorist. Näiteks
 
 ### C.2.1.4 Protsess
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kuidas tarkvara haldab ressursse.
 
@@ -181,7 +181,7 @@ Microsoft Windows OS'is on seadmete S/Voperatsioonid hallatud kasutades järgmis
 
 ### C.2.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline ei ole operatsioonisüsteemi funktsioon?
 
@@ -226,7 +226,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.2.1 Samaaegsuse põhjused
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja samaaegsuse põhjused OS-i sees.
 
@@ -250,7 +250,7 @@ Pakktöötlusega süsteemides on enimkasutatavaks reegliks **lühim töö enne**
 
 ### C.2.2.2 Vastastikune välistamine
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda vastastikuse Välistamise probleem.
 
@@ -285,7 +285,7 @@ Olukorda, kui mitu protsessi ootavad vastastikku teineteise kasutuses oleva ress
 
 ### C.2.2.3 Töötlus ja multitöötlus
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda töötlus ja multitöötlus.
 
@@ -312,7 +312,7 @@ Disaini eripärad on järgmised:
 
 ### C.2.2.4 Lõimelisus
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda lõimelisus.
 
@@ -337,7 +337,7 @@ Joonis 2‑8. Protsess võib koosneda mitmest lõimest (Allikas: Learning Materi
 
 ### C.2.2.5 Kontekstkommutatsioon
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda kontektst- kommutatsiooni operatsioon.
 
@@ -354,7 +354,7 @@ Kontekstkommutatsioonil keelatakse katkestused, salvestatakse parajasti töös o
 
 ### C.2.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Mis on kvantum:
 
@@ -398,7 +398,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.3.1 Virtuaalmälu
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada virtuaalmälu mõistet.
 
@@ -414,7 +414,7 @@ Kui protsess pöördub virtuaalse aadressi poole, mis on saalitud massmäluseadm
 
 ### C.2.3.2 Virtuaalmälu haldus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kuidas OS haldab virtuaalmälu massmäluseadme ja põhimälu riistvara abil.
 
@@ -454,7 +454,7 @@ Kui põhimälus ei ole uue lehekülje laadimiseks vaba ruumi, siis kasutab OS le
 
 ### C.2.3.4 Mälu hierarhia
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kuidas mälu hierarhia mõiste mõjutab programmeerimist nagu töömälu eraldamine failidest.
 
@@ -468,7 +468,7 @@ Joonis 2‑12. Mälu hierarhia
 
 ### C.2.3.5 Failisüsteemi funktsioonid
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda failisüsteemi funktsioonid.
 
@@ -508,7 +508,7 @@ Levinud failisüsteemid, mida kasutatakse massmäluseadmetes andmete talletamise
 
 ### C.2.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Virtuaalmälu võimaldab:
 
@@ -555,7 +555,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.4.1 Turvalisuse ja kaitse vajadus
 
-::: warning Õppekava
+::: oppekava
 
 Mõista kaitse ja turvalisuse vajadust (konfidentsiaalsuse, puutumatuse ja käideldavuse terminates) arvutisüsteemis.
 
@@ -581,7 +581,7 @@ Arvutis talletatud informatsioon on kasutaja intellektuaalne omand ja vajab kait
 
 ### C.2.4.2 Operatsioonisüsteemis kasutatavad kaitsemehanismid
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda OS-i kaitsemehanismid.
 
@@ -601,7 +601,7 @@ OS tasemel kaitsemehhanismid on pidevalt täiustunud ja hõlmavad krüpteerimisv
 
 ### C.2.4.3 Kaitse arvutiviiruste eest
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada pahavaraga seotud ohte nagu tagauksed, Trooja hobused, arvutiviirused. Määratleda peamised kaitsemeetodid nende vastu.
 
@@ -636,7 +636,7 @@ Olulised tegevused pahavarast hoidumiseks on järgmised:
 
 ### C.2.4.4 Identifitseerimine ja autentimine
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda erinevused isiku identifitseerimisel ja autentimisel.
 
@@ -648,9 +648,9 @@ Esimene operatsioon, mille teostab kasutaja end arvutiga ühendades, on kasutaja
 
 Seejärel kontrollib süsteem, kas kasutaja on see, kellena ta ennast süsteemile esitab. See on kasutaja identiteedi kontroll ehk kasutaja **autentimine**.
 
-### C.2.4.5
+### C.2.4.5 Autentimistehnikad
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada autentimistehnikaid ja defineerida tugeva autentimise mõiste.
 
@@ -684,7 +684,7 @@ Sümmeetrilised krüptograafilised süsteemid ei sobi tõhusaks autentimiseks.N�
 
 ### C.2.4.6 Juurdepääsukontroll
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda juurdepääsukontrolli põhimõtted.
 
@@ -738,7 +738,7 @@ Erinevad tuntud poliitikad juurdepääsuõiguste määramisel on järgmised:
 
 ### C.2.4.7 Andmete varundamine
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda varunduse ja taastamise vajadus.
 
@@ -762,7 +762,7 @@ Selline varundamine on hea veel ka teisel põhjusel – nimelt on VSS mehhanismi
 
 ### C.2.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. OS kaitsemehhanismid on:
 
@@ -806,7 +806,7 @@ Selle alateema materjale läbi töötades õpid:
 
 ### C.2.5.1 Linux
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamisi Unix’i, Linux’i ja Mac’i perekonda kuuluvate OS’ide omadusi nagu installatsioon, kasutajaliides, turvalisus, jõudlus, peamised kasutusalad, stabiilsus.
 
@@ -836,7 +836,7 @@ Joonis 2‑19. Failisüsteemi õiguste loetelu (R-lugemisõigus, W-kirjutamisõi
 
 ### C.2.5.2 Microsoft Windows'i operatsioonisüsteemide parameetrid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada Microsoft Windows perekonna OS-ide peamised omadused nagu installatsioon, kasutajaliides, turvalisus, jõudlus, peamised kasutusalad, stabiilsus.
 
@@ -860,7 +860,7 @@ Executive on kerneli komponent, mis vastutab süsteemi turvameetmete jõustamise
 
 ### C.2.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Monoliitne kernel on iseloomulik
 

@@ -8,7 +8,7 @@ Selle alateema materjale läbi töötades õpid tundma tarkvara arendusmeetodeid
 
 ### B.3.1.1 Tarkvaraarandus, objektorienteeritud disain, ülalt alla projekteerimine ja struktuurne programmeerimine
 
-::: warning Õppekava
+::: oppekava
 
 Tuua erinevate programmide projekteerimise meetodite põhijooned, nagu näiteks objektorienteeritud (OO) projekteerimine, ülalt-alla disain, struktureeritud programmeerimine.
 
@@ -63,7 +63,7 @@ OO projekteerimise korral kasutatakse analüüsi ja disaini etapis lahenduse kir
 
 ### B.3.1.2 Abstraktsioon probleemide lahendamise ja tarkvara loomise meetodina
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada abstraktsiooni kui probleemilahenduse ja tarkvara projekteerimise vahendit.
 
@@ -88,7 +88,7 @@ Objektorienteeritud programmeerimiskeeltes on juhtimis- ja andmeabstraktsioonid 
 
 ### B.3.1.3 Spetsiifilised eripärad vanade rakenduste juures
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja vanemate süsteemide projeteerimise erivajadused ja -nüansid, näiteks keeruline struktuur, halb dokumentatsioon, vananenud riist-/tarkvara ärikliitiline süsteem.
 
@@ -106,7 +106,7 @@ Pärandsüsteemidega seonduvad järgnevad võimalikud probleemid:
 
 ### B.3.1.4 Avatud ning suletud koodiga tarkvaraarendus
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja erinevused avatud lähtekoodiga ja kommertstarkvara arenduses.
 
@@ -122,7 +122,7 @@ Tasapisi on tarkvara ja ka muu intellektuaalomandiga seotud litsentside süsteem
 
 ### B.3.1.5 Tarkvara litsensivajadused kinnise tarkvara, avatud koodiga tarkvara, vaba tarkvara ja vabavara juures
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja erinevad litsentseerimise nõuded kommertstarkvarale, avatud lähtekoodiga tarkvarale, vabale tarkvarale ja vabavarale.
 
@@ -156,7 +156,7 @@ Selle alateema materjale läbi töötades tutvud programmeerimise andmete hoidmi
 
 ### B.3.2.1 Liht- ja struktuurandmetüübid. Andmestruktuurid - kirjed, massiivid, ahelad
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada struktureeritud ja struktureerimata andmetüüpe ja erinevaid andmestruktuure: kirjed, massivid, ahelad (linked lists).
 
@@ -262,9 +262,9 @@ B-puu võimaldab nõnda hoida puu sügavust kahendpuust väiksemana. Täituvust 
 
 **Lisalugemist:** http://enos.itcollege.ee/~jpoial/algoritmid/puustruktuurid.html
 
-### 1.2.2 Levinumad sortimis- ja otsimisalgoritmid ning andmestruktuurid
+### B.3.2 Levinumad sortimis- ja otsimisalgoritmid ning andmestruktuurid
 
-::: warning Õppekava
+::: oppekava
 
 Hinnata tüüpiliste otsi- ja sortimisalgritmide sobivust erinevate andmestruktuuridega.
 
@@ -286,7 +286,7 @@ http://www.cs.tlu.ee/~inga/alg\_andm/sorting\_Python.pdf
 
 ### B.3.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Massiivi puhul:
    – on elemendi poole võimalik pöörduda massiivi nime ning järjekorranumbri kaudu X
@@ -308,7 +308,7 @@ Selle alateema materjale läbi töötades õpid tundma programmeerimiskeelte tü
 
 ### B.3.3.1 Programmeerimiskeelte tüübid - funktsionaalsed, protseduursed, objektorienteeritud keeled
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja programmeerimiskeelte liikide erinevused ja eelised: funktsionaalsed, protseduursed, objektorienteeritud.
 
@@ -354,12 +354,6 @@ Kolmanda põlvkonna keelte hulka kuulub enamik tuntumaid ja kasutatavaid keeli, 
 
 **_Visual Basic_**, **_Delphi_**, **_Python_**, **_C#_** jne on kõik kolmanda põlvkonna programmeerimiskeeled. Paljud kolmanda põlvkonna programmeerimiskeeled on nooremad (uuemad) kui mitmed neljanda ja viienda põlvkonna programmeerimiskeeled.
 
-::: danger Puudulik info
-
-Nimistust on puudu enamus populaarseimad skriptimiskeeli **_Javascript_**, **_Typescript_**, **_Ruby_**, **_PHP_** ja **_Lua_** ning uuemad süsteemiprogrammeerimiskeeled nagu **_Go_** ja **_Rust_**.
-
-:::
-
 **Neljanda põlvkonna** programmeerimiskeeled on loodud eesmärgiga lihtsustada nende õppimist ja kasutamist. Neljanda põlvkonna programmeerimiskeeled on tavaliselt mitte-protseduurilised ja ühe rakenduse kesksed. Üheks neljanda põlvkonna programmeerimiskeeleks on näiteks **_SQL_** (Structured Query Language). Seal öeldakse pigem "mida" teha ning vähem, "kuidas" teha.
 
 **Viienda põlvkonna** programmeerimiskeeled on loodud tehisintelligentsete süsteemide loomiseks ja tehisintelligentsusega seotud probleemide lahendamiseks.
@@ -396,7 +390,7 @@ Põhimõtteliselt saab igas keeles kirjutatud programme nii interpreteeritult t�
 
 ### B.3.3.2 Funktsioonide ja protseduuride kasutus. Väärtuse ja viite kaudu parameetrite edastamine.
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada protseduuride ja funktsioonide kasutamist ja tuua välja vahe väljakutsel väärtuse (call by value) ja nime (viite) järgi (call by reference).
 
@@ -443,7 +437,7 @@ Objektorienteeritud lähenemine annab põhjalikumad võimalused, samas pole sell
 
 ### B.3.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Masinkood on:
    – esimese põlvkonna programmeerimiskeel X
@@ -465,7 +459,7 @@ Selle alateema materjale läbi töötades õpid tundma objektorienteeritud disai
 
 ### B.3.4.1 Objektorienteeritud disaini põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada objektorienteeritud projekteerimise põhimõtteid.
 
@@ -479,7 +473,7 @@ Objektorienteeritud disaini puhul jagatakse süsteem arusaadavateks ja hallatava
 
 ### B.3.4.2 Objektorienteeritud programmeermise põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada objektorienteeritud programmeerimise kontseptsiooni.
 
@@ -491,7 +485,7 @@ Objektorienteeritud programmeerimise juures luuakse tarkvara iseseisvate suhteli
 
 ### B.3.4.3 Klass, objekt, meetod ning nende omavahelised suhted
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada mõisteid klass, objekt, eksemplar, meetod ja nende seost objektorienteeritud programmeerimisega.
 
@@ -501,7 +495,7 @@ Klassid **_classes_** kirjeldatakse ära loodava üksuse omadused ja oskused. Ob
 
 ### B.3.4.4 Päriluse ülesehitus ning selle tarvilikkus programmeerijale
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada pärimise mõistet ja selle vajalikkust programmeerijale.
 
@@ -517,7 +511,7 @@ Pärilusahel võib mõnigikord päris pikaks kasvada – paljude sarnaste klassi
 
 ### B.3.4.5 Abstrahheerimine ja kapseldamine (teabe peitmine)
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada mõiseid abstraktsioon ja kapseldamine (information hiding).
 
@@ -525,9 +519,9 @@ Kirjeldada mõiseid abstraktsioon ja kapseldamine (information hiding).
 
 Abstrahheerimine võimaldab korraga tegelda vaid ülesande kontekstis hädavajaliku teabega jättes kõrvale kõik muu ning samuti seigad, mis tunduvad lahendamise juures vähetähtsatena. Ainult nõnda on lootust keerukamate reaaleluliste süsteemide tarbeks piisavalt arusaadavaid mudeleid luua, millest on võimalik ka lühemal vaatlusel aru saada ning loodud komponenti muude osadega liidestada. Kapseldamise käigus piiritletakse reaalmaailma jäljendav objekt kõigepealt abstrahheerimise abil. Edasi luuakse talle välismaailma ja teiste objektidega suhtlemiseks liidesed, kusjuures kontroll seesoleva teabe üle on vaid objektil enesel. Avalikes liides-alamprogrammides saab koodi abil otsustada, kuidas ja milliseid sisemisi andmeid väljapoole näidatakse/avaldatakse ning samuti mida ja kuivõrd lubatakse väljast käivitatavate alamprogrammide kaudu kapseldunud objekti sees muuta. Selliselt on objektil võimalus ise oma koodi abil hoolitseda, et vaid selleks vajalik osa temast väljapoole paistaks või muudetav oleks.
 
-### 1.4.6 Polümorfism ja tarkvara efektiivsem loomine
+### B.3.4.6 Polümorfism ja tarkvara efektiivsem loomine
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada, kuidas polümorfism aitab korduvkasutatavate komponentide abil kaasa tõhusamale tarkvara projekteerimisele.
 
@@ -537,9 +531,9 @@ Pärilus võimaldas hoolitseda, et sarnasest puust välja kasvanud klasside puhu
 
 Mõnevõrra keerukam on aga olukord omaduste juures mis on objektidel küll sarnase ideena olemas, kuid mille teostus sõltub konkreetse klassi eripärast. Näiteks komponendi suuruse muutmisel peab märkeruudu taha jääv tekst ikka ühte ritta jääma, vastavate parameetritega silt võib aga sobiva kuju ja parameetrite puhul oma peal oleva teksti mitmesse ritta sättida. Sellisel juhul on küll komponentidel olemas käsk suuruse muutmiseks ning sellele järgnevaks paigutuse paika sättimiseks, kuid paika sättimine võib igaühel omamoodi välja näha. Sellist oskust teha sama asja kuid igaüks erinevalt nimetataksegi polümorfismiks. Selline võimalus võib tunduda enesestmõistetavana, kuid selleni jõudmine ning piisavalt väikese ressursikuluga realiseerimine võttis programmeerimiskeelte arengu juures hulk aastaid.
 
-### 1.4.7 Kordamisküsimused
+### B.3.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Klass
    – on objektitüüp, kõigil sama klassi eksemplaridel on samad omadused ja oskused X.
@@ -563,7 +557,7 @@ Selle alateema materjale läbi töötades tutvud programmikomponentidega.
 
 ### B.3.5.1 Programmi osad ja sisend-väljund
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada ja hinnata sisend-väljundkäske.
 
@@ -586,13 +580,11 @@ Deklaratsioonidega seotakse mingi sümbolitest koosnev nimi mõne andmeobjekti v
 
 Deklareerimise käigus seotakse tihti andmeobjektiga mingi koht mälus, kus siis seda konkreetset andmeobjekti iseloomustavaid väärtuseid hoitakse.
 
-::: danger Vananenud keel
-
-EPL keel pole koodinäidetes praktiline, mõistlikum on koodinäited ümber kirjutada rohkem levinumasse C-sarnasesse keelde nt Javascripti
-
-:::
+::: vananenud
 
 Kõige levinumad deklaratsioonid on muutujate deklaratsioonid, näiteks kasutades EPL (EUCIP Programming Language, baseerub C-keelel) pseudokeelt võime deklareerida muutujaid järgmiselt:
+
+:::
 
 ```c
 char alfa;
@@ -604,7 +596,11 @@ Nii oleme me deklareerinud kolm muutujat tähemärgi tüüpi muutuja alfa, täis
 
 Sisend-väljund käsud on mõeldud suhtlemaks välismaailmaga läbi sisend-väljund seadmete. Sisend-väljund käsud võivad erinevates keeltes suurtesti varieeruda: mitmetes keeltes ei ole eraldi sisend-väljund käske (näiteks Motorola 88k assembler suhtleb sisend-väljund seadmetega nagu mäluga), C&#39;l baseeruvatel keeltel on reeglina eraldi välised funktsioonid, mida sisendi ja väljundiga suhtlemiseks kasutatakse (tihti kasutatakse selleks operatsioonisüsteemi teenuseid ja vahendeid).
 
+::: vananenud
+
 EPL keeles on sisend-väljund käskudeks ainult kaks funktsiooni: `printf()` ja `readf_()`.
+
+:::
 
 Funktsioon `printf()` on kasutatav järgmiselt:
 
@@ -624,7 +620,7 @@ Antud näites loetakse sisendvoost väärtused muutujatesse muutuja1, muutuja2 j
 
 ### B.3.5.2 Juhtkäsud
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada ja hinnata sisend-väljundkäske.
 
@@ -638,7 +634,7 @@ Juhtkäsud määravad programmi täitmise korra (erinevate programmiosade täitm
 - Tingimuslaused
 - Kordused
 
-Tingimusteta hüpete abil on võimalik "hüpata" koodis ringi ja muuta nii kirjutatud koodi täitmise järjekorda. Selliste juhtkäskude kasutamine raskendab oluliselt koodist arusaamist ja seetõttu soovitatakse sellisest konstruktsioonist hoiduda. Mitmed tänapäevased keeled ei luba tingimusteta hüpete kasutamist (sh EPL).
+Tingimusteta hüpete abil on võimalik "hüpata" koodis ringi ja muuta nii kirjutatud koodi täitmise järjekorda. Selliste juhtkäskude kasutamine raskendab oluliselt koodist arusaamist ja seetõttu soovitatakse sellisest konstruktsioonist hoiduda. Mitmed tänapäevased keeled ei luba tingimusteta hüpete kasutamist.
 
 Tingimustega juhtlausete korral kasutatakse tingimuse realiseerimiseks kasutatakse võrdlusoperaatoreid:
 
@@ -712,7 +708,11 @@ else
 
 Kui a on suurem kolmest, siis b võrdustakse viiega ja kui a ei ole suurem kolmest, siis c omistatakse väärtus kuus.
 
+:::
+
 `if`-käsu keerulisemad versioonid on `case` ja `switch`, need juhtkäsud võimaldavad rohkemaid jagunemisi vastavalt tingimustele, kui kuna EPL keel neid ei sisalda, siis siinkohal me neid ei käsitle.
+
+:::
 
 Kordused võimaldavad mingisugust koodi osa vastavalt etteantud tingimusele korduvalt täita. Kordused jagunevad: eelkontrolliga ja järelkontrolliga ning määratud pikkusega ja määramata pikkusega kordusteks.
 
@@ -828,7 +828,7 @@ Tulemus on sarnane do kordusele, muutuja a väärtus pannakse alguses võrduma n
 
 ### B.3.5.3 Aritmeetika- ja loogikatehted
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada ja hinnata aritmeetilisi ja loogilisi tehteid.
 
@@ -876,7 +876,13 @@ kasutatakse märki "%"; ja jagab ühe väärtuse teisega, näiteks c=a%b jagab m
 c = 5 % 3 // järelikult c = 2
 ```
 
-EPL keeles ei ole tõeväärtus tüüpi muutujat, seetõttu on loogikatehteid ainult juhtlausetes. Keeltes, kus on tõeväärus tüüpi muutujad on võimalik kasutada ja loogikatehteid, näiteks `c = a & b`, `c = true` kui a ja b on võrdsed ja `c = false` kui a ja b ei ole võrdsed. Loogikatehetest tuleb pikemalt juttu juhtlausete käsitlemisel.
+::: vananenud
+
+EPL keeles ei ole tõeväärtus tüüpi muutujat, seetõttu on loogikatehteid ainult juhtlausetes.
+
+:::
+
+Keeltes, kus on tõeväärus tüüpi muutujad on võimalik kasutada ja loogikatehteid, näiteks `c = a & b`, `c = true` kui a ja b on võrdsed ja `c = false` kui a ja b ei ole võrdsed. Loogikatehetest tuleb pikemalt juttu juhtlausete käsitlemisel.
 
 Tehete järjekord on osades programmeerimiskeeltes erinev ja osades samataoline: osad keeled teevad kõigepealt korrutamis- ja jagamistehted ning seejärel liitmis- ja lahutamistehted. Tehteid täidetakse vasakult paremale. Tehete järjekorda on võimalik määrata sulgudega (sulgude sees olevad tehted tehakse kõigepealt). Näiteks `c= a + a * b` on erinev tehtest `c = (a + a) * b`.
 
@@ -886,7 +892,7 @@ Näiteks `c += a` liidab muutuja c väätusele juurde muutuja a väärtuse (ehk 
 
 ### B.3.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Valik ja kordus
    – valiku puhul peab tingimuses olema &amp;- märk
@@ -904,13 +910,13 @@ Näiteks `c += a` liidab muutuja c väätusele juurde muutuja a väärtuse (ehk 
 
 :::
 
-## 1.6 Testimine
+## B.3.6 Testimine
 
 Selle alateema materjale läbi töötades õpid tundma testimise mõisteid, meetodeid ja vahendeid.
 
 ### B.3.6.1 Testimise tasemed, põhimõisted
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada testimise põhimõisteid: veavõimalus (fault), viga (error), tõrge (failure). Tuua välja kontrollimise, testimise ja silumise erinevad tasemed.
 
@@ -924,7 +930,7 @@ Logimiste tarbeks on loodud eraldi abivahendeid. Lihtsaim ja vanadest aegadest l
 
 ### B.3.6.2 Mitmesuguste testide eesmärgid ja teostus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada erinevate testimiste eesmärke ja ulatust: komponendi testimine, süsteemi testimine,vastuvõtueelne testimine.
 
@@ -948,7 +954,7 @@ Kirjeldada erinevate testimiste eesmärke ja ulatust: komponendi testimine, süs
 
 ### B.3.6.3 Testimise metodoloogiad. Automaatsed testimisvahendid
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja vahe staatilise ja dünaamilise testimismetodoloogia vahel ja loetleda automatiseeritud testimisvahendite näiteid
 
@@ -962,9 +968,9 @@ Mõnegi olukorra tekitamiseks on teinekord vaja päris palju ettevalmistusi, sel
 
 Automaatselt on võimalik testida ka kujunduse ning veebiühendusega seotud rakenduse osi. Programmikoodi ja seadistuste abil õpetatavad robotid suudavad täita ekraanivälju, saata andmeid ning kontrollida tulemusi. Nii on võimalik näiteks süsteemi platvormi vahetamisel rakenduse töövõime säilimiseks koostada testid olemasoleva rakenduse töö kohta. Pärast platvormivahetust tööle pandud uues süsteemis saab nende testide järgi kontrollida, kas see vastab samadele nõuetele kui vana – vähemalt loodud testide ulatuses. Samuti saab selliseid automaatteste pidada formaliseeritud dokumentatsiooniks mille kaudu tellija ja teostaja tehtavas kokku lepivad. Teostaja võib siis arvestada, et kui rakendus läbib kokkulepitud testid ning käitub ka muus osas vastavalt juhistele, siis saab ta oma töö valmiks lugeda.
 
-### 1.6.4 Kordamisküsimused
+### B.3.6 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Integratsioonitestimise puhul
    – kontrollitakse keelefailide korrektsust
@@ -988,7 +994,7 @@ Selle alateema materjale läbi töötades õpid tundma dokumentatsiooni tähtsus
 
 ### B.3.7.1 Dokumentatsiooni tüübid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada tarkvaraarendusel ja üleandmisel üldiselt levinud dokumentatsiooni, nt struktureeritud kirjeldus loomulikus keeles (structural English), otsustuspuud, UML kood, programmi kommentaarid, vooskeemid.
 
@@ -998,7 +1004,7 @@ Pea iga rakenduse juures on vaja mingil kujul dokumenteerida või mugavalt kätt
 
 ### B.3.7.2 Hästi struktueeritud ja dokumenteeritud koodi väärtus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada hästi dokumenteeritud ja –struktureeritud dokumentatsiooni väärtuslikkust.
 
@@ -1012,7 +1018,7 @@ Uuesti kirjutamine ei pruugi sugugi alati paha mõte olla ning seda ei tasu ka l
 
 ### B.3.7.3 Dokumentatsiooni muutused
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada kuidas fikseerida parandusi programmides ja programmi dokumentatsioonis.
 
@@ -1024,7 +1030,7 @@ Teiseks mooduseks on võimalikult suure osa dokumentatsiooni sidumine programmik
 
 ### B.3.7.4 Programmi haldust lihtsustavad vahendid – kommenteerimise reeglid, koodi läbivaatus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada programmi väärtuse säilitamist hoolduse abil, nagu koodi ülevaatamine, kommenteerimise reeglid, tehnilised viitedokumendid.
 
@@ -1036,7 +1042,7 @@ Programmikoodi aitab viisakama ning usaldatavamana hoida koodi läbivaatus ehk s
 
 ### B.3.7.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Süsteemi nõuete document:
    – juhendab kasutaja käitumist erisugustes olukordades
@@ -1058,7 +1064,7 @@ Selle alateema materjale läbi töötades õpid tundma koodinäidetega seotud ü
 
 ### B.3.8.1 Väikeste koodinäidete loomine määratud ülesande lahendamiseks
 
-::: warning Õppekava
+::: oppekava
 
 Tõlgendada programmilõiku etteantud hüpoteesi alusel.
 
@@ -1080,7 +1086,7 @@ Sealsedki näited on püütud teha suhteliselt mõistetavalt lühikeselt. Samas 
 
 ### B.3.8.2 Vigade leidmine ja parandamine nõuetele vastavuse saavutamiseks
 
-::: warning Õppekava
+::: oppekava
 
 Leida programmilõigus viga või puudus ja parandada see nõuete vastavaks.
 
@@ -1098,9 +1104,9 @@ Muutujate puhul – kas väärtus antakse ikka samanimelisele muutujale, kust se
 
 Andmetüüpide juures – kas vastav väärtus on deklareeritud tüübis korrektselt säilitatav.
 
-### 1.8.3 Kordamisküsimused
+### B.3.8 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 **Koodilõik**
 
@@ -1118,10 +1124,10 @@ s=s+m[i];
 
 Milline on muutuja s väärtus pärast koodilõigu läbimist?
 
-a – 0
-b – 17
-c – 13 X
-d – 12
+a – `0`
+b – `17`
+c – `13` X
+d – `12`
 
 **Koodilõik**
 
@@ -1136,15 +1142,14 @@ for(int i=1; i<3; i++){
 
 Mida peaks koodilõigus muutma, et tulemusena leitaks massiivielementide summa?
 
-a – rida 2 s=1;
-b – rida 3 for(int i=0; i<4; i++){ X
-c - rida 3 for(int i=0; i<3; i++){
-
-c – rida 2 s=-1;
+- rida 2 `s=1`
+- rida 3 `for(int i=0; i<4; i++){` X
+- rida 3 `for(int i=0; i<3; i++){`
+- rida 2 `s=-1;`
 
 :::
 
-## 1.9 Lisamaterjalid
+## Lisamaterjalid
 
 - Inga Petuhhovi konspektid:
 

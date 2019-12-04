@@ -1,26 +1,20 @@
 # A.4 Ülemaailmne majandusvõrgustik
 
-::: danger Vananenud materjal
-
-Tegu on oluliselt vananenud õppematerjaliga
-
-:::
-
 Selle teema materjale läbi töötades saad teadmised infoedastuses viimastel aastakümnetel toimunud hiiglasuurtest muutustest. Kasutades eri valdkondade näiteid nii igapäeva kui oluliste tegevuste puhul, selgitatakse on-line maailma toimimist.
 
-## A.4 Uued võimalused
+## A.4.1 Uued võimalused
 
 Selle alateema materjale läbi töötades saad teadmised infoühiskonnaga seotud uutest võimalustest.
 
-### A.4.1 Uued võimalused infoühiskonnas
+### A.4.1.1 Uued võimalused infoühiskonnas
 
-::: warning Õppekava
+::: oppekava
 
 Defineerida globaliseerumise mõiste ja sellest johtuvad võimalused ärile.
 
 :::
 
-::: danger Nõrk seos
+::: probleem
 
 Õppekava punkt ja õppematerjal on nõrgalt seotud. Globaliseerumise definitsiooni ei anta, teema käsitlus on hoopis õppematerjali punktis **_A.2_**
 
@@ -29,6 +23,8 @@ Defineerida globaliseerumise mõiste ja sellest johtuvad võimalused ärile.
 Informatsiooni- ja kommunikatsioonitehnoloogia (IKT, tihti kasutatav samaväärselt IT-ga) – sealhulgas Interneti – areng on teinud võimalikuks hulga teenuseid ja ärimudeleid, mis mõne aastakümne eest sugugi võimalikud ei olnud. Teabe kiire liikumine koos automatiseeritud andmetöötlusega lubab pakkuda hulgaliselt teenuseid arvuti ja teiste sidevahendite (nt mobiilid, tahvelarvutid, infokioskid jne) kaudu, mille jaoks veel hiljuti tuli ise kohale minna.
 
 Ning kui elektroonilisele andmesidele lisada veel arenenud postiteenistus (lisaks tavapostile, kullerteenus, automatiseeritud pakiteenus nagu Eestis nt SmartPost) füüsiliste esemete transpordiks, siis suudetakse enamik suuremat aega nõudnud toimetusi korda ajada kodust või kontorist lahkumata.
+
+::: vananenud
 
 Web 2.0 on tänaseks saavutanud küpsuse. Tegemist pole mitte järjekordse uue programmiga või tehnilise lahendusega. Pigem on tegemist mooduste ja tavadega, kuidas veebikeskkondi pruugitakse. Sotsiaalvõrgustikud nagu Facebook, Google+, Twitter, Foursquare jpt on üheks **Web 2.0** oluliseks eristajaks varasemast veebi kasutusest (ehkki mitte ainult nagu allpool juttu tuleb).
 
@@ -46,15 +42,17 @@ Vähemalt ideaalis, sest sellise infovahetuse kriitikud (eriti peavoolu meedias)
 
 Joonis 4-2. Kandle artikli tekkimine ja muudatused aja jooksul
 
+:::
+
 ### A.4.1.2 Veebiotsing
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada Interneti ärilist väärtust äriorganisatsioonidele.
 
 :::
 
-::: danger Nõrk seos
+::: probleem
 
 Õppekava punkt ja õppematerjal on nõrgalt seotud.
 
@@ -64,13 +62,13 @@ Veebis orienteerimiseks on asendamatuks muutunud otsinguvahendid, tuntumad neist
 
 ![](../images/a4_keywords.png)
 
-Joonis 4-3. Märksõnadega (ingl k keywords) veebilehe lähtekood
+_Joonis 4-3. Märksõnadega (ingl k keywords) veebilehe lähtekood_
 
 Lisaks märksõnadele on veel mitmeid võimalusi oma veebilehe otsimootorites kergemini leitavaks tegemisel, nt veebilehe optimeerimine (selle ümber on tekkinud terve teenusharu SEO e search engine optiomisation), kohakaardi (ingl k sitemap) lisamine, registreerimine erinevates otsimootorites ja temaatilistes kataloogides nagu Yahoo või www.ee (ootamata nendepoolset indekseerimist), ristviitamine teiste samalaadsete veebilehtedega jne.
 
 ### A.4.1.3 Ekstranet ja intranet
 
-::: warning Õppekava
+::: oppekava
 
 Intraneti ja ekstraneti kasutamine ärivaldkonnas.
 
@@ -84,17 +82,23 @@ Veebivahendid nagu ekstranet ja intranet aitavad internetitehnoloogiat kasutada 
 
 ![](../images/a4_tunniplaan.png)
 
-Joonis 4-4. Tallinna Ülikooli elektrooniline tunniplaan
+_Joonis 4-4. Tallinna Ülikooli elektrooniline tunniplaan_
 
 **Ettevõttesisene teabehaldus** ei pruugi sugugi füüsiliselt piirduda ühte majja ehitatud arvutivõrguga. Ikka kipuvad hooned linna peal laiali olema, harukontorid veelgi kaugemal. Turvaprotokollide abil luuakse virtuaalne privaatvõrk (ingl k virtual private network e VPN), kustkaudu saab andmeid vahetada pea sama turvaliselt nagu sisevõrgus. Ning nagu igasugu piirid kipuvad hajuma, siis kasutaja jaoks ei saa kuigivõrd eristada lihtsalt turvalise ühendusega (https) veebipõhist teabehalduslehestikku tehniliselt tugevamini lahutatud sisevõrgust.
 
 Peab küll nentima, et viimasel ajal on ekstraneti ja intraneti vahe hägustunud, sest mõlemad tähendavad organisatsiooni elektroonilistele ressurssidele kaugelt ligipääsu võimaldamist ja põhierinevus kipub piirduma ligilubatavate kasutajagruppidega.. Et ekstranet ja intranet kasutavad tavalise interneti võimalusi, hoitakse kulud madalal ja kasutajakeskkond ühetaolisena.
 
+::: vananenud
+
+### Uued tehnoloogiatrendid
+
 Uusi võimalusi pakkuvate tehnoloogiatrendide hulgas tasub mainida (ja huvi korral lähemalt uurida) ka **asjade interneti** (ingl Internet of Things) tärkavat kasvu võimaldavat Web 3.0 ehk semantilist veebi (kus seadmete omavaheline suhtlus muutub märksa levinumaks kui täna).
 
-### A.4.1 Kordamisküsimused
+:::
 
-::: tip Kordamisküsimused
+### A.4.2 Kordamisküsimused
+
+::: kordamiskusimused
 
 1. Web 2.0 puhul on tegemist uue…
 
@@ -118,15 +122,15 @@ Uusi võimalusi pakkuvate tehnoloogiatrendide hulgas tasub mainida (ja huvi korr
 
 :::
 
-## A.4. Protsesside muutmine üleminekul e-ärile.
+## A.4.2 Protsesside muutmine üleminekul e-ärile.
 
 ehk "Äri- ja turundustrendid uues majanduses".
 
 Selle alateema materjale läbi töötades saad teadmised äri- ja turundustrendidest uues majanduses.
 
-### A.4.1 Äri- ja turundustrendid uues majanduses
+### A.4.2.1 Äri- ja turundustrendid uues majanduses
 
-::: warning Õppekava
+::: oppekava
 
 E-äri olulisemad mõjurid organisatsioonidele.
 
@@ -144,23 +148,19 @@ Kui 1930-ndatel peeti loomulikuks, et iga talu kasvatas enamjaolt kõike, mida v
 
 ### A.4.2.2 Pilveraalindus
 
-::: warning Õppekava
+::: oppekava
 
 Kuidas kasutada IKT-d organisatsioonis muutuste läbiviimisel.
 
 :::
 
-::: danger Puuduv seos
+::: probleem
 
 Õppekava punkt ja õppematerjal pole omavahel seotud.
 
 :::
 
-::: danger Vananenud või ebapiisav sisu
-
-**_cloud computing_** vajab tunduvalt põhjalikumat käsitlust.
-
-:::
+::: vananenud
 
 Infotehnoloogia ja arvutivõrkude areng on toonud uued tuuled ka ettevõtlusesse. **Pilveraalindus** **_cloud computing_** on toonud arvutiressursside (serverid, andmebaasid, ärianalüütika) sisseostmise ka väikeettevõteteni. "Pilv" sisaldab nii taristut, platvorme kui ka rakendusi, mida kasutatakse erinevate vahenditega (nagu illustreerib allolev joonis).
 
@@ -168,17 +168,19 @@ Kui tavakasutajale tuttavaks **pilveraalinduse** – sisulisel kõikjalt kasutat
 
 ![](../images/a4_cloud.png)
 
-Joonis 4-5. Pilveraalinduse komponentide ülevaade (diagrammi autor: Sam Johnston, allikas: [Wikipedia](http://en.wikipedia.org/wiki/File:Cloud_computing.svg)) Allikas: [http://en.wikipedia.org/wiki/File:Cloud_computing.svg](http://en.wikipedia.org/wiki/File:Cloud_computing.svg) Litsents: CC Attribution-Share Alike 3.0 Unported)
+_Joonis 4-5. Pilveraalinduse komponentide ülevaade (diagrammi autor: Sam Johnston, allikas: http://en.wikipedia.org/wiki/File:Cloud_computing.svg)_
+
+:::
 
 ### A.4.2 IT rakendamine teistes valdkondades
 
-::: warning Õppekava
+::: oppekava
 
 Kuida luua tõhus klienditeenindus ja hallata e-äris kliendisuhtlust.
 
 :::
 
-::: danger Puuduv seos
+::: probleem
 
 Õppekava punkt ja õppematerjal pole omavahel seotud.
 
@@ -188,43 +190,73 @@ Infotehnoloogia kasutamine kõigis majandus- ja sotsiaalvaldkondades (haridus, t
 
 Eestis on heaks näiteks ja eestvedajaks olnud riik, mille e-teenused (ID-kaart, digiallkiri, e-maksuamet, e-valimised jne) on tähelepanu tõmmanud ka rahvusvaheliselt. Tehnoloogia tõeline potentsiaal vallandub siiski alles selle laiema levikuga kõikidesse elu- ja ärivaldkondadesse. Tänu IT-le võivad mõned uutest firmadest sündidagi globaalseina, st erinevalt tööstusajastu ärimudelist ei pea laienema füüsiliste asukohtade haaval (nagu nt poeketid). Heaks näiteks on siin Skype, mis sünni hetkest on ülemaailmselt kasutatav.
 
-## A.4. Globaliseerumine
+## A.4.3 Kliendikesksus ja virtuaalsed organisatsioonid (Globaliseerumine?)
+
+::: probleem
+
+Õppematerjalid ja õppekava sisu ei lähe kokku
+
+**A.4.3 Kliendikesksus ja virtuaalsed organisatsioonid.**
+
+**A.4.3.1**
+
+Tuua välja virtuaalorganisatsiooni määratlus ja selgitada, kuidas virtuallsed oranisatsioonid toimivad.
+
+**A.4.3.2**
+
+Kirjeldada, kuidas IKT võib muuta organisatsiooni piire ja kuidas seda saab kasutada organisatsiooni paindlikumaks muutmisel.
+
+**A.4.3.3**
+
+Määratleda unikaalse kliendi mõiste ja tuua välja selle mõju tehnoloogiale.
+
+:::
 
 Globaliseerumine on osaliselt infotehnoloogia arengu tulemus, ja samas IT levik omakorda võimendab üleilmastumist. Ühest küljest aitab info leviku lihtsustumine ja kiirenemine traditsioonilist äri piiriüleselt paremini teha (vrd kasvõi e-kirja saatmise kiirust tavakirjaga) ja teisalt on see loonud võimalused täiesti uute ettevõtlusharude, toodete ja teenuste sünniks. Uued võimalused ei piirdu ammu enam kiirema suhtlusega, vaid võimaldavad kliendibaasi laiendamist üle regiooni või isegi maailma (nagu nt ennist mainitud Skype), meeskonnatööd üle eri ajavööndite, oskustööjõu kasutamist ilma seda füüsiliselt kohale toomata, aga ka klientide kaasamist toote või teenuse arendamisse.
 
-### A.4.1 Rahvahange
+#### Rahvahange
 
-Rahvahange (ingl k crowdsourcing) tähendab kliendi kaasamist toote või teenuse arendamisse. Varemgi toimus see kasutajate tagasiside põhjal ning varajasemas väljatöötamise faasis ka fookusrühmades ning muudes kontrollitud keskkondades. Uuel sajandil on avatud innovatsiooni märksõna alla koondatud firmade tegevused, kus nad ideede ja nende väljaarendamise saamiseks pöörduvad organisatsioonist väljapoole.
+Rahvahange ehk **_crowdsourcing_** tähendab kliendi kaasamist toote või teenuse arendamisse. Varemgi toimus see kasutajate tagasiside põhjal ning varajasemas väljatöötamise faasis ka fookusrühmades ning muudes kontrollitud keskkondades. Uuel sajandil on avatud innovatsiooni märksõna alla koondatud firmade tegevused, kus nad ideede ja nende väljaarendamise saamiseks pöörduvad organisatsioonist väljapoole.
 
 See võib toimuda nii ideekonkursi, teenuse väljaarendamise kui prototüübi katsetamise näol. Näiteks kui Lego tahtis välja töötada oma järgmise põlvkonna Mindstorm robootikakomplekti, pöördus ta entusiastide poole, kes panustasid oma teadmiste ja ajaga Mindstorm NXT sündi. Kogemus oli niivõrd edukas, et praeguseks on Lego muutnud mänguklotside fännide kaasamise tootearendusse süsteemseks, oma LegoDesignByMe nimelises veebikeskkonnas.
 
 Vaata muid rahvahanke näited veebis olevast loetelust aadressil [http://www.openinnovators.net/list-open-innovation-crowdsourcing-examples/](http://www.openinnovators.net/list-open-innovation-crowdsourcing-examples/).
 
-Samm eelnevast edasi on rahvahankel tuginevate **uute ärimudelite sünd**. Nii on esile kerkinud vahendajad, kes loovad keskkonna selleks, et tootearendajad ja tegijad kokku tuua. Huvitavaks näiteks on pioneer graafilise disaini valdkonnas 99design.com, kus logo, visiitkaardi, veebikujunduse vms tellija paneb soovitu saamiseks välja konkursi ja määrab ise hinna, mis ta on nõus selle eest maksma. Selle peale kujundajad üle maailma hakkavad kavandeid pakkuma. Soovitu mitteleidmisel saab tellija raha tagasi. Nii see kui paljud teised rahvahanke tööriistad on alguse või vähemalt inspiratsiooni saanud sotsiaalvõrgustike suhtluskeskkondadest.
+Samm eelnevast edasi on rahvahankel tuginevate **uute ärimudelite sünd**. Nii on esile kerkinud vahendajad, kes loovad keskkonna selleks, et tootearendajad ja tegijad kokku tuua. Huvitavaks näiteks on pioneer graafilise disaini valdkonnas https://99designs.com/, kus logo, visiitkaardi, veebikujunduse vms tellija paneb soovitu saamiseks välja konkursi ja määrab ise hinna, mis ta on nõus selle eest maksma. Selle peale kujundajad üle maailma hakkavad kavandeid pakkuma. Soovitu mitteleidmisel saab tellija raha tagasi. Nii see kui paljud teised rahvahanke tööriistad on alguse või vähemalt inspiratsiooni saanud sotsiaalvõrgustike suhtluskeskkondadest.
 
-### A.4.2 Suhtluskeskkonnad
+#### Suhtluskeskkonnad
+
+::: vananenud
 
 Arvutivõrgu kaudu toimivaid keskkondi mõistab kindlasti igaüks päris mitu üles lugeda. Hulgi on meelelahutus- ja suhtlusportaale ning alati polegi võimalik täpset vahet teha, kus läheb meelelahutusega seotud suhtlus üle erialaseks/hobialaseks suhtluseks. Erialainimeste võrgustikud (nt LinkedIn) on heaks näiteks, kus ühendatakse meeldiv kasulikuga. Laiema levikuga on loomulikult kindla fookuseta suhtluskeskkonnad nagu äärealadele tõrjutud Orkut, selle kannul hiigelsuureks kasvanud Facebook või hilisem tulija, ent mitte väiksema kasvupotentsiaaliga Google+.
 
 ![](../images/a4_garage.png)
 
-Joonis 4-6. Alustavate ettevõtete 48 tunni jooksul loomise ürituse Garage48 lehekülg Facebooki suhtluskeskkonnas
+_Joonis 4-6. Alustavate ettevõtete 48 tunni jooksul loomise ürituse Garage48 lehekülg Facebooki suhtluskeskkonnas_
 
 Lisaks on Web 2.0 suhtlusvõrgustike ajastule omaseks saanud mitmed spetsiifilisemad kasutajate vahelist suhtlust ja kogemuste vahetamist hõlbustavad vahendid (vt põhjalikumat kataloogi lehel [http://www.go2web20.net/](http://www.go2web20.net/)) nagu lühisõnumitele spetsialiseerinud Twitter, kasutaja asukohale ja selle ümbruskonna infole üles ehitatud Foursquare ja Gowalla, pildijagamiseks mõeldud Flickr ja Picasa, ajaveebi tööriistad Blogger ja Wordpress jpt. Nende keskkondade esiletõus on oma mõju avaldanud ka ettevõtlusele.
 
+:::
+
 #### Sotsiaalvõrgustikud turunduses
+
+::: vananenud
 
 Sotsiaalvõrgustike kasvades sai üsna kiiresti selgeks, et firmad saavad neist kasu lõigata oma **toodete ja teenuste tutvustamisel**. Nii on seal kasutusele võetud nii gerilja-marketingi (st kui reklaam ei ole otseselt kokku viidav reklaamijaga) võtted kui ka otseturunduse meetodid. Varasemate lahendustega võrreldes on eeliseks interaktiivsus – võimalus suhelda kliendiga otse, mitte massimeedia vahendusel. Seega annavad uued kanalid võimaluse mitte ainult enda tutvustamiseks ja tagasiside saamiseks, vaid ka oma kliendi ja tema soovide tundma õppimiseks.
 
 Kasutajaprofiilide andmete põhjal on reklaame võimalik veelgi täpsemalt suunata. Nii on Groupon'i eeskujul loodud paljudele odavpakkumiste jahtijale Eestis tuttavaks saanud ja poole aastaga 100 miljoni kroonise turuväärtusega firmaks tõusnud Cherry.ee eelkõige turunduskeskkond, mille tegelikeks klientideks (ja tulu allikaks) on turunduseelarvet sinna ümber suunavad sooduspakkumisi tegevad firmad. Näiteks on Groupon'i vahendustasu tehingu hinnast tavaliselt 50%, aga võib kohati ulatuda 90%-ni – sellisel juhul pole soodustuse pakkuja vaatenurgast tegemist enam kauba või teenuse allahindlusega, vaid turunduskuluga kliendi saamiseks.
 
+:::
+
 #### Õpikeskkonnad
+
+::: vananenud
 
 Omaette valdkond on elektroonilised õpikeskkonnad – olles alates lihtsast abivahendist õppematerjalide kättesaadavaks tegemisel või õpilaste küsimuste/kodutööde kokkukogumisel omaette väikeste maailmadeni, kus saab gruppidena arutleda ja arutluse tulemusi süstematiseerida. Seal on simulatsioonivahendid seadmete ja seoste tundmaõppimiseks. Samuti on õpikeskkonnas võimalik koguda automaatset statistikat õppurite käitumise kohta ja seda edasise kursuse kavandamisel arvestada.
 
 ![](../images/a4_iva.png)
 
-Joonis 4-7. E-õppematerjalid IVA õpikeskkonnas
+_Joonis 4-7. E-õppematerjalid IVA õpikeskkonnas_
 
 1990-ndate aastate jooksul arenesid välja mitmed **terviklikud õpikeskkonnad** , kus oli püütud sihtgrupi õppurite kõik võimalikud mured lahendada. Sellised süsteemid võisid saada küllaltki täiuslikuks. Kuid probleemiks osutus õppematerjalide ja muude andmete nihutamine ühest süsteemist teise (e migreerimine). Selline vajadus kipub tekkima nii koolide ühinemise, litsentsitingimuste muutumise kui näiteks riistvaraliste võimaluste täienemise/kokkukuivamise puhul. Samuti oludes, kus koostatud kursusi soovitakse muutunud mahus mujal õpetada.
 
@@ -248,9 +280,11 @@ XML-põhise standardi näide:
 </topicMap>
 ```
 
-### A.4.5 Kordamisküsimused
+:::
 
-::: tip Kordamisküsimused
+### A.4.3 Kordamisküsimused
+
+::: kordamiskusimused
 
 1. Globaliseerumise peamine mõju IT vallas on see, et …
 
@@ -283,11 +317,11 @@ XML-põhise standardi näide:
 
 :::
 
-## 3. Uued mehhanismid ja struktuurid äris
+## A.4.4 Uued mehhanismid ja struktuurid äris
 
 Selle alateema materjale läbi töötades saad teadmised uutest mahhanismidest ja struktuuridest aris.
 
-### 3.1 Uued mehhanismid ja struktuurid äris
+### 4.4.1 Ressursside ligipääs ja kaugtöö
 
 Infotehnoloogia pakub palju võimalusi **organisatsiooni paindlikkuse suurendamiseks**. Üheks võimaluseks on rutiinsete tööde automatiseerimine, mis vabastab inimesed teiste keerukamate ja loovamate tööde tegemiseks. Sõltuvalt töö iseloomust võivad nendeks rutiinsemateks töödeks olla tüüpkirjade masspostitus kontoritöös, laomajanduse korrastamine klassifikaatorite abil või tootmisliini kiire ümberhäälestamine eelprogrammeeritud parameetrite alusel.
 
@@ -295,7 +329,7 @@ Omamoodi automatiseerimine on organisatsioonivälistele tööprotsessi osalistel
 
 Organisatsiooni paindlikkust suurendab ka **kaugtöö** võimalus (ametites, kus see kohane). Seda näiteks personalivärbamise mõttes laiendades haaret geograafiliselt ja suurendades võimalike kandidaatide hulka, aga ka pakkudes seeläbi töötajatele temale sobivaimat lahendust töö tulemusse panustamisel. Tasub arvestada ka kokkuhoidu kontorikuludelt kuna kaugtöö puhul langeb tihtipeale ära vajadus sisustada töökoht ettevõtte pinnal.
 
-**Virtuaalorganisatsioon**
+#### Virtuaalorganisatsioon
 
 Peetakse loomulikuks, et küla väikesesse autoteenindusse minnes ei suudeta seal uusima automudeli kõiki elektritöid teha. Aga "uue majanduse" puhul ei pruugi enam sellist piirangut ees olla. Kui külateeninduses on käepärast tööpink, mille robotkäsi saab kaugelt juhtida, siis hea korralduse puhul võiks kohalik remondimeister keerukamate lõikude jaoks suhteliselt kergesti abi paluda firma mujal asuva esinduse kogenud töölistelt, et mõni keerukam seadistus lasta neil teha. Tavalise keevitamise ja kruvimisega saadakse ka kohapeal hakkama. See on üks näide virtuaalsest organisatsioonist.
 
@@ -317,9 +351,9 @@ Tehnoloogia rakendamine avardab organisatsiooni tegevusvõimalusi märgatavalt. 
 
 Eelkõige suhtlemist lihtsustavad ja kiiremaks teinud tehnoloogiad **on toonud maailma lähemale** igale ettevõttele. Mõned majandusharud on selle tulemusel hakanud toimima ülemaailmse ühisturuna (nt finants), mõned tunnetavad globaliseerumist konkurentsi tihenemisena, ent paljud lõikavad turuvõimaluste kasvamisest kasu laiendades kliendibaasi, mitmekesistades tarnijatevõrku või pääsedes ligi uutele teadmistele.
 
-### 3.2 Kordamisküsimused
+### A.4.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. E-äri laialdane levik …
 
@@ -343,7 +377,7 @@ Eelkõige suhtlemist lihtsustavad ja kiiremaks teinud tehnoloogiad **on toonud m
 
 :::
 
-## A.4. Ettevõtte rakendused
+## A.4.4 Ettevõtte rakendused
 
 Selle alateema materjale läbi töötades saad teadmised ettevõtte rakendustest.
 
@@ -358,7 +392,7 @@ Organisatsiooni IT juhtimiseks on oluline omada tervikpilti organisatsiooni äri
 
 ![](../images/a4_arhitektuur.png)
 
-Joonis 4-8. Ettevõtte arhitektuur ja rakenduste koht selles (Autor: Ants Sild, Baltic Computer Systems AS, 2011)
+_Joonis 4-8. Ettevõtte arhitektuur ja rakenduste koht selles (Autor: Ants Sild, Baltic Computer Systems AS, 2011)_
 
 Infotöötluse iseloomu järgi jagunevad rakendused kahte peamisesse gruppi:
 
@@ -376,12 +410,6 @@ Ettevõtte rakendusi saab liigitada veel arenduse- ja kasutuse tüübi järgi:
 
 Pakett-tarkvarade eelised:
 
-::: danger Kallutatud info
-
-Välja pole toodud kõigi kolme tarkvara kasutustüübi (spetsiaalrakendused, pakettarkvara, **_SaaS_**) eeliseid ja puudusi
-
-:::
-
 - suur(em) installatsioonibaas
 - reeglina paremini testitud
 - hinnalt spetsiaalarendusest reeglina soodsam (võrreldava funktsionaalsuse korral)
@@ -397,7 +425,7 @@ Levinuimad ettevõtete ärirakenduste paketid on:
 
 ### A.4.4.1 Kliendihaldussüsteemid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kliendihaldussüsteemi eesmärki ja kasutamise võimalusi.
 
@@ -419,7 +447,7 @@ CRM-i kolm põhivaldkonda on:
 
 ### A.4.4.2 Tarneahela juhtimise süsteemid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada tarnekanalite halduse süsteemide eesmärki ja kasutamise võimalusi.
 
@@ -429,7 +457,7 @@ Tarneahela hõlmab endasse tooraine, pool- ja valmistoodete liikumist ja ladusta
 
 ![](../images/a4_tarneahel.png)
 
-Joonis 4-9. Tarneahela põhimõtteline skeem (Autor: Ants Sild)
+_Joonis 4-9. Tarneahela põhimõtteline skeem (Autor: Ants Sild)_
 
 Tarneahela juhtimine **_Supply Chain Management_** / **_SCM_** http://en.wikipedia.org/wiki/Supply_chain_management) kujutab endast toote või teenuse tootmise ja lõpptarbijale tarnimisega seotud äriüksuste tegevuse koordineeritud juhtimist eesmärgiga tõsta ahela kui terviku ja kõigi tema liikmete efektiivsust ja nende poolt loodavat väärtust.
 
@@ -536,7 +564,7 @@ _Joonis 4-11. Majandustarkvarad Eesti ettevõtetes käibega üle 50 miljoni kroo
 
 ### A.4.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Vajaduse kliendihaldustarkvara (CRM) kasutuselevõtuks tingib …
 

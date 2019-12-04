@@ -1,11 +1,5 @@
 # B.4 Kasutajaliides ja veebidisain
 
-::: danger Vananenud materjal 
-
-Tegu on oluliselt vananenud õppematerjaliga
-
-:::
-
 Selle teema materjale läbi töötades õpid tundma kasutajaliidese ja veebidisaini põhimõtteid.
 
 ## B.4.1 Inimese ja arvuti vastasmõjud: juhtnöörid ja standardid
@@ -14,7 +8,7 @@ Selle alateema materjale läbi töötades õpid tundma vastasmõjude võimalusi 
 
 ### B.4.1.1 Kommunikatsiooniteooria põhimõisted: saatja, sõnum, vastuvõtja
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda kommunikatsiooniteooria põhimõisted: saatja, sõnum, vastuvõtja.
 
@@ -68,7 +62,7 @@ Kasulik teada: [http://en.wikipedia.org/wiki/Shannon-Weaver_model](http://en.wik
 
 ### B.4.1.2 Kommunikatsioon ja informatsiooni edastamise efektiivseimad viisid
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada, kuidas kommunikatsioon toimub ka inimeste vahel ja tuua välja tõhusamad teabe edastamise meetodid.
 
@@ -78,11 +72,7 @@ Selles peatükis tutvud info edastamise võimalustega tsüklilise protsessina.
 
 #### Osgood-Shramm'i mudel
 
-::: danger Nõrgalt seostatud õppematerjal
-
-Raske on näha seost Osgood-Shramm'i mudeli ja kasutajaliideste disaini vahel.
-
-:::
+::: vananenud
 
 ![](../images/b4_osgood.png)
 
@@ -94,13 +84,11 @@ W.Shrammi poolt koostatud kommunikatsiooni definitsioonide ülevaade näitas, et
 
 Mudeli kriitikat võimaldab asjaolu, et see jätab mulje kommunikatsioonipoolte "võrdväärsusest". Tihti aga on protsess balansseerimata, eriti kui on tegemist massikommunikatsiooniga. Siin ei ole saatja ja vastuvõtja kuigi võrdsed kommunikatsiooni osapooled ning mudel, mis näitab neid ühe ahela lülidena, ei kajasta adekvaatselt nende rolli kommunikatsiooniprotsessis.
 
+:::
+
 #### Info edastamine internetis
 
-::: danger Liiga tehniline õppematerjal
-
-TCP protokollile keskendunud materjal tundub visuaalses ja kasutakeskses peatükis raskepärane ja liiga tehniline, sobides rohkem halduspeatükkidesse.
-
-:::
+::: vananenud
 
 ![](../images/b4_infoedastamine.png)
 
@@ -124,9 +112,11 @@ TCP lõhub info tükkideks ja nummerdab neid selleks, et vastuvõtmisel oleks v�
 
 TCP-protokolli jaoks ei ole tähtsust, milliseid teid mööda info internetis reisib. See on IP-protokolli ülesanne. Igale saadud info kogumile lisab IP abiinfo, mis sisaldab saatja ja saaja andmeid. Töö sarnaneb postisaadetise saatmisele, kui saadetis pannakse ümbrikusse ja ümbrikule kirjutatakse saaja ja saatja aadressid. Nüüd tagab IP-protokoll, sarnaselt tavalisele postiteenusele, kõikide pakettide saabumise saajale. Erinevate saadetiste teekonnad ja saabumise kiirused võivad olla erinevad. Internetti kujutatakse tihti hajuva pilvena. Te ei tea info liikumise teekonda, aga õigesti vormistatud IP-paketid jõuavad alati kohale.
 
+:::
+
 ### B.4.1.3 Kasutajaliides ja selle erinevad tüübid (tekstiline, graafiline, heliline)
 
-::: warning Õppekava
+::: oppekava
 
 Defineerida kasutajaliides ja loetleda liideste liike, näiteks tekst, graafika, heli (auditory).
 
@@ -136,39 +126,39 @@ Arvutisüsteemidel on mitmeid erinevaid tüüpi liideseid. Tehnilised liidesed v
 
 Üldise mõistena on kasutajaliides vahend, mis võimaldab inimesel suhelda masinaga ehk kõik, mida näeme, kuuleme, tunneme. Teised süsteemi osad on harilikult varjatud. Masinaks võib olla nii arvuti, telefon, auto või mistahes elektroonikaseade. Arvutisüsteemi kasutajaliidese välisteks komponentideks loetakse ka ekraani, klaviatuuri, hiirt. Nendeks võivad olla näiteks kõlarid, mikrofon, spetsiaalsed nupud või puutetundlikud seadmed, millelt signaale vastu võetakse. Kasutajaliidese all võib mõista ka sisend- ja väljundseadmeid: ühelt poolt on vaja vahendeid, mis võimaldavad arvutile käske edastada, ning teiselt poolt vahendeid, mis võimaldavad arvuti poolt teostatud operatsioonide tulemust tajuda.
 
-#### Graafiline kasutajaliides ***Graphical User Interface*** / ***GUI***
+#### Graafiline kasutajaliides **_Graphical User Interface_** / **_GUI_**
 
-Tänapäeva arvutites on enimlevinud kasutajaliidese tüübiks graafiline kasutajaliides, kuna see lihtsustab programmide kasutamist ning võimaldab kuvada graafikat. GUI komponendid on kuvaril liikuv kursor, osutusseade (harilikult hiir), klaviatuur, ikoonid, aknad ja rippmenüüd. Uuemat tüüpi kasutajaliidese seadmed on veel puutetundlik ekraan, puutelaud, krihvel (stylus), teleripult, millega saab teksti töödelda, joonistada, navigeerida. Viimased on aga praeguse tehnoloogiaga halvasti integreeritud ja võimalused alles kasutamata. Tuntumad graafilise kasutajaliidesega operatsioonisüsteemid on Windows ja Macintosh.
+Tänapäeva arvutites on enimlevinud kasutajaliidese tüübiks graafiline kasutajaliides, kuna see lihtsustab programmide kasutamist ning võimaldab kuvada graafikat. GUI komponendid on kuvaril liikuv kursor, osutusseade (harilikult hiir), klaviatuur, ikoonid, aknad ja rippmenüüd. Uuemat tüüpi kasutajaliidese seadmed on veel puutetundlik ekraan, puutelaud, **krihvel** **_stylus_**, teleripult, millega saab teksti töödelda, joonistada, navigeerida. Viimased on aga praeguse tehnoloogiaga halvasti integreeritud ja võimalused alles kasutamata. Tuntumad graafilise kasutajaliidesega operatsioonisüsteemid on Windows ja Macintosh.
 
 ![](../images/b4_osx.png)
 
 _Joonis 4-3. Mac OS X operatsioonisüsteemi graafiline kasutajaliides_
 
-#### Käsurealiides ***Command Line Interface*** / ***CLI***
+#### Käsurealiides **_Command Line Interface_** / **_CLI_**
 
 Käsurealiides on operatsioonisüsteemi või rakendusprogrammi liides, millele saab klaviatuurilt reahaaval käske trükkida. Kui kursor on ekraanil, tuleb käsk trükkida ning edastada see arvutile sisestusklahvi (enter) abil. Pärast ühe käsu täitmist saab sisestada järgmise. Käsurealiidese osadeks on seega vähemalt klaviatuur ja kursor.
 
 ![](../images/b4_terminal.png)
 
-**Joonis 4-4. Käsurealiides**
+_Joonis 4-4. Käsurealiides_
 
-### 1.3.3 Veebiliides
+#### Veebiliides
 
 Ainult veebikeskkonnas töötavate rakenduste kasutajaliideste puhul sõltub lõppkasutaja arvuti operatsioonisüsteemist ainult osa komponente, näiteks nuppude või dialoogiakende välimus. Ülejäänud elementide kujundamise võimalused on piiratud veebisirvijate võimekusega.
 
 Tänapäeval räägitakse kasutajaliideste disainist valdavalt just veebiliideste loomise kontekstis.
 
-### 1.3.4 Hääleliides (voice user interface e. VUI)
+#### Hääleliides (voice user interface e. VUI)
 
 Häälrakenduste juures on menüüde asemel kuuldavad instruktsioonid, mis on varem salvestatud või reaalajas kõnesüntesaatoriga tekitatud. Samuti reageerib liides kasutaja häälkäsklustele. Hääleliides on populaarne mobiilsetes seadmetes, mille kasutamise ajal võivad käed mõne muu tegevusega hõivatud olla. Hääleliidesed ei ole seni veel kuigi populaarseks muutnud ning puudub tehnoloogia, kus arvuti saaks tervikuna inimkõnest aru. Käskude andmine rääkides võib osutuda väsitavamaks kui ekraanil hiirega klõpsimine, sest viimasel juhul saab teha paralleelselt rohkem toiminguid.
 
-### 1.3.5 Käsiliides
+#### Käsiliides
 
 Käsiliidese puhul on arvutile võimalik käske anda käeliigutustega. Tegemist on alles tulevikus laiemat kasutamist leidva tehnoloogiaga. Selle rakendamist on katsetatud näiteks virtuaalse reaalsuse kolmemõõtmelises graafikakeskkonnas, milles süsteem oskab teatud hulka liigutusi eristada. Kasutaja saab käeliigutuste abil otse objektidega suhelda, neid valida ja liigutada, samuti menüüvalikuid teha ja kursorit liigutada.
 
 ### B.4.1.4 Erinevad kommunikatsioonitehnoloogiad (helid, visuaalsed metafoorid, digitaalsed lõhnad, kompamine)
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja tehnoloogilised vahendid , millega saab infot edastada, näiteks helivahendid, tüübid, nähtavad kujundid, digitaalsed lõhnad, haptilisus/liikumine.
 
@@ -184,9 +174,9 @@ Vähemlevinud on kasutajaliidesed, mis kasutavad inimeste puutetundlikkust. Näi
 
 Uued väljakutsed on seotud meie lõhna- ja maitsetajudega. Tänapäeval on juba olemas tehnoloogia ja seadmed lõhna edastamiseks internetis. Sisuliselt on tegemist kõlari sarnase seadmega, mis ühendatakse arvutiga USB liidese abil ning mis produtseerib erinevaid lõhnu umbes samamoodi nagu tindiprinter kannab paberile erinevaid värve. Lõhnaseadmes on kassett rohkem kui saja erineva kemikaaliga, millest elektrooniliselt edastatud valemi abil koostatakse unikaalne lõhn. Piiranguks sellise tehnoloogia laiemaks levikuks on praegu hind – vastavad seadmed ja lõhnakassetid ei ole kodukasutajale veel taskukohased. Lisaks on piiratud ka edastatavate lõhnade nüansirikkus – kõrgetasemelisi parfüüme ja eripäraseid toidulõhnu täna veel edastada ei saa.
 
-## B.4.1.5 Kasutajaliidese efektiivsuse testimine võrdluses nõuete ja eesmärkidega
+### B.4.1.5 Kasutajaliidese efektiivsuse testimine võrdluses nõuete ja eesmärkidega
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda kasutajaliidese tõhususe testimiseks sobivad disainieesmärkidele vastavad mudelid.
 
@@ -232,6 +222,8 @@ Kasutatavuse efektiivsuse mõõtmise meetodid:
 - Veatolerantsus – Testimisel tuleb kasutada stsenaariume, mis tõenäoliselt põhjustavad vigu.
 - Õpitavus – Valige hoolikalt testrühma liikmeid (erinevate kogemuste, oskuste ja ootustega) ja kontrollige testimisel abimaterjalide kasutamist.
 
+::: vananenud
+
 #### Rahvusvahelised standardid
 
 Interaktiivsete süsteemide valdkonnas on kehtestatud rahvusvahelisi standardeid, millede hulgas on ka kasutajaliideste väljatöötamisega seonduvaid:
@@ -241,9 +233,11 @@ Interaktiivsete süsteemide valdkonnas on kehtestatud rahvusvahelisi standardeid
 - **ISO 9241**: Ergonoomilised nõuded kontoritööle visuaalsete kuvaterminalidega – sätestab juhised töö nõuetele, töökeskkonnale, kasutatavusele, informatsiooni esitlusele (sh. näiteks käskude grupeerimine menüüs); nõuded kuvaritele, klaviatuuridele ja teistele sisendseadmetele, tööjaama planeeringule ja kehahoiakule, peegeldusega kuvaritele, kuvatavatele värvustele.
 - **ISO/IEC 9126**: Tarkvara projekteerimine – tootekvaliteet.
 
-# B.4.1 Kordamisküsimused
+:::
 
-::: tip Kordamisküsimused
+### B.4.1 Kordamisküsimused
+
+::: kordamiskusimused
 
 1. Mis teeb kommunikatsiooni edukaks?
 
@@ -277,7 +271,7 @@ Selle alateema materjale läbi töötades õpid tundma graafilise disaini põhim
 
 ### B.4.2.1 Joonised, pildid, värvid ja animatsioonid – peamised graafilise disaini põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja graafika ja animatsiooni mõisted ja edastuskuju (raster, vektor), digitaalaudio ja –video ja näidata nende erisusi, kasutamist ja standardformaate.
 
@@ -333,7 +327,7 @@ rgb(255,255,255); /* Valge */
 
 **Joonis 4-8. Veebivärvide määramine graafikaprogrammis**
 
-# 2.3 Graafika
+#### Rastergraafika
 
 Andmete graafiline kuju realiseeriti esmakordselt eelmise sajandi 50-ndate keskel suurtel arvutitel, mida kasutati teadustöös ja militaarsetes uuringutes. Sellest ajast on andmete graafiline esitusviis muutunud arvutisüsteemi, eriti personaalarvuti, lahutamatuks osaks.
 
@@ -371,7 +365,7 @@ Rastergraafika puudused:
 
 **Joonis 4-10. Vektorgraafika on sama kvaliteediga kõikides suurustes. Allikas: http://www.barcode-us.com/digital/graphicFiles.html**
 
-## 1.6.2 Vektorgraafika
+#### Vektorgraafika
 
 Vektorgraafika elementaarühikuks on joon (sirge või kõver). Kujutised ehitatakse joontest ja kõik parameetrid määratakse arvude ja valemitega koordinaatsüsteemi suhtes (joone pikkus, nurk telgede suhtes; ringjoone keskpunkti koordinaadid, selle raadius; valem kõvera kirjeldamiseks). Kujutise suurendamisel või vähendamisel arvutatakse kõik parameetrite väärtused uuesti, tänu millele pildi kvaliteet ei muutu.
 
@@ -405,13 +399,17 @@ Kasutades JPEGi võib saada 10–500 korda väiksema faili kui TIFF! Formaat rii
 
 JPEGga pakkides annavad parema tulemuse fotod, sest nendes on rohkem värviüleminekuid, logode ja skeemide ühevärvilistel pindadel võivad tekkida häired. Paremini pakitakse suurema lahutusvõimega (200–300 ja rohkem dpi) kujutisi kui väiksema resolutsiooniga (72–150 dpi) pilte. Suurema resolutsiooniga failis on üleminekud pehmemad, sest töödeldavaid 9x9 ruute on rohkem. JPEG-formaadis tuleb salvestada vaid töö lõplik variant, sest iga salvestamisega läheb kaduma andmeid.
 
-##### (Tagged Image File Format)
+::: vananenud
+
+##### Tagged Image File Format
 
 Riistvarast sõltumatu formaat TIFF on tänapäeval üks kõige rohkem kasutatavatest ja turvalisematest formaatidest, seda toetavad praktiliselt kõik graafikaga seotud programmid PC ja Macintosh arvutitel. TIFF on parim valik rastergraafika importimisel vektorgraafika- ja küljendusprogrammidesse. Salvestada saab kõike värvimudeleid: must-valge, RGB, CMYK ja samuti Pantone lisavärvid. TIFF saab salvestada Photoshopi vektoreid, Alfa-kanaleid maskide loomisel Adobe Premiere'i videoklippides ja palju muid andmeid. On olemas kaks TIFF-formaadi liiki: PC ja Macintoshi jaoks. Põhjuseks on see, et protsessorid Intel ja Motorola kasutavad erinevat arvude esitusviisi. Reeglina loevad graafikaprogrammid mõlemat liiki formaati. Kõige suuremaks probleemiks on LZW-pakkimine, mida TIFF vahest kasutab. Rida programme (näiteks, QuarkXPress 3.x ja Adobe Streamline) selliseid faile lugeda ei oska, pealegi nende printimine võib võtta rohkem aega.
 
+:::
+
 ### B.4.2.2 Piltide ja värvide kasutamine
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada jooniste, piltide, värvide, animatsiooni kasutamist ja graafilise disaini põhireeglite nagu tasakaal (balance), kooskõla (harmony), kontrastsus, varieeruvus (variety) arvestamist.
 
@@ -466,7 +464,7 @@ Antud reegel kehtib pealmiselt kompositsiooni dominantvärvidele. Nii asendati t
 
 ### B.4.2.3 Pilditöötlemise vahendid
 
-::: warning Õppekava
+::: oppekava
 
 Kasutada üldlevinud pilditöötlusvahendeid lihtsateks toiminguteks: suuruse, kuju,värvide, kontrastsuse, läbipaistvuse muutmiseks.
 
@@ -491,9 +489,9 @@ Tasuta kommertstarkvaradest on populaarsemad IrfanView ja Picasa. Avatud lähtek
 
 Detailse ülevaate graafikaprogrammide sobivusest, võimekusest ja litsentsidest saab Wikipediast: http://en.wikipedia.org/wiki/Comparison_of_raster_graphics_editors
 
-### 4.2 Kordamisküsimused
+### B.4.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline värvitehnoloogia käsitleb valguse värve?
 
@@ -523,13 +521,15 @@ Selle alateema materjale läbi töötades õpid tundma veebi ajalugu ja tähtsus
 
 ### B.4.3.1 World Wide Web ajalugu
 
-::: warning Õppekava
+::: oppekava
 
 Rääkida veebi ja Interneti ajaloost.
 
 :::
 
-WWW _World Wide Web_ ehk veeb on üks paljudest interneti teenustest.
+**Veeb** ehk **_web_** / **_World Wide Web_** / **_WWW_** ehk on üks paljudest interneti teenustest.
+
+#### Interneti sünd
 
 Internet ise sai alguse 2. septembril 1969. aastal kui California ülikooli teadlasel õnnestus esmakordselt kahe arvuti vahel andmeid edastada. Esialgu kandis võrk nime ARPANET (Advanced Research Projects Agency Network). Eesmärgiks oli luua sidevõrgustik, mis töötaks edasi ka siis, kui mõni selle osa rivist välja viia. Silmas peeti muidugi tuumasõja ohtu.
 
@@ -538,6 +538,8 @@ Esimesena loodi side California ülikooli (Los Angeles) ja Stanfordi uurimisinst
 1973\. aastal mõeldi välja FTP (File Transfer Protocol) protokoll, mis võimaldab andmete ülekannet erinevate internetikeskkondade vahel ning võimaldab ka veebilehtede üleslaadimist, publitseerimist veebiserveritesse.
 
 Eesti ühendati ülemaailmsesse võrku (sel ajal küll FIDONET) 1990. aastal ning esimene TCP/IP ühendus käivitati Eesti ja muu maailma vahel 26. märtsil 1992.
+
+#### Veebi sünd
 
 1989\. aastal pakkus Tim Berners-Lee koos oma kolleegidega Euroopa tuumafüüsika laboratooriumist (CERN) välja uue infovahetuse protokolli. Mõeldi välja hüpertekst _hypertext_, tekst kus mingi võtmesõna kaudu saab pöörduda sellega seotud dokumendi juurde) ja hakati teadusdokumente hüpertekstiks ühendama - linkima. Esialgu kasutati uut süsteemi vaid tuumafüüsika alase info levitamiseks aga peagi lisandusid teised valdkonnad ning tekkis akadeemiliste infomaterjalide võrk. Sellest sai 1991. aastaks World Wide Web.
 
@@ -557,7 +559,11 @@ www.domeen.ee/alamakataloog/veebileht.html
 
 Selleks, et kõik veebilehed käituksid ühtemoodi ja erinevad veebilehitsejad saaksid neid samal viisil näidata, on loodud veebistandardeid ja reeglistikke haldav World Wide Web Consortium (W3C, [http://www.w3.org](http://www.w3.org)). W3C poolt kehtestatud standardite järgimine tagab veebikülastajatele parima kasutajakogemuse.
 
+::: vananenud
+
 Veebimaailm on läbi teinud tohutu arengu. Algselt vaid tekstipõhisest süsteemist on arenenud erinevaid tehnoloogiaid rakendav, praeguseks praktiliselt interneti sünonüümiks kujunenud keskkond. On jõutud juba mõisteni Web 2.0, mis ei piirdu enam dokumentide omavahelise linkimisega nagu kunagises ARPANETis. Tänapäevane veeb võimaldab inimestevahelist infovahetust ja koostööd sotsiaalvõrgustike, vikide (Wiki), veebipäevikute (ajaveeb ehk blog), RSS-voogude (RSS-feed), ühisjärjehoidjate, ühismärgendamise, ühistarkvara, veebi-programmiliideste ning mitmesuguste veebiteenuste kaudu. "Web 2.0" terminit mainiti esmakordselt O'Reilly Media poolt 2004. aasta konverentsil ja see kannab endas nn. WWW uue versiooni mõtteviisi.
+
+:::
 
 #### Veebidisaini esimene põlvkond
 
@@ -620,17 +626,23 @@ Oluliseks veebi osaks on saanud sotsiaalvõrgustikud (Facebook, Twitter, Orkut, 
 
 Joonis 4-17. Neljanda põlvkonna Microsofti leht. Allikas: http://www.microsoft.com/en-us/default.aspx
 
+#### Muud veebitehnoloogiad
+
+::: vananenud
+
 Lisaks HTMLile on veebis oluliseks saanud tehnoloogiad, mis võimaldavad veebilehe sisu ja käitumist jooksvalt kohandada vastavalt külastaja tegevusele.
 
 Sellised tehnoloogiad nagu AJAX (Asynchronous JavaScript and XML) täiendavad veebilehtede kujundust. AJAX võimaldab info edastamist ilma lehte taas allalaadimata. AJAX on kasutusel näiteks Bing Maps teenuse juures selleks, et võimaldada kaardil ringiliikumist ja sisse/välja suumimist nõnda, et iga uue kihi laadimine toimuks märkamatult ilma kogu lehte uuesti laadimata (http://[www.bing.com/maps](http://www.bing.com/maps)).
-
-#### Muud veebitehnoloogiad
 
 Lisaks AJAX-ile on laialt kasutusel sellised tehnoloogiad nagu Flash ja selle konkurent Microsofti Silverlight. Neid kasutatakse peamiselt RIA _Rich Internet Applications_ rikka sisuga veebirakendused) rakenduste loomiseks, mille üheks ülesandeks on tuua töölaua rakenduste töökindlus, lai funktsionaalsus ja kasutajakogemus veebi või vastupidi teha veebirakendused kasutatavaks töölauarakendusena.
 
 Mobiilne internet võimaldab info edastamist mobiiltelefonidele ja taskuarvutitele. Üks mobiilse veebikujunduse peamistest väljakutsetest on piirangud kujundusele, mille seavad ekraani väikesed mõõtmed. Teiseks väljakutseks on töö tagamine erinevate seadmetega, mis võivad käituda erinevalt, kuna puuduvad standardid nagu WWW algusaegadel lauaarvutite veebilehitsejates. Lahenduseks on loomulikult standardiseerimine, millega tegeleborganisatsioon W3C.
 
+:::
+
 #### Veebidisaini tulevik
+
+::: vananenud
 
 Kui Web 2.0 lõi pinnase erinevate võrgustike tekkeks, siis Web 3.0 annab tööriistad, et praegust veebiruumis vohavat infokaost paremini struktureerida, filtreerida ning ühendada. Web 3.0 sünonüümiks on semantiline veeb, mis tähendab, et masinad on tulevikus võimelised mõistma iga infokillu tähendust, kuuluvust ja konteksti. Kujutlegem ette otsingut, mis ei anna kunagi ebaolulisi tulemusi või tööriistu, mis suudavad lahendada ise probleeme tänu sellele, et nad mõistavad veebist leitava materjali semantikat. Web 3.0 võib ka nimetada intelligentseks veebiks, mis toob kindlasti kaasa suured muutused veebidisainis.
 
@@ -638,9 +650,11 @@ Sõna dünaamiline veeb saab tulevikus uue tähenduse, mille esimesi samme võib
 
 Kasvavad trendid interaktsiooni maailmas – puuteekraanid, geotagimine, augmenteeritud reaalsus, multiplatvormi rakendused, pilverakendused, uut tüüpi mobiilsed seadmed jne. muudavad jõudsalt seda, kuidas me masinatega suhtleme ja kuidas neid kasutame. Näiteks pole välistatud, et tulevikus võtavad puuteekraanidega seadmed üle suurema osa arvutite turust, mille tulemusel muutub veeb intuitiivsemaks ning interaktiivsemaks. Uuteks väljakutseteks on väikeste ja suurte ekraanide jaoks kujundamine. Iga aastaga on keskmised kodu- ja tööarvutite ekraanide suurused muutunud aina suuremaks, mille tulemusel lähitulevikus ilmselt 960 piksline veebilehe laiuse standard kaob ning asendub rohkem dünaamilisema sisu paigutamisega ekraanil. Ühtlasi on uuteks suundadeks trükimeedia liikumine digitaalmeedia poole, mis tähendab interaktsiooni- ja veebidisaini mõttes uusi väljakutseid ja standardeid. Mitmed ajakirjad ning ajalehed vaatavad veebi, kui odava platvormi poole, mille abil kvaliteetset ja toimetatud infot müüa. Esimesed seadmespetsiifilised internetiväljaanded on juba ilmunud. Eestiski on nii Eesti Päevaleht kui ka Eesti Ekspress kättesaadavad tahvelarvutitele mõeldud rakenduste näol.
 
+:::
+
 ### B.4.3.2 Hüpertekst ja hüpermeedia ning nende tähtsus veebidisainis
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda hüpertekst ja hüpermeedium ning tuua välja nende tähtsus veebilehtede disainimisel.
 
@@ -657,6 +671,8 @@ Esimene brauser suutis näidata ainult tekste, kõik viidad olid samuti tekstili
 Veebilehti, mis sisaldavad ainult teksti, võib pidada hüpertekstilisteks. Lehed, mis sisaldavad multimeedia komponente, kannavad nimetust "hüpermeedium". Kui edaspidi jääda selle terminoloogia juurde, kuulub enamik veebilehtedest hüpermeediumisse, puhtalt hüpertekstilisi lehti on väga vähe.
 
 #### Viitade tüübid
+
+::: vananenud
 
 Liikumine mööda saidi lehekülgi ja jaotisi on korraldatud teksti- või graafiliste viitadega.
 
@@ -685,6 +701,8 @@ Puudused:
 - keeruline redigeerida (viida teksti muutmiseks tuleb muuta terve nupp, nupu lisamiseks tuleb see eelnevalt luua graafika redaktoriga, nupu lisamine võib olla raskendatud, kui saidi loomisel ei olnud ettenähtud veel ühe elemendi lisamist);
 - suur arv graafilisi elemente aeglustab lehe allalaadimist.
 
+:::
+
 #### Veebilehe komponendid
 
 Veebilehe planeerimisel kasutatakse komponente, mis jagunevad püsivateks ja sisust sõltuvateks komponentideks.
@@ -703,7 +721,7 @@ Sisust sõltuvad komponendid on näiteks: lehe sisu, veateated, abitekstid, vorm
 
 ### B.4.3.4 Sisevõrgu ja välisvõrgu veebilehtede kasutus ja vajadus ettevõttes
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada sisemiste ja väliste veebilehtede kasutamise vajadust ettevõttes.
 
@@ -715,9 +733,9 @@ Intraneti kasutajateks on asutuse töötajad, samas kui saidi avalik osa on mõe
 
 Välimine ja sisemine saidi osa esindavad kahte erinevat infokeskkonda, kumbki orienteeritud kindlale kasutajate ringile. Iga keskkond tagab erinevate ülesannete lahendamise ja omab erinevaid tehnilisi piiranguid, sellepärast peab lähenemine nende keskkondade projekteerimisele olema erinev. Intraneti kasutajaliidese disain peab erinema avatud saidi disainist, et kasutaja näeks, kus ta antud hetkel asub, kuid mõlema liidese stiil peab olema sama ja lähtuma ettevõtte üldisest disainist. Intraneti väljatöötamisel on tähtis arvestada, et riist- ja tarkvara on ettevõttes ühtlane (kasutusel on sama brauseri versioon, sama platvorm ja operatsioonisüsteem, samad kirjafondid); samas kui interneti kasutajad võivad omada väga erinevaid arvuteid, operatsioonisüsteeme ja brausereid.
 
-### 4.3.5 Ettevõtte veebisaidi haldamine
+### B.4.3.5 Ettevõtte veebisaidi haldamine
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja mõningad probleemid, mis on seotud äriettevõtte veebilehe ülalpidamisega.
 
@@ -738,7 +756,7 @@ Tänapäeval tuleb lisaks tegeleda veel kasutajate privaatsuse kaitse ning veebi
 
 ### B.4.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Millistel eesmärkidel hakati looma arvutivõrku?
 
@@ -766,7 +784,7 @@ Selle alateema materjale läbi töötades õpid tundma veebilehestiku koostamise
 
 ### B.4.4.1 Sihtrühma vajaduste analüüs
 
-::: warning Õppekava
+::: oppekava
 
 Näidata veebilehe sihtrühma vajadused, kelle jaoks leht on loodud.
 
@@ -778,7 +796,7 @@ Saidi analüüsimine ei tähenda alati, et see vastab kõigile kasutatavuse nõu
 
 ### B.4.4.2 Infohulk veebilehel
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja riskid, mis ilmnevad kui ühel lehel on liiga palju sõnumeid.
 
@@ -790,11 +808,11 @@ Jakob Nielsen on läbi viinud uuringuid teksti hulga ja selle loetavuse vahel. S
 
 ![](../images/b4_nielsen.png)
 
-_Joonis 4-18. Teksti hulga ja loetavuse suhe. Allikas: How little do users read?, Nielsen's Alertbox, http://www.useit.com/alertbox/percent-text-read.html
+\_Joonis 4-18. Teksti hulga ja loetavuse suhe. Allikas: How little do users read?, Nielsen's Alertbox, http://www.useit.com/alertbox/percent-text-read.html
 
 ### B.4.4.3 Värvide valik
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda probleemid seoses halva värvivalikuga lehel.
 
@@ -806,7 +824,7 @@ Ebasoovitav on heleda teksti kasutamine tumedal taustal – meie silmad ei ole h
 
 ### B.4.4.4 Kasutajasõbraliku veebilehe arendamine
 
-::: warning Õppekava
+::: oppekava
 
 Tuua juhtnöörid hea kasutajasõbralikkusega veebilehe loomiseks: loetavus, prioriteetidega sisujaotus, liikumise lihtsus ja järjepidevus, kus-ma-hetkel-olen asukoha tuvastus.
 
@@ -858,7 +876,7 @@ Lisaks heuristikatele on olemas veel terve hulk häid tavasid, mis on veebiajalo
 
 ### B.4.4.5 Peamised veebilehe kvaliteedi kriteeriumid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada üldisemaid veebilehe kvaliteedi tingimusi: veebilehitseja võimekkus, HTML valideerimine, teksti tihendamine (condence), õigekirjakontroll, väike baidisuurusel graafika (small byte-size graphics).
 
@@ -874,7 +892,7 @@ Saidi loomisel peab arvestama graafika ja muude efektide hulgaga, sest külastaj
 
 Veel üks kasutatavuse probleem seisneb erinevates brauserites ja operatsioonisüsteemides. Paljud interneti saidid on optimeeritud kindlale platvormile või brauserile. See ei ole parim lahendus, sest siis jääb risk kaotada külastajaid, kes kasutavad, näiteks, teist tüüpi arvutit.
 
-Lehe väljatöötamisel peab võimalusel testima seda erinevates keskkondades, sest sama brauser erinevatel platvormidel võib näidata lehte erinevalt (näiteks Windowsis töötav Firefox erineb oluliselt MacOS X Firefoxi versioonist). See aitab vältida probleeme lehe kuvamisega.
+Lehe väljatöötamisel peab võimalusel testima seda erinevates keskkondades, sest sama brauser erinevatel platvormidel võib näidata lehte erinevalt. See aitab vältida probleeme lehe kuvamisega.
 
 Mingil juhul ei tohi kirjutada veebilehele, et see on häälestatud mingisugusele brauserile ning lehe avamiseks tuleks kasutada just seda. Kasutaja peab ise otsustama, mida on tal mugavam kasutada, keegi ei saa sundida teda kasutama programmi, mis talle ei meeldi.
 
@@ -890,7 +908,7 @@ Arvestama peab ka kirja suuruse määramist. Parem on määrata suurus kasutades
 
 ### B.4.4.6 Lihtsalt navigeeritav veebileht
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada nõuet lihtsaks liikumiseks veebilehel.
 
@@ -908,11 +926,13 @@ Vaata ka: [http://en.wikipedia.org/wiki/The_Magical_Number_Seven,\_Plus_or_Minus
 
 ### B.4.4.7 Vahendid veebilehe arendamiseks
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda veebilehe loomise töövahendid.
 
 :::
+
+::: vananenud
 
 ![](../images/b4_expression.png)
 
@@ -946,9 +966,11 @@ HTML oli esialgu mõeldud käsitsi kodeerimiseks ning allub halvasti automatisee
 
 Erinevate redaktorite võrdlused on kättesaadavad Wikipediast: [http://en.wikipedia.org/wiki/Comparison_of_HTML_editors](http://en.wikipedia.org/wiki/Comparison_of_HTML_editors)
 
+:::
+
 ### B.4.4.8 Struktuuriskeemi vajadus veebidisainis
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja struktuurskeemide vajalikkus veebi disainimisel.
 
@@ -956,13 +978,13 @@ Tuua välja struktuurskeemide vajalikkus veebi disainimisel.
 
 Kui saidi struktuurskeem on välja töötatud, võib seda kasutada saidi kaardina, lisades viidad üksikutele elementidele ja luues otsejuurdepääsu erinevatele saidi jaotistele.
 
-Kui saidi struktuur on loodud, võib lisada sellele ka **märkmete tahvli** ***storyboard***, mis näitab skeemina saidi vormi ja sisu. Tahvel on eriti tähtis saitidel, kus kasutatakse palju animatsioone. Veebisaidi loomisel peab arendama tihedat koostööd kunstnikuga, valmistades kujutiste seeriat, mis illustreerib saidi käitumist selle peal liikumisel, alates pealehest kuni kõikide jaotisteni.
+Kui saidi struktuur on loodud, võib lisada sellele ka **märkmete tahvli** **_storyboard_**, mis näitab skeemina saidi vormi ja sisu. Tahvel on eriti tähtis saitidel, kus kasutatakse palju animatsioone. Veebisaidi loomisel peab arendama tihedat koostööd kunstnikuga, valmistades kujutiste seeriat, mis illustreerib saidi käitumist selle peal liikumisel, alates pealehest kuni kõikide jaotisteni.
 
 Kõik saidid ei sisalda animatsiooni. Siis tuleb disaineri või kunstniku abiga teha joonis või saidi eskiis, kus on näidatud idee ja lõplik tulemus.
 
 #### B.4.4.9 Navigatsioonisüsteemi peamised meetodid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamisi veebilehel liikumiseks kasutatavaid meetodeid.
 
@@ -1013,9 +1035,9 @@ Kasutajatel tehtud testid näitavad, et kõige vähem kasutajate vigu esineb Yah
 
 Vaata ka erinevate navigatsioonimeetodite uuringut: [http://www.eastonmass.net/tullis/WebsiteNavigation/WebsiteNavigationPaper.htm](http://www.eastonmass.net/tullis/WebsiteNavigation/WebsiteNavigationPaper.htm)
 
-### B.4.4.1 Veebi disainimise meetodid
+### B.4.4.10 Veebi disainimise meetodid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada projektitööd veebidisainis ja üldlevinud meetodeid nt kadreering (storyboard), visand (rough draft).
 
@@ -1030,7 +1052,7 @@ Veebi disainimiseks kasutatakse järgmisi meetodeid:
 
 #### Süžeetahvel
 
-**Süžeetahvlit** ***storyboard*** kasutatakse lisaks sisukaardile, aitamaks teha otsuseid disaini, tehnoloogia aga ka eelarve osas. Hea süžeetahvel pakub kõigile projektiga seotud inimestele selget ülevaadet loodavast veebilehestikust. Süžeetahvlil ei ole näha kõiki üksikuid veebilehestiku lehti, kuid see katab peamised lehestiku funktsionaalsed osad. Reeglina pannakse iga lehe kohta kirja pealkiri ja mõned märkmed tema sisu kohta. Süžeetahvel ei sisalda mingit infot lehtede visuaalse disaini kohta, kuid võimaldab saada ettekujutuse, millised põhielemendid igal lehel olemas on. Süžeetahvli võib sarnaselt sisukaardile luua pliiatsiga paberile joonistades või mõnda graafikaprogrammi kasutades.
+**Süžeetahvlit** **_storyboard_** kasutatakse lisaks sisukaardile, aitamaks teha otsuseid disaini, tehnoloogia aga ka eelarve osas. Hea süžeetahvel pakub kõigile projektiga seotud inimestele selget ülevaadet loodavast veebilehestikust. Süžeetahvlil ei ole näha kõiki üksikuid veebilehestiku lehti, kuid see katab peamised lehestiku funktsionaalsed osad. Reeglina pannakse iga lehe kohta kirja pealkiri ja mõned märkmed tema sisu kohta. Süžeetahvel ei sisalda mingit infot lehtede visuaalse disaini kohta, kuid võimaldab saada ettekujutuse, millised põhielemendid igal lehel olemas on. Süžeetahvli võib sarnaselt sisukaardile luua pliiatsiga paberile joonistades või mõnda graafikaprogrammi kasutades.
 
 ![](../images/b4_storyboard.png)
 
@@ -1058,9 +1080,9 @@ Sõrestikmudel (wireframe) veebidisainis on veebilehele paigutatavate elementide
 
 Stsenaarium **_scenario_** on tekstiline prototüüp, mis kirjeldab loodava veebilehe ülesehitust. Siia alla kuuluvad ka kasutajalood **_user story_**, **_use case_** - tegevuste, valikute ja tulemuste tekstilised kirjeldused.
 
-### 1.8.3 Kordamisküsimused
+### B.4.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kui palju sihtrühma liikmeid läheb vaja kasutajaliidese testimiseks?
 
@@ -1099,9 +1121,9 @@ Stsenaarium **_scenario_** on tekstiline prototüüp, mis kirjeldab loodava veeb
 
 Selle alateema materjale läbi töötades õpid tundma veebilehe koostamise tehnilisi külgi – peamiselt HTMLi võimalusi, aga ka muid vahendeid.
 
-### 1.9.1 Märgendikeeled
+### B.4.9.1 Märgendikeeled
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja mõiste **märgistuskeel** **_markup language_** tähendus ja kirjeldada HTML peamisi omadusi.
 
@@ -1111,7 +1133,11 @@ Selles peatükis tutvud veebilehestike koostamisel kasutatavate märgendi-, kuju
 
 #### HTML
 
+::: vananenud
+
 **_HTML_** **_HyperText Markup Language_** ehk hüperteksti märgendite keelt kasutatakse veebilehtede loomiseks. HTMLi abiga luuakse dokumendi loogiline struktuur ja määratakse iga elemendi väljanägemine (elementide vormindamiseks soovitatakse kasutada CSSi mitte HTMLi). HTML ei ole programmeerimise keel! Veebilehe fail sisaldab ASCII kodeeringus teksti ja omab nimelaiendit **.htm** või **.html**. Teksti märgistamine failis toimub märgendite (tag) abil. Märgendid paigutatakse kolmnurksetesse sulgudesse.
+
+:::
 
 Märgendite liigid:
 
@@ -1120,7 +1146,11 @@ Märgendite liigid:
 
 Märgend võib omada atribuute. Atribuudid täpsustavad märgendi toimet. Atribuut paigutatakse alati avamärgendisse, sest brauser loeb infot alati vasakult paremale ja ülevalt alla. Mõnel märgendil on atribuutide kasutamine kohustuslik. Näiteks, pildi lisamise märgendil `<img />` on kohustuslikuks atribuudiks `src` , mille väärtuseks on faili nimi koos teekonnaga: `<img src="faili_nimi_ja_rada">`
 
+::: vananenud
+
 Märgendeid võib kirjutada nii suurte `<TAG>` kui ka väikeste `<tag>` tähtedega, brauseri jaoks see tähtsust ei oma. Samuti ei oma tähtsust ka reavahetused. Loetavuse huvides on soovitav märgendites kasutada alati kas ainult suuri või ainult väikseid tähti, alustada uut elementi uuest reast ning lisada kommentaare.
+
+:::
 
 Tühikud:
 
@@ -1129,6 +1159,8 @@ Tühikud:
 - HTML-dokumendi tekstis mitu tühikut on sama, mis üks; selleks, et panna järjest mitu tühikut, tuleb kasutada erisümboleid.
 
 **HTML-dokumendi struktuur**
+
+::: vananenud
 
 Iga veebileht on märgendite `<html></html>` vahel. Dokument koosneb kahest osast:
 
@@ -1145,7 +1177,11 @@ HTMLi märgendite spetsifikatsioon (versioon 4.01): [http://www.w3.org/TR/html4/
 
 HTMLi atribuutide spetsifikatsioon: [http://www.w3.org/TR/html4/index/attributes.html](http://www.w3.org/TR/html4/index/attributes.html)
 
+:::
+
 #### Skriptikeeled
+
+:::
 
 Interaktiivsete veebisaitide arendamisel kasutatakse sageli skriptikeeli (näiteks javascript). Interaktiivsete veebisaitide arendamisel kasutatakse sageli skriptikeeli (javascript, PHP jne.). Nende vastavad koodilõigud loetakse serverist koos veebilehega brauserisse ning täidetakse seal. Näiteks javascriptis kirjutatud lõik html-tekstis näeb välja nii:
 
@@ -1162,7 +1198,11 @@ Interaktiivsete veebisaitide arendamisel kasutatakse sageli skriptikeeli (näite
 </html>
 ```
 
+:::
+
 #### XML
+
+::: vananenud
 
 **XML** on W3C soovitatud üldotstarbeline märgendikeel, mille eesmargiks on struktureeritud info jagamine erinevate infosüsteemide vahel, eelkõige veebipõhistes rakendustes. XML on vabalt laiendatav keel, mis tähendab, et märgendeid saab vabalt juurde luua vastavalt vajadusele. XMLi baasil on loodud palju erinevaks otstarbeks mõeldud standardeid, näiteks RSS uudisvoogude edastamiseks ja SOAP veebiteenuste kasutamiseks.
 
@@ -1170,9 +1210,11 @@ Erinevalt HTMList iseloomustab XMLi väga range koodi korrektsus, mis tagab viim
 
 Erinevalt HTML-ist on korrektselt vormistatud XHTML dokumendi puhul võimalik kasutada XML-i tööriistu.
 
+:::
+
 #### B.4.5.2 HTMLi peamised komponendid
 
-::: warning Õppekava
+::: oppekava
 
 Kasutada põhilisi HTML käske ja näidata kujunduskäskude täitmist: tugev formateering, pehme formateering, erisümbolid, eraldajad, joondumine, päised, piltide sildid, taustad, värvid, lingid, loendid, tabelid, vormid, raamid.
 
@@ -1190,7 +1232,7 @@ Kõrgema taseme pealkiri on märgendite `<h1></h1>` vahel, seda kuvatakse kõige
 
 **Tekstis** võib kasutada ka **jäika vormindamist**. Seda tehakse juhul, kui lõigulõpud, tühikud ja tabulatsioon on kindlalt paigas. Märgenditeks on `<pre></pre>`. Kogu tekst väljastatakse fikseeritud laiusega kirjas. Sellise vormingu põhipuuduseks on see, et teksti ei tõsteta järgmisele reale isegi siis, kui ta aknasse ei mahu. Selle asemel tekib horisontaalne kerimisriba, mis raskendab lehe jälgimist.
 
-**Tsitaatide** vorming toimub märgendiga `<blocknote></blocknote>`. See märgend tekitab taande vasakust lehe servast ning eraldab tsitaadi muust tekstist tühja reaga alt ja ülevalt.
+**Tsitaatide** vorming toimub märgendiga `<blockquote></blockquote>`. See märgend tekitab taande vasakust lehe servast ning eraldab tsitaadi muust tekstist tühja reaga alt ja ülevalt.
 
 **Joonte** loomiseks teksti osade vahele kasutatakse märgendit `<hr />`. Erinevate atribuutide abiga saab muuta joone paksust ja laiust, värvi ja joondust.
 
@@ -1228,23 +1270,23 @@ Loogilise vormingu märgendid:
 
 #### Erisümbolid ja kommentaarid
 
-| HTMLi kood | Sümbol                           |
-| ---------- | -------------------------------- |
-| ``         | jäik tühik, mis on alati kuvatud |
-| `&quot;`   | "                                |
-| `&lt;`     | <                                |
-| `&gt;`     | >                                |
-| `&amp;`    | &                                |
-| `&laquo;`  | «                                |
-| `&raquo;`  | »                                |
-| `&Auml;`   | Ä                                |
-| `&auml;`   | ä                                |
-| `&Ouml;`   | Ö                                |
-| `&ouml;`   | ö                                |
-| `&Uuml;`   | Ü                                |
-| `&uuml;`   | ü                                |
-| `&Otilde;` | Õ                                |
-| `&otilde`  | õ                                |
+| HTMLi kood                            | Sümbol |
+| ------------------------------------- | ------ |
+| `` | jäik tühik, mis on alati kuvatud |
+| `&quot;`                              | "      |
+| `&lt;`                                | <      |
+| `&gt;`                                | >      |
+| `&amp;`                               | &      |
+| `&laquo;`                             | «      |
+| `&raquo;`                             | »      |
+| `&Auml;`                              | Ä      |
+| `&auml;`                              | ä      |
+| `&Ouml;`                              | Ö      |
+| `&ouml;`                              | ö      |
+| `&Uuml;`                              | Ü      |
+| `&uuml;`                              | ü      |
+| `&Otilde;`                            | Õ      |
+| `&otilde`                             | õ      |
 
 Koodi loetavuse ja redigeerimise lihtsustamiseks on soovitav lisada kommentaare. Samuti, kui olete teinud uuendusi, ei tasu vana varianti kohe kustutada. Jätke see kommentaarina sisse, nii saate alati tulla vana versiooni juurde tagasi.
 
@@ -1254,7 +1296,7 @@ Koodi loetavuse ja redigeerimise lihtsustamiseks on soovitav lisada kommentaare.
 
 Veebilehed on tavalised tekstifailid, millesse ei saa integreerida teisi objekte. Pildi lisamiseks tuleb viitamisel näidata pildi faili nimi ja asukoht ning brauser kuvab pildi veebilehe sees.
 
-Pildile viitamiseks on märgend `<img />`. Seda märgendit kasutatakse alati atribuutidega. Pildi faili nime ja asukoha näitamiseks on atribuut `src` ( `<img src="failinimi.gif">`.
+Pildile viitamiseks on märgend `<img />`. Seda märgendit kasutatakse alati atribuutidega. Pildi faili nime ja asukoha näitamiseks on atribuut `src`: `<img src="failinimi.gif">`.
 
 Pilti saab lehel joondada kahel viisil: sarnaselt teksti osale lõigu sees, näidates selle vertikaalset joondamist rea suhtes, või nagu eraldi lõiku, näidates horisontaaljoondamist. Kasutatakse atribuuti `align`. Rea sees saab joondada rea ülemise servaga ( `top` ), alumise servaga ( `bottom` ) või keskkohaga ( `middle` ). Kui joondada pilti eraldi lõiguna, on atribuudi väärtused `left` (vasak serv) või `right` (parem serv). Tsentreerida pilti ei saa.
 
@@ -1273,15 +1315,23 @@ Hüperlingi kuvamiseks võib kasutada nii teksti kui pilti. Näiteks viit `<a hr
 
 **Vormid**
 
+::: vananenud
+
 Vormi abil luuakse andmete edastamise võimalusi. Vormidesse sisestatud andmete töötlust teostatakse skriptide või spetsiaalsete rakenduste abil, mis tavaliselt asuvad serveris. Sisestatuid andmeid võib saata e-postiga, näiteks lehe autorile.
 
+:::
+
 Vorm luuakse märgendite `<form></form>` abil. Ühel lehel võib olla ka mitu vormi. Selleks, et vormi andmeid saaks töödelda, näidatakse atribuudi `action` väärtusega, milline rakendus käivitada, ja atribuudi `method` väärtusega, millise meetodiga andmeid töödelda. Atribuut `method` võib omada väärtust `GET` või `POST`.
+
+::: vananenud
 
 Andmete saatmiseks e-postiga kasutatakse meetodit `POST` ja kogu märgendi kirjapilt võib olla, näiteks, selline:
 
 ```html
 <form method="post" action="mailto:address@server.com"></form>
 ```
+
+:::
 
 Juhtelementide loomiseks kasutatakse märgendeid `<input />` , `<textarea></textarea>` , `<select></select>`.
 
@@ -1325,7 +1375,7 @@ Näide:
 
 ### B.4.5.3 Teksti vormindamine ja kirjutamise printsiibid
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja tavateksti kujunduse põhimõtted: kirja suurus, vaba ruumi osakaal
 
@@ -1347,9 +1397,9 @@ Tähtis on teada, et kirjatüüpe on kahte liiki – proportsionaalsed (proporti
 
 #### Fontide liigid
 
-**\*Serif** - Selle liigi fontide märgid omavad otstes sälke (šeriife). Lühikesed horisontaalsed kriipsud ühendavad visuaalselt tähti, kergendades lugemist. Sellised fondid on paberilt paremini loetavad ja sellepärast on kasutusel rohkem trükistes. Liigi esindajad on näiteks fondid Times New Roman ja Garamond.
+**_serif_** - Selle liigi fontide märgid omavad otstes sälke **šeriife**. Lühikesed horisontaalsed kriipsud ühendavad visuaalselt tähti, kergendades lugemist. Sellised fondid on paberilt paremini loetavad ja sellepärast on kasutusel rohkem trükistes. Liigi esindajad on näiteks fondid Times New Roman ja Garamond.
 
-**Sans Serif** - Selle liigi fondid sälke ei kasuta. Tekste on lihtsam lugeda kuvari ekraanilt või muudelt väiksema resolutsiooniga elektronkandjatelt, sellepärast kasutatakse neid rohkem veebilehekülgedel ja esitlustes.Antud liiki kuuluvad fondid Arial, Tahoma, Verdana, Helvetica.
+**_sans serif_** - Selle liigi fondid sälke ei kasuta. Tekste on lihtsam lugeda kuvari ekraanilt või muudelt väiksema resolutsiooniga elektronkandjatelt, sellepärast kasutatakse neid rohkem veebilehekülgedel ja esitlustes.Antud liiki kuuluvad fondid Arial, Tahoma, Verdana, Helvetica.
 
 ![](data:image/png;base64,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)
 
@@ -1373,19 +1423,25 @@ Tähtis on meeles pidada, et kirjasuurus mängib suurt rolli. Näiteks kui tekst
 
 Veebilehel on hea tava määrata erinevad kirja suurused proportsionaalse mõõtühikuga (%). Näiteks 80% või 120%. Sellistel juhtudel kuvab brauser kirja väikemalt või suuremalt võrreldes brauseri vaikeväärtusega. Selline kirja suuruse määramine jätab kasutajale vaba võimaluse reguleerida teksti suurust vastavalt oma nägemise võimekusele ja lugemise mugavusele.
 
-#### Teksti kujutamine veebis
+#### Tekst veebis
+
+::: vananenud
 
 Veebilehe teksti vormindamisel tuleb arvestada probleemidega, mis võivad kerkida lehekülje avamisel brauseriga. Erinevatel kuvaritel võib muutuda fondi suurus ja samanimelised fondid võivad omada erinevat väljanägemist. Peab arvestama ka võimalusega, et veebilehel kasutatav font ei ole lehe külastaja arvutis installeeritud. Siis näeb külastaja vaikimisi seadistatud fondiga teksti. Sellepärast põhiteksti vormindamisel on soovitav kasutada standardfonte, mis on kõikides arvutites olemas. Pealkirjade, nuppude ja üksikute elementide vormindamisel võib teisendada teksti graafilisse kujusse. Siis võib kasutada suvalist fonti.
+
+:::
 
 Teksti lugemine ekraanilt on keerulisem kui paberkandjalt, mistõttu on tähtis kasutada erinevaid teksti struktureerimise meetodeid: tühi ruum, suurem kiri, suuremad reavahed.
 
 ### B.4.5.4 XMLi kasutamine
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda XML põhielemendid ja nende kasutamine, areng HTML-ilt XHTM-ile.
 
 :::
+
+::: vananenud
 
 - XML on info struktuuri loomiseks, säilitamiseks, jagamiseks.
 - XML elemendid ja atribuudid ei ole fikseeritud nagu HTMLis.
@@ -1459,9 +1515,11 @@ oskus {
 
 Joonis 4-29. Kujundatud XMLi näidis. Allikas: BCS Koolitus, webmasteri põhikursus.
 
+::: vananenud
+
 ### B.4.5.5 Stiililehed ja nende kasutamine disainis (CSS ja XSL)
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada laadifaile nagu kaskaadlaadistik (CSS) ja laiendatav laadistikukeel (XSL). Mõista nende kasutamist disainimisel.
 
@@ -1522,15 +1580,19 @@ CSSi spetsifikatsioon (versioon 2.1): [http://www.w3.org/TR/CSS21/](http://www.w
 
 #### XSL
 
+::: vananenud
+
 XMLi kujundamisel saab kasutada spetsiaalseid stiilifail XSL, mille abil saab tingimuslikult kujundada terve XMLi andmestiku. Selle jaoks ei pea iga andmeühiku jaoks eraldi koodi kirjutama, vaid XSL loob kujunduse üldiste reeglite alusel.
 
 ![](data:image/png;base64,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)
 
 Joonis 4-30. XSL kasutamise näide. Allikas: BCS Koolitus, webmasteri põhikursus\*\*
 
-### 1.9.7 Kordamisküsimused
+:::
 
-::: tip Kordamisküsimused
+### B.4.5 Kordamisküsimused
+
+::: kordamiskusimused
 
 1. Miks ei tohi HTMLis kasutada järjestikku mitut tühikut?
 
@@ -1568,7 +1630,7 @@ Selle alateema materjale läbi töötades õpid tundma levinumaid programmeerimi
 
 ### B.4.6.1 Teenuste tüübid ja peamised programmeerimiskeeled
 
-::: warning Õppekava
+::: oppekava
 
 Teha vahet kliendipõhise ja serveripõhise tehnoloogia vahel ja teada veebipõhise programmeerimise keeli.
 
@@ -1583,12 +1645,19 @@ Programmeerimiskeeled on kohased vastavale teenuse tüübile.
 
 Levinumad kliendipoolsed programmeerimiskeeled ja –tehnoloogiad:
 
-- **JavaScript** – juhitakse veebilehe käitumist (animatsioonid, näitamine-peitmine, kontrollifunktsioonid jms). AJAX on JavaScripti edasiarendus, mille abil muudetakse veebilehe sisu ilma seda uuesti laadimata. AJAX käivitab iseseisvalt serveriteenuseid ja muudab ainult ühte või mõnda veebilehe tükki.
+- **JavaScript** – juhitakse veebilehe käitumist (animatsioonid, näitamine-peitmine, kontrollifunktsioonid jms).
+
+::: vananenud
+
+AJAX on JavaScripti edasiarendus, mille abil muudetakse veebilehe sisu ilma seda uuesti laadimata. AJAX käivitab iseseisvalt serveriteenuseid ja muudab ainult ühte või mõnda veebilehe tükki.
+
 - **DHTML** – HTMLi, JavaScripti ja CSSi kombinatsioon rikka sisuga veebilehtede loomiseks.
 - **Flash** – Adobe tehnoloogia multimeedia programmeerimiseks ja pildi, heli ning video kombineerimiseks rikka animatsiooniga.
 - **Silverlight** – Flashi konkurent, Microsoft'i tehnoloogia.
 - **Applet** – Java kliendipoolne tehnoloogia.
 - **VB Sript** – JavaScripti analoog, Microsoft'i tehnoloogia.
+
+:::
 
 Levinumad serveripoolsed programmeerimiskeeled veebiteenustele:
 
@@ -1600,11 +1669,13 @@ Levinumad serveripoolsed programmeerimiskeeled veebiteenustele:
 
 ### B.4.6.2 Integratsiooni väljakutsed veebis
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja probleeme mis võivad tekkida veebipõhiste süsteemide integreerimisel olemasolevatega.
 
 :::
+
+::: vananenud
 
 Tänapäeva organisatsioonidel seisab ees mitmeid väljakutseid, mis on seotud erinevate veebiteenuste integratsiooniga ja koosvõimega. Vaatamata standarditele olemasolule on enamus veebilahendusi loodud rätsepatööna organisatsioonide sees ning need pole algselt mõeldud koostööks teiste süsteemidega. Klientide ja partnerite paremaks teenindamiseks on erinevad teenused siiski vaja koos tööle panna.
 
@@ -1616,9 +1687,11 @@ Traditsioonilised integratsioonimeetodid on mõeldud selliste väljakutsete lahe
 
 **Integratsioonikulud** – integratsioonitöödeks võib vaja minna mahukaid arendustöid kõrgekvalifikatsiooniga spetsilistide poolt, mis tähendab väga suuri investeeringuid.
 
-### 4.6 Kordamisküsimused
+:::
 
-::: tip Kordamisküsimused
+### B.4.6 Kordamisküsimused
+
+::: kordamiskusimused
 
 1. Milline loetelus ei ole Microsoft'i tehnoloogia:
 
@@ -1636,7 +1709,7 @@ Traditsioonilised integratsioonimeetodid on mõeldud selliste väljakutsete lahe
 
 :::
 
-## 1.11 Kasutatud materjalid
+##  Kasutatud materjalid
 
 - Kasutajaliidesed ja neile esitatavad nõuded. T. Jakimov, 2006. Referaat, Tallinna Tehnikaülikooli Informaatikainstituut.
 

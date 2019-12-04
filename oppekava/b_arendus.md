@@ -481,9 +481,8 @@ Tuua välja struktuurskeemide vajalikkus veebi disainimisel.
 
 Kirjeldada peamisi veebilehel liikumiseks kasutatavaid meetodeid.
 
-#### B.4.4.1
+#### B.4.4.10
 
-0
 Kirjeldada projektitööd veebidisainis ja üldlevinud meetodeid nt kadreering (storyboard), visand (rough draft).
 
 ### B.4.5 Veebilehtede kujundus

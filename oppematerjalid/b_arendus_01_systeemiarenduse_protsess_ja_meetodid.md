@@ -8,7 +8,7 @@ Selle alateema materjale läbi töötades saad teadmised tarkvarasüsteemide tü
 
 ### B.1.1.1 Andmetöötlussüsteem
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada andmetöötlust kui komplekti riistvarast, tarkvarast püsivarast, opsüsteemi tarkvarast, rakendusest.
 
@@ -36,7 +36,7 @@ Tuntumad personaalarvutite operatsioonisüsteemid jagunevad kolme suurde gruppi:
 
 ### B.1.1.2 Süsteemitarkvara ja rakendustarkvara
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda ja loetleda süsteemitarkvara näiteid.
 
@@ -64,9 +64,9 @@ Analoogiana võib ette kujutada elektrivalgust kui kasutajale vajalikku funktsio
 
 Süsteemitarkvara ja rakendustarkvara erisus ei ole absoluutne ja kindlapiiriline – nt kohtuasjas Microsoft ja Ameerika Ühendriikide vahel oli üheks põhiküsimuseks, kas veebilehitsejat MS Explorer lugeda operatsioonisüsteemi alla kuuluvaks (seega süsteemitarkvaraks) või iseseisvaks rakenduseks (seega – rakendustarkvaraks). Ja teisalt võime küsida ka teisiti: kas kogu tarkvara, mis installeeritakse koos operatsioonisüsteemiga on süsteemitarkvara või leiame sealt ka mõne rakendustarkvara? Lähtudes rakendustarkvara definitsioonist, et seda saab kasutada mingite eesmärkide saavutamiseks, on rakendustarkvarad lisaks IE-le ka Notepad, Paint, Calculator, Wordpad, Solitaire, Minesweeper jne.
 
-### 1.1.3 Näited tarkvaradest
+### B.1.1.3 Näited tarkvaradest
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda ja loetleda rakendustarkvara näiteid.
 
@@ -134,7 +134,7 @@ Toome näiteid mõlemast tarkvara alaliigist
 
 ### B.1.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Avades arvutis Program Files avaneb järgmine pilt kasutatavast tarkvarast:
 
@@ -158,7 +158,7 @@ Pane vastavusse järgmised mõisted ja selgitused:
 
 :::
 
-## 1.2 Süsteemiarenduse elutsükkel
+## B.1.2 Süsteemiarenduse elutsükkel
 
 Selle alateema materjale läbi töötades saad teadmised süsteemiarenduse elutsüklist.
 
@@ -170,13 +170,13 @@ Süsteemiarenduse protsess koosneb nii toote projekteerimisest (disainist) kui t
 
 ### B.1.2.1 Elutsükli faasid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada süsteemiarenduse põhilisi etappe.
 
 :::
 
-::: danger Probleem
+::: probleem
 
 Õppekava punkt B.1.2.3 langeb selle õppematerjaliga kokku:
 
@@ -226,9 +226,9 @@ Võrdluseks Ian Sommerville oma raamatus "Software Engineering" toob välja jär
 
 Süsteemiarenduse elutsüklisse peavad kuuluma kõik eelpool kirjeldatud tegevused, kuid need faasid ei pea tingimata olema kirjeldatud viisil lineaarselt ritta seatud.
 
-### 1.2.2 Elutsükli üldised mudelid
+### B.1.2.2 Elutsükli üldised mudelid
 
-::: warning Õppekava
+::: oppekava
 
 Võrrelda omavahel klassikalisi süsteemiarenduse metoodikaid nt koskmudel, spiraalmudel, prototüüpimine, tsükliline (inkrementaalne) arendus.
 
@@ -382,7 +382,7 @@ Ei ole ühte, parimat süsteemiarenduse mudelit. Otsus, millist mudelit valida, 
 
 ### B.1.2.4 Dokumentatsioon
 
-::: warning Õppekava
+::: oppekava
 
 Visandada spetsifikatsioonid nõuete ja projekteerimise tarbeks, nt organisatsiooniline, tehniline spetsifikatsioon.
 
@@ -430,9 +430,9 @@ Arhitektuurse disaini dokumendi koostab arhitekt lähtudes nõuete dokumendis to
 
 **Haldusjuhend** käsitleb toote installeerimist, andmesiiret, toote hooldust ja administreerimist, konfigureerimist, muudatuste sisseviimise korda.
 
-### 1.2.4 Kordamisküsimused
+### B.1.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. See elutsükkel on mudel, mida kasutatakse tarkvara kvaliteedi tõstmiseks:
 
@@ -489,13 +489,13 @@ Selle alateema materjale läbi töötades saad teadmised tarkvara loomise analü
 
 # B.1.3.1 CASE-vahendite kasutuseesmärgid ja klassifikatsioon
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja süsteemiarenduse erinevatel etappidel vajalike töövahendite kasutamine nt Upper ja Lower CASE, integreeritud CASE vahendid.
 
 :::
 
-::: danger Vananenud materjal
+::: probleem
 
 CASE töövahendid on vananenud https://stackoverflow.com/questions/3596129/why-did-not-case-tools-succeed
 
@@ -520,13 +520,13 @@ Erinevad CASE-vahendid toetavad tarkvara arendusprotsessi eri ulatuses – mõne
 
 ### B.1.3.2 CASE-vahendid elutsükli erinevatel etappidel
 
-::: warning Õppekava
+::: oppekava
 
 Tuua esile erinevate tarkvaraarendusvahendite tugevad ja nõrgad kohad.
 
 :::
 
-::: danger Probleem
+::: probleem
 
 Õppekava sõnastus ei vasta õppematerjali sisule
 
@@ -558,15 +558,15 @@ Tarkvara arendusprotsessi etapid nõuavad erinevat tuge süsteemiarenduse vahend
 - toote konfiguratsioonihaldus:
   - koodi versioonihaldus.
 
-### 1.3.3 CASE-vahendite probleemid
+### B.1.3.3 CASE-vahendite probleemid
 
-::: warning Õppekava
+::: oppekava
 
 Refereerida lihtsa arendusvahendi kasutamist redigeerimiseks, kompileerimi- seks, testimiseks ja silumiseks.
 
 :::
 
-::: danger Probleem
+::: probleem
 
 Õppekava sõnastus ei vasta õppematerjali sisule ja on arusaamatu.
 
@@ -592,7 +592,7 @@ Joonisel 1 on näha madala taseme CASE-vahendi Bloodshed DevC++ ekraanipilt. Red
 
 ### B.1.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Millistes tarkvara elutsükli faasides saab kasutada CASE-vahendeid?
 
@@ -614,7 +614,7 @@ Selle alateema materjale läbi töötades saad teadmised testimise tüüpidest, 
 
 ### B.1.4.1 Testimise mõiste
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada testimisviise ja loetleda need, mida saab kasutada süstemiarenduses.
 
@@ -697,13 +697,13 @@ Toote kvaliteediga on – lisaks testimisele – seotud ka ülevaatused. Ülevaa
 
 ### B.1.4.2 Tarkvarasüsteemi juurutamine
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada peamisi süsteemi juurutusfaasi probleeme,näiteks kasutajatele paigaldamisel, andmete kolimisel, kasutajate koolitamisel ja neile esialgse toe osutamisel.
 
 :::
 
-::: danger Oluline materjal puudu
+::: probleem
 
 Puudub käsitlus **_continuous deployment_** / **_continuous delivery_** **_CI / CD_** lähenemisest
 
@@ -760,13 +760,13 @@ Ka suuremate muudatuste sisseviimisega tarkvarasse (nt uute funktsionaalsuste li
 
 ### B.1.4.3 Juurutusmeetodite tugevad ja nõrgad küljed
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja tugevad ja nõrgad küljed juurutusmeetoditel nt suur pauk, samm-sammult, pakettmudeliga (CORE mudel), üksuste kaupa (rollouts) meetodil.
 
 :::
 
-::: danger Probleem
+::: probleem
 
 Nimetatud osa on õppematerjalist puudu
 
@@ -774,7 +774,7 @@ Nimetatud osa on õppematerjalist puudu
 
 ### B.1.4.4 Kasutusjuhend ja tehnilised juhendid
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda kasutajajuhendi ja tehnilise kirjelduse (reference) põhiosad.
 
@@ -829,7 +829,7 @@ Süsteemi ülesehituse kirjeldusest on kasu nendele, kes süsteemist vigu otsima
 
 ### B.1.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Testimisega saab näidata vigade esinemist tarkvaras, kuid mitte kunagi ei saa testimisega näidata vigade puudumist
 
@@ -864,7 +864,7 @@ Selle alateema materjale läbi töötades saad teadmised, millistes keskkondades
 
 ### B.1.5.1 Süsteemi loomise keskkonnad
 
-::: warning Õppekava
+::: oppekava
 
 Eristada arendus-, test- ja töökeskkondi ja mõista korrastatud süsteemipaigaldust sh versioonihaldust ja tarkvara levitamise meetodeid.
 
@@ -878,7 +878,7 @@ Eristada arendus-, test- ja töökeskkondi ja mõista korrastatud süsteemipaiga
 
 #### Konfiguratsioonihaldus ja versioonihaldus
 
-::: danger Probleem
+::: probleem
 
 Õppekavas puudub vastab alljaotus
 
@@ -900,15 +900,15 @@ Versioonihaldusega on tihedalt seotud **järkude haldus**.
 
 **Süsteemi järk** on tarkvara versioon, mis tarnitakse kasutajale. Üldkasutatava tarkvara jaoks (kontoritarkvara jms) eristatakse kahte tüüpi järke: **peajärk** (major release) toob kaasa mõne olulise uue funktsionaalsuse ja **pisijärk** (minor release) parandab mõne vea või kasutaja teatatud probleemi. Eritarkvara puhul võivad erinevatel klientidel olla tarkvarast erinevad järgud/versioonid ning igaüks neist võib areneda omasoodu. Nii võib ühest süsteemist töötada samaaegselt mitu erinevat versiooni. Probleemi ilmnemisel tarkvara kasutamisel peab olema võimalik taastada täpselt selline tarkvara variant, nagu see on sellele kliendile antud. Seetõttu peab järkude info olema piisava detailsusega säilitatud ehk iga järk tuleb dokumenteerida selliselt, et see oleks hiljem taasesitatav.
 
-::: danger Puuduv informatsioon
+::: probleem
 
 Järgud on nüüdeks standardiseeritud **semantilise järkude halduse** **_semantic versioning_** toel https://semver.org/
 
 :::
 
-### 1.5.2 Andmeturve
+### B.1.5.2 Andmeturve
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja süsteemi tõrgetega seotud riskid ja pakkuda meetmed, et kaitsta firmataseme olulisi andmeid mitmel sh füüsilisel ja menetlustasemel (procedural level).
 
@@ -936,7 +936,7 @@ Iga süsteemi (sh tarkvarasüsteemi) tööga kaasnevad riskid. Kaasaegsed tarkva
 
 ### B.1.5.3 Süsteemide turvalisuse tagamine
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada igapäevaseid infoturbe alaseid tegevusi, näiteks varundus, juurdepääsu tagamine.
 
@@ -989,7 +989,7 @@ Igapäevaselt tuleb hoolitseda, et igasugused tarkvarauuendused saaksid süsteem
 
 ### B.1.5 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milliseid allpoolt loetletud tegevusi on sobiv läbi viia arenduskeskkonnas:
 
@@ -1053,9 +1053,9 @@ Tarkvaraarenduse roll on ettevõtetes aegade jooksul muutunud. Algselt oli tarkv
 
 Ajalooliselt on tarkvaraarendusprotsessi parendamisega enim tegeletud sellistes valdkondades nagu militaarvaldkond, kosmosevaldkond, tööstus, ja valdkonnad, kus tarkvarale usaldati kriitiliste protsesside juhtimine ning seega oli kvaliteet eriti oluline. Nendest valdkondadest on välja kasvanud ka esimesed süstematiseeritud ja kirjeldatud arendusmetoodikad. Esialgu pandi efektiivsema tarkvaraarenduse nimel suuremat rõhku arenenumate keelte kasutamisele. Edasi omandasid metoodika aspektid üha suurema tähtsuse. Algselt püüti igas valdkonnas luua oma tarkvaraarenduse meetod, hiljem taibati, et eri valdkondades on mõistlik kasutusele võtta samad põhimõtted ja protsesside raamistikud. Nii on kirjeldatud mitmeid arendusmeetodeid, samuti loodud standarte, mis peaksid kõik aitama tarkvaraarendusprotsessi mõistlikus suunas juhtida
 
-### 1.6.1 Kvaliteedi juhtimine ja standardid
+### B.1.6.1 Kvaliteedi juhtimine ja standardid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada standardseid ja uuenduslikke süsteemiaren- duse meetodeid nt ISO 12207, SEI/CMMI, agiilmeetod.
 
@@ -1097,7 +1097,7 @@ SEI/CMMI on suunatud (arendus)protsessi parandamisele ning annab organisatsiooni
 
 #### Agiilmeetodid
 
-::: danger Korduv materjal
+::: probleem
 
 Materjal kordab paljuski alajaotuse [1.2.2](#_1-2-2-elutsukli-uldised-mudelid) materjale.
 
@@ -1121,7 +1121,7 @@ SCRUM sisaldab pea ainult töö organiseerimisega (projekti juhtimisega) seotud 
 
 ### B.1.6.2 IT arhitektuur
 
-::: warning Õppekava
+::: oppekava
 
 Aru saada kaasaegsetest tehnilise arhitektuuri arengutest nt kahe või kometasemeline klient-server variandid, n-tasemeline veebipõhine, teenusepõhine arhitektuur, suurarvuti laiendused ja liidesed.
 
@@ -1147,7 +1147,7 @@ Praegu laialt levivatel veebirakendustel on reeglina sarnane arhitektuur. Sel ju
 
 #### Teenusorienteeritud arhitektuur
 
-::: danger Vananenud ja puuduolev materjal
+::: probleem
 
 SOA'd peetakse tänapäeval liialt kohmakaks, kuid mitmed SOA ideed on tänaseks kandunud üle nn **_serverless_** tehnoloogiatesse
 
@@ -1167,7 +1167,7 @@ Erinevad SOA-tehnoloogiad on ellu kutsutud selleks, et lihtsustada eri süsteemi
 
 #### B.1.6.3 Süsteemide keerukus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kaasaegse süsteemide süsteemi keerukust ja kuidas sellega toime tulla, näiteks autonoomsed süsteemid.
 
@@ -1190,7 +1190,7 @@ End ise hooldavate süsteemideni on siiski veel hulk maad minna.
 
 ### B.1.6 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Tarkvaraarenduse kergetele (agile) meetoditele on omane:
 
@@ -1220,7 +1220,7 @@ End ise hooldavate süsteemideni on siiski veel hulk maad minna.
 
 :::
 
-## 1.7 Kasutatud materjalid ja lisalugemist
+## Kasutatud materjalid ja lisalugemist
 
 - EUCIP programmi materjal: http://ecdl.ee/EUCIP_eksami_sooritajale.html
 

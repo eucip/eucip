@@ -8,13 +8,13 @@ Selle alateema materjale läbi töötades saad teadmised organisatsioonide vormi
 
 ### A.1.1.1 Organisatsioonide vormid
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada organisatsioone ja olulisemaid struktuure nt puustruktuur, kammstruktuur, juriidiline vorm nt mittetulundusühing, partnerlus; suurus nagu väikese ja keskmise suurusega ettevõte, korporatsioon.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -42,13 +42,13 @@ Tulu mittetaotlevad organisatsioonid kasutavad oma kasumi põhikirjajärgsete ee
 
 ### A.1.1.2 Organisatsioonide jaotus
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada info tähtsust organisatsiooni põhitegevuse (operational) taktikalise ja strateegilise otsuste tegemisel.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -94,13 +94,13 @@ Kuigi majanduse arengutrendid viitavad selgesti suufirmade üha laiemale dominee
 
 ### A.1.1.3 Ettevõtete ülesehitus
 
-::: warning Õppekava
+::: oppekava
 
 Anda töövoo skemaatiline esitus mitme erineva organisatsioonili- se struktuuri puhul.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -121,13 +121,13 @@ Tänapäeval on ettevõtte äärmiselt huvitatud paindlikkuse suurendamisest, õ
 
 ### A.1.1.4 Info liikumine organisatsioonis
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada info tähtsust organisatsiooni põhitegevuse (operational) taktikalise ja strateegilise otsuste tegemisel.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -145,13 +145,13 @@ Tegelikkuses võivad kõik kaubavahetusega seotud protsessid olla oluliselt pike
 
 ### A.1.1.5 IT arengustaadiumid
 
-::: warning Õppekava
+::: oppekava
 
 Ülevaade sellest, kuidas erinev organisatsioonikultuur kajastub IKT toimimise põhimõtetes.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -170,9 +170,9 @@ Kui üritada hinnata IT erinevad arengustaadiume, siis võiks neid klassifitseer
 
 Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral nende "visiitkaartideks". Suured multinatsionaalsed kontsernid eelistavad konservatiivsemaid integreeritud juhtimissüsteeme, mis nõuavad jäigemat, kuid samas ka süsteemset lähenemist. Väiksemad firmad, mis juba oma olemuselt on dünaamilisemad, rõhutavad pigem mitmekesisust ja kasutavad üldotstabelist tehnoloogiat. Selline lähenemine võimaldab saavutada suuremat paindlikkust ja kohanemisvõimet välis- ja/või sisetingimuste muutumisel, ehkki see võib tuua kaasa mõningaid probleeme kui kasutada neid pelgalt juhtimissüsteemidena.
 
-### A.1.1.6 Kordamisküsimused
+### A.1.1 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kas tulu mittetaotleval ettevõttel võib tekkida kasum?
 
@@ -209,13 +209,15 @@ Juhtimise infosüsteemid iseloomustavad organisatsioone, olles teatud määral n
 
 :::
 
-## A.1.2 (Infotöötlus) Infotehnoloogia mõju organisatsioonide infotöötlusele
+## A.1.2 Infotöötlus
+
+ehk "Infotehnoloogia mõju organisatsioonide infotöötlusele"
 
 Selle alateema materjale läbi töötades õpid tundma, kuidas infotehnoloogia mõjutab infotöötlust organisatsioonides.
 
 ### A.1.2.1 Infotehnoloogia mõju infotöötlusele organisatsioonides
 
-::: warning Õppekava
+::: oppekava
 
 Näidata vahe andmete ja informatsiooni vahel.
 
@@ -247,7 +249,7 @@ Loomulikult on ka tarbijate ligipääs erineva tasandi infole erinev, teatud osa
 
 Lõppjäreldusena peab märkima, et infosüsteemid mängivad ettevõtte reaalses tegevuses keskset rolli ja halvasti või lõpuni läbimõtlemata infosüsteemide kasutamine toob kaasa ka kogu ettevõtte majandusliku tegevuse efektiivsuse vähenemise.
 
-::: danger Puudulik sisu
+::: probleem
 
 Puuduvad järgmised õppekava alampunktid
 
@@ -263,7 +265,7 @@ Kirjeldada organisatsioonis infotöötlussüsteemide kasutamist, näiteks ettev�
 
 ### A.1.2 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Infotehnoloogiat on ettevõttele vaja selleks, et:
 
@@ -286,19 +288,21 @@ Kirjeldada organisatsioonis infotöötlussüsteemide kasutamist, näiteks ettev�
 
 :::
 
-## A.1.3 Strateegiline positsioneerumine (Sise- ja väliskeskkond)
+## A.1.3 Strateegiline positsioneerumine
+
+ehk "Sise- ja väliskeskkond"
 
 Selle alateema materjale läbi töötades tutvud ettevõtte konkurentsivõime tagamise, turundusmeetmete ja logistika planeerimise põhimõtetega.
 
 ### A.1.3.1 Ettevõtete konkurentsivõime tagamine
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada organisatsiooni paiknemist tööstusharude klassifikatsioonis, selle rolli väärtusahelas, turuküpsust ja –rivaliteeti, toodete-teenuste valikut, tööprotsesse.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -346,13 +350,13 @@ Need sihtülesanded peavad sisaldama mõõtühikut (näit. käibe suurendamine),
 
 ### A.1.3.2 Turundusmeetmed
 
-::: warning Õppekava
+::: oppekava
 
 Selgitada, kuidas organisatsioon saab määratleda teenuste strateegiat, näiteks projekteerimine tellimuse alusel (Engineer To Order), tootmine tellimuse alusel (Make To Order), koostamine tellimuse alusel (Assemble To Order), tootmine lattu (Make To Stock). Tuua välja teenuste strateegia mõju planeerimisele ja juhtimisele.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -374,13 +378,13 @@ Praktikas peavad need kontrollnäitajad olema muidugi konkretiseeritud. Kontroll
 
 ### A.1.3.3 Toote elutsükkel
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda ettevõtte tööd mõjutavad välis- ja sisetegurid, näiteks rahvusvaheline konkurents, sidusrühmade (stakeholders) huvid, keskkond.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -400,7 +404,7 @@ Joonis 1-5. Toote turupositsiooni iseloomustus (allikas Boston Consulting Group)
 
 ### A.1.3.4 Logistika koht ettevõtetes
 
-::: danger Puudub seostamine õppekavaga
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -446,7 +450,7 @@ Selliseks viieks analüüsitavaks jõuks on:
 
 ### A.1.3 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Kaudne turundus tähendab seda, et firma:
 
@@ -483,7 +487,7 @@ Selle alateema materjale läbi töötades õpid tundma äriplaani koostamise põ
 
 ### A.1.4.1 Äriplaani põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja äriplaani põhiosad ja olulisus ning asjakohasus investoritele.
 
@@ -523,7 +527,7 @@ Ideid äristrateegia koostamiseks võib saada firma loomise algfaasis, ajurünna
 
 Kokkuvõtteks võib öelda, et innovaatilised lahendused on alati olnud tulevase edu aluseks. Kahjuks pole alati võimalik väga lennukaid ideid ratsionaalselt kirjeldada.
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjalide hulgas puuduvad järgnevad õppekava alamosad
 
@@ -537,9 +541,9 @@ Kirjeldada antud äriplaaniga sobivat IKT lahendust.
 
 :::
 
-### A.1.4.2 Kordamisküsimused
+### A.1.4 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Äriplaani on vaja:
 
@@ -563,7 +567,7 @@ Selle alateema materjale läbi töötades õpid tundma äriprotsesside põhimõt
 
 ### A.1.5.1 Äriprotsesside põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Mõista äriprotsessi termini sisu ja eristada põhi- ja tugiprotsesse.
 
@@ -607,7 +611,7 @@ Kõrvuti ettevõtte ressursside juhtimissüsteemi põhiülesannete kasutamisest 
 
 Infosüsteemid ja laiemas mõttes kogu infotehnoloogia kasutamine on aja märk ja võimaldavad ettevõtetel oma äritegevuses jõuda kvalitatiivselt uutele tasanditele.
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjalide hulgas puuduvad järgnevad õppekava alamosad
 
@@ -622,7 +626,7 @@ Teha ülevaade organisatsiooni konkurentsivõimet parandavatest peamistest strat
 
 ### A.1.5. Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Äriprotsess on:
 
@@ -646,7 +650,7 @@ Selle alateema materjale kläbi töötades õpid tundma infosüsteemi rolli orga
 
 ### A.1.6.1 Infosüsteem organisatsioonides
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada juhtkonna rolli ja vastutust strateegilisel, taktikalisel ja tegevtasandil (operational level).
 
@@ -662,13 +666,13 @@ Ettevõtte ja juhtkonna jaoks määrab infotehnoloogiliste lahenduste väärtuse
 
 ### A.1.6.2 Infosüsteemide kasutusvaldkonnad
 
-::: warning Õppekava
+::: oppekava
 
 Seostada IKT rakendused vastavate juhtimistasanditega.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekava alajaotus ei vasta õppematerjali sisule
 
@@ -684,13 +688,13 @@ Mõningane mitmetähenduslikkus valitseb ka nende süsteemide määratluste ja n
 
 ### A.1.6.3 Infosüsteemide loomine
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda organisatsiooni teadmised, mälu ja õppimine.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -718,13 +722,13 @@ Enne teadmusjuhtimise defineerimist vaatleme teadmistega seonduvaid protsesse ja
 
 ### A.1.6.4 Teadmistega seonduvad mõisted
 
-::: warning Õppekava
+::: oppekava
 
 Visandada mõned otsustamise ja mõõtmismeetodid, nt Pareto ja Ichikawa diagrammid, kriitilised edutegurid, tulemuslikkuse võtmeindikaatorid (KPI), tasakaalustatud tulemuskaart (Balanced Score Card).
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -740,13 +744,13 @@ Visandada mõned otsustamise ja mõõtmismeetodid, nt Pareto ja Ichikawa diagram
 
 ### A.1.6.5 Teadmusjuhtimise seos organisatsiooni strateegiaga.
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada tugi, mida juhtimisinfosüsteem (MIS) annab organisatsioonis ja tuua välja mõned näited selle rakendustest.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -800,7 +804,7 @@ Reaalne teadmusjuhtimine baseerub erinevatel projektidel, millega hallatakse eri
 
 ### A.1.6.6 Teadmusjuhtimise tehnoloogiad
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -867,9 +871,9 @@ Teadmisi võidakse edastada nii teadmiste hoidlatega kui ka virtuaalsete kohtumi
 
 Lõpuks peab märkima, et lähtudes ülaltoodud teadmusjuhtimise ideoloogiast on edukad firmad on üles ehitanud organisatsiooni mudeli, milles võetakse arvesse ettevõttes tekkinud eriomast oskusteavet. Ettevõtte konkurentsivõime suurendamiseks on püstitatud eesmärk tekkinud kogemuste ja oskusteabe rakendamine ettevõttes, töötajate koolituse ja täiendõppe abil.
 
-### A.1.6.7 Kordamisküsimused
+### A.1.6 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Andmed on:
 
@@ -907,13 +911,13 @@ Selle alateema materjale läbi töötades õpid tundma organisatsionide koostö�
 
 ### A.1.7.1 Koostöö organisatsioonides
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda koostöötehnika ja loetleda selle peamised omadused ja rakendused.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekava alajaotus ja õppematerjali seos on nõrk
 
@@ -927,13 +931,13 @@ Erinevused Interneti ja e-kommertsi osas on esile kerkinud alles viimastel aasta
 
 ### A.1.7.2 Võrguteenuste mõju ettevõttele
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda töövoosüsteemide eesmärk ja tuua vaäja nende eelised vähem formaliseeritud süsteemide nt blogide, arutelutahvlite ees.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -963,13 +967,13 @@ Informatsiooni jagamine ettevõtete vahel laiendab oluliselt sisese infosüsteem
 
 ### A.1.7.3 IT kasutamine tööprotsesside juhtimisel
 
-::: warning Õppekava
+::: oppekava
 
 Tuua välja erinevused virtuaalse rühmatöö ja füüsiliselt samades ruumides paikneva rühmatöö vahel.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppematerjal ei vasta õppekavas püstitatud küsimustele
 
@@ -995,7 +999,7 @@ Joonisel 1-8 on näha, et globaliseerumise kasv loob tingimused eri kultuurikesk
 
 Kokkuvõtteks peab märkima, et üheks edukust tagavaks teguriks tuleb pidada töö protsessi juhtimise süsteemi, milles on arvestatud nii kultuurilisi iseärasusi kui ka organisatsioonilisi probleeme ja kasutatud häid tehnoloogilisi lahendusi.
 
-::: danger Puudulik sisu
+::: probleem
 
 Puudub järgmine õppekava alampunkt
 
@@ -1007,7 +1011,7 @@ Näidata eduka arvutipõhise koostöö elluvuiimise tegurid, näiteks juhtkonna 
 
 ### A.1.7 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Milline koostöötehnika on alltoodud võimalustes uusim:
 
@@ -1024,7 +1028,7 @@ Selle alateema materjale läbi töötades õpid tundma arvutipõhise koolituse j
 
 ### A.1.8.1 Arvutipõhise koolituse ja e-õppe põhimõtted
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada arvutipõhist koolitust ja e-õpet.
 
@@ -1066,7 +1070,7 @@ Tuleb alati meeles pidada tõsiasja, et e-õpe ei ole tavaõppe automaatne kopee
 
 Tõsist tähelepanu nõuab ka tagasiside korraldamine, kuna kõik õppurid peavad saama vastused oma küsimustele, ilmselt on ka siin omad kulud, kuna õppejõud pole füüsiliselt võimeline kõigiga suhtlema, seega tuleb kindlasti kasutada tuutoreid.
 
-::: danger Puudulik sisu
+::: probleem
 
 Puuduvad (või on need eelmise alampunkti juures) järgmise õppekava alampunktid
 
@@ -1080,9 +1084,9 @@ Loetleda e-õppe eelised ja puudused.
 
 :::
 
-### A.1.8.2 Kordamisküsimused
+### A.1.8 Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. E-õppe peamine eelis on see, et:
 
@@ -1104,7 +1108,7 @@ Selle alateema materjale läbi töötades õpid tundma infoüshiskonna ülesehit
 
 ### A.1.9.1 Infoühiskonna taust
 
-::: warning Õppekava
+::: oppekava
 
 Kirjeldada kuidas IKT on ühiskonda muutnud.
 
@@ -1120,13 +1124,13 @@ Samas on "tõeline" tehisintellekt kauge tulevikuunistus, kuigi tipparvuti koos 
 
 ### A.1.9.2 IT roll ühiskonna arengus
 
-::: warning Õppekava
+::: oppekava
 
 Loetleda tegureid IKT kasulikkusest ja kahjulikkusest ühiskonnale.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekava alajaotus on õppematerjaliga nõrgalt seotud
 
@@ -1166,13 +1170,13 @@ IT võimaldab:
 
 ### A.1.9.3 E-äri
 
-::: warning Õppekava
+::: oppekava
 
 Määratleda digitaalse lõhe mõiste.
 
 :::
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1222,7 +1226,7 @@ Ettevõtte põhilised juhtimisvaldkonnad e-äris on e-turundus, e-varustus, e-fi
 
 ### A.1.9.4 Ettevõtte e-turundus
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1244,9 +1248,9 @@ Näide: ravimite e-hulgimüüja ekstranetis on ravimite kirjeldused ja hinnad. A
 
 c) Hinnakujunduse-turunduses on paindlik turuolu­kordade ja klientide suhtes. Interaktiivne kiire andme­vahetus e-turunduses võimaldab müüki kokkuleppe­hindadega. Näiteks lennundusportaalides muutub lennupiletite hind reaalajas sõltuvalt turu olukorrast (Lastminute. com).
 
-### A.1.9.5 Kliendisuhete juhtimine (customer relationship management – CRM)
+### A.1.9.5 Kliendisuhete juhtimine
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1267,7 +1271,7 @@ CRM toimib ettevõtte e-turunduses tõhusalt siis, kui partneriteks on klientide
 
 ### A.1.9.6 Ettevõtte e-varustus
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1277,7 +1281,7 @@ Ettevõtte e-varustuse põhifunktsioonid on hanketur­gude monitooring, tellimin
 
 ### A.1.9.7 Ettevõtte e-rahandus
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1287,7 +1291,7 @@ Ettevõtte tegevusvaldkondadest enam digitaliseeritud on rahandus, mis võimalda
 
 ### A.1.9.8 Virtuaalettevõte
 
-::: danger Puudulik sisu
+::: probleem
 
 Õppekavas puudub viide antud õppematerjalile
 
@@ -1297,7 +1301,7 @@ E-äri on tekitanud ettevõtluse uue ärimudeli - virtuaal­ettevõtlus. Virtuaa
 
 ### A.1.9. Kordamisküsimused
 
-::: tip Kordamisküsimused
+::: kordamiskusimused
 
 1. Infoühiskonna peamiseks tunnuseks on:
 
@@ -1315,47 +1319,60 @@ E-äri on tekitanud ettevõtluse uue ärimudeli - virtuaal­ettevõtlus. Virtuaa
 
 :::
 
-# 1.10 Riigi roll infosüsteemide loomisel
+## A.1.10 Riigi roll infosüsteemide loomisel
 
-Selle alateema materjale läbi töötades saad teadmised triigi rollist infosüsteemide loomisel.
+Selle alateema materjale läbi töötades saad teadmised riigi rollist infosüsteemide loomisel.
 
-### A.1.10.1 Riigi rollist infosüsteemide loomisel
+::: probleem
+
+Õppekavas puudub viide antud õppematerjalile
+
+:::
 
 Infosüsteem on ettevõtte või organisatsiooni info- ja süsteemitöö korralduse, meetodite ning vahendite süs­teem (kogum). Infosüsteem luuakse efektiivsuse tõst­miseks, lähtudes ettevõtte põhieesmärkidest. Ettevõttel või organisatsioonil eksisteerib juhtkonna ja kontori jaoks töökorraldus (sageli organisatsiooni ja tema struktuuriüksuste põhimäärustena), mis sisaldab ka infotöö ja süsteemitöö eesmärke, tegevusprogrammi ning töö metoodikat. Tänapäevane infosüsteem kasu­tab infotehnoloogia vahendeid ja põhiosas mõistame infosüsteemi kui ettevõtet või organisatsiooni koos arvutikasutusega.
 
-a) **Riigi infosüsteemid**.Ülaltoodud määratlus kehtib ka riigi infosüsteemide osas. Riigiasutuste tegevus on oluliselt seotud info kogumise, töötlemise, analüüsi ja väljastamisega, mida nüüdisajal teostatakse enamasti (infokom­munikatsiooni tehnoloogia) vahenditega.
+#### Riigi infosüsteemid
+
+Ülaltoodud määratlus kehtib ka riigi infosüsteemide osas. Riigiasutuste tegevus on oluliselt seotud info kogumise, töötlemise, analüüsi ja väljastamisega, mida nüüdisajal teostatakse enamasti (infokom­munikatsiooni tehnoloogia) vahenditega.
 
 Riigi infosüsteemi moodustavad mitmesugused and­mekogud (riigi põhiregistrid, riiklikud registrid jne), riigiasutuste dokumendihaldussüsteemid, internetipor­taalid ja kõiki eespool toodud rakendusi toetavad info­tehnoloogilise infrastruktuuri elemendid (kohtvõrgud, serverid, tööjaamad jt).
 
 Riigi infosüsteemides peab arvestama ka ko­haliku omavalitsustega, mis on inimestele kõige lähemal asuv avaliku teenuse (või­mu) asutus, ta on ka riiklike andmekogude ja infosüs­teemide andmehõive esimene tasand. Riiklikud and­mekogud hakkavad täiuslikult toimima, kui andmete kandmine digitaalsesse andmekogusse muutub jurii­dilise protseduuri (näiteks sünni registreerimise) reaal­ajas toimuvaks osaks. Riiklike registrite korralik toi­mimine on oluline Euroopa Liidu ühtse infosüsteemi väljatöötamisel. Infoühiskonnas ei ole ääremaid.
 
-b) **Andmekogude riiklik register** [http://www.riik.ee/arr/arrindex.html](http://www.riik.ee/arr/arrindex.html) . Andmekogude riikliku registri pidamise eesmärk on andmekogude üle arvestuse pidamine, valitsusele ja andmekogude vastutavatele töötlejatele ning riigi info­süsteemide alaseid töid koordineerivale asutusele ette­panekute tegemine samaste ja üksteist sisuliselt kor­davate andmekogude pidamise vältimiseks, andmeko­gude laiendamiseks, ühendamiseks või likvideerimi­seks, andmete ristkasutuseks ning andmetöötluse või andmehõive korrastamiseks.
+::: vananenud
+
+##### Andmekogude riiklik register
+
+http://www.riik.ee/arr/arrindex.html
+
+Andmekogude riikliku registri pidamise eesmärk on andmekogude üle arvestuse pidamine, valitsusele ja andmekogude vastutavatele töötlejatele ning riigi info­süsteemide alaseid töid koordineerivale asutusele ette­panekute tegemine samaste ja üksteist sisuliselt kor­davate andmekogude pidamise vältimiseks, andmeko­gude laiendamiseks, ühendamiseks või likvideerimi­seks, andmete ristkasutuseks ning andmetöötluse või andmehõive korrastamiseks.
 
 Registrisse kantakse andmed järgmiste andmeko­gude kohta:
 
-1.  Riigi põhiregistrid ja nendega andmete vahetamises osalevad andmekogud.
+1. Riigi põhiregistrid ja nendega andmete vahetamises osalevad andmekogud.
+2. Riiklikud registrid.
+3. Juriidiliste isikute ning riigiasutustes ja kohalikes omavalitsustes peetavad delikaatseid isikuandmeid si­saldavad andmekogud.
+4. Riigiasutuste ja kohalike omavalitsuste andmeko­gud, mis koguvad ja väljastavad riigi põhi- ja riiklikes registrites sisalduvaid andmeid.
 
-2.  Riiklikud registrid.
+##### E-kodanik
 
-3.  Juriidiliste isikute ning riigiasutustes ja kohalikes omavalitsustes peetavad delikaatseid isikuandmeid si­saldavad andmekogud.
+http://www.riik.ee/ekodanik
 
-4.  Riigiasutuste ja kohalike omavalitsuste andmeko­gud, mis koguvad ja väljastavad riigi põhi- ja riiklikes registrites sisalduvaid andmeid.
+E-kodaniku projekti eesmärk on võimaldada kõikidel inimestel aktiivselt osaleda infotehnoloogia abil ava­likus elus nii riigi, regiooni kui ka kohalikul tasandil.
 
-c) **E-kodanik** [http://www.riik.ee/ekodanik/](http://www.riik.ee/ekodanik/) . E-kodaniku projekti eesmärk on võimaldada kõikidel inimestel aktiivselt osaleda infotehnoloogia abil ava­likus elus nii riigi, regiooni kui ka kohalikul tasandil.
+##### Kodaniku IT-keskkond
 
-d) **Kodaniku IT-keskkond\*\*** (KIT)\*\* on kõigile kodanikele interneti veebilehitseja kaudu kasutatav infotehnoloo­giliste vahendite kogum turvaliseks suhtlemiseks riigi­asutuste, kohalike omavalitsuste asutuste, eraettevõtete ja kolmanda sektori institutsioonide (edaspidi asutuste) infosüsteemidega. KIT kasutajate ringi peab olema võimalik laiendada mittekodanikega.
+Kodaniku IT-keskkond (KIT) on kõigile kodanikele interneti veebilehitseja kaudu kasutatav infotehnoloo­giliste vahendite kogum turvaliseks suhtlemiseks riigi­asutuste, kohalike omavalitsuste asutuste, eraettevõtete ja kolmanda sektori institutsioonide (edaspidi asutuste) infosüsteemidega. KIT kasutajate ringi peab olema võimalik laiendada mittekodanikega.
 
 KIT vahendid võib jagada kasutajagruppide järgi kolmeks: kodaniku, üldsüsteemne ja avalik osa (teabe­portaal):
 
-- **Kodanikuportaal ** [http://www.eesti.ee/](http://www.eesti.ee/) ja [http://www.riik.ee/kodanikuportaal/](http://www.riik.ee/kodanikuportaal/)
+- **Kodanikuportaal ** http://www.eesti.ee ja http://www.riik.ee/kodanikuportaal sisaldab kodanikele vahetult suunatud põhiosi (kodaniku dokumendisüsteem, elektroonne ümbersuunatav postkast, turvaline keskkond teenustele ligipääsuks).
 
-sisaldab kodanikele vahetult suunatud põhiosi (kodaniku dokumendisüsteem, elektroonne ümbersuunatav postkast, turvaline keskkond teenustele ligipääsuks).
+  Kodaniku ja riigi suhetes taotleb riik teenuskeskset lähenemist, kus riigiasutused esinevad eelkõige avaliku teenuse pakkujatena. Kodanikuportaali loomise aluseks on seatud põhimõte: kodanikul peab olema võimalus suhelda riigiasutuste­ga, ilma et ta peaks teadma kogu haldusorganisatsiooni ülesehitusest.
 
-Kodaniku ja riigi suhetes taotleb riik teenuskeskset lähenemist, kus riigiasutused esinevad eelkõige avaliku teenuse pakkujatena. Kodanikuportaali loomise aluseks on seatud põhimõte: kodanikul peab olema võimalus suhelda riigiasutuste­ga, ilma et ta peaks teadma kogu haldusorganisatsiooni ülesehitusest.
+  Loodav kodanikuportaal laiendab üldsuse arusaama ava­likust haldusest ja selle pakutavatest teenustest, aitab kodanikel Eesti avalikku haldust mõista euroopalike põhiideede kohaselt, s.t mitte võimuinstrumendi, vaid kodanike jaoks ja kodanike teenistuses oleva süsteemina. Kodanike juriidilise kirjaoskuse parandamisele aitab kaasa teabe aktiivne pakkumine, mille käigus asenda­takse senine seaduse keskne lähenemine ehk seaduste teks­tide vahendamine teabe pakkumisega kodanikukesk­selt.
 
-Loodav kodanikuportaal laiendab üldsuse arusaama ava­likust haldusest ja selle pakutavatest teenustest, aitab kodanikel Eesti avalikku haldust mõista euroopalike põhiideede kohaselt, s.t mitte võimuinstrumendi, vaid kodanike jaoks ja kodanike teenistuses oleva süsteemina. Kodanike juriidilise kirjaoskuse parandamisele aitab kaasa teabe aktiivne pakkumine, mille käigus asenda­takse senine seaduse keskne lähenemine ehk seaduste teks­tide vahendamine teabe pakkumisega kodanikukesk­selt.
-
-Portaali toimimiseks ja ajakohastamiseks tuleb luua sellised õiguslikud alused, mis võimaldavad eri asu­tuste eri taseme ametnikel vahetult suhelda ja seega vähendada ametliku suhtlemise kuhjumist juhtide ta­sandile.
+  Portaali toimimiseks ja ajakohastamiseks tuleb luua sellised õiguslikud alused, mis võimaldavad eri asu­tuste eri taseme ametnikel vahetult suhelda ja seega vähendada ametliku suhtlemise kuhjumist juhtide ta­sandile.
 
 - **Teenuste üldsüsteemsed vahendid** - asutuste info­süsteemide kodanikele suunatud e-teenuste realisee­rimise ja kättesaadavuse hõlbustamiseks töötatakse välja reeglid ning üldsüsteemsed vahendid.
 
@@ -1389,11 +1406,11 @@ DHP tähendab:
 - ühiseid infotehnoloogilisi lahendusi: valitsusasutuse dokumendihalduse reformi edukad lahendused laien­datakse üleriigilisteks lahendusteks, selleks koonda­takse vajalikud infotehnoloogilised võimalused
 - koordineerimist: valitsusasutuste dokumendihaldu­se projektide ning temaatikaga seotud tegevused koon­datakse ühtse kooskõlastamise alla.
 
-DHP strateegia.Alustatakse valitsuse reglemendi reguleerimisvald­konnast lähtuva dokumentide haldamise süsteemi ra­kendamisega, sest see valdkond on:
+  DHP strateegia.Alustatakse valitsuse reglemendi reguleerimisvald­konnast lähtuva dokumentide haldamise süsteemi ra­kendamisega, sest see valdkond on:
 
-- õigusaktidega korraldatud (valitsuse reglement, asjaajamise kord)
-- ühine osa kõigile valitsusasutustele
-- hiljem laiendatav kõigile valitsusasutustes kasuta­tavatele dokumendiliikidele.
+  - õigusaktidega korraldatud (valitsuse reglement, asjaajamise kord)
+  - ühine osa kõigile valitsusasutustele
+  - hiljem laiendatav kõigile valitsusasutustes kasuta­tavatele dokumendiliikidele.
 
 Saadud tulemused ja standardid üldistatakse ning töö­tatakse välja nõuded valitsusasutuste dokumendihal­dussüsteemidele. Luuakse tingimused valitsusasutustes dokumentide haldamise süsteemide kasutuselevõtmiseks.
 
@@ -1403,9 +1420,11 @@ Loomulikult võivad löögi alla sattuda ka eraettevõtted ja riigiasutused, kui
 
 Kokkuvõtteks võib märkida, et liikumine infoühiskonna suunas on olnud üheks globaliseerumise veduriks, kuid kaugeltki mitte ainus. Kahtlemata aitab vaba suhtlemine inimeste vahel teineteisest paremini aru saada, kuid võib ka tekitada ühiskonnas uusi probleeme.
 
-### A.1.10.2 Kordamisküsimused
+:::
 
-::: tip Kordamisküsimused
+### A.1.10 Kordamisküsimused
+
+::: kordamiskusimused
 
 1. ID kaarti kasutatakse:
 
@@ -1424,7 +1443,7 @@ Kokkuvõtteks võib märkida, et liikumine infoühiskonna suunas on olnud üheks
 
 :::
 
-## 1.11 Kasutatud materjalid
+## Kasutatud materjalid
 
 - "IT juhtimise käsiraamat." Koostanud EBS. Välja andnud Äripäeva kirjastus
 - Schgör, P., Brambilla, R. and Amarilli, F. 2004. "PROFESSIONE INFORMATICA: I – Pianificazione, uso e gestione dei sistemi informativi. Competenze interdisciplinari per laapplicazione delle tecnologie del;a informazione e della comunicazione nel mondo del lavoro.". Milan : Edizione F. Angeli. – Translation into English
