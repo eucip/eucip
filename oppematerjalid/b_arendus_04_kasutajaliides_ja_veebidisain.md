@@ -88,11 +88,11 @@ Mudeli kriitikat võimaldab asjaolu, et see jätab mulje kommunikatsioonipoolte 
 
 #### Info edastamine internetis
 
+::: vananenud
+
 ![](../images/b4_infoedastamine.png)
 
 Joonis 4-2. Kommunikatsioon internetis
-
-::: vananenud
 
 Internetis kasutatakse kahte põhimõistet: aadress ja protokoll. Iga internetti ühendatud arvuti omab unikaalset aadressi. Isegi ajutise ühenduse puhul eraldatakse arvutile unikaalne aadress. Igal ajahetkel omavad kõik internetti ühendatud arvutid erinevaid aadresse - nagu postiaadress iseloomustab unikaalselt inimese asukohta, iseloomustab arvuti asukohta võrgus selle internetiaadress.
 

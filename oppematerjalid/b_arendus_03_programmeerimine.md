@@ -354,12 +354,6 @@ Kolmanda põlvkonna keelte hulka kuulub enamik tuntumaid ja kasutatavaid keeli, 
 
 **_Visual Basic_**, **_Delphi_**, **_Python_**, **_C#_** jne on kõik kolmanda põlvkonna programmeerimiskeeled. Paljud kolmanda põlvkonna programmeerimiskeeled on nooremad (uuemad) kui mitmed neljanda ja viienda põlvkonna programmeerimiskeeled.
 
-::: probleem
-
-Nimistust on puudu enamus populaarseimad skriptimiskeeli **_Javascript_**, **_Typescript_**, **_Ruby_**, **_PHP_** ja **_Lua_** ning uuemad süsteemiprogrammeerimiskeeled nagu **_Go_** ja **_Rust_**.
-
-:::
-
 **Neljanda põlvkonna** programmeerimiskeeled on loodud eesmärgiga lihtsustada nende õppimist ja kasutamist. Neljanda põlvkonna programmeerimiskeeled on tavaliselt mitte-protseduurilised ja ühe rakenduse kesksed. Üheks neljanda põlvkonna programmeerimiskeeleks on näiteks **_SQL_** (Structured Query Language). Seal öeldakse pigem "mida" teha ning vähem, "kuidas" teha.
 
 **Viienda põlvkonna** programmeerimiskeeled on loodud tehisintelligentsete süsteemide loomiseks ja tehisintelligentsusega seotud probleemide lahendamiseks.
@@ -586,13 +580,11 @@ Deklaratsioonidega seotakse mingi sümbolitest koosnev nimi mõne andmeobjekti v
 
 Deklareerimise käigus seotakse tihti andmeobjektiga mingi koht mälus, kus siis seda konkreetset andmeobjekti iseloomustavaid väärtuseid hoitakse.
 
-::: probleem
-
-EPL keel pole koodinäidetes praktiline, mõistlikum on koodinäited ümber kirjutada rohkem levinumasse C-sarnasesse keelde nt Javascripti
-
-:::
+::: vananenud
 
 Kõige levinumad deklaratsioonid on muutujate deklaratsioonid, näiteks kasutades EPL (EUCIP Programming Language, baseerub C-keelel) pseudokeelt võime deklareerida muutujaid järgmiselt:
+
+:::
 
 ```c
 char alfa;
@@ -604,7 +596,11 @@ Nii oleme me deklareerinud kolm muutujat tähemärgi tüüpi muutuja alfa, täis
 
 Sisend-väljund käsud on mõeldud suhtlemaks välismaailmaga läbi sisend-väljund seadmete. Sisend-väljund käsud võivad erinevates keeltes suurtesti varieeruda: mitmetes keeltes ei ole eraldi sisend-väljund käske (näiteks Motorola 88k assembler suhtleb sisend-väljund seadmetega nagu mäluga), C&#39;l baseeruvatel keeltel on reeglina eraldi välised funktsioonid, mida sisendi ja väljundiga suhtlemiseks kasutatakse (tihti kasutatakse selleks operatsioonisüsteemi teenuseid ja vahendeid).
 
+::: vananenud
+
 EPL keeles on sisend-väljund käskudeks ainult kaks funktsiooni: `printf()` ja `readf_()`.
+
+:::
 
 Funktsioon `printf()` on kasutatav järgmiselt:
 
@@ -638,7 +634,7 @@ Juhtkäsud määravad programmi täitmise korra (erinevate programmiosade täitm
 - Tingimuslaused
 - Kordused
 
-Tingimusteta hüpete abil on võimalik "hüpata" koodis ringi ja muuta nii kirjutatud koodi täitmise järjekorda. Selliste juhtkäskude kasutamine raskendab oluliselt koodist arusaamist ja seetõttu soovitatakse sellisest konstruktsioonist hoiduda. Mitmed tänapäevased keeled ei luba tingimusteta hüpete kasutamist (sh EPL).
+Tingimusteta hüpete abil on võimalik "hüpata" koodis ringi ja muuta nii kirjutatud koodi täitmise järjekorda. Selliste juhtkäskude kasutamine raskendab oluliselt koodist arusaamist ja seetõttu soovitatakse sellisest konstruktsioonist hoiduda. Mitmed tänapäevased keeled ei luba tingimusteta hüpete kasutamist.
 
 Tingimustega juhtlausete korral kasutatakse tingimuse realiseerimiseks kasutatakse võrdlusoperaatoreid:
 
@@ -712,7 +708,11 @@ else
 
 Kui a on suurem kolmest, siis b võrdustakse viiega ja kui a ei ole suurem kolmest, siis c omistatakse väärtus kuus.
 
+:::
+
 `if`-käsu keerulisemad versioonid on `case` ja `switch`, need juhtkäsud võimaldavad rohkemaid jagunemisi vastavalt tingimustele, kui kuna EPL keel neid ei sisalda, siis siinkohal me neid ei käsitle.
+
+:::
 
 Kordused võimaldavad mingisugust koodi osa vastavalt etteantud tingimusele korduvalt täita. Kordused jagunevad: eelkontrolliga ja järelkontrolliga ning määratud pikkusega ja määramata pikkusega kordusteks.
 
@@ -876,7 +876,13 @@ kasutatakse märki "%"; ja jagab ühe väärtuse teisega, näiteks c=a%b jagab m
 c = 5 % 3 // järelikult c = 2
 ```
 
-EPL keeles ei ole tõeväärtus tüüpi muutujat, seetõttu on loogikatehteid ainult juhtlausetes. Keeltes, kus on tõeväärus tüüpi muutujad on võimalik kasutada ja loogikatehteid, näiteks `c = a & b`, `c = true` kui a ja b on võrdsed ja `c = false` kui a ja b ei ole võrdsed. Loogikatehetest tuleb pikemalt juttu juhtlausete käsitlemisel.
+::: vananenud
+
+EPL keeles ei ole tõeväärtus tüüpi muutujat, seetõttu on loogikatehteid ainult juhtlausetes.
+
+:::
+
+Keeltes, kus on tõeväärus tüüpi muutujad on võimalik kasutada ja loogikatehteid, näiteks `c = a & b`, `c = true` kui a ja b on võrdsed ja `c = false` kui a ja b ei ole võrdsed. Loogikatehetest tuleb pikemalt juttu juhtlausete käsitlemisel.
 
 Tehete järjekord on osades programmeerimiskeeltes erinev ja osades samataoline: osad keeled teevad kõigepealt korrutamis- ja jagamistehted ning seejärel liitmis- ja lahutamistehted. Tehteid täidetakse vasakult paremale. Tehete järjekorda on võimalik määrata sulgudega (sulgude sees olevad tehted tehakse kõigepealt). Näiteks `c= a + a * b` on erinev tehtest `c = (a + a) * b`.
 
@@ -1118,10 +1124,10 @@ s=s+m[i];
 
 Milline on muutuja s väärtus pärast koodilõigu läbimist?
 
-a – 0
-b – 17
-c – 13 X
-d – 12
+a – `0`
+b – `17`
+c – `13` X
+d – `12`
 
 **Koodilõik**
 
@@ -1136,11 +1142,10 @@ for(int i=1; i<3; i++){
 
 Mida peaks koodilõigus muutma, et tulemusena leitaks massiivielementide summa?
 
-a – rida 2 s=1;
-b – rida 3 for(int i=0; i<4; i++){ X
-c - rida 3 for(int i=0; i<3; i++){
-
-c – rida 2 s=-1;
+- rida 2 `s=1`
+- rida 3 `for(int i=0; i<4; i++){` X
+- rida 3 `for(int i=0; i<3; i++){`
+- rida 2 `s=-1;`
 
 :::
 
