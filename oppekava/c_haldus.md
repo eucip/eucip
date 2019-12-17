@@ -24,7 +24,7 @@ Eksaminand peab:
 
 #### C.1.1.1
 
-Määratleda arvutisüsteemi, põhilised osad: protsessor muutmälu, püsimälu ja kirjeldad nende tööpõhimõtet.
+Määratleda arvutisüsteemi, põhilised osad: protsessor muutmälu, püsimälu ja kirjeldad nende tööpõhimõtet ja iseloomustavaid parameetreid
 
 #### C.1.1.2
 
@@ -40,7 +40,7 @@ Määratleda erinevat tüüpi perifeeriaseadmeid ja võrdlema nende omadusi ning
 
 #### C.1.1.5
 
-Eristada põhilisi mälutehnoloogiaid nagu DRAM, SRAM, EPROM, välkmälu ja võrdlema nende kasutusotstarvet.
+Eristada põhilisi mälutehnoloogiaid nagu DRAM, SRAM, SDRAM, EPROM, EEPROM, NOR-välkmälu, NAND-välkmälu ja võrdlema nende kasutusotstarvet.
 
 ### C.1.2 Arvuti arhitektuur
 
@@ -238,15 +238,15 @@ Tuua välja erinevused LAN ja WAN võrkudel.
 
 #### C.3.2.6
 
-Kirjeldada erinevaid WAN Tehnoloogiaid ja valikuid nagu sissehelistamine, integreeritud teenustega digitaalvõrk, digitaalne abonendiliin (DSL), kaadriretranslaator, rendiliin.
+Kirjeldada erinevaid WAN Tehnoloogiaid ja valikuid nagu sissehelistamine, integreeritud teenustega digitaalvõrk, digitaalne abonendiliin (DSL), rendiliin.
 
 #### C.3.2.7
 
-Kirjeldada standardseid võrgu- topoloogiaid ja seostada neid võrgu standarditega nagu Ethernet, lubaring, FDDI.
+Kirjeldada standardseid võrgu- topoloogiaid ja seostada neid võrgu standarditega nagu Ethernet
 
 #### C.3.2.8
 
-Määratleda erinevad juurde- pääsustrateegiad (CSMA/CD ja loakettedastus), mida kasutatakse erinevate võrgustandardite puhul.
+Määratleda erinevad juurde- pääsustrateegiad (CSMA/CD ja CSMA/CA), mida kasutatakse erinevate võrgustandardite puhul.
 
 #### C.3.2.9
 
@@ -378,7 +378,7 @@ Kirjeldada lihtsat postiedastusprotokolli (SMTP) ja kliendiprotokolle (POP3, IMA
 
 #### C.4.6.1
 
-Kirjeldada IP telefoni mõiste.
+Kirjeldada IP telefoni mõistet.
 
 #### C.4.6.2
 
@@ -408,7 +408,7 @@ Määratleda põhilised multimeedia sisend/väljund seadmed nagu skännerid, dig
 
 #### C.5.1.3
 
-Kirjeldada peamised multimeedia massmälukandjate standardid nagu CDROM, DVD, magent-optiline ketas, välkmälu ja erista nende tehnilisi parameetreid
+Kirjeldada peamised multimeedia massmälukandjate standardid nagu CDROM, DVD, välkmälu ja erista nende tehnilisi parameetreid
 
 ### C.5.2 Traadita side põhimõtted
 
@@ -418,7 +418,7 @@ Loetleda traadita sides kasutatavad tehnoloogiad ja nende funktsionaalsus
 
 #### C.5.2.2
 
-Määratleda peamised erinevu- sed traadita seadmete standarditel nagu Bluetooth, IEEE802.11, IEEE802.16 (WiMax).
+Määratleda peamised erinevused traadita seadmete standarditel nagu IEEE 802.15.1 (Bluetooth), IEEE802.11 (WLAN), IEEE802.16 (WiMax).
 
 #### C.5.2.3
 
@@ -432,7 +432,7 @@ Kirjeldada peamisi traadita võrgu (WLAN) komponente ja määratleda nende otsta
 
 #### C.5.3.2
 
-Hinnata erinevate WLAN tehnoloogiate ühilduvus.
+Hinnata erinevate WLAN tehnoloogiate ühilduvust.
 
 #### C.5.3.3
 
@@ -440,7 +440,7 @@ Kirjeldada peamised satelliitsidevõrgu komponendid.
 
 #### C.5.3.4
 
-Kirjeldada peamised mobiilside tugijaamade protokollid nagu mobiilne IP, WAP, Bluetooth, UMTS.
+Kirjeldada peamised mobiilside tugijaamade protokollid nagu mobiilne IP, HSPA, LTE, 5G NR
 
 #### C.5.3.5
 
@@ -488,7 +488,7 @@ Kirjeldada erinevusi süsteemi- ja võrguhalduse tööriistade vahel.
 
 #### C.6.3.2
 
-Määratleda mõned laialtkasutatavad tarkvararakendused süsteemi- ja võrguhalduseks nagu ping, traceroute, tcpdump, HP Software, Tivoli NetView, Solstice, OpenNMS.
+Määratleda mõned laialtkasutatavad tarkvararakendused süsteemi- ja võrguhalduseks nagu ping, traceroute, tcpdump, OpenNMS, Paessler PRTG Network Monitor, Spiceworks Network Monitor.
 
 #### C.6.3.3
 
