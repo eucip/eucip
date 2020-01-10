@@ -249,7 +249,7 @@ Kirjeldada kuidas võrgukomponendid on üksteisega ühendatud.
 
 #### C.3.2.4
 
-Kirjeldada võrguseadmete rolli nagu jaotur, kommutaator, marsruuter, järgur.
+Kirjeldada võrguseadmete rolli nagu ~~jaotur~~, kommutaator, marsruuter, järgur.
 
 #### C.3.2.5
 
