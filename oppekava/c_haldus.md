@@ -241,7 +241,7 @@ Loetleda võrgukomponendid nagu lõppseadmed, ülekandemeediumid ja võrguseadme
 
 #### C.3.2.2
 
-Kirjeldada ülekandemeediumide parameetreid nagu keerupaar-, koaksiaalkaabel, mikrolained.
+Kirjeldada ülekandemeediumide parameetreid nagu keerupaar-, koaksiaalkaabel, FiO, mikrolained.
 
 #### C.3.2.3
 
