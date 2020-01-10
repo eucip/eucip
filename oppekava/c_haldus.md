@@ -573,5 +573,3 @@ Kirjeldada IT muudatusehalduse ja versioonihalduse parimad praktikad.
 #### C.7.5.3
 
 Defineerida muudatuse taotluse otstarve ja selle peamised elemendid.
-
-# Test muudatus - Toivo Pärnpuu kustutan selle hiljem
