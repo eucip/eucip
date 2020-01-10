@@ -257,7 +257,7 @@ Tuua välja erinevused LAN ja WAN võrkudel.
 
 #### C.3.2.6
 
-Kirjeldada erinevaid WAN Tehnoloogiaid ja valikuid nagu sissehelistamine, integreeritud teenustega digitaalvõrk, digitaalne abonendiliin (DSL), rendiliin.
+Kirjeldada erinevaid WAN Tehnoloogiaid ja valikuid. ~~(nagu sissehelistamine, integreeritud teenustega digitaalvõrk, digitaalne abonendiliin (DSL), rendiliin.)~~
 
 #### C.3.2.7
 
