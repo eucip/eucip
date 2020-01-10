@@ -127,6 +127,8 @@ Määratleda kontektst- kommutatsiooni operatsioon.
 
 ### C.2.3 Mälu ja massmälu haldamine
 
+// TODO: vajab koos läbiarutamist.
+
 #### C.2.3.1
 
 Kirjeldada virtuaalmälu mõistet.
