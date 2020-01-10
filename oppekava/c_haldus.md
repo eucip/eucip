@@ -24,7 +24,7 @@ Eksaminand peab:
 
 #### C.1.1.1
 
-Määratleda arvutisüsteemi, põhilised osad: protsessor muutmälu, püsimälu ja kirjeldad nende tööpõhimõtet.
+Määratleda arvutisüsteemi, põhilised osad: protsessor, muutmälu, püsimälu ja kirjeldada nende tööpõhimõtet.
 
 #### C.1.1.2
 
@@ -32,11 +32,11 @@ Kirjeldada peamiste arvutikomponentide omavahelist koostööd.
 
 #### C.1.1.3
 
-Tuua välja lihtsa arvuti- süsteemi peamised perifeeriaseadmed: monitor, klaviatuur, osundusseadmed, massmäluseadmed, võrgukaardid, printerid ja kirjeldada nende tööpõhimõtet.
+Tuua välja lihtsa arvutisüsteemi peamised perifeerseadmed: monitor, klaviatuur, osundusseadmed, massmäluseadmed, võrgukaardid, printerid ja kirjeldada nende tööpõhimõtet.
 
 #### C.1.1.4
 
-Määratleda erinevat tüüpi perifeeriaseadmeid ja võrdlema nende omadusi ning jõudlust kasutades sobivaid parameetreid nagu maht, kiirus, resolutsiooni, ühilduvusstandardid.
+Määratleda erinevat tüüpi perifeerseadmeid ja võrdlema nende omadusi ning jõudlust kasutades sobivaid parameetreid nagu maht, kiirus, resolutsiooni, ühilduvusstandardid.
 
 #### C.1.1.5
 
