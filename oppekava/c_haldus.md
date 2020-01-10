@@ -321,7 +321,7 @@ Tuua välja erinevused salajase võtme ja avaliku võtme algoritmidel (lisada pr
 
 #### C.4.2.3
 
-Kirjeldada kuidas krüptograafiat kasutatakse võrguliikluse kaitseks konfidentsiaalsuse täiustamisega (IPSec, SSH ja SSL), autentimisnõudega (digitaalne allkiri) ja luues virtuaalset privaatvõrku (VPN).
+Kirjeldada kuidas krüptograafiat kasutatakse võrguliikluse kaitseks (konfidentsiaalsuse tagamine (IPSec, SSH ja SSL), autentimisnõudega (digitaalne allkiri), luues virtuaalset privaatvõrku (VPN)).
 
 ### C.4.3 Domeeninimede süsteem
 
