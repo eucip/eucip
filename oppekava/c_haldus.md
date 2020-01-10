@@ -92,7 +92,8 @@ Kirjeldada operatsioonisüsteemi (OS) funktsioone, mida on vaja üldotstarbelise
 
 #### C.2.1.2
 
-Välja tuua erinevat OS-i tüübid nagu pakktöötlus, ajajaotuslik, reaalajaline.
+Erinevad OS-i tüübid (nagu näiteks: mobiilseadmete-, serverite-, lõppseadmete- ja reaalajalised operatsioonisüsteemid).
+
 
 #### C.2.1.3
 
