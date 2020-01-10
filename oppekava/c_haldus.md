@@ -97,7 +97,7 @@ Erinevad OS-i tüübid (nagu näiteks: mobiilseadmete-, serverite-, lõppseadmet
 
 #### C.2.1.3
 
-Kirjeldada rakendusliidese (Application Programming Interface) ja tuua rakendusliidese näiteid nagu Java API, Windows.
+Kirjeldada rakendusliidese põhimõtteid (Application Programming Interface) ja tuua rakendusliidese näiteid nagu Java API, Windows, Linux. Riistavara- ja operatsioonisüsteemi virtualiseerimise (konteinerid).
 
 #### C.2.1.4
 
