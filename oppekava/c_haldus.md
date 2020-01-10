@@ -307,7 +307,7 @@ Kirjeldada erinevat tüüpi ohte tavalistele võrguoperatsioonidele (nagu teenus
 
 #### C.4.1.2
 
-Defineerida mõistetega nagu tüssamine ja identiteedivargus seotud turvaohud.
+Tüssamise ja identiteedivargusegaseotud turvaohud.
 
 ### C.4.2 Krüptograafia
 
