@@ -4,17 +4,16 @@ Käesolev on mooduli A, Juhtimine, õppekava, mis on aluseks antud teema eksamik
 
 ## Mooduli eesmärk
 
-Moodul A, Juhtimine, nõuab eksaminandi infosüsteemide juhtimise ja kasutamise oskuse tõendamist.
+Moodul A, Juhtimine, nõuab eksaminandi infosüsteemide juhtimise ja kasutamise oskuse tõendamist. Eksaminant peab:
+- Teadma organisatsioonide tüüpe ja tundma IKT kasutamist organisatsioonis kui tõhusate infosüsteemide ja innovatsiooni alust.
+- Teadma organisatsioonide strateegiaid ja äriprotsesse. 
+- Aru saama probleemidest, mis on seotud IKT juhtimisega (nt sobiva tehnilise lahenduse leidmine, valik firmasisese ja väljast tellitudarendustööde vahel).
+- Oskama hinnata IT investeeringute lisaväärtust, nt tasuvusuuringu või tulude-kulude analüüsi abil 
+- Aru saama globaliseerumisest tulenevatest vajadustest ja võimalustest nagu e-äri, virtuaalsed organisatsioonid ja ettevõttetaseme rakenduste uued nõuded ja võimalused.
+- Mõistma professionaalse toimimise vajadust projektijuhtimisel ja kvaliteedi tagamisel. Mõistma innovatsiooni tähtsust ja probleeme selle elluviimisel.
+- Aru saama  füüsiliste  ja virtuaalsetest meeskondade töökorraldusest, sotsiaalvõrgustike mõjust ja tähtsusest efektiivsele infovahetusele
+- Tundma ja järgima IKT juriidilisi ja eetilisi aspekte.
 
-- Teadma organisatsiooniliike ja tundma IKT kasutamist nende poolt kui tõhusate infosüsteemide võimaldajat ja innovatsiooni alust.
-- Teadma organisatsioonide strateegiaid ja äriprotsesse. Aru saama probleemidest, mis on seotud IKT juhtimisega nt sobiva tehnilise lahenduse leidmine või valik firmasisese ja väljast tellitud süsteemiarenduse vahel.
-- Oskama mõõta teostatavusuuringu ja tulude-kulude analüüsi abil IT investeeringute väärtust.
-- Aru saama e-äri, virtuaalsete organisatsioonide ja ettevõttetaseme rakenduste võimaluste abil ülemaailmse majandusvõrgustiku tekkimisest.
-- Mõistma professionaalse toimimise vajadust projektijuhtimisel ja kvaliteedi tagamisel
-- Mõistma innovatsiooni tähtsust ja probleeme selle elluviimisel.
-- Aru saama reaalsetest (physical) ja virtuaalsetest meeskondadest
-- Aru saama ärivaldknna mõjust sotsiaalvõrgustikele ja organisatsioonis toimuvate muutustest teavitamise tähtsusest.
-- Oskama hinnata IKT juriidilisi ja eetilisi aspekte.
 
 ## A.1 Organisatsioonid ja IKT rakendamine
 
