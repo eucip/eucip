@@ -17,13 +17,13 @@ Eksaminand peab:
 - Tundma kasutajaliideste, veebilehtede ja hüpermeediumi projekteerimispõhimõtteid.
 - Mõista põhilisi HTML ja XML elemente ja teada veebipõhise programmeerimise viise.
 
-## B.1 Süsteemiarenduse protsessid ja meetodid
+## B.1 Tarkvaraarenduse protsessid ja meetodid
 
-### B.1.1 Tarkvara andme- töötlussüsteemides
+### B.1.1 Infosüsteem
 
 #### B.1.1.1
 
-Kirjeldada andmetöötlust kui komplekti riistvarast, tarkvarast püsivarast, opsüsteemi tarkvarast, rakendusest.
+Kirjeldada infosüsteemi kui komplekti riistvarast, tarkvarast, püsivarast, operatsioonisüsteemist, rakendusest.
 
 #### B.1.1.2
 
@@ -33,7 +33,7 @@ Määratleda ja loetleda süsteemitarkvara näiteid.
 
 Määratleda ja loetleda rakendustarkvara näiteid.
 
-### B.1.2 Süsteemiarenduse elutsükkel
+### B.1.2 Tarkvaraarenduse elutsükkel
 
 #### B.1.2.1
 
