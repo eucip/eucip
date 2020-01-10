@@ -303,7 +303,7 @@ Eristada TCP ja UDP transpordi- protokolle töökindluse ja kiiruse poolest.
 
 #### C.4.1.1
 
-Kirjeldada erinevat tüüpi ohte tavalistele võrgu- operatsioonidele nagu teenuse tõkestamise rünne, võrguliikluse pealtkuulamine ja pordi ülevõtmine.
+Kirjeldada erinevat tüüpi ohte tavalistele võrguoperatsioonidele (nagu teenuse tõkestamise rünne, võrguliikluse pealtkuulamine ja pordi ülevõtmine).
 
 #### C.4.1.2
 
