@@ -197,10 +197,12 @@ Kirjeldada Microsoft Windows perekonna OS-ide peamised omadused nagu installatsi
 #### C.2.5.3
 
 ::: probleem
+
 Lisatud juurde, uus!!!
+
 :::
 
-Mobiilsete klientseadmete haldus kasutades haldustarkvara (seadmetel kasutatava tarkvara ajakohasuse tagamine,  seadmete ja andmete turvalisuse tagamine).  
+Mobiilsete klientseadmete haldus, kasutades haldustarkvara (seadmetel kasutatava tarkvara ajakohasuse tagamine,  seadmete ja andmete turvalisuse tagamine).  
 
 
 ## C.3 Side ja võrgud
