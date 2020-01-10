@@ -339,6 +339,11 @@ Kirjeldada ressursikirjete kasutust ja eesmärki.
 
 #### C.4.3.4
 
+::: probleem
+
+vaata õpematerjaliga seos üle? Asjad on nihkes.
+
+:::
 Kirjeldada interneti protokolliga (IP) adresseerimist ja kuidas domeeninimi teisendatakse IP-aadressiks.
 
 ### C.4.4 Veeb
