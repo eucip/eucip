@@ -317,7 +317,7 @@ Kirjeldada krüptograafia olemust ja selle rakendamist võrguturbes.
 
 #### C.4.2.2
 
-Tuua välja erinevused salajase võtme ja avaliku võtme algoritmidel.
+Tuua välja erinevused salajase võtme ja avaliku võtme algoritmidel (lisada praktilised näited).
 
 #### C.4.2.3
 
