@@ -158,7 +158,7 @@ Määratleda failisüsteemi funktsioonid.
 
 #### C.2.4.1
 
-Mõista kaitse ja turvalisuse vajadust (konfidentsiaalsuse, puutumatuse ja käideldavuse terminates) arvutisüsteemis.
+Mõista kaitse ja turvalisuse vajadust (konfidentsiaalsuse, puutumatuse ja käideldavuse terminites) arvutisüsteemis.
 
 #### C.2.4.2
 
@@ -178,7 +178,7 @@ Kirjeldada autentimistehnikaid ja defineerida“tugeva autentimise mõiste.
 
 #### C.2.4.6
 
-Määratleda juurdepääsukontrolli põhimõtted.
+Määratleda juurdepääsukontrolli põhimõtted (juurdepääsu piirangute kehtestamine tulenevalt: kasutajast ja kasutajatüübist, asukohast, seadmest või seadmetüübist, kasutatavast võrguühendusest).
 
 #### C.2.4.7
 
