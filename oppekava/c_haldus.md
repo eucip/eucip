@@ -286,7 +286,11 @@ Kõrvuta TCP/IP mudel ISO mudeliga.
 Kirjeldada pakettide marsruutimine üle interneti.
 
 #### C.3.3.4
+::: probleem
 
+õppematerjalide lehele on see osa linkimata.
+
+:::
 Võrrelda ühendusele orienteeritud ja ühenduseta protokolle.
 
 #### C.3.3.5
