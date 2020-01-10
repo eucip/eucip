@@ -127,8 +127,12 @@ Määratleda kontektst- kommutatsiooni operatsioon.
 
 ### C.2.3 Mälu ja massmälu haldamine
 
-- [ ] vajab koos läbiarutamist.
-- [ ] mõtleme välja praktilised ülesanded
+::: probleem
+
+vajab koos läbiarutamist ja praktiliste ülesannete välja töötamist.
+
+:::
+
 
 #### C.2.3.1
 
