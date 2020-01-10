@@ -287,7 +287,7 @@ Kirjeldada pakettide marsruutimine üle interneti.
 
 #### C.3.3.4
 
-Võrrelda ühendusel orienteeritud ja ühenduseta protokolle.
+Võrrelda ühendusele orienteeritud ja ühenduseta protokolle.
 
 #### C.3.3.5
 
