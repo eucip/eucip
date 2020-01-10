@@ -174,7 +174,7 @@ Määratleda erinevused isiku identifitseerimisel ja autentimisel.
 
 #### C.2.4.5
 
-Kirjeldada autentimistehnikaid ja defineerida“tugeva autentimise mõiste.
+Kirjeldada autentimistehnikaid ja defineerida tugeva autentimise mõiste.
 
 #### C.2.4.6
 
