@@ -194,6 +194,15 @@ Kirjeldada peamisi Unix’i, Linux’i ja Mac’i perekonda kuuluvate OS’ide o
 
 Kirjeldada Microsoft Windows perekonna OS-ide peamised omadused nagu installatsioon, kasutajaliides, turvalisus, jõudlus, peamised kasutusalad, stabiilsus.
 
+#### C.2.5.3
+
+::: probleem
+Lisatud juurde, uus!!!
+:::
+
+Mobiilsete klientseadmete haldus kasutades haldustarkvara (seadmetel kasutatava tarkvara ajakohasuse tagamine,  seadmete ja andmete turvalisuse tagamine).  
+
+
 ## C.3 Side ja võrgud
 
 ### C.3.1 Side ja võrgunduse põhimõtted
