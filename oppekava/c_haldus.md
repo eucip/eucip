@@ -335,7 +335,7 @@ Kirjeldada kuidas nimetatakse lõppseadmeid internetis.
 
 #### C.4.3.3
 
-Kirjeldada ressursikirjete kasutust ja ostatrvet.
+Kirjeldada ressursikirjete kasutust ja eesmärki.
 
 #### C.4.3.4
 
