@@ -37,25 +37,25 @@ Määratleda ja loetleda rakendustarkvara näiteid.
 
 #### B.1.2.1
 
-Kirjeldada süsteemiarenduse põhilisi etappe.
+Kirjeldada tarkvaraarenduse põhilisi etappe.
 
 #### B.1.2.2
 
-Võrrelda omavahel klassikalisi süsteemiarenduse metoodikaid nt koskmudel, spiraalmudel, prototüüpimine, tsükliline (inkrementaalne) arendus.
+Võrrelda omavahel klassikalisi tarkvaraarenduse metoodikaid nt koskmudel, spiraalmudel, prototüüpimine, iteratiivne, inkrementaalne arendus.
 
 #### B.1.2.3
 
-Kirjeldada süsteemi elutsüklit süsteemi analüüsi, teostuse, kasutuse ja hoolduse ning kasutamise lõpetamise seostes.
+Kirjeldada tarkvara elutsükli põhietappe analüüsi, teostuse, kasutuse ja hoolduse ning kasutamise lõpetamise seostes.
 
 #### B.1.2.4
 
-Visandada spetsifikatsioonid nõuete ja projekteerimise tarbeks, nt organisatsiooniline, tehniline spetsifikatsioon.
+Koostada tarkvara nõuded ja spetsifikatsioon projekteerimise tarbeks.
 
 ### B.1.3 Tarkvara arendusvahendid
 
 #### B.1.3.1
 
-Tuua välja süsteemiarenduse erinevatel etappidel vajalike töövahendite kasutamine nt Upper ja Lower CASE, integreeritud CASE vahendid.
+Tuua välja tarkvaraarenduse erinevatel etappidel kasutavad töövahendid (nt integreeritud CASE vahendid).
 
 #### B.1.3.2
 
@@ -63,53 +63,53 @@ Tuua esile erinevate tarkvaraarendusvahendite tugevad ja nõrgad kohad.
 
 #### B.1.3.3
 
-Refereerida lihtsa arendusvahendi kasutamist redigeerimiseks, kompileerimi- seks, testimiseks ja silumiseks.
+Selgitada lihtsa arendusvahendi kasutamist programmi redigeerimiseks, kompileerimiseks, testimiseks ja silumiseks.
 
 ### B.1.4 Süsteemide testimine ja juurutamine
 
 #### B.1.4.1
 
-Kirjeldada testimisviise ja loetleda need, mida saab kasutada süstemiarenduses.
+Kirjeldada peamisi tarvkara testimismetoodikaid.
 
 #### B.1.4.2
 
-Kirjeldada peamisi süsteemi juurutusfaasi probleeme,näiteks kasutajatele paigaldamisel, andmete kolimisel, kasutajate koolitamisel ja neile esialgse toe osutamisel.
+Kirjeldada peamisi tarkvara juurutusfaasi probleeme, näiteks tarkvara paigaldamisel, andmete kolimisel, kasutajate koolitamisel ja neile esialgse toe osutamisel.
 
 #### B.1.4.3
 
-Tuua välja tugevad ja nõrgad küljed juurutusmeetoditel nt suur pauk, samm-sammult, pakettmudeliga (CORE mudel), üksuste kaupa (rollouts) meetodil.
+Tuua välja erinevate juurutusmeetodite (suur pauk, samm-sammult, pakettmudel, üksuste kaupa (rollout)) tugevad ja nõrgad küljed.
 
 #### B.1.4.4
 
-Loetleda kasutajajuhendi ja tehnilise kirjelduse (reference) põhiosad.
+Kirjeldada kasutajajuhendi ja tehnilise kirjelduse (reference) põhiosi.
 
-### B.1.5 Süsteemi kontroll ja turvalisus
+### B.1.5 Tarkvara paigaldamine, kontroll ja turvalisus
 
 #### B.1.5.1
 
-Eristada arendus-, test- ja töökeskkondi ja mõista korrastatud süsteemipaigaldust sh versioonihaldust ja tarkvara levitamise meetodeid.
+Eristada arendus-, test- ja töökeskkondi, mõista tarkvara paigaldamise, versioonihalduse ja tarkvara levitamise meetodeid.
 
 #### B.1.5.2
 
-Tuua välja süsteemi tõrgetega seotud riskid ja pakkuda meetmed, et kaitsta firmataseme olulisi andmeid mitmel sh füüsilisel ja menetlustasemel (procedural level).
+Tuua välja süsteemi tõrgetega seotud riskid ja pakkuda meetmed, et kaitsta organisatsiooni olulisi andmeid mitmel sh füüsilisel ja menetlustasemel (procedural level).
 
 #### B.1.5.3
 
 Kirjeldada igapäevaseid infoturbe alaseid tegevusi, näiteks varundus, juurdepääsu tagamine.
 
-### B.1.6 Süsteemiarenduse suundumused
+### B.1.6 Tarkvaraarenduse suundumused
 
 #### B.1.6.1
 
-Kirjeldada standardseid ja uuenduslikke süsteemiaren- duse meetodeid nt ISO 12207, SEI/CMMI, agiilmeetod.
+Kirjeldada standardseid ja kaasaegseid tarkvaraarenduse meetodeid nt ISO 12207, SEI/CMMI, agiilne arendus.
 
 #### B.1.6.2
 
-Aru saada kaasaegsetest tehnilise arhitektuuri arengutest nt kahe või kometasemeline klient-server variandid, n-tasemeline veebipõhine, teenusepõhine arhitektuur, suurarvuti laiendused ja liidesed.
+Aru saada kaasaegsetest tehnilise arhitektuuri arengutest nt kahe- või kolmetasemeline klient-server lahendus, n-tasemeline veebipõhine, teenusepõhine arhitektuur, liidesed.
 
 #### B.1.6.3
 
-Kirjeldada kaasaegse süsteemide süsteemi keerukust ja kuidas sellega toime tulla, näiteks autonoomsed süsteemid.
+Kirjeldada kaasaegse IT-süsteemi keerukust ja kuidas sellega toime tulla, nt autonoomsed süsteemid.
 
 ## B.2 Andmehaldus ja andmebaasid
 
@@ -125,7 +125,7 @@ Tuua välja, kuidas atomaarsus, järjepidevus (consistency), isoleeritus ja vast
 
 #### B.2.1.3
 
-Näidata ühiskasutus-süsteemides projekteerimise ja hoolduse probleeme nt andmete liiasus ja vastuolulisus, terviklus, andmete paindlikkus, samaaegne juurdepääs ja turvalisus.
+Näidata mitmekasutaja-süsteemides projekteerimise ja hoolduse probleeme nt andmete liiasus ja vastuolulisus, terviklus, andmete paindlikkus, samaaegne juurdepääs ja turvalisus.
 
 ### B.2.2 Andmebaaside struktuur
 
@@ -139,11 +139,11 @@ Kirjeldada andmebaasisüsteemi komponente: andmefailid, andmesõnastikud, indeks
 
 #### B.2.2.3
 
-Tuua välja ärivaldkonnad, kus andmebaaside haldussüsteeme kasutatakse ja nende eelised.
+Kirjelda andmebaaside haldussüsteemide kasutamist organisatsioonides ja nende kasutamise eeliseid.
 
 #### B.2.2.4
 
-Anda lühiinfot andmebaasi haldussüsteemide komponentide: päringukeele, aruandegeneraator, ihaldusvahendite, paralleeltöö halduse (concurrency control), transaktsioonide halduse, varundus- ja taastevahendite kohta.
+Kirjelda andmebaasi haldussüsteemide komponente: päringukeel, aruandegeneraator, haldusvahendid, paralleeltöö haldus (concurrency control), transaktsioonide haldus, varundus- ja taastevahendid.
 
 #### B.2.2.5
 
@@ -153,11 +153,11 @@ Kirjeldada andmebaasi administraatori, projekteerija /programmeerija, kasutaja r
 
 #### B.2.3.1
 
-Defineerida andmete abstraheerimine ja selgitada vahet füüsilise taseme, kontseptuaalse (loogilise ) ja vaate (kasutaja) tasemel.
+Defineerida andmete abstraheerimine ja selgitada erinevusi füüsilise taseme, kontseptuaalse (loogilise) ja vaate (kasutaja) tasemel.
 
 #### B.2.3.2
 
-Näidata erinevusi andmemudelitel: objektipõhise loogilise mudeli, kirjepõhise loogilise mudeli ja füüsilise andmemudeli vahel.
+Selgitada andmemudelite erinevusi: objektipõhine loogiline mudel, kirjepõhine loogiline mudel ja füüsiline andmemudel.
 
 #### B.2.3.3
 
@@ -185,7 +185,7 @@ Selgitada lihtsate näidete varal 1. 2. ja 3. normaalkujule viimist.
 
 #### B.2.5.1
 
-Tuua välja vahe protesuursete ja mitteprotseduursete keelte vahel.
+Tuua välja erinevused protesuursete ja mitteprotseduursete keelte vahel.
 
 #### B.2.5.2
 
@@ -193,11 +193,11 @@ Kirjeldada põhilisi relatsioonalgebra tehteid: valik (select), projektsioon (pr
 
 #### B.2.5.3
 
-Kirjeldada SQL keele komponente :andmete defineerimiskeel (DDL), andmete manipuleerimiskeel (DML), andmete juhtkeel (DCL).
+Kirjeldada SQL keele komponente: andmete defineerimiskeel (DDL), andmete manipuleerimiskeel (DML), andmete juhtkeel (DCL).
 
 #### B.2.5.4
 
-Aru saada SQL andmete defineerimiskeele käskude toimimisest nt. create, drop, alter table.
+Aru saada SQL andmete defineerimiskeele käskude toimimisest nt create, drop, alter table.
 
 #### B.2.5.5
 
@@ -225,11 +225,11 @@ Kirjeldada kõige olulisemaid andmebaaside halduse toimingud, näiteks skeemi m�
 
 #### B.2.7.2
 
-Kirjeldada konfidentsiaalsuse ja terviklusega seotud probleeme nt. tervikluse piirangud, õnnetusjuhtumiga põhjustatud terviklusekadu, õnnetusjuhtumiga põhjustatud järjepidevuse kadu, pahatahtlik andmete poole pöördumine.
+Kirjeldada konfidentsiaalsuse ja terviklusega seotud probleeme nt tervikluse piirangud, õnnetusjuhtumiga põhjustatud terviklusekadu, õnnetusjuhtumiga põhjustatud järjepidevuse kadu, pahatahtlik andmete poole pöördumine.
 
 #### B.2.7.3
 
-Tuua näiteid turvareeglitest näiteks isikuturvalisusest, füüsiliset turbest, opsüsteemi turbest, andmebaasi turvalisusest..
+Tuua näiteid turvareeglitest näiteks isikuturvalisusest, füüsiliset turbest, operatsioonisüsteemi turbest, andmebaasi turvalisusest.
 
 #### B.2.7.4
 
@@ -247,7 +247,7 @@ Määratleda andmekaeve mõiste.
 
 #### B.2.8.3
 
-Tuua välja andmeaida tööpõhimõtted.
+Kirjeldada andmeaida tööpõhimõtted.
 
 ## B.3 Programmeerimine
 
@@ -263,7 +263,7 @@ Kirjeldada abstraktsiooni kui probleemilahenduse ja tarkvara projekteerimise vah
 
 #### B.3.1.3
 
-Tuua välja vanemate süsteemide projeteerimise erivajadused ja -nüansid, näiteks keeruline struktuur, halb dokumentatsioon, vananenud riist-/tarkvara, ärikliitiline süsteem.
+Tuua välja vanemate tarkvarade projekteerimise erivajadused ja -nüansid, näiteks keeruline struktuur, halb dokumentatsioon, vananenud riist-/tarkvara, ärikriitiline süsteem.
 
 #### B.3.1.4
 
@@ -277,11 +277,11 @@ Tuua välja erinevad litsentseerimise nõuded kommertstarkvarale, avatud lähtek
 
 #### B.3.2.1
 
-Kirjeldada struktureeritud ja struktureerimata andmetüüpe ja erinevaid andmestruktuure: kirjed, massivid, ahelad (linked lists).
+Kirjeldada struktureeritud ja struktureerimata andmetüüpe ja erinevaid andmestruktuure: kirjed, massiivid, listid.
 
 #### B.3.2.2
 
-Hinnata tüüpiliste otsi- ja sortimisalgritmide sobivust erinevate andmestruktuuridega.
+Hinnata tüüpiliste otsi- ja sortimisalgoritmide sobivust erinevate andmestruktuuridega.
 
 ### B.3.3 Programmeerimiskeeled
 
@@ -291,15 +291,15 @@ Tuua välja programmeerimiskeelte liikide erinevused ja eelised: funktsionaalsed
 
 #### B.3.3.2
 
-Kirjeldada protseduuride ja funktsioonide kasutamist ja tuua välja vahe väljakutsel väärtuse (call by value) ja nime (viite) järgi (call by reference).
+Kirjeldada protseduuride ja funktsioonide kasutamist ja tuua välja erinevused väärtuse (call by value) ja nime (viite) järgi (call by reference) väljakutsumisel.
 
 #### B.3.3.3
 
-Defineerida süntaks ja tuua selle olulisus programmeerimis- keeltes.
+Kirjeldada süntaksi mõistetd ja olulisust programmeerimiskeeltes.
 
 #### B.3.3.4
 
-Eristada programmeerimiskeelte juures kompileerimist ja interpreteerimist.
+Kirjeldada kompileerivate ja interpreteerivate programmeerimiskeelte erinevust.
 
 ### B.3.4 Objektorienteeritud programmeerimine
 
@@ -321,7 +321,7 @@ Kirjeldada pärimise mõistet ja selle vajalikkust programmeerijale.
 
 #### B.3.4.5
 
-Kirjeldada mõiseid abstraktsioon ja kapseldamine (information hiding).
+Kirjeldada mõisteid abstraktsioon ja kapseldamine (information hiding).
 
 #### B.3.4.6
 
@@ -331,15 +331,15 @@ Kirjeldada, kuidas polümorfism aitab korduvkasutatavate komponentide abil kaasa
 
 #### B.3.5.1
 
-Selgitada ja hinnata sisend-väljundkäske.
+Selgitada sisend- ja väljundkäskude kasutamist.
 
 #### B.3.5.2
 
-Selgitada ja hinnata juhtlkäske.
+Selgitada juhtkäskude kasutamist.
 
 #### B.3.5.3
 
-Selgitada ja hinnata aritmeetilisi ja loogilisi tehteid.
+Selgitada aritmeetiliste ja loogika tehete kasutamist.
 
 ### B.3.6 Testimine
 
@@ -349,29 +349,29 @@ Kirjeldada testimise põhimõisteid: veavõimalus (fault), viga (error), tõrge 
 
 #### B.3.6.2
 
-Kirjeldada erinevate testimiste eesmärke ja ulatust: komponendi testimine, süsteemi testimine,vastuvõtueelne testimine.
+Kirjeldada erinevate testimiste eesmärke ja ulatust: komponendi testimine, süsteemi testimine, vastuvõtueelne testimine.
 
 #### B.3.6.3
 
-Tuua välja vahe staatilise ja dünaamilise testimismetodoloogia vahel ja loetleda automatiseeritud testimisvahendite näiteid.
+Tuua välja erinevus staatilise ja dünaamilise testimismetodoloogia vahel ja loetleda automatiseeritud testimisvahendite näiteid.
 
 ### B.3.7 Dokumentatsioon ja hooldus
 
 #### B.3.7.1
 
-Kirjeldada tarkvaraarendusel ja üleandmisel üldiselt levinud dokumentatsiooni, nt struktureeritud kirjeldus loomulikus keeles (structural English), otsustuspuud, UML kood, programmi kommentaarid, vooskeemid.
+Kirjeldada tarkvaraarenduses ja üleandmisel kasutavat dokumentatsiooni, nt struktureeritud kirjeldus loomulikus keeles (structural English), otsustuspuud, UML diagrammid, programmi kommentaarid, plokkskeemid.
 
 #### B.3.7.2
 
-Kirjeldada hästi dokumenteeritud ja –struktureeritud dokumentatsiooni väärtuslikkust.
+Selgitada dokumenteerimise häid tavasid ja hästi struktureeritud dokumentatsiooni väärtuslikkust.
 
 #### B.3.7.3
 
-Selgitada kuidas fikseerida parandusi programmides ja programmi dokumentatsioonis.
+Selgitada, kuidas dokumenteerida muudatusi tarkvaras ja dokumentatsioonis.
 
 #### B.3.7.4
 
-Kirjeldada programmi väärtuse säilitamist hoolduse abil, nagu koodi ülevaatamine, kommenteerimise reeglid, tehnilised viitedokumendid.
+Kirjeldada meetmeid tarkvara kvaliteetseks hooldamiseks nagu koodi ülevaatamine, koodi kommenteerimise reeglid, tehnilised viitedokumendid.
 
 ### B.3.8 Programmeerimise näited
 
@@ -381,7 +381,7 @@ Tõlgendada programmilõiku etteantud hüpoteesi alusel.
 
 #### B.3.8.2
 
-Leida programmilõigus viga või puudus ja parandada see nõuete vastavaks.
+Leida programmilõigus viga või puudus ja parandada see nõuetele vastavaks.
 
 ## B.4 Kasutajaliides ja veebidisain
 
@@ -397,29 +397,29 @@ Selgitada, kuidas kommunikatsioon toimub ka inimeste vahel ja tuua välja tõhus
 
 #### B.4.1.3
 
-Defineerida kasutajaliides ja loetleda liideste liike, näiteks tekst, graafika, heli (auditory).
+Defineerida kasutajaliides ja loetleda liideste liike, näiteks tekstiline, graafiline, heliline.
 
 #### B.4.1.4
 
-Tuua välja tehnoloogilised vahendid , millega saab infot edastada, näiteks helivahendid, tüübid, nähtavad kujundid, digitaalsed lõhnad, haptilisus/liikumine.
+Tuua välja tehnoloogilised vahendid, millega saab infot edastada erinevatele meeltele, näiteks helitüübid, visuaalsed vahendid, digitaalsed lõhnad, kompamine/puutetundlikkus.
 
 #### B.4.1.5
 
-Loetleda kasutajaliidese tõhususe testimiseks sobivad disainieesmärkidele vastavad mudelid.
+Loetleda mudelid kasutajaliidese nõuete ja eesmärkide vastavuse testimiseks.
 
 ### B.4.2 Graafiline disain
 
 #### B.4.2.1
 
-Tuua välja graafika ja animatsiooni mõisted ja edastuskuju (raster, vektor), digitaalaudio ja –video ja näidata nende erisusi, kasutamist ja standardformaate.
+Selgitada graafika ja animatsiooni mõisted, nende edastuskuju (raster, vektor), digitaalaudio ja –video mõisted, näidata nende erisusi, kasutamist ja standardformaate.
 
 #### B.4.2.2
 
-Kirjeldada jooniste, piltide, värvide, animatsiooni kasutamist ja graafilise disaini põhireeglite nagu tasakaal (balance), kooskõla (harmony), kontrastsus, varieeruvus (variety) arvestamist.
+Kirjeldada jooniste, piltide, värvide, animatsiooni kasutamist ja graafilise disaini põhireeglite arvestamist nt tasakaal (balance), kooskõla (harmony), kontrastsus, varieeruvus (variety).
 
 #### B.4.2.3
 
-Kasutada üldlevinud pilditöötlusvahendeid lihtsateks toiminguteks: suuruse, kuju,värvide, kontrastsuse, läbipaistvuse muutmiseks.
+Kasutada üldlevinud pilditöötlusvahendeid lihtsateks toiminguteks: graafiliste objektide suuruse, kuju, värvide, kontrastsuse, läbipaistvuse muutmiseks.
 
 ### B.4.3 Veeb ja hüpermeedia: võimalused ja piirangud
 
@@ -429,15 +429,15 @@ Rääkida veebi ja Interneti ajaloost.
 
 #### B.4.3.2
 
-Määratleda hüpertekst ja hüpermeedium ning tuua välja nende tähtsus veebilehtede disainimisel.
+Kirjeldada hüperteksti ja hüpermeediumi mõisted ning tuua välja nende tähtsus veebilehtede disainimisel.
 
 #### B.4.3.3
 
-Tuua välja veebilehtede tavalisemad komponendid nt ülariba (top bar), külgriba (side bar), lehekülje sisu, kontaktid, otsing,abi viimati uuendatud, liikumisnupud (navigation icons).
+Selgitada veebilehtede tavapärased komponendid nt ülariba (top bar), külgriba (side bar), lehekülje sisu, kontaktid, otsing, uuendamise info, navigeerimine.
 
 #### B.4.3.4
 
-Kirjeldada sisemiste ja väliste veebilehtede kasutamise vajadust ettevõttes.
+Kirjeldada erinevate veebipõhiste teenuste kasutamist ettevõttes.
 
 #### B.4.3.5
 
@@ -447,7 +447,7 @@ Tuua välja mõningad probleemid, mis on seotud äriettevõtte veebilehe ülalpi
 
 #### B.4.4.1
 
-Näidata veebilehe sihtrühma vajadused, kelle jaoks leht on loodud.
+Määratleda veebilehe sihtrühma vajadused.
 
 #### B.4.4.2
 
@@ -455,19 +455,19 @@ Tuua välja riskid, mis ilmnevad kui ühel lehel on liiga palju sõnumeid.
 
 #### B.4.4.3
 
-Loetleda probleemid seoses halva värvivalikuga lehel.
+Loetleda probleemid seoses veebilehel kasutava halva värvilahendusega.
 
 #### B.4.4.4
 
-Tuua juhtnöörid hea kasutajasõbralikkusega veebilehe loomiseks: loetavus, prioriteetidega sisujaotus, liikumise lihtsus ja järjepidevus, kus-ma-hetkel-olen asukoha tuvastus.
+Tuua juhtnöörid kasutajasõbraliku veebilehe loomiseks: loetavus, prioritiseeritud sisu, liikumise lihtsus ja järjepidevus, hetkeasukoha tuvastus.
 
 #### B.4.4.5
 
-Kirjeldada üldisemaid veebilehe kvaliteedi tingimusi: veebilehitseja võimekkus, HTML valideerimine, teksti tihendamine (condence), õigekirjakontroll, väike baidisuurusel graafika (small byte-size graphics).
+Kirjeldada veebilehe kvaliteedi hindamise vahendeid: erinevate veebilehitseja võimekus, HTML valideerimine, teksti tihendamine (condence), õigekirjakontroll, graafika optimeerimine (small byte-size graphics).
 
 #### B.4.4.6
 
-Selgitada nõuet lihtsaks liikumiseks veebilehel.
+Selgitada veebilehel lihtsa liikumise nõuet.
 
 #### B.4.4.7
 
@@ -475,29 +475,29 @@ Loetleda veebilehe loomise töövahendid.
 
 #### B.4.4.8
 
-Tuua välja struktuurskeemide vajalikkus veebi disainimisel.
+Tuua välja struktuurskeemide kasutamise vajalikkus ja eesmärk veebilehe disainimisel.
 
 #### B.4.4.9
 
-Kirjeldada peamisi veebilehel liikumiseks kasutatavaid meetodeid.
+Kirjeldada peamisi veebilehe navigeerimisviise.
 
 #### B.4.4.10
 
-Kirjeldada projektitööd veebidisainis ja üldlevinud meetodeid nt kadreering (storyboard), visand (rough draft).
+Kirjeldada veebilehe loomise etappe ja kasutavaid töövahendeid nt kadreering (storyboard), visand (rough draft).
 
 ### B.4.5 Veebilehtede kujundus
 
 #### B.4.5.1
 
-Tuua välja mõiste märgistuskeel tähendus ja kirjeldada HTML peamisi omadusi.
+Selgitada märgistuskeele mõistet ja kirjeldada HTML peamisi omadusi.
 
 #### B.4.5.2
 
-Kasutada põhilisi HTML käske ja näidata kujunduskäskude täitmist: tugev formateering, pehme formateering, erisümbolid, eraldajad, joondumine, päised, piltide sildid, taustad, värvid, lingid, loendid, tabelid, vormid, raamid.
+Kasutada põhilisi HTML käske ja selgitada nende täitmist: tugev kujundamine, pehme kujundamine, erisümbolid, eraldajad, joondamine, päised, piltide sildid, taustad, värvid, lingid, loendid, tabelid, vormid, raamid.
 
 #### B.4.5.3
 
-Tuua välja tavateksti kujunduse põhimõtted: kirja suurus, vaba ruumi osakaal.
+Tuua välja teksti kujunduse põhimõtted: kirja suurus, vaba ruumi osakaal.
 
 #### B.4.5.4
 
@@ -511,8 +511,8 @@ Kirjeldada laadifaile nagu kaskaadlaadistik (CSS) ja laiendatav laadistikukeel (
 
 #### B.4.6.1
 
-Teha vahet kliendipõhise ja serveripõhise tehnoloogia vahel ja teada veebipõhise programmeerimise keeli.
+Kirjeldada kliendipõhise ja serveripõhise tehnoloogia erinevusi ja teada veebiprogrammeerimise vahendeid.
 
 #### B.4.6.2
 
-Tuua välja probleeme mis võivad tekkida veebipõhiste süsteemide integreerimisel olemasolevatega.
+Kirjelda veebipõhiste süsteemide integreerimise võimalikke probleeme.
