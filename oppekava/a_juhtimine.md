@@ -247,10 +247,6 @@ Tuua välja peamised argumendid, mida tuleb analüüsida enne sisemise arendamis
 
 Kirjeldada erinevaid rolle infosüsteemi arenduses ja halduses: süsteemianalüütik, ärianalüütiku, tarkvaraarendaja, võrguadministraatori, andmebaasi administraator.
 
-#### A.2.5.2
-
-Määratleda lõppkasutajapõhise arenduse (end-user computing) mõiste ja tuua välja lõppkasutaja ja IT personali rollid ja vastutus.
-
 #### A.2.5.3
 
 Tuua välja arenduse outsourcingu eelised ja puudused personali aspektist vaadatuna.
@@ -316,10 +312,6 @@ Määratleda tehnilise otstarbekuse ja teostatavuse mõiste.
 Määratleda organisatsioonilise teostatavuse mõiste.
 
 ### A.3.3 Kulud ja tulud
-
-#### A.3.3.1
-
-Tuua välja peamised investeeringute hindamise meetodid, näiteks investeeringute tulukus (Return on Investment), sisemine kasuminorm (Internal Rate of Return), varade tulevikuväärtus (Net Present Value).
 
 #### A.3.3.2
 
@@ -463,10 +455,6 @@ Tuua välja peamised projektijuhtimise tunnustatud  metoodikates kasutatavad tö
 
 Loetleda projektijuhtimist toetavat IT rakenduste  peamised funktsionaalsused.
 
-#### A.5.4.4
-
-Kirjeldada saadud tulu analüüsi ja vastavate mõõdikute põhjendatust.
-
 #### A.5.4.5
 
 Kirjeldada projekti  juhtimise ja järelevalve vahendeid ja komponente nagu, tegevused, ressursid, üleantavad tulemused, plaanid, tegelik tööde seis.
@@ -506,10 +494,6 @@ Loetleda olulised küsimused, mida peab sätestama lepingus, näiteks üleantav 
 #### A.5.6.4
 
 Selgitada miks on olulised vaheetapid, kontrollpunktid ja tulemuste ülevaatused.
-
-#### A.5.6.5
-
-Selgitada Euroopa riigihangete direktiivi mõju IT hangetele.
 
 ### A.5.7 Kvaliteedikontroll
 
