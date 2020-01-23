@@ -1,12 +1,10 @@
-# Moodul B, Arenduse valdkond
-
-Järgneb moodul B, Arendus, õppekava, mille alusel on koostatud selle mooduli eksamid.
+# Moodul B - Arenduse
 
 ## Mooduli eesmärk
 
-Moodul B, Arendus, eeldab eksaminandilt infosüsteemide arenduse ja juurutamise oskusi.
+Moodul B - Arendus, eeldab eksaminandilt infosüsteemide arenduse ja juurutamise oskusi.
 
-Eksaminand peab:
+Eksaminineeritav peab:
 
 - Aru saama IT süsteemide disaini, spetsifikatsioonide, teostuse, testimise, ühendamise ja juurutamise tehnilistest aspektidest.
 - Aru saama süsteemiarenduse elutsüklist, arendusprotsessist ja uusimatest arendussuundadest. Hindama ja aru saama relatsiooniliste andmebaaside ja andmeaitade põhimõttest ja kasutamisest.
