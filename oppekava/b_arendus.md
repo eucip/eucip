@@ -325,7 +325,7 @@ Kirjeldada mõisteid abstraktsioon ja kapseldamine (information hiding).
 
 Kirjeldada, kuidas polümorfism aitab korduvkasutatavate komponentide abil kaasa tõhusamale tarkvara projekteerimisele.
 
-### B.3.5 Programmi- komponendid
+### B.3.5 Programmi komponendid
 
 #### B.3.5.1
 
